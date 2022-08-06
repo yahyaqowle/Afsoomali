@@ -1598,7 +1598,126 @@ afkalaqaadid m.dh 1. Afkalaqaad. 2. Afka oo la kala qaado; hadlid.
 
 afkatoob m.l Nooc kalluunka ka mid ah. 
 
-page 38(15)
+afkulleeble m.l A. ah: qof habaarkiisu kaco. 
+
+afkullibaaxle m.l Nooc kalluunka ka mid ah. 
+
+afkuxaarre m.l (-rrayaal, m.l/dh) Qof cay badan oo aan hadalka u miidaandeyin. 
+
+afkuxuuble m.l (-layaal, m.l/dh) Ilmo geel oo isaga oo aan dhammays ahayn nolol ku dhashay. 
+
+afla' m.dh 1. Ciyaarta jarta marka qof god bannaan oo uu xoolihiisa u raro waayo. 2. Middi a.: midda aan wax goynayn. 
+
+afla'aan m.dh Afgaroocnimo. ld afla'aansho.
+
+afla'aansho m.l/dh ld afla'aan.
+
+aflaam m.dh.w eeg filin. ld.aflaan 
+
+aflaan m.dh.w eeg filin. ld. aflaam
+
+aflaawe m.l (-wayaal, m.l/dh) Afgarooc. 
+
+aflaggaaddee f.g2 (-ddeeyay, -ddeysay) Hadal aflaggaaddo ah cid u jeedin. 
+
+aflaggaaddeyn m.f.dh eeg aflaggaaddee. 
+
+aflaggaaddo m.dh (-ooyin, m.l) Hadal qadaf ah oo cid lagu yiraahdo. 
+
+aflaw m.l (-wyo, m.dh) Qof ilkaha qaar ka maqanyihiin. 
+
+aflax¹ m.l ld aflixid.
+
+aflax² f.mg1 (-xay, -xday; -lixi) 1. Qalinjebin (dugsi quraan). 2. Waxbarasho heer wacan ka gaarid. 
+
+aflaxaad m.dh ld aflixid.
+
+aflixi f.g2 (-iyay, -isay) Cid, wax barasho heer wacan ka gaarsiin. 
+
+aflixid m.f.dh eeg aflax². ld aflax¹, aflaxaad.
+
+aflixin m.f.dh eeg aflixi. ld aflixis.
+
+aflixis m.l ld aflixin.afmaal m.l (-llo, m.dh) 1. A. ah: maansayahan. 2. A. ah: qof codkar ah. 
+
+afmaalnimo m.l Afmaal ahaansho. 
+
+afmaldah m.l Hadal daboolan oo duluc ama ujeeddo kale ku dhex qarsoontahay. 
+
+afmaldahid m.dh Af maldahan ku hadlid. ld afmaldihid. 
+
+afmeer¹ m.l 1. (-rro, m.dh) Af wareegsan; wareeg. 2. ld afmeerid.
+
+afmeer² f.g1 (-ray, -rtay) 1. Meel iyada oo wax gaar ah laga baarayo aaggeeda hore ku wareegid. 2. Wax afmeer u yeelid. 
+
+afmeeran f.mg4 (-rnaa, -rnayd) Wax afmeer loo yeelay ahaansho (weel kolay ah). 
+
+afmeerid m.f.dh eeg afmeer². ld afmeer¹ (2).
+
+afmeernaan m.f.dh eeg afmeeran. ld afmeernaansho.
+
+afmeernaansho m.l/dh ld afmeernaan.
+
+afmiinshaar m.l (-rro, m.dh) Qof ku meel mariya wuxuu doona codkarnimo iyo karti dhagari ku jirto. ld afmiishaar.
+
+afmiinshaarayn m.f.dh eeg afmiinsharee. ld afmiishaarayn.
+
+afmiinshaaree f.mg2 (-reeyay, -raysay) Qof wuxuu doona codkarnimo iyo karti dhagari ku jirto ku meel marin. ld afmiishaaree.
+
+afmiinshaarnimo m.dh Afmiinshaar ahaansho. ld afmiishaarnimo.
+
+afmiishaar m.l ld afmiinshaar.
+
+afmiishaarayn m.dh ld afmiinshaarayn.
+
+afmiishaaree f.mg2 (-reeyay, -raysay) ld afmiinshaaree.
+
+afmiishaarnimo m.dh ld afmiinshaarnimo.
+
+afnaq¹ m.l ld afnaqid.
+
+afnaq² f.mg1 (-qay, -qday) 1. Magac qof kale ku hadlid; afhayn. 2. Ku a.: qof, qof kale xurmad ka mudan si uusan jecleysan ugu warcelin; afceli. 
+
+afnaqid m.f.dh eeg afnaq². ld afnaq¹.
+
+afo m.dh (-ooyin, m.l) Haweenay la qabo; oori. 
+
+afqab f.mg1 (-bay, -btay) Aan weli waxba cunin ahaansho (qof). 
+
+afqabid m.f.dh eeg afqab. 
+
+afqays m.dh Xiddigaha naafaha middooda seddexaad. ld afqoys.
+
+afqoys m.dh ld afqays.
+
+afraad m.l/dh.t.j ld afaraad.
+
+afrid m.l Mayrax, derin iwm oo daaha looga dhigo aqal-Soomaaliga. 
+
+afrog¹ m.l ld afrogid. afrog² f.g1 (-gay, -gtay) 1. Weel afkiisa sare hoos marin. 2. Weel waxa ku jira ka wadaddaadin. 
+
+afrogan f.mg4 (-gnaa, -gnayd) Weel la afrogay ahaansho. 
+
+afrogid m.f.dh eeg afrog². ld afrog¹. afrognaan m.f.dh eeg afrogan. ld afrognaansho.
+
+afrognaansho m.l/dh ld afrognaan. afruug¹ m.l ld afuugid.
+
+afruug² f.g1 (-gay, -gtay) ld afuug². afruugid m.dh ld afuugid. afruujin m.dh Burburinta beer carradeeda la burburiyo lana carrageddiyo. 
+
+afsaar m.dh Oodda xerada ariga afka lagaga oodo. 
+
+aftahan m.l (-nno/-ammo, m.dh) 1. Qof fikraddiisa si wanaagsan hadal ugu cabbiro. 2. Awoodda hal-abuur ee qof leeyahay. 
+
+aftahannimo m.dh Aftahan ahaansho. 
+
+aftahmo m.dh 1. Awodda qof u leeyahay inuu fikraddiisa si wanaagsan hadal ugu cabbiro. 2. Awoodda hal-abuur ee qof leeyahay. 
+
+aftax¹ m.l Fasax aan caadi ahayn oo ardayda dugsiga quraanka la siiyo. 
+
+aftax² f.g1 (-xay, -xday; -tixi) Fasax aan caadi ahayn siin (arday dugsi quraan).
+
+ 
+
 
 
 
