@@ -2210,7 +2210,129 @@ alaalixid m.f.dh eeg alaalax².
 
 alaalnimo m.dh Alaal ahaansho. 
  
-finished&stopped page 43(20)
+alaalo m.dh Nooc caws ka mid ah oo dhaadheer. 
+
+alab m.l Ged; caado; dabci. 
+
+alabbas¹ m.l 1. Orod aan caadi ahayn oo baqdini ku jirto. 2. ld alabbasid.
+
+alabbas² f.mg1 (-say, -stay) Orod aan caadi ahayn oo baqdin ku jirto samayn. 
+
+alabbasid m.f.dh eeg alabbas². ld alabbas¹ (2).
+
+alabbaslays m.l ld alabbasleyn.
+
+alabbaslee f.mg2 (-leeyey, -laysay) Alabbas sameyn (nafley). 
+
+alabbasleyn m.f.dh eeg alabbaslee. ld 
+
+alabbaslays, alabbasmays, alabbasmeyn.
+
+alabbasmays m.l ld alabbasleyn.
+
+alabbasmeyn m.f.dh ld alabbasleyn.
+
+alal f.mg1 (-alay, -ashay) Xanuun la taahid. 
+
+alalaas¹ m.l 1. Mashxarad. 2. ld alalaasid.
+
+alalaas² f.mg1 (-say, -stay) Mashxarad samayn. 
+
+alalaasid m.f.dh eeg alalaas². ld alalaas¹ (2).
+
+alalad¹ m.l 1. Riyo; dhadhab. 2. Qaraw. 3. ld alaladid.
+
+alalad² f.mg1 (-day, -dday) Qarwid; dhadhabid. 
+
+alaladi f.mg2 (-iyay, -isay) Ka a.: cid alal ka keenid. ld alaladsii.
+
+alaladid m.f.dh eeg alalad². ld alalad¹ (3).
+
+alaladin m.f.dh eeg alaladi. ld alaladsii.
+
+alaladsii f.mg2 (-iiyay, -iisay) ld alaladi.
+
+alaladsiin m.f.dh ld alaladin.
+
+alalaxi m.dh Nafley yar oo biyaha ku nool, bocool ku dhex jirta oo kaadi-dhiigga noolihiisa korisa. 
+
+alalid m.f.dh eeg alal. 
+
+alamsasho m.f.dh eeg alamso. ld alamsi.
+
+alamsi m.l ld alamsasho.
+
+alamso f.g3 (-saday, -satay) Si degdeg ah wax u liqid. 
+
+alan¹ m.l (almo/-nno, m.dh) Xubnaha geedka qasabka middood. 
+
+alan² m.l (almo/-nno, m.dh) (nax.) Erey waxaa loo qaybin karaa xubno tiradooda la mid ah inta shaqal uu leeyahay ereygaas (sida madax -> ma-dax); 
+                                   xubin waliba waxaa lagu magacaabaa alan; erey wuxuu noqon karaa hal alanle (cir), laba alanle (ma-dax), 
+                                   saddex alanle (dib-ka-be), iwm; xusuusnaada in shaqalka dheer lagu tiriyo hal shaqal ama hal 
+                                   cod (ii, aa iwm) sida shibanayaashan oo kale - dh, sh, kh, oo aan la kala qaybin karin. 
+
+alawaad m.dh (-do, m.l) Meel wax lagu karsado; jiko. 
+
+albaab¹ m.l (-bbo/-byo m.dh) Bir, loox iwm oo hab gaar ah loo sameeyey oo guryaha irdahooda lagu awdo. 
+
+albaab² f.g1 (-bay, -btay) 1. Irrid, albaab u yeelid. 2. Albaab furan xirid. 
+
+albaaban f.mg4 (-bnaa, -bnayd) Wax la albaabay noqosho (irrid). 
+
+albaabid m.f.dh eeg albaab². 
+
+albaabjooge m.l (-gayaal, m.l/dh) Qof guri weyn, xafiis iwm ilaaliya oo iridda laga soo galo jooga. 
+
+albaabnaan m.f.dh eeg albaaban. ld albaabnaansho.
+
+albaabnaansho m.l/dh ld albaabnaan.
+
+alcood m.l (-dyo, m.dh) Noocyada shiraaca doonyada kan ugu weyn. 
+
+aldhihaydh m.l (-dhyo, m.dh) (kiim.) Qayb ka mid ah iskudhisyada oorgaanikada ah ee noocoodu yahay -C-H; halkaas oo R ay tahay koox alkayl ama arayl ah. 
+
+aleeggad¹ m.l Luuq macaanoo haweenku hees hawleedka ku qaadaan. 
+
+aleeggad² f.mg1 (-day, -dday) Hees hawleed luuq macaan ku qaadid (haween). 
+
+aleeggadid m.f.dh eeg aleegad². 
+
+aleel m.dh.u (-lo, m.l) Bocol yaryar oo xeebaha badaha laga helo oo weelasha lagu qurxiyo; laji. 
+
+aleelaale m.l (-layaal, m.l/dh) Nooc dibqallooca ka mid ah oo aad u weyn oo dabada midabbo kala duwan ku leh, waabaayo halis ahna leh. 
+
+aleelatuur¹ m.l Nooc faalka ay haweenku dhigaan ka mid ah oo ay aleesha ku faaliyaan. 
+
+aleelatuur² f.g1 (-ray, -rtay) Aleel ku faalin (haween). 
+
+aleelatuurid m.f.dh eeg aleelatuur². 
+
+aleelayn m.f.dh eeg aleelee. 
+
+aleelaysan f.mg4 (-snaa, -snayd) Wax aleel loo yeelay ahaansho. 
+
+aleelaysnaan m.f.dh eeg aleelaysan. ld aleelaysnaansho.
+
+aleelaysnaansho m.l/dh ld aleelaysnaan.
+
+aleelee f.g2 (-leeyay, -laysay) Wax aleel ku qurxin. 
+
+aleemi f.g2 (-iyay, -isay) Aleen ka dhawaajin (geel). 
+
+aleemin m.f.dh eeg aleemi. ld aleemis.
+
+aleemis m.l ld aleemin.
+
+aleen m.l/dh (-eemo, m.dh) Koor yar oo geela loo xiro. 
+
+alfaan m.dh.w eeg alif (4). 
+
+alfiyoole m.l (-layaalyo, m.l/dh) (c.nafl.) Kiish yar oo ka samaysan xuub khafiif ah, oo ay ku daboolanyihiin tintaafyo wada shaqaynaya 
+                                            oo ku yaalla dhammaadka faracyaraha hunguriga oo neefsashada sambabadu kadhacdo dushiisa. Sambabku waxa uu 
+                                            leeyahay alfiyoole fara badan. Alfiyoolayaasha ku jira sambabka aadanaha waxa bedkiisa lagu qiyaasay inuu yahay 100 mm. 
+
+
+
  
 
 
