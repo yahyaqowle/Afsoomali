@@ -3305,6 +3305,95 @@ aragtida kuwaantam m.dh (-iyada ..., m.dh)(fiis.) Aragti ugu horeyntii u soo saa
                                                   yar yar oo isdabajoog ah. Rakaad kasta oo birlabdanabeed waxa la xiriira baakidho yaryar oo tamar ah, 
                                                   ma jirto tamar la helo oo ka yar baakidhadan, kuwaas oo loo yaqaano kuwaantaam ama footoon.
 
+aragtida Leewis m.dh (-iyada ..., m.dh)(kiim.) eeg asiidha Lewis. 
+
+aragti-haraa m.dh (-iyo ..., m.dh) (xis.) Aragtida loo tibaaxo isle'egta f(x) = (xa)gx+f(a) taas oo micnaheedu yahay haddii tibxaale f(x) ee doorsoome x,
+                                          loo qaybiyo (xa), oo a ay tahay madoorsoome; tibixda haraaga waxa ay le'eg tahay qiimaha tibxaalaha marka x = a. 
+                                          Tibxaalaha sare f(1) = 2+3-1-4= 0, sidaa daraadeed (x-1) waa isir. 
+
+aragtiinka asaasiga ah ee aljebra m.l (xis.) Isle'eq tibxaale kasta oo leh sansaanka a z + a,z + a z ... +a z + a =o, taas oo a , a , a ,... 
+                                             iwm ay yihiin tirooyin murakab ah oo leh ugu yaraan hal xidid oo murakab ah. 
+
+aragtiinka asaasiga ee kalkulaska abynan m.l(xis.) Aragtiin tibaaxaysa xiriirka ka dhexeeya abyan iyo xigsinayn, taas oo ah, haddii abyanka f(x)dx uu jiro, 
+                                                   iyo urliba fansaarka f(x) uu jiro f'(x) = f(x) marka a x b; marka f(x)dx = F(b) - F(a). 
+
+aragti-isir m.dh (-iyo ..., m.dh) (xis.) Xaaladda ay (x-a) ku noqonayso isirka tibxaalaha f(x) ee doorsoome x, haddii iyo haddii oo keliya f(a) = 0. Tusale ahaan, 
+                                         haddii f(x) = x +x-6 = 0 f(-3) = 9-3-6= 0; f(2) = 4+2-6 = 0. Sidaa daraadeed isirrada f(x) waa (x-2) iyo (x+3). 
+                                         Aragtida isirka waxa laga soo diiray aragtida haraaga. 
+
+aragxumaan m.f.dh eeg aragxun. ld aragxumaansho, aragxumi, aragxumo.
+
+aragxumaansho m.l/dh ld aragxumaan.
+
+aragxumi m.dh ld aragxumaan.
+
+aragxumo m.dh ld aragxumaan.
+
+aragxun f.mg4 (-umaa, -umayd) 1. Nafley ay jirro, macluul iwm ka muuqdaan ahaansho. 2. Nafley aan indhaha si fiican wax uga arkeyn ahaansho. 
+
+arah¹ m.l 1. A. ah: tiro dad ah oo u safray in ay soo gurtaan miro, xabag, caws iwm. 2. ld arahid. ld arahid.
+
+arah² f.mg1 (-rhay, -rahday; -rhi) Dad in ay soo gurtaan qaraab miro, xabag, caws iwm u safrid; arahdoon. ld arahdoon².
+
+arahdoon¹ m.l 1. A. ah: ld arah¹. 2. ld 
+
+arahdoonid. ld arahdoonid.
+
+arahdoon² f.mg1 (-nay, -ntay) ld arah².
+
+arahdoonad m.l ld arahdoonasho.
+
+arahdoonasho m.f.dh eeg arahdoono. ld arahdoonad.
+
+arahdoonid m.dh ld arhid.
+
+arahdoono f.mg3 (-ntay, -natay) Dad miro, xabag, caws, iwm. raadsasho. 
+
+aram m.dh Diirdiir yar oo caleenta digirta cunta. 
+
+arammi m.l/dh Xanuun ka dhasha nabar hore oo aan si dhab ah u biskoon; doog(ta). 
+
+aranjaato m.dh Cabbitaan laga sameeyo liinxaali, biyo iyo sonkor oo midab hurdi ah leh. 
+
+arar m.dh 1. Dhulka u dhow ee ku heeran ceel ama degaan. 2. Gogoldhigga loo sameeyo hadal ama qoraal. 
+          3. Daaqidda ay xoolo la waraabshey soo daaqaan inta ayan rakaadan. ararad m.l ld ararasho.
+
+ararasho m.f.dh eeg araro. ld ararad.
+
+arari f.g2 (-iyay, -iday, -isay) Xoolo cabbay oo la rabo in la rakaadiyo caws geyn. 
+
+ararin m.f.dh eeg arari. 
+
+araro f.mg3 (-rtay, -ratay) 1. Hadal ama qoraal gogoldhig u samaysasho. 2. Ka sii a.: wax in ay dhacayaan la filayo ka afeefsasho.
+                            3. Xoola la waraabiyey inta aanay rakaadan daaq tegid. 
+
+arax m.dh (-raxyo /-rxaan, m.l) 1. Xiriirta lafdhabarta qaybteeda sare oo ay feeraha ishaystaan. 
+                                2. Xubin hilib ah oo ka kooban dhowr ricirood iyo cadkooda. 
+                                3. Sac, saddex da'ood ama ka badan dhalay. 
+
+araxdaaco m.dh Deri. 
+
+araxnimo m.dh Arax ahaansho (sac). 
+
+araye m.l Maroodiga lab oo raxanta hoggaamiya; arbe. 
+
+arayl m.l (-llo, m.dh) (kiim.) Koox orgaanig ah samaysanta marka atam haydarojiin ah laga saaro haydarokaarboon aroomaatig ah ama mid ka farcamay. 
+
+arbaco m.dh Maalinta afraad ee toddobaadka, una dhexeysa talaadada iyo khamiista. 
+
+arbe m.l (-bayaal m.l/dh) 1. Araye. 2. Shabeelka lab. 
+
+arbucuun¹ m.l Quraan ama duco loo akhriyo xoolo lumay si Eebbe bahal iyo tuug uga badbaadiyo. 
+
+arbucuun² f.g1 (-nay, -ntay) Xoolo lumay si Eebbe bahal iyo tuug uga badbaadiyo quraan ama duco u akhrin. 
+
+arbucuunaan m.f.dh eeg arbucuunan. ld arbucuunaansho.
+
+arbucuunaansho m.l/dh ld arbucuunaan.
+
+
+
+
  
 
 
