@@ -3295,26 +3295,26 @@ aragti m.dh (-iyo, m.l) 1. Sida arrin cid ugu muuqato. 2. Awoodda waxgarashada d
                         3. Arag. Tus. “Nin iyo baadidii aragti baa ka dhexeysa”. 
                         4. Fikrad, mabda' iwm oo cidi rumaysantahay kuna salaysan xeerar iyo qawaaniin gaar ah. 
 
-aragtida Darwin m.dh (-iyaha ..., m.l) (baay.) Aragtida tadawurka ee ahayd isirka sinjiyada oo Charles Darwin soo saaray 1859, taas oo ilaa hadda
+aragtida-Darwin m.dh (-iyaha ..., m.l) (baay.) Aragtida tadawurka ee ahayd isirka sinjiyada oo Charles Darwin soo saaray 1859, taas oo ilaa hadda
                                                dadka qaarkood rumaysanyahay sinjiyadu inay ka soo jeedaan noocyada abnaqyada hoose,
                                                marka loo eego dariiqadda xulashada dabeeciga. 
 
-aragtida kuwaantam m.dh (-iyada ..., m.dh)(fiis.) Aragti ugu horeyntii u soo saaray Maks Blank (1858-1947) oo sharaxaysa kaaha walax madow, 
+aragtida-kuwaantam m.dh (-iyada ..., m.dh)(fiis.) Aragti ugu horeyntii u soo saaray Maks Blank (1858-1947) oo sharaxaysa kaaha walax madow, 
                                                   wuxuuna soo bandhigay afeef ah in tamarta birlabdanabeedku ku baxdo kuna qaadanto qaybo 
                                                   joogto ahayn oo ku dhufsanayaal abyoon ah. Tusaale ahaan, tamartu waxa ay u baxdaa baakidho 
                                                   yar yar oo isdabajoog ah. Rakaad kasta oo birlabdanabeed waxa la xiriira baakidho yaryar oo tamar ah, 
                                                   ma jirto tamar la helo oo ka yar baakidhadan, kuwaas oo loo yaqaano kuwaantaam ama footoon.
 
-aragtida Leewis m.dh (-iyada ..., m.dh)(kiim.) eeg asiidha Lewis. 
+aragtida-Leewis m.dh (-iyada ..., m.dh)(kiim.) eeg asiidha Lewis. 
 
 aragti-haraa m.dh (-iyo ..., m.dh) (xis.) Aragtida loo tibaaxo isle'egta f(x) = (xa)gx+f(a) taas oo micnaheedu yahay haddii tibxaale f(x) ee doorsoome x,
                                           loo qaybiyo (xa), oo a ay tahay madoorsoome; tibixda haraaga waxa ay le'eg tahay qiimaha tibxaalaha marka x = a. 
                                           Tibxaalaha sare f(1) = 2+3-1-4= 0, sidaa daraadeed (x-1) waa isir. 
 
-aragtiinka asaasiga ah ee aljebra m.l (xis.) Isle'eq tibxaale kasta oo leh sansaanka a z + a,z + a z ... +a z + a =o, taas oo a , a , a ,... 
+aragtiinka-asaasiga-ah-ee-aljebra m.l (xis.) Isle'eq tibxaale kasta oo leh sansaanka a z + a,z + a z ... +a z + a =o, taas oo a , a , a ,... 
                                              iwm ay yihiin tirooyin murakab ah oo leh ugu yaraan hal xidid oo murakab ah. 
 
-aragtiinka asaasiga ee kalkulaska abynan m.l(xis.) Aragtiin tibaaxaysa xiriirka ka dhexeeya abyan iyo xigsinayn, taas oo ah, haddii abyanka f(x)dx uu jiro, 
+aragtiinka-asaasiga-ee-kalkulaska-abynan m.l(xis.) Aragtiin tibaaxaysa xiriirka ka dhexeeya abyan iyo xigsinayn, taas oo ah, haddii abyanka f(x)dx uu jiro, 
                                                    iyo urliba fansaarka f(x) uu jiro f'(x) = f(x) marka a x b; marka f(x)dx = F(b) - F(a). 
 
 aragti-isir m.dh (-iyo ..., m.dh) (xis.) Xaaladda ay (x-a) ku noqonayso isirka tibxaalaha f(x) ee doorsoome x, haddii iyo haddii oo keliya f(a) = 0. Tusale ahaan, 
@@ -3579,6 +3579,134 @@ arooris m.l ld aroorin.
 aroornimo m.dh Waqti aroor ah. 
 
 aroorsan f.mg4 (-naa, -nayd) Wax, meel aad ugu libdhay ahaansho. 
+
+aroorsanaan m.f.dh eeg aroorsan. ld aroorsanaansho.
+
+aroorsanaansho m.l/dh ld aroorsanaan.
+
+arǫoryo m.dh ld aroo(ø)r.
+
+arooryohoraad m.dh (-ddo, m.dh) Marka oogga waaberi dilaaco. ld aroorhoraad.
+
+aroos¹ m.l (-syo, m.dh) 1. ld aroosid. Ciyaaro iyo damaashaad loo sameeyo laba qof oo isguursaday. 2. Toddabada beri ee ugu horreysa aqal-galka. 
+                        3. A. ah: qof ku jira toddobaadkii ugu horreeyey aqalgalkiisa. 
+
+aroos² f.g/mg1 (-say, -stay) 1. (f.g) Laba qof oo isguursaday xaflad iyo damaashaad samayn. 2. (f.mg) Nin, naag guursasho. 
+
+aroosad m.dh Haweenay ku jirta toddobaadkii ugu horreeyey aqalgalkeeda. ld caruusad.
+
+aroosgal¹ m.l ld aqalgelid.
+
+aroosgal² f.mg1 (-alay, -ashay; -geli) ld aqalgal².
+
+aroosgeli f.g2 (-iyay. -isay ld aroosi.
+
+aroosgelid m.dh ld aqalgelid. aroosgelin m.f.dh ld aroosin.
+
+aroosi f.mg2 (-iyay, -isay) U a.: qof guurkiisa tabaabusheyn. ld aqalgeli, aroosgeli. aroosid m.f.dh eeg aroos². ld aroos¹ (1), aroosgal¹, aroosgelid.
+
+aroosin m.f.dh eeg aroosi. ld aqalgelin, aroosgelin.
+
+arraajo m.dh (-ooyin, m.l) Areebo; basari. 
+
+arrad¹ m.l 1. Xaaladda uu ku suganyahay qof dharkiisu duugoobay ama jeexjeexmay. 2. ld arradid.
+
+arrad² f.mg1 (-day, -dday) Qof, xaalad dharki uu xirnaa duugoobay ama jeexjeexmay ku sugnaan. 
+
+arradan f.mg4 (-dnaa, -dnayd) Wax arrad hayo ahaansho. 
+
+arradbax¹ m.l 1. Helidda dhar arrad looga baxo. 2. ld arradbixid. Dhar arradka looga baxo. 
+
+arradbax² f.mg1 (-xay, -xday; -bixi) Dhar arradka looga baxo helid. 
+
+arradbaxsan f.mg4 (-naa, -nayd) Wax arradbaxay ahaansho (qof). 
+
+arradbaxsanaan m.f.dh eeg arradbaxsan. ld arradbaxsanaansho.
+
+arradbaxsanaansho m.l/dh ld arradbaxsanaan.
+
+arradbixi f.g2 (-iyay, -isay) Qof arradbax siin. 
+
+arradbixid m.f.dh eeg arradbax². ld arradbax¹ (2).
+
+arradbixin m.f.dh eeg arradbixi. 
+
+arradi f.g2 (-iyay, -isay) Qof arrad badid. 
+
+arradid m.f.dh eeg arrad². ld arrad¹ (2).
+
+arradin m.f.dh eeg arradi. 
+
+arradnaan m.f.dh eeg arradan. ld arradnaansho.
+
+arradnaansho m.l/dh ld arradnaan.
+
+arradsan f.mg4 (-naa, -nayd) Wax arrad hayo ahaansho. 
+
+arradsanaan m.f.dh eeg arradsan. ld arradsanaansho.
+
+arradsnaansho m.l/dh ld arradsanaan.
+
+arrad-tir¹ m.l ld arratir¹, arratirid.
+
+arrad-tir² f.mg1 (-ray, -rtay) ld arratir².
+
+arrad-tiran f.mg4 (-naa,-nayd) ld arratiran.
+
+arrad-tirasho m.dh ld arratirasho.
+
+arrad-tirid m.dh ld arratirid.
+
+arrad-tirnaan m.dh ld arratirnaan.
+
+arrad-tirnaansho m.l/dh ld arratirnaan.
+
+arrad-tiro f.mg3 (-rtay, -ratay) ld arratiro.
+
+arrafo m.dh Bilaha sannadka soomaaliga ee dayaxa tan ugu dambeysa oo xajka la guto. ld carrafo.
+
+arratir¹ m.l 1. Dhar arradka looga baxo. 2. ld arratirid. ld arrad-tir¹.
+
+arratir² f.mg1 (-ray, -rtay) U a.: qof arradan arratirsiin. ld arrad-tir².
+
+arratiran f.mg4 (-rnaa, -rnayd) Wax la arratiray ahaansho (qof). ld arrad-tiran.
+
+arratirasho m.f.dh eeg arratiro. ld arradtirasho.
+
+arratirid m.f.dh eeg arratir². ld arrad-tir¹, arrad-tirid, arratir¹ (2).
+
+arratirnaan m.f.dh eeg arratiran. ld arradtirnaan, arrad-tirnaansho, arratirnaan-sho.
+
+arratirnaansho m.l/dh ld arratirnaan.
+
+arratiro f.mg3 (-rtay, -ratay) Arratir iibsasho (qof). ld arrad-tiro.
+
+arrimi f.mg2 (-iyay, -isay) 1. Ka a.: arrin, talo ka dhiibid. 2. U. a.: cid u talin. 
+
+arrimin m.f.dh eeg arrimi. ld arrimis.
+
+arrimis m.l ld arrimin.
+
+arrin m.l/dh (-imo, m.l) Talo, hadal iyo in wax laga qabto u baahan; xaajo. 
+
+arrinsad m.l ld arrinsasho.
+
+arrinsasho m.f.dh eeg arrinso. ld arrinsad, arrinsi.
+
+arrinsi m.l ld arrinsasho.
+
+arrinso f.mg3 (-saday, -satay) Ka a.: arrin, xal u raadsasho; arrin ka talabixid. 
+
+arruman f.mg4 (-mnaa, -mnayd) Wax la arrumay ahaansho (geel). 
+
+arrumasho m.f.dh eeg arrumo. arrumid m.f.dh eeg arrun². 
+
+arrumnaan m.f.dh eeg arruman. ld arrumnaansho, arrunnaan, arrunnaansho.
+
+arrumnaansho m.l/dh ld arrumnaan.
+
+
+
 
 
 
