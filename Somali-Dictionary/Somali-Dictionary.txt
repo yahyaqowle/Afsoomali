@@ -3705,8 +3705,126 @@ arrumnaan m.f.dh eeg arruman. ld arrumnaansho, arrunnaan, arrunnaansho.
 
 arrumnaansho m.l/dh ld arrumnaan.
 
+arrumo f.mg3 (-untay, -umatay) Neef geel ah oo taagan fariisisasho. 
 
+arrun¹ m.l Fariisisinta neef geel ah oo taagan la fariisiyo. ld arrumid.
 
+arrun² f.g1 (-umay, -untay; -umi) Neef geel ah oo taagan fariisin. 
+
+arrunnaan m.f.dh ld arrumnaan.
+
+arrunnansho m.l/dh ld arrumnaan.
+
+arruug m.l Ubad labaraafle oo lix bilood jira. 
+
+arruugnimo m.l Arruug ahaansho. 
+
+arsaaq¹ m.dh ld irsaaq¹.
+
+arsaaq² f.g1 (-qay, -qday) ld irsaaq².
+
+arsaaqad m.dh ld irsaaqad.
+
+artaraboodha m.l (-ooyin, m.l) (baay.) Faylam ka tirsan xayawaanka laf dhabarla'da oo ka kooban in ka badan hal milyan oo sinji. 
+                                       Waa faylamka ugu ballaadhan ee boqortooyada xayawaanka. Artaraboodhuhu waxay ku noolyihiin biyaha macaan, 
+                                       badaha iyo dhulalka kala duwan. Astaan ahaan artaraboodhuhu waxay leeyihiin dub sare oo loo yaqaanno toxob, 
+                                       kaas oo dabool adag u ah qalfoof duleedka. Koritaankooduna waxa uu suurtaggal yahay oo keliya xilliga xuub siibashada. 
+
+aruundi m.l Geed nagaar leh qodax, caleen yaryar iyo miro casuura ah oo anqaasta laga samaysto. 
+
+aruur¹ m.l Caano a. ah: caano yar oo dhigaal ah oo hadba in lagu daro si ay u bataan. 
+
+aruur² f.mg1 (-ray, -rtay) 1. Wax kala firirsan meel isugu tegid. ld urur³, uruur.
+
+aruuri f.g2 (-iyay, -isay) 1. Wax kala firirsan meel isugu geyn. 2. Ku a.: wax, wax kale ee ugu geli karo ku libdhin. ld ururi, uruuri.
+
+aruurid m.f.dh eeg aruur. ld ururid, uruurid.
+
+aruurin¹ m.f.dh eeg aruuri. ld aruuris, ururi, uruuri.
+
+aruurin² m.dh Maanso, shekooyin dhaqan, taariikh nololeed iwm oo dad kala duwan laga soo xigtay oo meel ku wada qoran. 
+
+aruuris m.dh ld aruurin.
+
+aruursan f.mg4 (-naa, -nayd) 1. Wax kala firirsanaa oo meel isugu yimid ahaansho. 2. Ku a.: wax, wax kale ee uu geli karo ku libirsan ahaansho. ld urursan.
+
+aruursanaan m.f.dh eeg aruursan. ld aruursanaansho, urursanaan, urursanaansho, uruursa.
+
+aruursanaansho m.l/dh ld aruursanaan.
+
+aruursasho m.f.dh eeg aruurso. ld urursasho, uruursasho.
+
+aruurso f.g3 (-saday, -satay) 1. Wax kala firisan meel isugu geysasho. 2. Wax meel yaal wada qaadasho. ld ururso, uruurso.
+
+arwaax¹ m.l Farax. 
+
+arwaax² m.dh.w Ruux. 
+
+arwaax³ f.mg1 (-xay, -xday) Farax dareemid. 
+
+arwaaxi f.g2 (-iyay, -isay) Cid ka farxin. 
+
+arwaaxid m.f.dh eeg arwaax³. 
+
+arwaaxin m.f.dh eeg arwaaxi. 
+
+arwaaxsan f.mg4 (-naa, -nayd) Wax arwaaxay ahaansho (qof). 
+
+arwaaxsanaan m.f.dh eeg arwaaxsan. ld arwaaxsanaansho.
+
+arwaaxsanaansho m.l/dh ld arwaxsanaan.
+
+arxaan m.l.w eeg arax. 
+
+arxamid m.f.dh eeg arxan¹. 
+
+arxan¹ m.l/dh ld arax (1).
+
+arxan² m.l 1. Waxtar weyn oo cid dhibaateysan loo geysto.2. Dad xigtanimo ka dhexeysa; ehel. 
+
+arxan³ f.mg1 (-amay, -antay; -ami) U a.: cid dhibaateysan waxtar weyn u gelid. 
+
+aryaa u.j (aryaadha) ld waryaa.
+
+aryaadha u.j.w eeg aryaa. 
+
+asaabboon f.mg4 (-naa, -nayd) Wax aan dembi ama xumaan samayn ahaansho (qof). 
+
+asaabboonaan m.f.dh eeg asaabboon. ld asaabboonaansho.
+
+asaabboonaansho m.l/dh ld asaabboonaan.
+
+asaag m.l.u Dadka inta isku da'da ah ama isku darajada ah; fac. 
+
+asaagsad m.l ld asaagsasho.
+
+asaagsasho m.f.dh eeg asaagso. ld asaagsad, asaagsi.
+
+asaagsi m.l ld asaagsasho.
+
+asaagso f.g3 (-saday, -satay) Qof, qof kale oo ka heer sarreeya wax la darajo ah iska dhigid. 
+
+asaas¹ m.l (-syo, m.dh) 1. Bilowga wax la samaynayo ama la dhisayo; sal. 
+                        2. Marka dhagaxa, ama bulkeetiga, iyo wixi la mid ah dhulka lagu aaso si ay u xajiyaan ama u taageeraan dhismaha derbiga. 
+                        3. Wax walxaha taageera ama xejiya ama mid ay ku aasaasmeen. 
+
+asaas² f.g1 (-say, -stay) Wax cusub oo la sameynayo bilaabid. ld aasaas².
+
+asaasan¹ f.mg1 (-smay, -santay; -smi) Wax asaasan noqosho. Tus. “Dhismihii dugsiga cusub weli ma asaasmin”. ld aasaasan¹.
+
+asaasan² f.mg4 (-snaa, -snayd) Wax la asaasay ahaansho. ld aasaasan².
+
+asaasi m.l.kh A. ah: wax cusub oo bilow ah; wax saldhig ah. ld aasaasi.
+
+asaasid m.f.dh eeg asaas². ld aasaasid.
+
+asaasmid m.f.dh eeg asaasan¹. ld aasaasmid.
+
+asaasnaan m.f.dh eeg asaasan². ld aasaansnaan, aasaasnaansho, asaasnaansho.
+
+asaasnaansho m.l/dh ld asaasnaan.
+
+finished and stopped page 58(35).
 
 
 
