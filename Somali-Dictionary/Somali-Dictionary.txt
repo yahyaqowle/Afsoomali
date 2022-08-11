@@ -2167,7 +2167,7 @@ akson m.l (-no, m.dh) (c.nafl.) Qaybta dheer ee miiqan ee unugga dareen wadka. W
 
 alaab m.dh.u 1. Qalabka guriga looga adeegto. 2. Waxyaabaha qofka u gaarka ah sida sanduuqa, dhar, miis, sariir iwm. ld alaabo.
 
-alaab caydhiin m.dh.u (-bo ..., m.l) 1. Walax ama shay dabiici ah oo aan gelin weli warshado ama aan la farsamayn. 
+alaab-caydhiin m.dh.u (-bo ..., m.l) 1. Walax ama shay dabiici ah oo aan gelin weli warshado ama aan la farsamayn. 
                                   2. Alaab ay isticmaalaan warshaduhu si ay u farsamotumaan uguna beddelaan alaab la isticmaali karo; 
                                      alaabta caydhiin waxaa qayb ahaan ka mid ah alaab farsamotuman, oo ay ka mid yihiin looxa jarjaran, burka qamadiga, 
                                      kuwaas oo sii mara farsamotumid dheeraad ah. ld alaab ceyriin.
@@ -2451,7 +2451,7 @@ alluumiiniyam m.dh (kiim.) Bir firfircoon oo jilicsan, waana curiyaha labaad ee 
                            heertamarka ugu sarreeya. Alluumiiniyantu waxay ku jirtaa macadanno badan; 
                            waa curiyaha ugu caansan biraha ku jira oogada dhulka, waana ka saddexaad xagga badnaanta.
  
-alluumiiniyam ogsaydh m.l (-dhyo, m.dh)(kiim.) Budo cad oo aan biyaha ku milmin. Way la falgashaa asiidhada iyo alkaliyadaba sababta oo ah waa laba-eefle. 
+alluumiiniyam-ogsaydh m.l (-dhyo, m.dh)(kiim.) Budo cad oo aan biyaha ku milmin. Way la falgashaa asiidhada iyo alkaliyadaba sababta oo ah waa laba-eefle. 
 
 alma-almay m.dh Cucub ama lucbad ay ilmuhu ku cayaaraan oo qaab aroosad leh. 
 
@@ -2707,7 +2707,7 @@ amiino m.dh (-ooyin, m.l) (kiim.) Koox iskudhisyo orgaanig ah oo biyaha ku milma
 
 amiino (-NH) oo ku dheggan kaarboonka alfa. 
 
-amiino asiidh m.l (-dhyo, m.dh) (baay.) Koox ka mid ah iskudhisyada orgaanikada ah ee biyaha ku milma ee wada leh koox 
+amiino-asiidh m.l (-dhyo, m.dh) (baay.) Koox ka mid ah iskudhisyada orgaanikada ah ee biyaha ku milma ee wada leh koox 
                                         kaarboogsayl (-COOH) iyo amino (-NH2) oo ku dhegsan alfa kaarboonatam. 
                                         Dhirta iyo noolayaal ili-ma-aragtay ah oo badan ayaa amino asiidhyada ka samayn kara 
                                         iskudhisyo sahlan oo aan orgaanig ahayn, laakiin xayawaanku waxay ka helaan in ku filan oo quudkooda ah. 
@@ -3142,7 +3142,7 @@ aqoolxun⁴ f.mg4 (-umaa, -umayd) Wax aan aqool wanaagsan lahayn ahaansho.
 
 aqoon m.dh 1. Cilmi. 2. Garasho dheerad ah oo wax loo leeyahay. Tus. “Jaamac Xamar aqoon buu u leeyahay”. 
 
-aqoon farsamo m.dh 1. (qaan.) Ficil ama xaalad sharciyeesan uu sharcigu oggolaaday ama ansixiyey. 2. Hab aqooneed, ama xeelad 
+aqoon-farsamo m.dh 1. (qaan.) Ficil ama xaalad sharciyeesan uu sharcigu oggolaaday ama ansixiyey. 2. Hab aqooneed, ama xeelad 
                               wax lagu sameeyo hawl, farsamo, gaar ahaan dhinaca cilmiga ama farsamada. 
 
 aqoonbaaris m.dh Cilmibaaris. 
@@ -3194,11 +3194,11 @@ aqoonsiin m.f.dh eeg aqoonsii.
 
 aqoonso f.g3 (-saday, -satay) 1. Wax citiraafid. 2. Wax hore loo kasayey muddo dambe dib u garasho. 
 
-aqoonta cudurrada m.dh eeg baatoloji. 
+aqoonta-cudurrada m.dh eeg baatoloji. 
 
-aqoonta kansarka m.l (daaw.) eeg onkooloji. 
+aqoonta-kansarka m.l (daaw.) eeg onkooloji. 
 
-aqoonta ummulinta m.dh (daaw.) Qayb ka mid ah cilmi takhtareedka oo ku saabsan xanaaneynta dumarka inta ay uurka leeyihiin, 
+aqoonta-ummulinta m.dh (daaw.) Qayb ka mid ah cilmi takhtareedka oo ku saabsan xanaaneynta dumarka inta ay uurka leeyihiin, 
                                marka ay dhalayaan iyo lix toddobaad oo ku xigta xilliga dhalmada marka xubnaha taranku ay dhibaato baxayaan. 
 
 aqoonxumaan m.f.dh eeg aqoonxun. ld aqoonxumaansho, aqoonxumi, aqoonxumo.
@@ -3989,7 +3989,7 @@ asiibid m.f.dh eeg asiib. ld aseebid.
 asiidh m.l (-dyo, m.dh) (kiim.) 1. Nooc iskudhis ah oo leh haydarojiin kuna kalafurma biyaha oona saara ayoonno togan oo haydarojiin ah. 
                                 2. Aragtida lowriboronistidh ee asiidhada iyo beysyada (1923), waxay qeexiddaa hore u ballaadhisay, in asiidhu tahay borotoo. 
 
-asiidha yuurig m.dh (baay.) Maxsuulka burburka buriin ee garaadleyda shimbiraha, xammaaratada berriga iyo cayayaanka. Marka laga reebo garaadleyda, 
+asiidha-yuurig m.dh (baay.) Maxsuulka burburka buriin ee garaadleyda shimbiraha, xammaaratada berriga iyo cayayaanka. Marka laga reebo garaadleyda, 
                             Maxsuulkaas badankiisa waa la qashinsaaraa. Asiidhka yuurig waa ma milme, sidaa darteed, waxa loo saaraa adke ahaan, 
                             taas oo dhowrta biyaha qiimaha u leh dhulka oomanaha ah. Asiidhka yuurig markay jidhka ku badato waxay ku ururtaa 
                             kala goysyada dhareerka leh taas oo ay ku keento xanuun. 
@@ -4590,7 +4590,7 @@ ayro m.dh.u Hal adkaysi badan oo cad iyo caano dheeraad ah leh.
 aysootoonik m.l (-kyo, m.dh) (baay.) Waxa lagu sharxaa milannada leh cadaadis isku mid ah. 
                                      Tus. “Milan”, .01m oo sonkor ah iyo milan .01m oo gulukows ahi waa milanno cadaadis isku mid ah leh”.
 
-finished A words// stopped page 66(43)
+finished A words// stopped page 66(43). A words page 24(1)-66(43)
 
 
 
