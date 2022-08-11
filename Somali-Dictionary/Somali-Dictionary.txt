@@ -4179,7 +4179,7 @@ astakee f.g2 (-keeyay, -kaysay) ld ashtakee.
 
 astako m.dh (-ooyin, m.l) ld ashkato.
 
-astakoo f.mg3 (-day, -tay) ld ashtakoo.
+astakoo f.mg³ (-day, -tay) ld ashtakoo.
 
 astakood m.l ld ashtakood.
 
@@ -4201,7 +4201,7 @@ astur² f.g1 (-ray, -rtay) 1. Cid ceebteeda qarin. 2. Wax dayacan xafidid. 3. Wa
 
 asturan¹ f.mg1 (-rmay, -rantay; -rmi) Wax la asturay noqosho. 
 
-asturan² f.mg4 (-rnaa, -rnayd) Wax la asturay ahaansho. 
+asturan² f.mg⁴ (-rnaa, -rnayd) Wax la asturay ahaansho. 
 
 asturid m.f.dh eeg astur². ld astur¹ (2).
 
@@ -4464,7 +4464,7 @@ ayaamo m.dh.w 1. Duulal la rumaysanyahay in ay dadka ku ridaan cudur lagu daawee
 
 ayaan² m.dh (-aamo, m.l) Dharaar iyo habeenkeed; maalin. 
 
-ayaandaran f.mg4 (-rnaa, -rnayd) Qof aan nasiib wanaagsan lahayn ahaansho. 
+ayaandaran f.mg⁴ (-rnaa, -rnayd) Qof aan nasiib wanaagsan lahayn ahaansho. 
 
 ayaandarnaan m.f.dh eeg ayaandaran. ld 
 
@@ -4486,7 +4486,7 @@ ayaanli'i m.dh ld ayaanla'aan
 
 ayaansasho m.f.dh eeg ayaanso. 
 
-ayaanso f.mg3 (-saday, -satay) Qof, ayaan yeelasho. 
+ayaanso f.mg³ (-saday, -satay) Qof, ayaan yeelasho. 
 
 ayaantirin m.dh Maalin wakhti gaar ah lagu magacaabay. Tus. “Maalin gaar ah”, “Sannad gaar ah”. 
 
@@ -4503,6 +4503,7 @@ ayaanxumo m.dh ld ayaanxumaan.
 ayaanxun f.mg4 (-umaa, -umayd) Qof aan nasiib wacan lahayn ahaansho. 
 
 ayax m.l.u (c.nafl.) Cayayaan yaryar, oo baalal iyo lix lugood oo labada dambe ka dhaadheeryihiin kana xoog badanyihiin kuwa kale leh, 
+                     koox koox aad u badan isu raaca oo dhirta iyo dalaggaba waxyeeleeya. 
 
 aydin mu.dhm.y Magacuyaal tilmaama qofka labaad ee wadarta ah (lala hadlayaasha ama wax loo qorayaasha). ld aa², aad.
 
@@ -4581,7 +4582,15 @@ ayoonisfeer m.l (fiis.) Gibilka saddexaad ee xiga istaratosfeerka fidsan ilaa 1,
 ayoon-taban m.l (-nno ..., m.dh) (kiim.) Ayoon saldanab taban leh, oo sameysma marka atamyada ama molikiyuulada lagu daro elektaroonno. 
                                          Marka danabsoocidda la sameynaayo, ayoonada taban waxa jiita qotinka togan.
 
+ayoon-togan m.l (-nno ..., m.dh) (kiim.) Ayoon saldanab togan oo ka dhashay atammo ama molikuyuullo laga xayuubiyey elektaroonno. 
+                                         Marka danabsoociddu dhacayso, ayoon-toganayaasha waxa jiita qotinka taban. 
 
+ayro m.dh.u Hal adkaysi badan oo cad iyo caano dheeraad ah leh. 
+
+aysootoonik m.l (-kyo, m.dh) (baay.) Waxa lagu sharxaa milannada leh cadaadis isku mid ah. 
+                                     Tus. “Milan”, .01m oo sonkor ah iyo milan .01m oo gulukows ahi waa milanno cadaadis isku mid ah leh”.
+
+finished A words// stopped page 66(43)
 
 
 
