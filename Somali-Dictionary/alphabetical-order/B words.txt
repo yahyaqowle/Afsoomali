@@ -604,6 +604,120 @@ baasarce m.l Nooc ka mid ah bariiska oo leh dhuux guduudan oo macaan. ld baasara
 
 baasaysad m.l ld baasaysasho.
 
-finished&stopped page 73(50)
+baasaysasho m.f.dh eeg baasayso. ld baasaysad, baasaysi.
+
+baasaysi m.l ld baasaysasho.
+
+baasayso f.mg3 (-stay, -satay) Wax inay shar leeyihiin aaminid. 
+
+baash m.l ld baashi.
+
+baashaal¹ m.l 1. Sheeko, ciyaar iwm oo waqti isku dhaafin. 2. ld baashaalid.
+
+baashaal² f.mg1 (-aalay, -aashay) Sheeko, ciyaar iwm. waqti ku dhaafin. 
+
+baashaali f.g2 (-iyay, -isay) Qof kale sheeko, ciyaar iyo waqti ku dhaafin. 
+
+baashaalid m.f.dh eeg baashaal². ld baashaal¹ (2).
+
+baashaalin m.f.dh eeg baashaali. 
+
+baashaar m.l (-rro, m.dh) Kuul baro yaryar leh oo haweenku ku xarragoodaan. 
+
+baashad m.f.l eeg baasho. 
+
+baashee f.g2 (-eeyay, -eeysay) Dhunko. 
+
+baasheyn m.f.dh eeg baashee. 
+
+baashi m.l (-iyo, m.dh) Waraaqaha turubka midka yeekaha ku xiga oo boqorka ku sawiranyahay. ld baash.
+
+baashir f.g1 (-ray, -rtay) Si wanaagsan oo farxad iyo reyn-reyn leh qof u qaabilid. 
+
+baashirid m.f.dh eeg baashir. 
+
+baasho¹ m.dh Dhunkashada dhabanka ama dibnaha la iska shumiyo. 
+
+baasho² f.mg3 (-shtay, -shatay) Baal goray iwm iyadoo libin lagu muujinayo madaxsurasho. 2. Gammuun, baal ku dhegsasho. 
+
+baasid m.f.dh eeg baas². 
+
+baasiin m.l ld baansiin.
+
+baasiino m.dh ld baasiin.
+
+baasilas m.l (baay.) Bakteeriya kasta oo qaab uleed leh ama u dhuuban sida usha. 
+
+baaskiil m.l (-llo, m.dh) Gaadiid laba lugoodle ah, aan matoor lahayn oo lagu socodsiiyo lugaha. 
+
+baasto m.dh Cunto ka samaysan bur la qallajijey oo qaabab kala duwan leh oo la cuno. 
+
+baastoolad m.dh ld bastoolad.
+
+baatad m.dh Marka labada dhan ee iska soo horjeeda ay dhibco isla 'eg qabtaan (cayaar turub); doroo. ld baaddad.
+
+baati m.l (-iyo, m.dh) Dhar cudbi ah, adag oo midabo leh. 
+
+baatir m.dh (-rro, m.dh) Qaalin geel ah oo aan rimin waqtigii ay rimi lahayd. 
+
+baatooloji m.l (daaw.) Qayb ka mid ah cilmiga daawada oo ku shuqul leh cudurrada, waxyaabaha sababa iyo dhibaatada ay gaadhsiiyaan jidhka. 
+
+baatul¹ m.l ld baatulid.
+
+baatul² f.g1 (-ulay, -ushay) Hanti si tashiil la'aan ah u isticmaalid. Tus. “Wiilkii dukaankii buu baatulay”. 
+
+baatulan¹ f.mg1 (-lmay, -lantay; -lmi) Wax la baatulay noqosho (hanti). 
+
+baatulan² f.mg4 (-lnaa, -lnayd) Wax la baatulay ahaansho (hanti). 
+
+baatulid m.f.dh eeg baatul². ld baatul¹.
+
+baatulmid m.f.dh eeg baatulan¹. 
+
+baatulnaan m.f.dh eeg baatulan². ld baatulnaansho.
+
+baatulnaansho m.l/dh ld baatulnaan.
+
+baawasiir m.l ld bawaasiir.
+
+baawee f.g2 (-weeyay, -weysay) War qarsodi ku haboon faafin. Tus. “Cali ayaa dadkii nagu baaweeyey”. 
+
+baaweyn m.f.dh eeg baawee. 
+
+baaxaaddeg¹ m.l ld baaxaadeg¹. baaxaaddeg² f.mg1 (-gay, -gtay) ld baaxaadeg².
+
+baaxaaddegan f.mg4 (-gnaa, -gnayd) ld baaxaadegan.
+
+baaxaaddegid m.f.dh ld baaxaadegid. baaxaaddegnaan m.dh ld baaxaadegnaan. baaxaaddegnaansho m.l/dh ld baaxaadegnaan.
+
+baaxaadeg¹ m.l Degganaan la'aan joogto ah. ld baaxaaddeg¹.
+
+baaxaadeg² f.mg1 (-gay, -gtay) Degganaan la'aan joogto ah la kulmid. ld baaxaaddeg². 
+
+baaxaadegan f.mg4 (-naa, -nayd) Wax la kulmay degganaan la'aan joogto ah ahaansho. ld baaxaaddegan. 
+
+baaxaadegid m.f.dh eeg baaxaadeg². ld baaxaaddegid.
+
+baaxaadegnaan m.f.dh eeg baaxaadegan. ld baaxaaddegnaan, baaxaaddegnaansho, baaxaadegnaansh
+
+baaxaadegnaansho m.l/dh ld baaxaadegnaan. baaxad m.dh Ballac. 
+
+baaxadsoore m.l (-rayaal m.l/dh) Meesha baaxadda bartankeeda ah; wax fidsan oo ballaaran wadaagihiisa; dhex; bartame. 
+
+baaxeer m.l (-rro, m.dh) Qof bashaash ah. 
+
+baay m.dh (xis.) Saamiga uu meeriska goobo kasta la sameeyo dhexroorka goobada. Seebid ahaan waxay le'egtahay 3.14159... 
+                 waa tiro ka sarreysa garashada qiimaheeda dhabta ah lama qori karo haseyeeshee waa la cabbiri karaa ilaa heer saxnimo. 
+
+baayac¹ m.l ld baayacid.
+
+baayac² f.g1 (-cay, -cday; -yici) Wax ganacsi u yaal qiimahooda weyddin; gorgorin. 
+
+
+
+
+
+
+
 
 
