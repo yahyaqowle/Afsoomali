@@ -1851,5 +1851,118 @@ baq² f.mg1 (-qay, -qday; -biqi) 1. Wax xumaaday oo aan la dhami karin noqosho (
 
 baqaal m.l (-llo, m.dh) Doonyaha safarrada dhaadheer gala tan ugu weyn oo qaadi karta kun jawaan iyo ka badan. ld baqaalad, baqlad.
 
+baqaalad m.dh ld baqaal.
+
+baqabbeenlayn m.f.dh baqabbeenlee. ld baqabeen, baqabeenle, baqabbeeno.
+
+baqabbeenle m.l Baqe xeeldagaal ah oo cadow lagu dago. ld baqabbeenlayn.
+
+baqabbeenlee f.mg2 (-leeyay, -laysay)Baqabbeenle sameyn. 
+
+baqabbeeno m.dh ld baqabbeenlayn.
+
+baqacarar¹ m.l Orod dheer oo ay nafleydu sameeyso baqdin awgeed. ld baqacararid.
+
+baqacarar² f.mg1 (-ray, -rtay) Cararid baqdin awgeed. 
+
+baqacararid m.f.dh eeg baqacarar². ld baqacarar¹.
+
+baqal¹ m.l (-llo, m.dh) 1. Gammaan lab oo ay dameer iyo geenyo iska dhaleen. 2. ld bagal.
+
+baqal² m.dh (-qlo, m.l) Gammaan dheddig oo ay geenyo iyo dameer iska dhaleen. 
+
+baqalye m.l.u Jaad ka mid ah haadda hilibcunka ah oo galleyrka u eg, lehna midab ciira ah lugahana u cas. ld baqalyo, baqaye.
+
+baqalyo m.dh.u ld baqalye.
+
+baqas m.l Barwaaqo badan; baraare. 
+
+baqasho m.f.dh eeg baqo². ld baqe, baqo¹.
+
+baqay m.l Dibi dhufaan ah oo shilis. 
+
+baqaye m.l.u ld baqalye.
+
+baqaynimo m.dh Baqay ahaansho. 
+
+baqbaq m.l 1. Xabag aan saafi ahayn oo jilif, duux iwm ku dhafanyihiin. 
+           2. Dhegdhegga indhaha buka ama aan nadiifka ahayn yeeshaan; fiish, dhalxan. 
+           3. Dalool yar oo ku yaal albaab, dariishad iwm. 
+
+baqbeeno m.dh Subag iyo caano isku jira oo aan weli la kala miirin. 
+
+baqdhoos m.l (-syo, m.dh) Qof aan karti lahayn. 
+
+baqdin m.dh Dareen geesinnimo la'aaneed oo xasillooni darro iyo welwel leh oo ku dhasha nafleyda marka ay dareento inay nafteeda halis ku jirto; cabsi. 
+
+baqe m.l Ka tegidda dad meel ay ku sugnaayeen baqdin awgeed. ld baqasho.
+
+baqid m.dh ld biqid.
+
+baqlad m.dh (-do, m.l) ld baqaal.
+
+baqo¹ m.l ld baqasho.
+
+baqo² f.mg3 (-qday, -qatay) Ka b.: baqdin awgeed meel lagu sugnaa ka tegid; wax ka cabsasho. 
+
+baqool¹ m.l Safar duhurkii la socdo; dhalandhool. ld baqoolid.
+
+baqool² f.mg1 (-oolay, -ooshay) Duhur, socod gelid. ld boqool².
+
+baqoole m.l Socodka duhurkii la socdo. ld baqoolid.
+
+baqooli f.g2 (-iyay, -isay) Nafley, duhur socodsiin. ld baqoolsii, boqooli, boqoolsii.
+
+baqoolid m.f.dh eeg baqool². ld baqool¹, baqoole, boqool¹, boqoole, boqoolid.
+
+baqoolin m.f.dh eeg baqooli. ld baqoolis, baqoolsiin, baqoolsiin, boqoolin, boqool
+
+baqoolis m.dh ld baqoolin.
+
+baqoolsii f.g2 (-iiyay, -iisay) ld baqooli.
+
+baqoolsiin m.l ld baqoolin.
+
+baqoolsiis m.l ld baqoolin.
+
+baqshad m.dh (-do, m.l) Kiish yar oo xaashi ah, xabag lagu xiro afka ku leh, qaabab kala duwan leh oo warqadaha lagu xiro. ld boqshad, buqshad.
+
+baqshadayn m.f.dh eeg baqshadee. 
+
+baqshadee f.g2 (-deeyay, -daysay) Wax baqshad dhex gelin (waraaq). 
+
+baqshiish¹ m.l Hanti yar oo qof adeegay farxin ahaan loo siiyo. 
+
+baqshiish² f.mg1 (-shay, -shtay) Qof adeegay, farxin ahaan hanti yar siin. 
+
+baqshiishid m.f.dh eeg baqshiish². 
+
+baqti¹ m.l (-iyo, m.dh) 1. Nafley iyadoon la birayn nafbaxday. 2. Nafley nafbaxday oo quruntay. ld bakhti¹.
+
+baqti² f.mg1 (-iyay, -iday, -iyi) Nafley, iyadoon la gawracin nafbixid. ld bakhti².
+
+baqti-afuuf¹ m.l 1. Diqsi waaweynoo aan laga waayin meesha baqti yaal. 2. B. ah: qof wax aan qiimo lahayn bunbuuniya. ld bakhtiafuuf¹.
+
+baqti-afuuf² f.mg1 (-fay, -ftay) 1. Wax aan qiimo lahaayn buunbuunin.
+                                 2. Nafley aad u liidata taakulo dheerad ah siin si ay u noolato. ld bakhti-afuuf².
+
+baqti-afuufid m.dh eeg baqti-afuuf². ld bakhtiafuufid.
+
+baqtifuul m.l Duqsi waaweyn, leh midab qurxoon oo buluug ama cagaar ah oo laga helo meelaha waxa qurmay yaaliin. ld bakhtifuul.
+
+baqtiggowrac¹ m.l Colaad aad u xumaata oo inta xeerka wanaagsan oo dagaalka laga gudbo, dadka nool daaye, 
+                  kuwa dhinta la foolxumeeyo (gowrac, addimo ka goyn iwm); baqtiwareen. ld bakhtiggowrac¹.
+
+baqtiggowrac² f.mg1 (-cay, -cday; -rici) Baqtigowrac ku kicid. ld bakhtiggowrac².
+
+baqtiggowracid m.f.dh eeg baqtiggowrac². 
+
+baqtii f.g2 (-iiyay, -iisay) 1. Nafley, nafta ka goyn. 
+                             2. Nal, raadiye, dab iwm damin. 
+                             3. Nafley xannaano darreyn. 
+                             4. Xoolo, ugaar iwm oo nafbaxaya gawrici waayid. ld bakhtii, bakhtiiji, baqtiiji.
+
+
+
 
 
