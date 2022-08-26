@@ -2244,7 +2244,7 @@ barashada-gabowga m.l (daaw.) Barashada aqoonta ku saabsan isbeddellada ka dhaca
 barashada-lakabyada-dhulka m.dh (ama jiyoolojiyada da' dhagaxeedka) (juqr.) Qayb juqraafiga ka mid ah oo wax ka sheegta siday isugu xigtay 
                                                                             da'dii dhadhaabuhu sameysmeen. 
 
-barashada unugga m.dh (baay.) Barashada dhismaha iyo shaqada unugyada. 
+barashada-unugga m.dh (baay.) Barashada dhismaha iyo shaqada unugyada. 
 
 barasho m.f.dh eeg baro². ld barad (2).
 
@@ -2265,6 +2265,120 @@ baratansii f.g2 (-iiyay, -iisay) ld bedertami.
 baratansiin m.dh ld bedertamin.
 
 baratansiis m.l ld bedertamin.
+
+barax¹ m.l 1. B. ah: caano biyo ka yar lagu daray. 2. Bardooddanka ay sameeyaan xooluhu. 
+
+barax² f.g1 (-rxay, -raxday; -rxi) 1. Caano biyo ka yar ku darid. 2. Xoolo, bardooddan samayn. 
+
+baraxume m.l (-mayaal, m.l/dh) Nooc libaaxbadeed ka mid ah oo xilliyada qaarkood u soo erya kalluunka badda xeebta. ld barixume.
+
+barbaar¹ m.l (-rro, m.dh) Nin dhallinyaro ah oo aan weli guursan. 
+
+barbaar² m.dh.u Dhallinyaro rag iyo naago leh oo aan weli guursan. 
+
+barbaar³ f.mg1 (-ray, -rtay) Barbaar noqosho; korid. 
+
+barbaari f.g2 (-iyay, -isay) 1. Barbaar ka dhigid. 2. Jir, garaad, anshax iwm ee ubad, dhisid; korin; tababbarid. 
+
+barbaarid m.f.dh eeg barbaar³. ld barbaaris.
+
+barbaarin m.f.dh eeg barbaari. 
+
+barbaaris m.dh ld barbaarid.
+
+barbaariye m.l (-yayaal, m.l/dh) Qof aqoon u leh barbaarinta dhallaanka. 
+
+barbaarnimo m.dh Barbaar ahaansho. 
+
+barbar¹ m.l (-rro, m.dh) Dhinac. ld berber¹.
+
+barbar² f.g1 ld dardar³.
+
+barbarafow m.l (-ro ..., m.l) (fiis.) Heerkulka hoor iyo wejigiisa adkuhu ay noqdaan kuwo isku dheelitiran, iyagoo ku sugan cadaadis beegal ah. 
+                                      Heerkulkaas wixii ka hooseeya hoorku wuu barafoobaa ama adkaadaa. 
+
+barbaran f.mg4 (-rnaa, -rnayd) ld dardaran².
+
+barbarda'¹ m.l.u Daruur biyeysan oo cirka badi ahaan qarisa. 
+
+barbarda'² f.mg1 (-'ay, -'day; -di'i) Roob si aad ah u da'id. 
+
+barbardhac¹ m.l 1. ld barbartan 1. B. ah: labo qof, koox ka badan oo tartan ku kala badin waayey. 2. ld barbardhicid.
+
+barbardhac² f.mg1 (-cay, -cday; -dhici) Labo qof, koox ama ka badan tartan ku kala badin waayid. ld barbarradhac².
+
+barbardhicid m.dh eeg barbardhac². ld barbardhac¹, barbarkadhac, barbarkadhicid, barbar.
+
+barbardhig f.lg1 (-gay, -gtay) Labo shey ama ka badan qiimahood, tayadooda iwm isu eegid. ld isbarbardhig². 
+
+barbardhigid m.f.dh eeg barbardhig. ld isbarbardhigid.
+
+barbardi'id m.f.dh eeg barbarda'². 
+
+barbarid m.dh ld dardarid.
+
+barbarkadhac m.l ld barbardhicid.
+
+barbarkadhicid m.dh ld barbardhicid.
+
+barbarnaan m.dh ld dardarnaan.
+
+barbarnaansho m.l/dh ld dardarnaan.
+
+barbarradhac¹ m.l ld barbardhicid.
+
+barbarradhac² f.g1 (-cay, -cday) ld barbardhac².
+
+barbarradhicid m.dh ld barbardhicid.
+
+barbarrayn m.f.dh eeg barbarree. 
+
+barbarree f.g2 (-reeyay, -raysay) 1. Dood, run ka sheegiddeeda ka warwareegid. 2. Cid tartan kula sinmid. 
+
+barbarro m.dh Barbarkadhac; barbardhac; kalagurad; garbadhac. 
+
+barbartamid m.f.dh eeg barbartan². 
+
+barbartan¹ m.l ld barbardhac¹.
+
+barbartan² f.mg1 (-amay, -antay; -ami) Isku barbar dhicid; kalaggurasho; kala badin waayid. 
+
+barbax¹ m.l 1. Xilli kulul oo biyo iyo baadba ciriiri yihiin. 2. Wax looga baxo dhibaatada xilli kulul sida baad, raashin, biyo. 3. ld barbixid.
+
+barbax² f.mg1 (-xay, -xday; -bixi) 1. Ku b.: xilli kulul oo biyo iyo baadba ciriiri yihiin meel ku sugnaan. 
+                                   2. Ka b.: dhibaato xilli kulul ka samatabixid (nafley). 
+
+barbixi f.g2 (-yay, -say) Nafley, dhibaato xilli kulul ka samatabixin. 
+
+barbixid m.f.dh eeg barbax². ld barbax¹ (3).
+
+barbixin m.f.dh eeg barbixi. ld barbixis.
+
+barbixis m.dh ld barbixin.
+
+bardad¹ m.l Cabsi iyo naxdin weyn oo qofka ka lumisa is hanashada. ld barkad¹, barkag¹, berded¹, berkeg¹ (2).
+
+bardad² f.mg1 (-day, -dday) Cabsi kediso ah la wareerid; argaggexid. ld barkad², barkag², berded², berkeg².
+
+bardadid m.f.dh eeg bardad². ld barkadid, barkagid, berdedid, berkegid.
+
+bardadsan f.mg4 (-naa, -nayd) Qof, wax bardaday ahaansho. ld barkadsan, barkagsan, berdedsan, berkegsan.
+
+bardadsanaan m.f.dh eeg bardadsan. ld bardadsanaansho, barkadsanaan, barkadsanaansho.
+
+bardadsanaansho m.l/dh ld bardadsanaan.
+
+bardaq m.l Qof buuran oo jir jilicsan leh. 
+
+bardaqsan f.mg4 (-naa, -nayd) Bardaq ahaansho (qof). 
+
+bardaqsanaan m.f.dh eeg bardaqsan. ld bardaqsanaansho.
+
+bardaqsanaansho m.l/dh ld bardaqsanaan.
+
+barde m.l ld berde.
+
+bardiil m.dh Hanti la siiyo qof awood maamul leh si weji looga helo.
 
 
 
