@@ -2380,7 +2380,106 @@ barde m.l ld berde.
 
 bardiil m.dh Hanti la siiyo qof awood maamul leh si weji looga helo.
 
+bardooddamid m.f.dh eeg bardooddan². ld bardooddan¹, bardootamid, bardootan¹.
 
+bardooddan¹ m.l 1. bardootan 1. Ciyaar farakacayaar, legdiniyo is ceyrsi leh oo waqtiga la isaga lumiyo. 2. ld bardooddamid.
+
+bardooddan² f.mg1 (-amay, -antay; -ami) Ciyaar farakacayaar legdin iyo is ceyrsi leh ku maararroobid. ld bardootan².
+
+bardootamid m.dh ld bardooddamid.
+
+bardootan¹ m.l ld bardoodan¹.
+
+bardootan² f.mg1 (-amay, -antay; -ami) ld bardooddan².
+
+bare m.l (-rayaal, m.l/dh) Qof aqoon u leh habka dadka wax loo baro, kuna shaqeeya; macallin. 
+
+bareeg m.l Fariin. 
+
+bareer¹ m.l 1. Fal ulakac ah oo aan qarsoodi ahayn; caddaan; kas. 2. ld bareerid. ld bareero.
+
+bareer² f.mg1 (-ray, -rtay) 1. U b.: fal ulakac ah oo aan qarsoodi ahayn ku kicid. 2. Ula b.: si toos ah oo aan gabbasho lahayn qof ama shay u wajahid. 
+
+bareerid m.f.dh eeg bareer². ld bareer¹, bareero.
+
+bareero m.l ld bareer1 (2). bareerid. 
+
+barfasoor m.l (-rro, m.dh) 1. Qof aqoon sare oo cilmiyeed leh. 2. Bare sare oo jaammacadeed. ld barafasoor.
+
+bargarasho m.f.dh eeg bargaro. 
+
+bargaro f.g3 (-rtay, -ratay) 1. Nafley muuqaalkeed garasho. 2. Fal eex iyo qabyaalad ka muuqato cid wax ugu samayn. 
+
+bari¹ m.l Jahada ay qoraxda ka soo baxdo. 
+
+bari² m.dh 1. Cadka baruurta ah oo ka baxa dibka idaha. 2. (-iyo, m.l) Salka dadku ku fariisto. 3. (-iyo, m.l) Buruq. 
+
+bari³ f.g/mg1 (-ryay, -riday; -ryi) 1. (f.g) Cid wax ay leedahay ama ka mas'uul tahay si debecsan u weyddiisasho. 2. (f.mg) Habeen meel u hoyasho. 
+
+baricadde m.l Nooc ka mid ah quraanyada waaweyn oo daba cad leh. 
+
+barid m.f.dh eeg bar³. ld baris, baritan.
+
+baridhawr m.l (-rro, m.dh) Barkin xalleefsan oo koore, kursi iwm layska xajiyo. 
+
+bariggo'an m.l Daruur weyn, biyo lahayn oo aan daruur kale ka hooseyn. 
+
+bariggoo f.mg2 (-ooyay, -oysay) U b.: qof dhaawac ah neef ida ah oo lagu baaniyo u qalid. 
+
+bariggooyo m.dh B. ah: 1. Neef ida ah oo qof dhaawac ah in lagu baaniyo loo qalo. 2. Hanti la siiyo qof la dhaawacay qaansimidda ka hor. 
+
+bariggoyn m.f.dh eeg bariggoo. 
+
+barii f.g2 (-iiyay, -iisay) Habeen meel ku nabad gelin (nafley). ld bariisii.
+
+bariid m.l ld bariis.
+
+bariidi f.g2 (-iyay, -isay) 1. Cid, subax bariido ugu tegid. 2. Cid, salaan ugu tegid. 
+
+bariidin m.f.dh eeg bariidi. ld bariidis, bariido.
+
+bariidis m.l ld bariidin.
+
+bariido m.dh 1. Casho baartay oo maalintii xigtay gaartay. 2. Salaanta kolka waagu beryo. 
+             3. Hanti laga bixiyo gabar guur laga doonayo oo la siiyo soddohda. 4. ld bariidin.
+
+bariin m.f.dh eeg barii. ld bariisiin.
+
+bariiq m.l Qolofta ku dahaaran iniinyaha bariiska intaan la tumin. 
+
+bariir m.dh ld biriir.
+
+bariis m.l Geed cawseed dalagga la beerto ka mid ah dhala iniinyo yaryar oo kuwa sarreenka ka yar oo la cuno marka la karsho. ld bariid.
+
+bariisasho m.f.dh eeg bariiso. 
+
+bariisii f.g2 (-iiyay, -iisay) ld barii.
+
+bariisiin m.f.dh ld bariin.
+
+bariiso¹ m.dh 1. Waqtiga u dhexeeya qoraxsoobaxa ilaa ay qoraxdu diirimaad dhaxanta kiciya ka yeelato. 2. Roob da'a arooryada hore. 
+
+bariiso² f.mg3 (-stay, -satay) Meel lagu hoyaday ilaa diirimaadka qorraxdu dhaxanta kiciyo ku sugnaan. 
+
+barijab m.l Meesha barida iyo bowdadu iska galaan. 
+
+barijugle m.l Dhicidda qof barida si xoog leh dhulka ugu dhufto. ld barijugleyn.
+
+barijuglee f.mg2 (-leeyay, -leysay) Barida si xoog leh dhulka ugu dhufasho. 
+
+barijugley m.dh.u Nooc cayayaanka lix lugoodlaha ah ka mid ah oo leh madax ay ku dahaarantahay qolof adag oo kurtumo leh 
+                  iyo qaar danbe oo buuran oo jilicsan; dhiidhiiyo, xaabley, xabgaal. 
+
+barijugleyn m.f.dh eeg barijuglee. ld barijugle.
+
+barimarsi m.l Dhulka ku xiga deked badeedda, kaasoo wixi dibadda loo dhoofinayo oo dekeddaas maraya ay ka yimaadaan,
+              wixii dibadda looga soo dhoofiyana ay dekeddaas u soo maraan. 
+
+baris m.dh ld barid.
+
+baritaar¹ m.l Xoogga lagu taakuleeyo, qof meel sare oo aan sallaan lahayn fuulaya. 
+
+baritaar² f.g1 (-ray, -rtay) Qof si uu u fuulo meel sare aan sallaan lahayn xoog taakuleeya siin.
 
 
 
