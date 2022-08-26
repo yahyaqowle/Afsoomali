@@ -2598,6 +2598,104 @@ baro¹ m.dh 1. Degaan lagu dhasho ama lagu dhaqmo; guri. 2. Goobta lagu cayaaro 
 
 baro² f.g/mg3 (-rtay, -ratay) 1. (f.g) Aqoon kororsasho. 2. U b.: wax caado ka yeelasho.  Tus. “Cali in uu subax walba canjeero cuno ayuu u bartay”. 
 
+barood¹ m.l 1. ld baroodid. Baabbacada uu geela sameeyo marka uu barwaaqeysanyahay. 2. B. ah: neef sii dhimanaya jirro awgeed. 
 
+barood² f.mg1 (-day, -dday) 1. Geel barwaaqeysan baabbaco sameyn. 2. Neef wax naftu markaa ka baxayso noqosho. 
 
+baroodid m.f.dh eeg barood². ld barood¹ (1), karood¹, karoodid.
+
+baroole m.l Noocyada kalluunka jaad ka mid ah. 
+
+barooq m.dh Mayrax la feeray oo aan weli wax lagu samayn. 
+
+baroor¹ m.l Midab caddaan boor leh ah oo ay farduhu yeeshaan. 
+
+baroor² m.dh 1. Qaylo dheer cataw iyo ilmo leh oo ay haweenku sameeyaan marka ay dhibaato la kulmaan. 2. Meseggo aan bislaan oo sabuul ku taal. 
+
+baroor³ f.mg1 (-ray, -rtay) Oohin iyo cataw kor ugu dhawaaqid. 
+
+baroorad m.l ld baroorasho.
+
+baroorasho m.f.dh eeg barooro. ld baroorad.
+
+baroordiiq¹ m.l/dh 1. Hadallo debecsan oo waano iyo laabqaboojis oo loo jeediyo qof dhibaato culus gaartay; tacsi. 2. ld baroordiiqid.
+
+baroordiiq² f.mg1 (-qay, -qday) U b.: hadallo debecsan oo waano iyo laabqaboojis ah qof dhibaato culus gaartay u jeedin; tacsi ugu tegid. 
+
+baroordiiqid m.f.dh in la baroordiiqo. eeg baroordiiq². ld baroordiiq¹ (1).
+
+baroori f.mg2 (-iyay, -isay) 1. Ka b.: qof baroor ka keenid. 2. Meseggo aan geedkii ku bislaan goyn. ld baroorsii.
+
+baroorin m.f.dh eeg baroori. ld baroorsiin.
+
+barooro¹ m.dh 1. Quwaaxa masaggada marka uu curdanka yahay ee aan la cuni karin. 2. Meseggo aan sabuulkeedii ku bislaan. 
+
+barooro² f.mg3 (-rtay, -ratay) Haweeney dhibaato ay la kulantay awgeed, qaylo dheer oo cataw iyo ilmo leh samayn. 
+
+baroorsasho m.f.dh eeg baroorso. ld baroorsi.
+
+baroorsi m.l ld baroorsasho.
+
+baroorsii f.mg2 (-iiyay, -iisay) ld baroori.
+
+baroorsiin m.dh ld baroorin.
+
+baroorso f.g3 (-saday, -satay) Meseggo aan bislaan gurasho. 
+
+barqaceli f.g2 (-iyay, -isay) Waqti barqo ah xoolo si loo maalo guriga dib u keenid. 
+
+barqacelin m.f.dh eeg barqaceli. ld barqacelis.
+
+barqacelis m.l ld barqacelin.
+
+barqagibin m.dh Saacadaha ugu horreeya barqada. 
+
+barqalibaaxi f.mg2 (-iyay, -isay) Goor barqo ah seexasho (nafley). 
+
+barqalibaaxin m.f.dh eeg barqalibaaxi. 
+
+barqammaal¹ m.l 1. ld barqammaalid. Maalidda xoolaha baraqdii la maalo. 2. Waqti barqo ah oo xoolaha la maalo. 3. B. ah: caano waqtigaa barqada ah la lisay. 
+
+barqammaal² f.g1 (-aalay, -aashay) Waqti barqo ah, xoolo lisid. 
+
+barqammaalid m.f.dh eeg barqammaal². ld barqammaal¹ (1).
+
+barqanoqo f.mg3 (-qday, -qotay) Nafley fooftay, goor barqo ah, hoygeeda dib u tegid. 
+
+barqanoqod m.l ld barqanoqosho.
+
+barqanoqosho m.f.dh eeg barqanoqo. ld barqanoqod.
+
+barqaqabow m.l Toddobada subaxnimo ilaa sagaalka ama subaxnimada inta qorraxdu ayan kululaan. 
+
+barqi f.g2 (-iyay, -isay) Xoolo inta aan la maalin subaxii daajin. 
+
+barqiirqiir m.dh (-ro ..., m.l) (fiis.) Xaaladda dareeraha ee wejiyada hoorka iyo neeftu ay isku cufnaanyihiin.Markaa, dareeraha heerkulkiisa, 
+                                        cadaadiskiisa iyo muggiisuba waxa ay taaganyihiin xaalad qiirqiir. 
+
+barqimo m.dh ld barqo.
+
+barqin¹ m.l ld barqo.
+
+barqin² m.f.dh eeg barqi. 
+
+barqo m.dh Waqtiga u dhaxeeya subaxda iyo harka. ld barqimo, barqin¹.
+
+barqo-kulul m.dh Waqtiga duhurka ka horreya oo cadceeddu aad u kulushahay. 
+
+barqorraxeed m.l (-dyo, m.dh) (c.fal.) Bar qorraxda dusheeda ah, marmarka qaarkoodna waxa laga arki karaa lakab daruureed khafiif ah ama muraayad madow isha qaawan.                                        Bilowgeedu wuu qarsoonyahay, laakiin waxa la rumaysanyahay inuu ka koobanyahay neefo ku meersan gibilka qorraxda. 
+
+barraah¹ m.l Caws dhuudhuuban ee uu soo saaro roobka ugu horreeya ee da'a. 
+
+barraah² f.mg1 (-hay, -hday) Dhul roobkii ugu horreeyey ku da'ay caws dhuudhuuban ka soo bixid. 
+
+barraahid m.f.dh eeg barraah². 
+
+barraahsad m.l ld barraahsasho.
+
+barraahsasho m.f.dh eeg barraahso. ld barraahsad, barraahsi, barraaqsad, barraaqsasho, b .
+
+barraahsi m.l ld barraahsasho.
+
+Finished & Stopped page 93(70)
 
