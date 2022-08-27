@@ -2821,6 +2821,113 @@ baryaddoon m.l (-nno, m.dh) Qof sabool ah oo kaalmo raadsasho ku jiro.
 
 baryadilad m.l ld baryadilasho.
 
+baryadilasho m.f.dh eeg baryadilo. ld baryaddilad, baryaddilasho, baryadilad.
+
+baryadilo f.mg3 (-ishay, -ilatay) Xoolo, calanaqsi samayn. ld baryaddilo.
+
+baryaqaad¹ m.l Dib u raamsashada ay sameeyaan xoolaha calanaqsada. ld baryaqaadid.
+
+baryaqaad² f.g1 (-day, -dday) Dib u raamsasho sameyn (xoolo). 
+
+baryaqaadid m.f.dh eeg baryaqaad². ld baryaqaad¹.
+
+baryaysad m.l ld baryaysasho.
+
+baryaysasho m.f.dh eeg baryayso. ld baryaysad, baryaysi.
+
+baryaysi m.l ld baryaysasho.
+
+baryayso f.g3 (-stay, -satay) Baryo ama tuugsi u bixid. 
+
+baryid m.f.dh eeg bari³. 
+
+baryo m.dh Si debacsan oo cid waxay leedahay ama mas'uul ka tahay loo weyddiisto; tuugmo 
+
+baryood m.l 1. Cunto bariday. 2. Ciir aad u dhannaan oo aan la cabbi karin. 
+
+baryootamid m.f.dh eeg baryootan². ld baryootan¹ (2).
+
+baryootan¹ m.l 1. Baryo badan. 2. ld baryootamid.
+
+baryootan² f.mg1 (-amay, -antay; -ami) Si aad ah cid u baryid. 
+
+bas¹ m.l 1. Geeri caadi ah ee ku timaaddo qof tiisii gashay. 
+         2. (-sas m.l) Baabbuur weyn oo dedan oo daaqada muraayado ah iyo kuraas leh oo rakaabka qaado. 
+         3. Wax gubasho ku dhammaaday oo dambas noqday. 
+
+bas² f.mg1 (-say, -stay) 1. Wax shidan dambas noqosho. 2. Ood iwm duugnimo awgeed la baabi'id. 
+
+basaas¹ m.dh (-siin/-syo, m.dh) 1. Qof, sir cidi leedahay raadiya, una gudbiya cid kale oo ay dan u tahay. 
+                                2. Qof, sir dawladeed raadiya, una gudbiya dawlad kale; sirdoon. 
+
+basaas² m.dh Qallaylka, googgo'a iyo midab doorsoonka ku dhaca timaha marka aan muddo dufan la marin. 
+
+basaas³ f.g/mg1 (-say, -stay) 1. (f.g) Cid sirteeda, cid kale oo ay dan u tahay u gudbin. 
+                              2. (f.mg) Timo aan muddo dufan la marin qallayl, googgo' iyo midab doorsoon la kulmid. 
+
+basaasan f.mg4 (-snaa, -snayd) Wax basaasay ahaansho (timo). 
+
+basaasid m.f.dh eeg basaas³. 
+
+basaasnaan m.f.dh eeg basaasan. ld basaasnaansho.
+
+basaasnaansho m.l/dh ld basaasnaan.
+
+basaasnimo m.dh Basaas ahaansho. 
+
+basaay m.l Toogasho meel fog ah. 
+
+basal m.dh.u Khudrad ur silloon oo dhadhan kulul, caleemo dhuudhuuban oo dhaadheer iyo buruq kuusan leh oo la cuno. 
+
+basalt m.dh (jool.) Dhadhaabo midabkeedu madow yahay, wiriqaheeduna yaryaryihiin, ka abuurma ciid raran ah oo ka soo gufaacda burkaanta oo qabowday ee adkaatay. 
+
+ba'san f.mg4 (-naa, -nayd) 1. Wax la bi'iyay ahaansho (arrin). 
+                           2. Ku b.: wax, wax kale oo foolxumeeya lagu haleeley ahaansho. Tus. “Darbiga dhiigaa ku ba'san”. 
+
+ba'sanaan m.f.dh eeg ba'san. ld ba'sanaansho.
+
+ba'sanaansho m.l/dh ld ba'sanaan.
+
+basanbaas¹ m.l Rafaad waxyeello weyn leh; hoog; ba'. 
+
+basanbaas² f.mg1 (-say, -stay) Rafaad waxyeello weyn leh la kulmid. 
+
+basanbaasi f.g2 (-iyay, -isay) Cid, basanbaas dhaxalsiin. 
+
+basanbaasid m.f.dh eeg basanbaas². 
+
+basanbaasin m.f.dh eeg basanbaasi. 
+
+basar¹ m.l 1. Hab iyo hannaan qof bulsho uu la noolyahay ula dhaqmo. 2. Tab iyo xeelad qof adeegsado si uu arrin ugu xalliyo. 3. ld basrid.
+
+basar² f.g1 (-sray, -sartay; -sri) Wax si tab iyo xeelad leh u xallin. 
+
+basari¹ m.dh Baali; areebo; arraajo. 
+
+basari² f.g2 (-iyay, -isay) Qof si tab iyo xeelad leh u qancin. 
+
+basarikibir m.dh Qab iyo isla weynaan ka muuqda haweeney baali ah. 
+
+basarin m.f.dh eeg basari². 
+
+basarlow m.l (-wyo, m.dh) Qof caqli badan oo arrimaha si tab iyo xeelad ku jirto u xalliya. 
+
+basarxumaan m.f.dh eeg basarxun. ld basarxumaansho, basarxumi, basarxumo.
+
+basarxumaansho m.l/dh eeg basarxumow. ld basarxumaan.
+
+basarxumi m.dh ld basarxumaan.
+
+basarxumo m.dh Hab xun oo bulshada loola dhaqmo. ld basarxumaan.
+
+basarxumow f.mg3 (-maaday, -maatay) Qof aan basar wacan lahayn ahaansho. 
+
+basarxun f.mg4 (-umaa, -umayd) Qof aan basar wacan lahayn ahaansho. 
+
+basbaas m.l Geed-nagaar la beerto oo dhala miro dhuudhuuban oo kulul oo cuntada lagu darsado. ld bisbaas.
+
+bash¹ m.l Guddi ka kooban shan oday oo hoos yimaada dawladda ingiriiska.
+
 
 
 
