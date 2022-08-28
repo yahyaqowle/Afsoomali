@@ -3249,51 +3249,82 @@ bayrbayriyid m.f.dh eeg bayrbayr². ld bayrbayr¹.
 bayri f.g2 (-iyay, -isay) Wax toos u socday,
 dhinac u weecin.
 
+bayri f.g2 (-iyay, -isay) Wax toos u socday,
+dhinac u weecin.
+
 bayrid m.f.dh eeg bayr³. ld bayr¹ (2).
+
 bayrin m.f.dh eeg bayri.
+
 baysadhabad m.l ld baysadhabasho.
+
 baysadhabasho m.f.dh eeg baysadhabo. ld
 baysadhabad.
+
 baysadhabo f.mg3 (-btay, -batay) Socod cabsi
 ku jirto socosho.
+
 baysaqasho m.f.dh eeg baysaqo.
+
 baysaqo f.mg3 (-qday, -qatay) Durduro iyo
+
 bardoodan sameyn (geel).
+
 baytammaal¹ m.l ld beytummaal¹.
+
 baytammaal² f.g1 (-aalay, -aashay) ld
 beytummaal².
+
 baytammaalid m.dh ld beytummaalid.
+
 bayti f.g2 (-iyay, -isay) 1. Baadi maqan
 xogteeda sheegid. 2. Baadi maqan xogteeda
 cid weyddiin.
+
 baytimmaal¹ m.l ld beytimmaal¹.
+
 baytimmaal² f.g1 (-aalay, -aashay) ld beytimmaal².
+
 baytimmaali f.g2 (-iyay, -isay) ld
 beytimmaali.
+
 baytimmaalid m.dh ld beytimmaalid.
+
 baytimmaalin m.dh ld beytimmaalin.
+
 baytimmaalis m.l ld beytimmaalin.
+
 baytin m.f.dh eeg bayti. ld baytis.
+
 baytis m.l ld baytin.
+
 bayuur m.dh Ceeb aad u weyn; jiciir.
+
 bayuurayn m.f.dh eeg bayuuree.
+
 bayuuree f.g2 (-reeyay, -raysay) Cid ceeb
 weyn gaarsiin.
+
 beb f.g1 (-bay, -btay) Ciyaar lagu tartamay,
 foorooyinkood iska soo gudid.
+
 bebid m.f.dh eeg beb.
+
 bebsiin m.l (kiim.) Insaymyo ay dhiiqaan
 unugyada ku yaalla gudaha caloosha
 lafdhabarleyda, kaas oo dedejiya borotiinka.
 bed¹ m.l (-dad, m.l) Masaaxa dhul ku
 fadhiiyo.
+
 bed² m.l (-dad, m.l) (xis.) Summad A.
 Cabbirka ama baaxadda dul. Dushu waxa ay
 noqon kartaa dul sallax ah ama dul xoodan.
 Halbeegga caalamiga ah ee bedka waa mitir
 labajibbaaran (m2).
+
 bed³ m.l/dh (-do, m.l) 1. Caafimaad; ladnaan.
 2. Badbaado. ld bąd.
+
 beddel¹ m.l 1. ld beddelid. Dhaafsashada wax
 wax kale la dhaafsado. 2. ld beddelid.
 Wareejinta qof meel uu hawl ka hayey laga
@@ -3301,34 +3332,48 @@ wareejiyo iyadoo meel kale la geynayo. 3. B.
 ah: qof meel uu hawl ka hayey laga wareejiyo
 iyadoo meel kale la geynayo si uu hawshii
 halka uga si wato.
+
 beddel² f.g1 (-elay, -eshay) Wax la beddelay
 ka dhigid; wax wax kale ku doorin. ld
+
 baddal².
 beddelaad m.dh ld beddelid.
+
 beddelan¹ f.mg1 (-lmay, -lantay; -lmi) Wax
 la beddelay noqosho. ld baddalan¹.
+
 beddelan² f.mg4 (-lnaa, -lnayd) Wax beddel
 ku dhacay ahaansho. ld baddalan².
 beddelasho m.f.dh eeg beddelo. ld baddalasho.
+
 beddelid m.f.dh eeg beddel². ld baddal¹,
 baddalaad, baddalid, beddel¹ (1,2), bed
+
 beddelmid m.f.dh eeg beddelan¹. ld
 baddalmid.
+
 beddelnaan m.f.dh eeg beddelan². ld
+
 baddalnaan, baddalnaansho,
 beddelnaansho.
+
 beddelnaansho m.l/dh ld beddelnaan.
+
 beddelo f.g/mg. 3 (-eshay, -elatay) 1. (f.g)
 Wax, wax kale dhaafsasho. 2. (f.mg) Ka b.:
 qof meel hawl ka hayey meel kale oo uu
 hawshiisii ka si wato aadid.
+
 beden m.l (-emmo /-enno, m.dh) 1. Gaadiid
+
 badeed doonta ka yar huurigana ka weyn oo
 lagu kalluumeysto. 2. Oogada dadka.
+
 beder¹ m.l ld bedrid.
+
 beder² f.g1 (-dray, -dertay; -dri) Wax sida
 faras iwm orodkooda tijaabin.
-ok
+
 bedertami f.g2 (-iyay, -isay) Wax orod ku
 tartansiin. ld baratami, baratansii,
 bedertansii, beretami.
@@ -3337,7 +3382,6 @@ bedertamid m.f.dh eeg bedertan². ld
 baratamid, beretamid.
 
 bedertamin m.f.dh eeg bedertami. ld
-
 baratamin, baratansiin, baratansiis,
 bedertansiin,
 
@@ -3371,9 +3415,8 @@ Kismaayo).
 
 beec m.l ld biic (1).
 
-beeci f.g2 (-iyay, -isay) ld biici.
+beeci f.g2 (-iyay, -isay) ld biici
 
-Finished and stopped page 99(76)
-
+Completed page 99 (76)
 
 
