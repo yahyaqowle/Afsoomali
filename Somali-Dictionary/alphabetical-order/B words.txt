@@ -3367,5 +3367,125 @@ beec m.l ld biic (1).
 
 beeci f.g2 (-iyay, -isay) ld biici.
 
+beecin m.dh ld biicin.
+
+beecis m.l ld biicin.
+
+beecmushtar¹ m.l 1. ld biicmushtari. 2. ld biicmushtarid.
+
+beecmushtar² f.mg1 (-ray, -rtay) ld biicmushtar².
+
+beecmushtari m.l ld biicmushtari.
+
+beecmushtarid m.dh ld biicmushtarid.
+
+beecsad m.l ld biicsasho.
+
+beecsasho m.dh ld biicsasho.
+
+beecsi m.l ld biicsasho.
+
+beecso f.g3 (-saday, -satay) ld biicso.
+
+beed m.l.u Ukun. 
+
+beedal¹ m.l ld beeddal¹.
+
+beedal² f.mg1 (-alay, -ashay) ld beeddal².
+
+beedalan f.mg4 (-naa, -nayd) ld beeddalan.
+
+beedalid m.dh ld beeddalid.
+
+beedalnaan m.dh ld beeddalnaan.
+
+beedalnaansho m.l/dh ld beeddalnaan.
+
+beeddal¹ m.l B. ah: Geenyo kudaal u baahan. ld beedal¹.
+
+beeddal² f.mg1 (-alay, -ashay) Kudaal u baahasho (geenyo). ld beedal².
+
+beeddalan f.mg4 (-lnaa, -lnayd) Wax kudmo rabo ahaansho (geenyo). ld beedalan.
+
+beeddalid m.f.dh eeg beeddal². ld beedalid.
+
+beeddalnaan m.f.dh eeg beeddalan. ld beedalnaan, beedalnaansho, beeddalnaasho.
+
+beeddalnaansho m.l/dh ld beeddalnaan.
+
+beeg¹ m.l 1. ld beegmo. Raashinka la cuno, sida badarka, sonkorta, timirta iwm cabbirkooda. 2. ld beegid.
+
+beeg² f.g1 (-gay, -gtay) 1. Suus, madaal, shood iwm wax ku miisid. 2. Ku b.: wax, wax kale ku toosi. 
+
+beegaal-heerkul-cadaadis-(B.H.C.) m.l (fiis.) (B.H.C.) Beegalka heerkulka iyo cadaadiska oo hore loo odhan jirey heerkulka iyo cadaadiska caadiga ah, 
+                                                       waa xaaladda beegaal ee loo adeegsado furfurista xisaabeed ee xaddiyada isla beddela heerkulka 
+                                                       iyo cadaadiska, marka la is barbar dhigayo astaamaha neefaha. Xaaladdaasi waa marka heerkulka yahay 
+                                                       (273.15 K ama 0øC) iyo cadaadis (760 mm Meerkuri ah). 
+
+beegan¹ f.mg1 (-gmay, -gantay; -gmi) 1. Wax la beegay noqosho. 2. Ku b.: wax, wax kale ku toosan noqosho. 
+
+beegan² f.mg4 (-gnaa, -gnayd) 1. Wax la beegay ahaansho. 2. Wax la buuxshay ahaansho. 
+                              3. Ku b.: wax, wax kale lagu aaddiyey ahaansho. 4. Ku b.: waqti, waqti ku aadan ahaansho. 
+
+beegasho m.f.dh eeg beego. 
+
+beegid m.f.dh eeg beeg². ld beeg¹ (2). beegmid m.f.dh eeg beegan¹. 
+
+beegmo m.dh 1. Isla simid; iswaafaqid. 2. ld beeg1 (1).
+
+beegnaan m.f.dh eeg beegan². ld beegnaansho. beegnaansho m.l/dh ld beegnaan.
+
+beego f.g3 (-gtay, -gatay) Suus, madaal, shood iwm raashin ku miisasho. 
+
+beegsad m.l ld beegsasho.
+
+beegsasho m.f.dh eeg beegso. ld beegsad, beegsi.
+
+beegsi m.l ld beegsasho.
+
+beegso f.g3 (-saday, -satay) Qof qiimo ama dhaqaale dheeraad ah leh isla simid. 
+
+beejaggoys m.dh Xasharaad yaryar oo midab madow leh oo sida badan buuryada ka qaniinta wiilasha yaryar. ld buuryaggoys, buuryo-goys.
+
+beejaqab m.l ld buuryaaqab.
+
+beeji f.g2 (-iyay, -isay) Wax quruxdooda muujin. 
+
+beejin m.f.dh eeg beeji. 
+
+beejo m.dh ld buuryo.
+
+beekhaami f.g2 (-iyay, -isay) 1. Wax tashiilid. 2. Wax la miisayo wax yar ku kordhin. 
+
+beekhaamid m.f.dh eeg beekhaan². ld beekhaan¹.
+
+beekhaamin m.f.dh eeg beekhaami. 
+
+beekhaan¹ m.l 1. Badashada ay badato cunno la karinayo. 2. Wax yar oo lagu suubiyo wax la miisay. 3. Tashiilidda wax la tashiilo. 4. ld beekhaamid.
+
+beekhaan² f.mg1 (-aamay, -aantay; -aami) Cunto la karinayo sida bariis iwm. tarmid; wax badasho. 
+
+beekhaansad m.l ld beekhaansasho.
+
+beekhaansan f.mg1 (-amay, -antay) Wax beekhaan yeeshay ahaansho. 
+
+beekhaansanaan m.f.dh eeg beekhaansan. ld beekhaansanaansho.
+
+beekhaansanaansho m.l/dh ld beekhaansanaan.
+
+beekhaansasho m.f.dh eeg beekhaanso. ld beekhaansad, beekhaansi.
+
+beekhaansi m.l ld beekhaansasho.
+
+beekhaanso f.mg3 (-saday, -satay) 1. Wax tashiilasho. 2. Wax la miisayo wax ku kordhisasho. 
+
+beel¹ m.dh (-lo, m.l) Cid ama reero badan oo meel wada deggan; duddo; qeyro. 
+
+beel² m.dh.u Koox dabeeci ahaan sabo ku wada uuman, oo isugu jira sinjiyo dhir iyo xayawaanba leh. 
+
+beel³ f.g1 (-eelay, -eeshay) Hanti ama wax kale oo hore loo lahaa tirmid; waayid.
+
+
+
 
 
