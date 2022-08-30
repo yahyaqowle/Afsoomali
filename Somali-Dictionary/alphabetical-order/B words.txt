@@ -3695,7 +3695,7 @@ beerqaad² f.g1 (-day, -dday) Wax si aad ah uga helid.
 
 beerqaadid m.f.dh eeg beerqaad². ld beerqaad¹.
 
-beerrey m.dh 1. Nooc ciyaaraha hiddaha iyo dhaqanka soomaaliyeed ka mid ah, oo leh jiib, jaan, sacab iyo biro la isku garaaco oo ragga iyo dumarku ay wada ciyaaraan.              2. ld beeraley.
+beerrey m.dh 1. Nooc ciyaaraha hiddaha iyo dhaqanka soomaaliyeed ka mid ah, oo leh jiib, jaan, sacab iyo biro la isku garaaco oo ragga iyo dumarku ay wada ciyaaraan.                2. ld beeraley.
 
 beersaar¹ m.l ld beersaarid.
 
@@ -3893,128 +3893,85 @@ beretansiin m.dh ld bedertamin.
 
 beretansiis m.l ld bedertamin.
 
-beri¹ m.l 1. Waqti aan xaddidnayn ee la soo
-dhaafay; waa; jeer; seben. 2.(-iyo m.dh)
-Dharaar iyo habeenkeeda. 3. B.ga: maanta.
+beri¹ m.l 1. Waqti aan xaddidnayn ee la soo dhaafay; waa; jeer; seben. 2.(-iyo m.dh) Dharaar iyo habeenkeeda. 3. B.ga: maanta.
 
-beri² f.mg1 (-iyay, -iday; -iyi) Maalin
-bilaabasho, waagii baa bariyay.
+beri² f.mg1 (-iyay, -iday; -iyi) Maalin bilaabasho, waagii baa bariyay.
 
-beriberi m.l (daaw.) Cudur ka yimaada
-cunnoxumo gaar ahaan fiitamiin B1 la'aan.
-Waxuu ku badanyahay dadka badsada
-cunidda badarka ama bariiska la tumay.
-Kaasoo xuubka laga qaaday, xuubka waxa ku
-badan fiitamiin B1.
+beriberi m.l (daaw.) Cudur ka yimaada cunnoxumo gaar ahaan fiitamiin B1 la'aan. Waxuu ku badanyahay dadka badsada cunidda badarka ama bariiska la tumay. 
+                     Kaasoo xuubka laga qaaday, xuubka waxa kubadan fiitamiin B1.
 
-beridhax m.l Baryidda habeen meel la baryo. ld
-beridhaxmo (2).
+beridhax m.l Baryidda habeen meel la baryo. ld beridhaxmo (2).
 
-beridhaxmo m.dh 1. Sahay ku filan hal beri oo
-safar ah. 2. ld beridhax.
+beridhaxmo m.dh 1. Sahay ku filan hal beri oo safar ah. 2. ld beridhax.
 
 berisabool m.l Xilli ay dhibaato badan jirto.
 
-berisamaad m.l (-dyo, m.dh) Waqti barwaaqo
-badan oo aan dhibaato jirin.
+berisamaad m.l (-dyo, m.dh) Waqti barwaaqo badan oo aan dhibaato jirin.
 
-beritalsis m.l (daaw.) Dhaqdhaqaaq mawjadda
-oo kale ah oo ku socda xubnaha qaarkood ee
-jirka kuma xirna rabista qofka, wuxuuna
-caan ku yahay xubnaha ka sameysan muruq
-wareegsan iyo muruq dherer u dhigan - sida:
-xiidmaha.
+beritalsis m.l (daaw.) Dhaqdhaqaaq mawjadda oo kale ah oo ku socda xubnaha qaarkood ee jirka kuma xirna rabista qofka, wuxuuna caan ku yahay xubnaha ka sameysan 
+                       muruq wareegsan iyo muruq dherer u dhigan - sida: xiidmaha.
 
 beriyid m.f.dh eeg beri².
 
 berkad m.dh ld berked.
 
-berked m.dh (-do, m.l) Meel loo dhisay in ay
-biyo galaan oo lagu kaydsado.².
+berked m.dh (-do, m.l) Meel loo dhisay in ay biyo galaan oo lagu kaydsado.².
 
 berkeg¹ m.l ld bardad¹.
 
 berkeg² f.mg1 (-gay, -gtay) ld bardad².
+
 berkegid m.dh ld bardadid.
+
 berkegsan f.mg4 (-naa, -nayd) ld bardadsan.
+
 berkegsanaan m.dh ld bardadsanaan.
+
 berkegsanaansho m.l/dh ld bardadsanaan.
 
 berri¹ m.l ld birri.
 
-berri² m.dh.fk 1. ld berrito. Maalinta maanta
-iyo saaddambe u dhexeysa. 2. B. dambe:
-maalinta b. xigta, saaddambe.
+berri² m.dh.fk 1. ld berrito. Maalinta maanta iyo saaddambe u dhexeysa. 2. B. dambe: maalinta b. xigta, saaddambe.
 
-berribiyood m.l.u (-yo, m.dh) Dir ka mid ah
-lafdhabarleyda sida raha. Berribiyoodka waxa
-lagu tiriyaa inay yihiin xayawaankii ugu
-horreeyey ee lafdhabarleyda ahaa ee dhulka
-ku noolaa, qaar badan oo astaamahooda ka
-mid ahina waxay muujinayaan inay
-qabatimeen nolosha berriga.
+berribiyood m.l.u (-yo, m.dh) Dir ka mid ah lafdhabarleyda sida raha. Berribiyoodka waxa lagu tiriyaa inay yihiin xayawaankii ugu
+                              horreeyey ee lafdhabarleyda ahaa ee dhulka ku noolaa, qaar badan oo astaamahooda kamid ahina waxay 
+                              muujinayaan inay qabatimeen nolosha berriga.
 
-berridambe m.dh Maalinta markaas la joogo
-ayaanteeda saddexaad oo soo socota;
-saaddambe.
+berridambe m.dh Maalinta markaas la joogo ayaanteeda saddexaad oo soo socota; saaddambe.
 
-berrin m.l (-nno, m.dh) Meel bannaan, dhir
-ku hareereysan oo degaan ku habboon, ruun.
+berrin m.l (-nno, m.dh) Meel bannaan, dhir ku hareereysan oo degaan ku habboon, ruun.
 
 berrito fk. ld berri² (1).
 
-berriyeed m.l.u (-dyo, m.dh) (baay.)
-Noolayaasha ku nool dhulka.
+berriyeed m.l.u (-dyo, m.dh) (baay.) Noolayaasha ku nool dhulka.
 
 bersad m.dh ld bersed.
 
-bersed m.dh (-do, m.l) Qeyb guriga ka mid ah
-oo fadhi loogu tala galay. ld barsad, barso,
-bersad, berso.
+bersed m.dh (-do, m.l) Qeyb guriga ka mid ah oo fadhi loogu tala galay. ld barsad, barso, bersad, berso.
 
 berso m.dh ld bersed.
 
-bes m.dh 1.(ld bis) 2. Erey lagu yiraahdo
-dameerka marka la doonayo in la joojiyo.
-3. Erey loo jeediyo qof hawl hayey si uu u
-joojiyo. 3. B.tay baan ahay: waan liitaa.
+bes m.dh 1.(ld bis) 2. Erey lagu yiraahdo dameerka marka la doonayo in la joojiyo. 3. Erey loo jeediyo qof hawl hayey si uu ujoojiyo. 3. B.tay baan ahay: waan liitaa.
 
-betrooliyam m.l (kiim.) Iskujir
-haydarookaarboonno ah oo asal ahaan ka
-samaysmay xayawaanka iyo dhirta badaha,
-lagana helo ubucda dhulka iyaga oo jiifa (ku
-xanniban) lakabyo dhagax ah dhexdood.
+betrooliyam m.l (kiim.) Iskujir haydarookaarboonno ah oo asal ahaan ka samaysmay xayawaanka iyo dhirta badaha,
+                        lagana helo ubucda dhulka iyaga oo jiifa (ku xanniban) lakabyo dhagax ah dhexdood.
+                        Waxa lagu soo saaraa xeeladda riigga (waxa kale oo lagu magacaabaa saliid cayriin).
+                        Qaybta ugu muhiimsani waa: naaftada(saliid neefeed), gaaska (baarafiin) iyo
+                        bensiinka oo loo adeegsado shidaal matoor ahaan (betrool).
 
-Waxa lagu soo saaraa xeeladda riigga (waxa
-kale oo lagu magacaabaa saliid cayriin).
+bey¹ m.l Midab cad oo madow yari ku dheehanyahay oo ay yeeshaan lo'da, fardaha iyo riyaha.
 
-Qaybta ugu muhiimsani waa: naaftada
-(saliid neefeed), gaaska (baarafiin) iyo
-bensiinka oo loo adeegsado shidaal matoor
-ahaan (betrool).
-
-bey¹ m.l Midab cad oo madow yari ku
-dheehanyahay oo ay yeeshaan lo'da, fardaha
-iyo riyaha.
-
-bey² m.dh Nooc ka mid ah halaqyada
-waaweyn oo leh waabaayo halis ah.
+bey² m.dh Nooc ka mid ah halaqyada waaweyn oo leh waabaayo halis ah.
 
 bey'ad m.dh (-do, m.l) Degaan. ld bii'ad.
 
-beycad m.l Midab ciira boos ah oo caddaan
-xiggeen ah oo ay yeeshaan lo'da iyo fardaha.
-ld giircad.
+beycad m.l Midab ciira boos ah oo caddaanxiggeen ah oo ay yeeshaan lo'da iyo fardaha.ld giircad.
 
-beycas m.l Midab ciira boos ah oo casaan yar
-ku dheehanyahay oo ay yeeshaan lo'da
-fardaha iyo riyaha. ld beyguduud.
+beycas m.l Midab ciira boos ah oo casaan yarku dheehanyahay oo ay yeeshaan lo'dafardaha iyo riyaha. ld beyguduud.
 
-beyd m.l (-dad, m.l) 1. Guri; aqal. 2. Hal sadar
-oo maanso ah.
+beyd m.l (-dad, m.l) 1. Guri; aqal. 2. Hal sadaroo maanso ah.
 
-beydacar m.l (-rro, m.dh) Bey midab dacar ah
-ku dhafanyahay.
+beydacar m.l (-rro, m.dh) Bey midab dacar ahku dhafanyahay.
 
 beygag¹ m.l ld baydadid.
 
@@ -4026,144 +3983,98 @@ beygagid m.dh ld baydadid.
 
 beygagin m.dh ld baydadin.
 
-beyguduud m.l Midab lo'aad ah, bey guduud
-ku dhafanyahay. ld beycas.
+beyguduud m.l Midab lo'aad ah, bey guduud ku dhafanyahay. ld beycas.
 
-beymmadow m.l Midab bey ah oo madowgu
-ku badan yahay. ld giirmadow. beynaad m.dh (-do, m.l) Bir mindida u eg oo
-labada dhinac af ku leh oo buntukha afkiisa
-la suro.
+beymmadow m.l Midab bey ah oo madowgu ku badan yahay. ld giirmadow. 
 
-beynajaho m.dh (-ooyin, m.l) Afarta jaho
-middood.
+beynaad m.dh (-do, m.l) Bir mindida u eg oo labada dhinac af ku leh oo buntukha afkiisa la suro.
 
-beys m.l (kiim.) Iskudhis sii daaya ayoonka
-haydarogsayl, OH- , marka uu ku jiro milanbiyood. Milannada beysyada ahi waxay
-leeyihiin pH ka sarreeya 7.
+beynajaho m.dh (-ooyin, m.l) Afarta jaho middood.
 
-beytalmay m.l (-aayo, m.dh) Musqul.
+beys m.l (kiim.) Iskudhis sii daaya ayoonka haydarogsayl, OH- , marka uu ku jiro milanbiyood. Milannada beysyada ahi waxay leeyihiin pH ka sarreeya 7.
 
-beytimmaal¹ m.l 1. B. ah: hanti baylah ah.
-2. Keydka dhexe ee Dawladda Islaanka. ld
+beytalmay m.l (-aayo, m.dh) Musqul. 
 
-baytammaal¹, baytimmaal¹,
+beytimmaal¹ m.l 1. B. ah: hanti baylah ah. 2. Keydka dhexe ee Dawladda Islaanka. ld baytammaal¹, baytimmaal¹, beytummaal¹.
 
-beytummaal¹.
+beytimmaal² f.g1 (-aalay, -aashay) Hanti baylihid. ld baytammaal², baytimmaal², beytummaal².
 
-beytimmaal² f.g1 (-aalay, -aashay) Hanti
-baylihid. ld baytammaal², baytimmaal²,
+beytimmaali f.g2 (-iyay, -isay) Hanti baylah ka dhigid. ld baytimmaali.
 
-beytummaal².
+beytimmaalid m.f.dh eeg beytimmaal². ldbaytammaalid, baytimmaalid, beytummaalid.
 
-beytimmaali f.g2 (-iyay, -isay) Hanti baylah
-ka dhigid. ld baytimmaali.
-
-beytimmaalid m.f.dh eeg beytimmaal². ld
-baytammaalid, baytimmaalid,
-beytummaalid.
-
-beytimmaalin m.f.dh eeg beytimmaali. ld
-baytimmaalin, baytimmaalis,
-beytimmaalis.
+beytimmaalin m.f.dh eeg beytimmaali. ld baytimmaalin, baytimmaalis, beytimmaalis.
 
 beytimmaalis m.l ld beytimmaalin.
 
-beytulxaraam m.l Masjidka barakeysan ee
-masaajaddada Islaanka ugu weyn oo Maka
-ku yaal.
+beytulxaraam m.l Masjidka barakeysan eemasaajaddada Islaanka ugu weyn oo Maka ku yaal.
 
 beytummaal¹ m.l ld beytimmaal¹.
 
-beytummaal² f.g1 (-aalay, -aashay) ld
+beytummaal² f.g1 (-aalay, -aashay) ld beytimmaal². beytummaalid m.dh ld beytimmaalid.
 
-beytimmaal².
-beytummaalid m.dh ld beytimmaalid.
-
-biciid m.l Jaad ugaarta waaweyn ka mid ah, leh
-midab dacar ah, geeso dhaadheer oo toosan,
-bogcad iyo labo diillimood oo madow oo
-dhinacyada ku yaal.
+biciid m.l Jaad ugaarta waaweyn ka mid ah, leh midab dacar ah, geeso dhaadheer oo toosan, bogcad iyo labo diillimood oo madow oo dhinacyada ku yaal.
 
 bicir m.l ld dubayo.
 
-biciriir m.l Eegitaan aan indhaha dhab loo kala
-qaadin iyadoo muruqyadooda la adkaynayo
-kolka aragtidoodu yartahay ama if xoog
-badani ka hor yimaado.
+biciriir m.l Eegitaan aan indhaha dhab loo kala qaadin iyadoo muruqyadooda la adkaynayo kolka aragtidoodu yartahay ama if xoog badani ka hor yimaado.
 
 biciriirsad m.l ld biciriirsasho.
 
-biciriirsasho m.f.dh eeg biciriirso. ld
-biciriirsad, biciriirsi.
+biciriirsasho m.f.dh eeg biciriirso. ld biciriirsad, biciriirsi.
 
 biciriirsi m.l ld biciirsasho.
 
-biciriirso f.mg3 (-saday, -satay) Indhaha oo
-aan dhab loo kala qaadin oo muruqyadooda
-la adkaynayo wax ku eegid.
+biciriirso f.mg3 (-saday, -satay) Indhaha oo aan dhab loo kala qaadin oo muruqyadooda la adkaynayo wax ku eegid.
 
 bid f.g/mg1 (-day, -dday) 1. (f.g) Wax dan moodid.
                           2. (f.g) Cid wax ku tuhmid.
-                        3. (f.mg) Wax dabayl raacid.
+                          3. (f.mg) Wax dabayl raacid.
 
 bidaa'i m.l Bilow ah; aasaasi ah.
 
 bidaal m.l Male aan hubaal ku dhisnayn.
 
-bidaar¹ m.l Nin ay timaha bidaar ka gashay. ld
-bidaarle, bidaarre.
+bidaar¹ m.l Nin ay timaha bidaar ka gashay. ld bidaarle, bidaarre.
 
-bidaar² m.dh Iin madaxa ragga gasha oo
-timaha hoosha ama wax yar ku reebta.
+bidaar² m.dh Iin madaxa ragga gasha oo timaha hoosha ama wax yar ku reebta.
 
-bidaarhoraad m.dh Bidaarta gasha madaxa
-intiisa hore.
+bidaarhoraad m.dh Bidaarta gasha madaxa intiisa hore.
 
 bidaarle m.l (-layaal, m.l/dh) ld bidaar¹.
 
-bidaarloobid m.f.dh eeg bidaarlow. ld
-bidaarroobid.
+bidaarloobid m.f.dh eeg bidaarlow. ld bidaarroobid.
 
-bidaarlow f.mg1 (-oobay, -owday; -oobi)
-Wax bidaar ghashay noqosho. ld bidaarrow.
+bidaarlow f.mg1 (-oobay, -owday; -oobi) Wax bidaar ghashay noqosho. ld bidaarrow.
 
 bidaarre m.l (-rayaal, m.l/dh) ld bidaar¹.
 
 bidaarroobid m.dh ld bidaarloobid.
 
-bidaarrow f.mg1 (-oobay, -owday; -oobi) ld
-bidaarlow.
+bidaarrow f.mg1 (-oobay, -owday; -oobi) ld bidaarlow.
 
-bidcee f.g2 (-ceeyay, -ceysay) Qof bidci ka
-dhigid.
+bidcee f.g2 (-ceeyay, -ceysay) Qof bidci ka dhigid.
 
 bidceyn m.f.dh eeg bidcee.
 
 bidceysasho m.f.dh eeg bidceyso.
 
-bidceyso f.g3 (-saday, -satay) (dii.) Wax, wax
-bidco ah, tixgelin.
+bidceyso f.g3 (-saday, -satay) (dii.) Wax, wax bidco ah, tixgelin.
 
-bidci m.l (-iyo, m.dh) (dii.) Qof ku sifoobay
-dhaqanka bidcada.
+bidci m.l (-iyo, m.dh) (dii.) Qof ku sifoobay dhaqanka bidcada.
 
 bidcinnimo m.dh Bidci ahaansho.
 
-bidco m.dh (-ooyin, m.l) (dii.) Dhaqan
-diimeed cusub oo aan diinta Islaanka ka mid
-ahayn oo lagu soo daro.
+bidco m.dh (-ooyin, m.l) (dii.) Dhaqan diimeed cusub oo aan diinta Islaanka ka mid ahayn oo lagu soo daro.
 
 bidcoobid m.f.dh eeg bidcow.
 
-bidcow f.mg1 (-oobay, -owday; -oobi) (dii)
-Qof bidcinnimo ku sifoobay noqosho.
+bidcow f.mg1 (-oobay, -owday; -oobi) (dii) Qof bidcinnimo ku sifoobay noqosho.
 
-biddad m.dh (-do, m.l) Haweeney la leeyahay
-aan xor ahayn oo sidii la doono loogu
-shaqeysto.
+biddad m.dh (-do, m.l) Haweeney la leeyahay aan xor ahayn oo sidii la doono loogu shaqeysto.
 
 biddannimo m.dh Bidde ahaansho (qof).
 
-Completed page 105(82)
+Organized page 104(81) 105(82)
 
 
