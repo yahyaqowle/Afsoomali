@@ -69,7 +69,115 @@ daabid m.f.dh eeg daab³.
 
 daabixid m.dh ld daabaxid.
 
-Stop and finished page 184(161)
+daabnaan m.f.dh eeg daaban. ld daabnaansho.
 
+daabnaansho m.l/dh ld daabnaan.
+
+daabo f.g/mg3 (-btay, -batay) 1. (f.g) Qalab daab u samaysasho. 2. (f.mg) Ku dhicid daab (dhasha xoolaha). Tus. “Waxartu waa daabatay”. 
+
+daabul f.g1 (-ulay, -ushay) Xoolo koox-koox u socda si degdeg ah u rarid. 
+
+daabulid m.f.dh eeg daabul. 
+
+daac¹ m.dh Qabatoon; macaluul; diihaal. 
+
+daac² f.g/mg1 (-cay, -cday) 1. (f.g) Neef caloosha ka timaadda oo dhawaaq leh, afka ka sii deyn. 2. (f.mg) Nafley caatoobid. ld daaco².
+
+daacad m.dh Qof niyad samida ama mukhlisnimada uu muujinayo ay ka dhabtahay. 
+
+daacadnimo m.dh Daacad ahaansho. 
+
+daacadxumo m.dh Daacadnimo la'aan. 
+
+daacaqurmid m.f.dh eeg daacaqurun². ld dacwashiirid.
+
+daacaqurun¹ m.l Daaco ur qurmoon oo ka timaadda calool cunto kala duwan qaadatay. ld dacwashiir¹.
+
+daacaqurun² f.mg1 (-rmay, -rantay; -rmi) Qof, cunto uu cunay ku bukooday oo naqas qurmoon bixinaya noqosho. ld dacawashiir².
+
+daacasho m.dh ld daacid.
+
+daaci¹ m.l.kh D. ah: neef aad caato u ah. 
+
+daaci² f.g/mg2 (-iyay, -isay) 1. (f.g) In weyn oo wax hoore ah shubid. 2. (f.mg) Fatihid (webi). 
+
+daacid m.f.dh eeg daac². ld daacasho.
+
+daacin m.f.dh eeg daaci². 
+
+daaco¹ m.dh (-ooyin, m.l) 1. Neef dhawaaq leh, caloosha ka timaadda oo afka ka soo baxda. 2. Dhul godan oo aan dhir lahayn. 
+
+daaco² f.mg3 (-cday, -catay) ld daac².
+
+daacuf m.dh Timo ama dhogor dheer, si xun u baxay ama aan la habeyn. 
+
+daacufle m.l Qof ama neef daacuf ah. 
+
+daacuun¹ m.l Cudur calooleed aad halis u ah, dhaqso u faafa oo leh shuban badan oo biyo ah. ld daacuun-calooleed, daacuuncaloolo.
+
+daacuun² m.l (daaw.) Cudur muddo gaaban oo la is qaadsiiyo oo ku dhaca xiidmaha waxaana keena baktiiriyada “vibrio cholerae”.
+                     Astaamaha: matag badan, shuban biyha bariiska u eg, jirka oo biyuhu ka dhammaadaan; cudurka waxaa laga qaadaa 
+                     cunto ama biyo aan nadiif ahayn oo u gaadhay saxaro qof qaba cudurkaas. 
+
+daacuun-calooleed m.l ld daacuun¹.
+
+daacuuncaloolo m.l ld daacuun¹.
+
+daacwashiir¹ m.l Daacaqurun. 
+
+daacwashiir² f.mg1 (-ray, -rtay) Daacaqurmid. 
+
+daacwashiirid m.f.dh eeg daacwashiir². 
+
+daad¹ m.l (-dad, m.l) 1. Biyo xoog leh oo faafa oo ka yimaadda roob da'ay ama webi fatahay. 
+                      2. Qaybta roobka ka mid ah oo ugu dambaysti gaarta duruuraha. 
+
+daad² m.l (-dad, m.l) (juqr.) Biyo si kedis ah oo dar-dar ah u shubma ee uu gaar ahaan keeno roobka weyn ee ka da'a waadiyada meelaha lamadegaan-u-ekeyaasha ah. 
+
+daad³ f.mg1 (-day, -dday) Biyo badan oo ka yimid roob da'ay ama webi fatahay faafid. 
+
+daadad m.l ld daadasho.
+
+daadasho m.f.dh eeg daado. ld daadad.
+
+daaddah m.dh Eray carruurta yaryar lagu yiraahdo kolka gacnaha la hayo oo socodka la barayo. 
+
+daaddeg¹ m.l (-gyo, m.dh) Meel taag ah gollaheeda. 
+
+daaddeg² m.l (-gyo, m.dh) (juqr.) Qayb ka mid ah webiga oo socoshada biyaheedu ay ka dheerayso socoshada caadiga ah ee biyaha. 
+                                  Waxa laga yaabaa inay sababto tiirada oo janjeerkeedu si kedis ah kor ugu kaco, ama adkaysiga 
+                                  dhadhaabaha biyuhu dul marayaan oo aan isla ekayn. 
+
+daaddeg³ f.mg1 (-gay, -gtay) Ka d.: meel taag ah hoos uga dhaadhicid. 
+
+daaddegid m.f.dh eeg daaddeg³. 
+
+daaddihi f.g2 (-iyay, -isay) 1. Ilmo yar socod barid. 2. Wax si tartiib ah u wadid. 
+
+daaddihin m.f.dh eeg daaddihi. 
+
+daadduf¹ m.l ld daaduf¹.
+
+daadduf² f.mg1 (-fay, -ftay) ld daaduf².
+
+daaddufid m.dh ld daadufid.
+
+daadduumi f.g2 (-iyay, -isay) Feer, laad iwm cid dhulka la dhigid. ld daadduunsii, daanduumi, daanduunsii.
+
+daadduumid m.f.dh eeg daadduun². ld daanduumid.
+
+daadduumin m.f.dh eeg daadduumi. ld daadduunsiin, daanduumin, daanduunsiin.
+
+daadduun¹ m.l Qof cayrnimo awgeed la bayhoofay. ld daanduun¹.
+
+daadduun² f.mg1 (-umay, -untay; -umi) Cayrnimo darteed la bayhoofid. ld daanduun².
+
+daadduunshe m.l (-shayaal, m.l/dh) Budh weyn oo lagu dagaalamo. ld daanduunshe.
+
+daadduunsii f.g2 (-iiyay, -iisay) ld daadduumi.
+
+daadduunsiin m.dh ld daadduumin.
+
+finished and stopped page 185(162)
 
 
