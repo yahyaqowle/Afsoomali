@@ -298,6 +298,94 @@ daahsasho m.f.dh eeg daahso. ld daahsad, daahsi.
 
 daahsi m.l ld daahsasho.
 
+<<<<<<< HEAD
+daahso f.g3 (-saday, -satay) Qof ama wax la
+sugayay raagsasho.
+
+daa'imi f.g2 (-iyay, -isay) Fal samayntiisa
+joogtayn. ld daayimi.
+
+daa'imid m.f.dh eeg daa'in. ld daayimid.
+
+daa'imin m.f.dh eeg daa'imi. ld daa'imis,
+daayimin, daayimis.
+
+daa'imis m.l ld daa'imin.
+
+daa'imo m.dh Ilmo yar oo aabbihiis dhintay;
+agoon.
+
+daa'in¹ m.l Sifo Eebbe oo tilmaamayso suulid
+la'aantiisa. ld daayin¹.
+
+daa'in² f.mg1 (-imay, -intay; -imi) Fal
+samayntiisa joogtaysasho; ku waarid. ld
+
+daayin².
+
+daa'iro m.dh Ayaan cidiba mar hesho.
+
+daaji f.g/lg2 (-iyay, -isay) 1. (f.g) U muujin
+kalsooni iyo debecsanaan qof dhagar lala
+maagganyahay. Tus. “Dambiililhii mudda
+dheer waa la daajiyay dabadeese waa la
+qabtay”. 2. (f.lg) Xoolo meel daaq leh soofin.
+ld daaqsii.
+
+daajin m.f.dh eeg daaji. ld daajis, daaqsiin,
+daaqsiis.
+
+daajis m.l ld daajin. daakir f.mg1 (-ray, -rtay) Arooryo hore
+addimid.
+
+daakiraad m.dh 1. Addinka iyo ducooyinka la
+akhriyo arooryada hore. 2. Waqtiga addinka
+arooryada hore.
+
+daakirid m.f.dh eeg daakir.
+
+daal m.l 1. Nooc digirta ka mid ah, iniino
+yaryar oo qaab wareegsan leh oo la cuno.
+2. Cad dhalo ah oo wixii lagu fiiriyo
+muukaalqooda weynaysa.
+
+dąal¹ m.l Culayska iyo jiirago'a oogada ku
+dhaca kolka socod dheer ama hawl adag la
+qabto; noog.
+
+dąal² m.l (daaw.) Noog xagga jirka iyo
+maskaxda oo ka yimid hawl adag ama
+muddo dheer socotay. D.ka muruqyada
+waxaa keena walax aan waxtar jirka u lahayn
+oo ka yimaada metaboliisimka oo ku urura
+muruqa kana farabata shaqada dhiigga oo
+dibedda jirka uga saara. Nafaqo xumo ama
+cudur waxay qofka u keeni karaan d.
+dheeraad ah.
+
+dąal³ f.mg1 (-aąlay, -aąshay) Socod dheer ama
+hawl adag oo la qabtay awgeed, culays iyo
+jiirago' oogada ka dareemid.
+
+daalac¹ m.l Wax dheeraad ah oo cid loo
+raacdo.
+
+daalac² f.mg1 (-cay, -cday; -lici) Dayax ama
+qorrax soo muuqasho.
+
+daalacan m.dh Waqti wixii la sheegaa ay shaac
+baxaan oo aanay qarsoomin.
+
+daalacasho m.f.dh eeg daalaco.
+
+daalaco f.g3 (-cday, -catay) Si xasilloon wax u
+akhrisasho.
+
+daalalli m.dh 1. Waaxda saddexaad ee
+degmooyinka xiddigaha, xilliga dayrta.
+2. Roobka xilliga dayrta da'a. 3. Raar
+meydka looga sameeyo geedaha korkooda.
+=======
 daahso f.g3 (-saday, -satay) Qof ama wax la sugayay raagsasho. 
 
 daa'imi f.g2 (-iyay, -isay) Fal samayntiisa joogtayn. ld daayimi.
@@ -352,11 +440,58 @@ daalaco f.g3 (-cday, -catay) Si xasilloon wax u akhrisasho.
 daalalli m.dh 1. Waaxda saddexaad ee degmooyinka xiddigaha, xilliga dayrta. 
               2. Roobka xilliga dayrta da'a. 
               3. Raar meydka looga sameeyo geedaha korkooda. 
+>>>>>>> 5dce29a07bbd7d2ee5cdf4dc0fc2f3e5426202b8
 
 daalan m.l ld daallan.
 
 dąalan m.l ld dąallan.
 
+<<<<<<< HEAD
+daaldhe m.l Doqon.
+
+daali f.g2 (-iyay, -isay) 1. Qof ama nafley noog
+ku ridid. 2. Qof wax uu u baahanyahay u
+raadin.
+
+daalib¹ m.l 1. Qof wax doonaya. 2. Qof wax
+baranaya.
+
+daalib² f.g1 (-bay, -btay) Wax doonid ama
+raadin.
+
+daalibid m.f.dh eeg daalib².
+
+daalici f.g2 (-iyay, -isay) Wax muujin; wax kor
+u soo bixin.
+
+daalicid m.f.dh eeg daalac². ld daalac¹ (2).
+
+daalicin m.f.dh eeg daalici.
+
+daalid m.f.dh eeg dąal². ld daalis.
+
+daalin m.f.dh eeg daali.
+
+daalis m.dh ld daalid.
+
+daallan m.l Cunno macmacaan oo jaadad
+
+badan ah oo cunnada weyn dabadeed la
+cuno. ld daalan.
+
+dąallan f.mg4 (-naa, -nayd) Wax noog hayo
+ahaansho. ld dąalan.
+
+daalli m.dh Oori; haweeney.
+
+daallin m.l (-immo/-imiin, m.dh) Qof dulmi
+badan.
+
+daallinnimo m.dh Daallin ahaansho.
+
+daaltir f.g1 (-ray, -rtay) Wax daal hayo nasin
+(nafley).
+=======
 daaldhe m.l Doqon. 
 
 daali f.g2 (-iyay, -isay) 1. Qof ama nafley noog ku ridid. 2. Qof wax uu u baahanyahay u raadin. 
@@ -390,11 +525,41 @@ daallin m.l (-immo/-imiin, m.dh) Qof dulmi badan.
 daallinnimo m.dh Daallin ahaansho. 
 
 daaltir f.g1 (-ray, -rtay) Wax daal hayo nasin (nafley). 
+>>>>>>> 5dce29a07bbd7d2ee5cdf4dc0fc2f3e5426202b8
 
 daaltirad m.l ld daaltirasho.
 
 daaltirasho m.f.dh eeg daaltiro. ld daaltirad.
 
+<<<<<<< HEAD
+daaltirid m.f.dh eeg daaltir.
+
+daaltiro f.mg3 (-rtay, -ratay) Cid daal hayay si
+uu uga ba'o; nasasho.
+
+daamad m.dh Cayaar shaxda u eg oo lagu
+dulcayaaro loox afar gees ah oo leh cadad
+midabaysan.
+
+daamir m.l Walax layiig dhegdheg ah, madow,
+oo jidadka lagu sameeyo; laami. ld
+daammur.
+
+daammur m.l ld daamir.
+
+daan¹ m.l (-aaman, m.l) Afka labadiisa lafood
+oo ilkuhu ku yaalliin.
+
+daan² m.l (-aaman, m.l) (c.nafl.) Nudo adag
+oo tiiriyayaal ah, ha ahaadaan laf ama carjaw
+kuwaas oo sameeya fuqa hoose ee  
+dąar xayawaanka qaarkood, gaar ahaan
+lafdhabarleyda. Shaqada ugu weyn ee
+daamanku waxa weeye inay ilkaha ka
+caawiyaan qaniinyada iyo calaalinta cuntada
+
+Completed page 187(164)
+=======
 daaltirid m.f.dh eeg daaltir. 
 
 daaltiro f.mg3 (-rtay, -ratay) Cid daal hayay si uu uga ba'o; nasasho. 
@@ -1890,6 +2055,1625 @@ daguugmid m.f.dh eeg daguugan.
 
 dah f.g/mg1 (-hay, -hday) 1. (f.g) Wax awdid. 2. (f.mg) Dhalasho. 
 
-Completed page 187(164) till page 200(177).
 
+dahaar¹ m.l (-rro, m.dh) Dhawraarin maqaar;
+maro, warqad adag iwm ka samaysan, wax
+dusha uga dhegsan.
+
+dahaar² f.g1 (-ray, -rtay) Dhawraarin maqaar;
+maro, warqad adag iwm ka samaysan, wax
+dusha uga dhejin.
+
+dahaaran f.mg4 (-rnaa, -rnayd) Wax la
+dahaaray ahaansho.
+
+dahaarid m.f.dh eeg dahaar².
+
+dahaarnaan m.f.dh eeg dahaaran. ld dahaarnaansho
+
+dahaarnansho m.l/dh ld dahaarnaan.
+
+dahab m.l Macdan qaali ah, midab cawlan leh,
+dhalaasha, aan daxalaysan oo waxyaabaha la
+isku qurxiyo laga samaysto.
+
+dahabee f.g2 (-beeyay, -beysay) Wax dahab
+ku dheehid.
+
+dahabeyn m.f.dh eeg dahabee.
+
+dahabi m.l.kh D. ah: wax midab dahab leh.
+
+dahabo m.dh Shimbir yar garbaha, ka madow,
+baalashana midab dahabi ah ku leh;
+caddadhuuni.
+
+dahan f.mg4 (-hnaa, -hnayd) ld dihin.
+
+dahar m.l (dahar, m.dh) 1. Geed weyn oo
+harac ah. 2. Dhismo hoos leh, qabriyada laga
+ag dhiso oo Quraanka lagu akhriyo.
+
+dahasho m.dh ld dihasho.
+
+dahid m.f.dh eeg dah.
+
+dahnaan m.dh ld dihnaan.
+
+dahnaansho m.l/dh ld dihnaan.
+
+daho f.mg3 (-hday, -hatay) ld diho.
+
+dahsoomid m.f.dh eeg dahsoon¹.
+
+dahsoon¹ f.mg1 (-oomay, -oontay; -oomi)
+Wax qarsoon noqosho.
+
+dahsoon² f.mg4 (-naa, -nayd) Wax qarsoon
+ahaansho.
+
+dahsoonaan m.f.dh eeg dahsoon². ld
+dahsoonaansho.
+
+dahsoonaansho m.l/dh ld dahsoonaan.
+
+dakaamid m.f.dh eeg dakaan². ld dakaamo (2),
+dakaan¹ (2).
+
+dakaamo m.dh 1. Daal badan oo ku yimaadda
+gammaanka iyo awrta marka ay socod dheer
+galaan. 2. ld dakaamid.
+
+dakaan¹ m.l 1. D. ah: gammaan ama awr aad u
+daalay. 2. ld dakaamid.
+
+dakaan² f.mg1 (-amay, -antay; -ami)
+Gammaan ama awr aad u daalid.
+
+dakanaduug¹ m.l Baabi'inta la baabi'iyo godob
+dad u dhexeysey. ld dakanaduugid. dakanaduug² f.g1 (-gay, -gtay) Godob dad u
+dhexaysay baabbi'in.
+
+dakanaduugid m.f.dh eeg dakanaduug². ld
+dakanaaduug¹.
+
+dakane m.l ld dakano.
+
+dakano m.dh (-ooyin, m.l) Godob, utun,
+dhagar. ld dakane.
+
+dakar m.l (-rro, m.dh) Xubinta taranka ee
+ragga; gus.
+
+dakayn m.f.dh eeg dakee.
+
+dakee f.mg2 (-keeyay, -kaysay) 1. Sariir, kursi
+iwm ku dul raaxaysasho. 2. Biyo ku dul
+maraabayn (markab ama doon).
+
+dakhaakhul¹ m.l Qof gabow dartiis, isku daran
+noqday. ld laclac¹.
+
+dakhaakhul² f.mg1 (-ulay, -ushay) Qof
+gabow dartiis erayada uu sheegayo aan la
+garan karin. ld laclac².
+
+dakhaakhulid m.f.dh eeg dakhaakhul². ld
+laclacid.
+
+dakhal m.l (-llo, m.dh) 1. Tiir dheer oo qori
+ah ama bir ah oo doonyaha iyo maraakiibta
+dhexdooda laga taago oo farnaanka iyo
+shiraaca celiya. 2. Qar hoos u dheer.
+
+dakhar¹ m.l ld daqar¹.
+
+dakhar² f.g1 (-khray, -khartay) ld daqar².
+
+dakhli m.l Hanti cid ka soo gasha shaqo ama
+ganacsi.
+
+dakhramid m.dh ld daqramid.
+
+dakhran¹ f.mg1 (-amay, -antay; -ami) ld daqran¹.
+
+dakhran² f.mg4 (-naa, -nayd) ld daqran².
+
+dakhranaan m.dh ld daqranaan.
+
+dakhranaansho m.l/dh ld daqranaan.
+
+dakhrid m.dh ld daqrid.
+
+dal¹ m.l (-lal, m.l) Dhul soohdin loo yaqaan
+leh oo la degganyahay; waddan.
+
+dal² f.g1 (-alay, -ashay) Harag rogob ka gurid.
+
+dala'¹ m.l ld dhama'¹.
+
+dala'² f.mg1 (-l'ay, -la'day; -l'i) ld dhama'².
+dalaabid m.dh 1. ld dalow 1. Dal qalaad iska
+aadid. 2. eeg dalaaw².
+
+dalaad m.dh (-dyo, m.dh) Dhul bannaan oo
+aan dhir waaweyn lahayn.
+dalaadala fk. Si aayar ah.
+
+dalaaf¹ m.l 1. D. ah: xoolo ama dad darxumo
+iyo rafaad ka muuqdo. 2. D. ah: ceel biyihii
+ka gureen. 3. ld dalaafid.
+
+dalaaf² f.mg1 (-fay, -ftay) 1. Dad ama xoolo,
+wax darxumo iyo rafaad ka muuqdo
+noqosho. 2. Ceel, biyo ka gurid.
+
+dalaafid m.f.dh eeg dalaaf². ld dalaaf¹ (3).
+
+dalaafsan f.mg4 (-naa, -nayd) Wax dalaafay
+ahaansho.
+
+dalaafsanaan m.f.dh eeg dalaafsan. ld
+dalaafsanaansho.
+
+dalaafsanaansho m.l/dh ld dalaafsanaan.
+
+dalaandal¹ m.l (daaw.) Sarsaridda meel oogada
+ka mid ah oo dhiig ku guntamay la sarsaro
+iyadoo dhiigga toobin looga soo nuugayo. 
+
+dalaandal² f.g1 (-alay, -ashay) (daaw.) Meel
+oogada ka mid ah oo dhiig ku guntamay, si
+toobin dhiigga looga soo nuugo sarsarid.
+
+dalaandalan f.mg4 (-lnaa, -lnayd) Qof la
+dalaandalay ahaansho.
+
+dalaandalid m.f.dh eeg dalaandal².
+
+dalaandalnaan m.f.dh eeg dalaandalan. ld
+dalaandalnaansho.
+
+dalaandalnaansho m.l/dh ld dalaandalnaan.
+
+dalaaq¹ m.l ld dalaaqid.
+
+dalaaq² m.dh Erey lagu dhawaaqo marka qof
+dumar ah la furaayo. ld dalaaqo, dalqad.
+
+dalaaq³ f.g1 (-qay, -qday) Naag dalqaddeeda
+siin.
+
+dalaaqid m.f.dh eeg dalaaq³. ld dalaaq¹.
+
+dalaaqo m.dh ld dalaaq².
+
+dalaaw¹ m.l Darxumo awgeed oo qof dalkiisa
+uga haajiro. ld dalaw¹ (2).
+
+dalaaw² f.mg1 (-aabay, -awday) Qof,
+darxumo awgeed dalkiisa uga haajirid. ld
+
+dalaw².
+dalab¹ m.l (-byo, m.dh) Codsi ballanqaad leh
+oo cid wax lagu weyddiisto.
+
+dalab² m.dh (-lbo, m.l) Qallooc yar oo lugaha
+gala oo labada law isu soo dhawaadaan.
+
+dalab³ f.g1 (-lbay, -labtay; -lbi) Codsi
+ballanqaad leh oo wax lagu weyddiisanayo
+sameyn.
+
+dalable m.l.u (-layaal, m.l/dh) Qof hal lug
+dalab ku leh.
+
+dalag m.l Miraha la beerto ee la cuno.
+
+dalag geddis m.l (-yo ..., m.dh) Habka
+beerashada oo ku salaysan in dalagyo kala
+duwan lagu beero dhul isku mid ah, si gaar
+ah oo isku xigta.
+
+dalaggeddi f.g2 (-iyay, -isay) Beer, dalaggii
+hore ee ku beernaa mid ka duwan ku beerid.
+
+dalaggeddin m.f.dh eeg dalaggeddi. ld
+dalaggeddis.
+
+dalaggeddis m.l ld dalaggeddin. dalagle m.l (-layaal, m.l/dh) Nin beerrey ah.
+
+dalalaco m.dh.kh D. ah: rati aan lugaha xarig
+uga xirnayn.
+
+dalalka horumaray m.l Waddamadda
+horumarka ka sameeya dhinacyada
+warshadaha, beeraha, farsamada iyo
+teknooljiyada, waxbarashada, dhaqaalaha,
+iyo heerka nolosha qofka, iyo bulshada.
+
+dalalka soo koraya m.l Waddamadda aan weli
+horumar ka samayn dhinacyada warshadaha,
+beeraha, farsamada, teknooljiyada,
+waxbarashada, dhaqaalaha heerka nolosha
+qofka iyo bulshada.
+
+dalambaabbi¹ m.l 1. D. ah: socod qofku
+hadba dhan u ciirayo tabar darro awgeed.
+2. ld dalambaabbiyid.
+
+dalambaabbi² f.mg1/2 (-iyay, -iday/-isay; -
+iyi) Tabardarro awgeed, socod hadba dhan
+loo ciirciirayo socosho (qof).
+
+dalambaabbin m.dh ld dalambaabbiyid.
+
+dalambaabbiyid m.f.dh eeg dalambaabbi. ld
+dalambaabbi¹ (2), dalambaabbin.
+
+dalan f.mg1 (-lmay, -lantay; -lmi) Wax asqo
+hayso noqosho.
+
+dalandal¹ m.l 1. D. ah: ilmo socod barad. 2. ld
+dalandalid.
+
+dalandal² f.mg1 (-alay, -ashay) Ilmo, socod
+barasho.
+
+dalandalid m.f.dh eeg dalandal². ld dalandal¹
+(2).
+
+dalandool¹ m.l 1. Socod noqnoqosho leh oo
+laba meel oo kala fog la isaga goosho. 2. ld
+dalandoolid.
+
+dalandool² f.mg1 (-oolay, -ooshay) Socod
+noqnoqosho leh laba meel oo kala fog isaga
+gooshid.
+
+dalandoolid m.f.dh eeg dalandool². ld
+dalandool¹ (2).
+
+dalandoolli m.dh Cayayaan caanallusha la eg
+isku bahna yihiin oo hargaha iyo lafahaba
+xagata. ld dalandoolyo.
+
+dalandoolyo m.dh ld dalandoolli.
+
+dalankac¹ m.l 1. Masiibo. 2. ld dalankicid.
+
+dalankac² f.mg1 (-cay, -cday; -kici) Masiibo
+la kulmid.
+
+dalankacayn m.f.dh eeg dalankacee.
+
+dalankacee f.mg2 (-ceeyay, -caysay) Si celcelis
+ah u turanturrood.
+
+dalankacid m.f.dh eeg dalankac². ld dalankac¹
+(2).
+
+dalankicid m.f.dh eeg dalankac². ld dalankac¹
+(2).
+
+dalaq m.dh.sh.r Cod tilmaama socod kedis ah.
+
+dalaqoon m.l Dalyaqaan.
+
+dala'sad m.l ld dala'sasho.
+
+dala'sasho m.f.dh eeg dala'so. ld dala'sad,
+dala'si.
+
+dala'si m.l ld dala'sasho.
+
+dala'so f.mg3 (-'saday, -'satay) Cid khayaano
+yar oo aan wax lagu yeelayn ku samayn.
+
+dalaw¹ m.l 1. ld dalow 1 (3). Baaldi. 2. ld
+dalaaw¹.
+
+dalaw² f.mg1 (-laabay, -lawday) ld dalaaw².
+
+dalawi m.dh.kh D. ah: neef geel ah oo caana
+badan; madi.
+
+dalayn m.f.dh eeg dalee.
+
+dalbajuuco m.dh Dalab weyn.
+
+dalballaarsi m.l ld dhulballaarsi.
+
+dalbasho m.f.dh eeg dalbo.
+
+dalbid m.f.dh eeg dalab³.
+
+dalbo¹ m.l.w eeg dalab².
+
+dalbo² f.g3 (-baday, -batay) 1. Dalab sameyn
+(qof). 2. Ciidan amar siin. 3. Isu baaqid
+(turub).
+
+dalboole m.l Qof dalbo leh.
+
+dalcad m.dh (-do, m.l) Taag; tiiro.
+
+daldaalyayn m.f.dh eeg daldaalyee.
+
+daldaalyee f.g2 (-yeeyay, -yaysay) Cid,
+daldaalyo badid (qof).
+
+daldaalyo m.dh Isbeddel xun oo cid ku dhaca.
+
+daldal¹ m.l ld daldalid.
+
+dąldal¹ m.l ld dąldalid.
+
+daldal² f.g1 (-alay, -ashay) 1. Alaab iwm meel
+ka gurid iyadoo hadba in la qaadayo. 2. Wax
+si xad-dhaaf ah u cunid ama cabbid.
+
+dąldal² f.g1 (-alay, -ashay) Xarig siriq leh oo
+meel sare ka soo laalaada qof ku merjin. ld
+deldel².
+
+daldalaad m.dh ld dąldalid.
+
+dąldalan f.mg4 (-lnaa, -lnayd) Wax la deldelay
+ahaansho. ld deldelan.
+
+daldalan¹ m.l Hadal badan oo aan nuxur
+lahayn.
+
+daldalan² f.mg1 (-lmay, -lantay; -lmi) D./iska
+d.: hadal badan oo aan macno lahayn ku
+hadlid.
+
+daldalasho m.f.dh eeg daldalo.
+
+daldalid m.f.dh eeg daldal². ld daldal¹.
+
+dąldalid m.f.dh eeg dąldal². ld dąldal¹,
+daldalaad, deldel¹, deldelaad, deldelid
+
+daldalmid m.f.dh eeg daldalan².
+
+daldalnaan m.f.dh eeg dąldalan. ld
+daldalnaansho, deldelnaan, deldelnaansho.
+
+daldalnaansho m.l/dh ld daldalnaan.
+
+daldalo f.g3 (-ashay, -alatay) Wax meel wada
+yaal hadba in ka qaadasho.
+
+daldalool¹ m.l 1. Daloollo badan oo uu weel
+iwm yeesho. 2. Iimo; ceebaal. ld dulduleel¹.
+
+daldalool² f.mg1 (-oolay, -ooshay) Wax
+daloollo badan yeelasho. ld dulduleel².
+
+daldalooli f.g2 (-iyay, -isay) Wax daloollo
+badan yeelid. ld dulduleeli.
+
+daldaloolid m.f.dh eeg daldalool². ld
+dulduleelid.
+
+daldaloolin m.f.dh eeg daldalooli. ld
+daldaloolis, dulduleelin, dulduleelis.
+
+daldaloolis m.dh ld daldaloolin.
+
+dalee f.g2 (-leeyay, -laysay) 1. Wax
+cusboonaysiin ama qurxin. 2. Guri, meel ay
+hawo ka soo gasho u yeelid. 3. Dhul wax
+lagu beeri jiray in muddo ah nasin.
+
+daleel m.dh 1. Meel bannaan oo aan dugsi
+lahayn. 2. D. ah: meel cidla' ah.
+
+dalid m.f.dh eeg dal².
+
+dal'id m.dh ld dham'id.
+
+daliig¹ m.l 1. Jilcinta lagu sameeyo caw,
+maqaar iwm iyadoo qalab gaar ah la
+adeegsanayo. 2. Daaweynta muruq jirran
+iyadoo faraha la adeegsanayo. ld daliigid.
+
+daliig² m.dh (-go, m.l) 1. Cad dhuuban, dheer
+oo ka samaysan maro, caw, maqaar iwm.
+2. Xarriiq dheer, dhuuban oo wax ku dul
+taal.
+
+daliig³ f.mg1 (-gay, -gtay) 1. Caw, maqaar
+iwm qalab gaar ah oo looga tala galay ku
+jilcin. 2. Muruq jirran faraha ku daaweyn.
+
+daliigid m.f.dh eeg daalig³. ld daliig¹. daliigtin m.dh (-imo, m.l) Summad jiitin ah
+oo ariga daanka looga dhigo.
+
+daliil¹ m.l.kh (-llo, m.dh) D. ah: qof dullinimo
+ka muuqato.
+
+daliil² m.l/dh (-llo, m.dh/-lo, m.l) Markhaati
+cad oo wax xaqiiqnimadiisa lagu
+caddeynayo.
+
+daliili f.g2 (-iyay, -isay) Wax xaqiiqadooda
+sheegid.
+
+daliilin m.f.dh eeg daliili.
+
+daliilnimo m.dh Daliil ahaansho (qof).
+
+daliiq f.g1 (-qay, -qday) 1. Caw, maqaar iwm
+kala jeexid. 2. Ka d.: qof dhar, darajo iwm si
+sharaf darro ah uga qaadid. 3. Ka d.: mindi,
+seef iwm galka ka saarid.
+
+daliiqan f.mg4 (-qnaa, -qnayd) Wax la
+daliiqay ahaansho.
+
+daliiqid m.f.dh eeg daliiq.
+
+daliiqnaan m.f.dh eeg daliiqan. ld
+daliiqnaansho.
+
+daliiqnaansho m.l/dh ld daliiqnaan.
+
+daliishad m.l ld daliishasho.
+
+daliishasho m.f.dh eeg daliisho. ld daliishad.
+
+daliisho f.g3 (-shaday, -shatay) Wax daliil ka
+dhigasho.
+
+daljecli m.dh Waddaninnimo.
+
+daljir m.l (-rro, m.dh) Qof ciidanka qalabka
+sida ka mid ah oo qaabilsan difaaca dalka.
+
+dalkucelin m.dh Si khasab ah oo qof dal kale
+jooga dalkiisa lagu geeyo.
+
+dalkuggal m.l Ruqso qof hal mar ku geli karo
+dal shisheeya; fiiso.
+
+dalkujoog m.l (-gyo, m.dh) Ruqso qoraal ah
+oo qof loogu oggolaado in uu dal shisheeye
+ku deggenaado.
+
+dalkummar m.l (-rro, m.dh) Baasaboor.
+
+dallaal m.dh.kh 1. D. ah: meel barwaaqo ama
+biyo leh oo aan lagu badnayn. 2. D. ah: aan  
+
+dalooshan²
+ciriiri ahayn; waxa ku jira si wanaagsan ugu
+filan; ballaaran.
+
+dąllaal¹ m.l (-llo/-liin, m.dh) 1. Qof
+shaqadiisu tahay in uu dadka wax u kala
+iibiyo. 2. Hantida qof dadka wax u kala
+iibiya qarash ahaan u qaato. ld dillaal¹,
+dullaal¹.
+
+dąllaal² f.g1 (-aalay, -aashay) Dad wax u kala
+iibin.
+
+dąllaalid m.f.dh eeg dąllaal². ld dillaalid,
+dullaalid.
+
+dallaalin m.dh ld dallaallimo.
+
+dallaallimayn m.f.dh eeg dallaallimee.
+
+dallaallimee f.g2 (-meeyay, -maysay) Meel
+dallaallimo ka dhigid.
+
+dallaallimo m.dh (-ooyin, m.l) Meel kor ka
+dadan oo dhinacyaha ka furan oo wax lagu
+gato ama la harsado. ld dallaalin.
+
+dallaalnimo m.dh Dallaal ahaansho.
+
+dąllaalnimo m.dh Dąllaal ahaansho. ld
+dillaalnimo, dullaalnimo.
+
+dallaalo m.dh In yar oo caafimaad ah oo qof
+jirranaa helo.
+
+dallaashad m.f.l eeg dallaasho.
+
+dallaasho f.mg3 (-shaday, -shatay) Ku d.:
+meel barwaaqo ah ama biyo badan ku
+keliyaysasho.
+
+dallaayad m.dh (-do, ml.) 1. ld dallad. Qalab
+ka samaysan saab bira ah iyo maro ku tolan
+oo qorraxda iyo roobka laga galo.
+2. Baarashuud.
+
+dallac¹ m.l 1. Khudrad, hilib, dufan iwm oo la
+isku shiiqay. 2. ld dallicid.
+
+dallac² f.g/mg1 (-cay, -cday; -lici) 1. (f.g)
+Khudrad, hilib, dufan iwm isku shiilid.
+
+2. (f.mg) Dallacaad helid (qof).
+
+dallacaad m.dh Derejo qof la siiyo oo ka
+sarreysa tiisii hore.
+
+dallacbilaash m.l Suugo aan hilib lahayn.
+
+dallacsii f.g2 (-iiyay, -iisay) Qof, derajo u
+kordhin.
+
+dallacsiin m.dh eeg dallacsii. ld dallacsiis.
+
+dallacsiis m.l ld dallacsiin.
+
+dallad m.dh (-do, m.l) ld dallaayad (1).
+
+dal-lahelay m.dh ld dan-lahelay
+
+dallal¹ m.l Jeesjees.
+
+dallal² f.mg1 (-alay, -ashay) Cid ku jeesjeesid.
+
+dallalid m.f.dh eeg dallal².
+
+dallayn m.f.dh eeg dallee.
+
+dallaysasho m.f.dh eeg dallayso.
+
+dallayso f.g3 (-stay, -satay) Qof, wax uusan
+lahayn xalaalaysasho.
+
+dallee f.g2 (-leeyay, -laysay) 1. Aqal meel
+naacawi ka soo gasho u yeelid. 2. Cid
+hoosaasin.
+
+dalleen m.dh Dandarranaan; dhibaataysnaan.
+
+dalleensan f.mg4 (-naa, -nayd) Qof, wax
+dalleen hayo ahaansho.
+
+dalleensanaan m.f.dh eeg dalleensan. ld
+dalleensanaansho.
+
+dalleensanaansho m.l/dh ld dalleensanaan.
+
+dallici f.g2 (-iyay, -isay) Kor u qaadid; darajo
+u kordhin.
+
+dallicid m.f.dh eeg dallac². ld dallac¹ (2).
+
+dallicin m.f.dh eeg dallici.
+
+dalluug m.l (dalluug, m.dh) Geed abaareed,
+gaaban, cufan oo leh laamo dhuudhuuban
+iyo caleemo yaryar; hayn.
+
+dalluun m.dh God hoos u dheer oo dhuuban.
+
+dalmar m.l (-rro, m.dh) Nin dalal badan tegay.
+ld dalmareen.
+
+dalmarid m.dh Tegidda dalal badan socdaal
+lagu tago.
+
+dalmid m.f.dh eeg dalan.
+
+dalool¹ m.l (-llo, m.dh) 1. Meel yar furan,
+wareegsan oo wax ka bannaan. 2. Saddex
+qaybood oo wax loo qaybshay middood. ld
+
+duleel¹.
+
+dalool² m.l (-lo, m.dh) (baay.) Dalool ku dhex
+yaallo saytobalaasanka unug noolkaas oo ay
+ka buuxaan hawo, biyo, dareerayaal kale,
+dheecaan ama saxarro cunto ah. Unugyada
+dhirta, had iyo jeer waxay leeyihiin dalool
+weyn oo keliya, laakiin unugyada
+xayawaanku inta badan waxay leeyihi in
+dhowr dalool oo yaryar.
+
+dalool³ f.mg1 (-oolay, -ooshay) Meel yar,
+furan, wareegsan, bannaan yeelasho (wax). ld
+duleel².
+
+dalooli f.g2 (-iyay, -isay) Wax dalool u yeelid.
+ld duleeli.
+
+daloolid m.f.dh eeg dalool³. ld duleelid.
+
+daloolin m.f.dh eeg dalooli. ld duleelin.
+daloolin cad-hunguri m.dh (daaw.) Hawl
+qalliimeed ee lagu sameeyo dalool
+hungurigacad luqunta dhexdeeda si neefta
+loogu furo qof ay ka xirantay sida qofka
+qaba: gawracatada, ama shey: (badhan, lacag
+iniin iwm) oo gudaha ku dhacay oo neefta
+xira.
+
+dalooliye m.l Bir af dhuuban oo girgirro leh oo
+alwaaxda, birta iwm lagu dalooliyo. ld
+duleeliye.
+
+dalooshamid m.f.dh eeg dalooshan¹. ld
+duleeshamid.
+
+dalooshan¹ f.mg1 (-amay, -antay; -ami)
+Meel, wax dalool leh noqosho. ld
+duleeshan¹.
+
+dalooshan² f.mg4 (-shnaa,-shnayd) 
+
+dalooshnaan m.f.dh eeg dalooshan². ld
+dalooshnaansho, duleeshnaan, duleeshnaansho.
+
+dalooshnaansho m.l/dh ld dalooshnaan.
+
+dalow¹ m.l (-wyo, m.dh) 1. Wadaan ramal ah;
+baaldi. 2. Haadaan ama meel dheer oo
+hoobad ah; deli. 3. Qof dalkiisii dhibaato
+awgeed uga cararay ee meel kale degaansada.
+4. ld dalaabid.
+
+dalow² f.mg1 (-laabay, -lawday; -laabi) Qof
+dalkiisii ku dhibaatooday, dal kale iska aadid.
+
+dalqad m.dh (-do, m.l) ld dalaaq².
+
+dalqami f.mg2 (-iyay, -isay) 1. Ka d.: qof wax
+uu ogyahay in uu sheego ku khasbid. 2. Ku
+d.: si qasab ah cid afka wax uga siin.
+
+dalqamid m.f.dh eeg dalqan². ld dalqan¹ (2),
+dulqami, dulqan¹.
+
+dalqamin m.f.dh eeg dalqami.
+
+dalqamiso m.dh (-ooyin, m.l) Sixir lagu
+sameeyo qof la doonayo wax uu ogyahay in
+uu sheego.
+dalqan¹ m.l 1. Hadal badan oo iyadoo aan laga
+fiirsan lagu hadlo. 2. ld dalqamid. ld
+dulqan¹.
+
+dalqan² f.mg1 (-amay, -antay; -ami) Hadal
+badan oo aan laga fiirsan ku hadlid. ld
+dulqan².
+
+dalqe m.l ld dalqo.
+
+dalqo m.dh (c.nafl.) Xubinta codku ka
+sameysmo, hawadana sambabada ayay ku
+duwda, waxay ku taal hunguriga cad
+dushiisa, waxay ka sameysantahay sagaal
+carjowood oo ay isu hayaan seedo iyo
+muruqyo xuub gaduudan ayaa ku dadan,
+waxa ku dhexyaal laba joog o xargaha codka
+ah oo sameeya codka. ld dalqe.
+
+dalqoholac m.l 1. (daaw.) Halaamacoodka
+dalqada iyo xargaha codka waxa keena
+baktiiriya, fiirus ama walax kimikaad iwm.
+2. (daaw.) Halaamacoodka cunaha qaybta
+dhabxanagga ka dambeysa. Waxay sameysaa
+cuno xanfaf waxana sida badan la socda
+quman.
+
+dalsan m.l Dhul saac leh oo aan qaniin lahayn;
+Carrasan.
+
+daltabyeysan f.mg4 (-snaa, -snayd) Nafley
+dalkeedii u hilowday ahaansho.
+
+daltabyeysnaan m.f.dh eeg daltabyeysan. ld
+daltabyeysnaansho.
+
+daltabyeysnaansho m.l/dh ld daltabyeysnaan.
+
+daltabyo m.dh Qaban waayidda ay nafley
+qaban weydo dal ku cusub oo aaney horay u
+joogi jirin.
+
+daltabyoo f.mg3 (-ooday, -ootay) Daltabyo
+dareemid (nafley).
+
+daltabyood m.f.l eeg daltabyoo.
+
+dalwi f.g2 (-iyay, -isay) Ceel wadaan u ridid
+(qof).
+
+dalwin m.f.dh eeg dalwi.
+
+dalxiis¹ m.l 1. Tegidda meel la tago iyadoo
+looga danleeyahay raaxeysi iyo daawasho.
+2. D. ah: qof meel tamashle iyo raaxeysi u
+jooga.
+
+dalxiis² f.mg1 (-say, -stay) Meel tamashle iyo
+raaxeysi ku tegid.
+
+dalxiise m.l (-sayaal, m.l/dh) Qof meel
+tamashle iyo raaxeysi ku jooga.
+
+dalxiisid m.f.dh eeg dalxiis².
+
+dalxiisnimo m.dh Dalxiis ahaansho (qof).
+
+dalyaqaan m.l.kh (-nno, m.dh) D. ah: qof dal
+dabeecaddiisa, degaankiisa iwm aqoon u leh.
+
+dam m.dh.sh.r 1. D. dheh: hadal tilmaama wax
+dhaca ama wax basa. 2. D. ka sii: wax
+burburin; wax seexin.
+
+damaaci m.l.kh D. ah: qof damac badan.
+
+damaan m.dh Fallaar weyn waranka u eg oo
+aan dhega lahayn. ld dabaan.
+
+damaashaad¹ m.l (-dyo, m.dh) Ciyaaro iyo
+waxyaallo kale oo farax leh oo lagu muujiyo
+maalin taariikh weyn leh.
+
+damaashaad² f.mg1 (-day, -dday) Maalin
+taariikh weyn leh ciyaaro iyo waxyaallo kale
+oo farax leh ku muujin.
+
+damaashaadid m.f.dh eeg damaashaad².
+
+damac¹ m.l 1. Hunguri weynaan dheeraad ah
+oo wax loo yeesho. 2. Rabitaan. 3. ld
+damcid.
+
+damac² f.mg1 (-mcay, -macday; -mci)
+1. Hunguri weynaan dheeraad ah wax u
+yeelasho (cid). 2. Wax rabid (cid). Tus.
+“Waxaan damcay in aan Diinsoor aado.”
+
+damacsan f.mg4 (-naa, -nayd) Wax, wax gaar
+ah damac u hayo ahaansho.
+
+damacsanaan m.f.dh eeg damacsan. ld
+damacsanaansho.
+
+damacsanaansho m.l/dh ld damacsanaan.
+
+damal m.l (-llo, m.dh) 1. Qurac weyn oo har
+badan. 2. Qori weyn qallalan oo la shito;
+dhamal. 3. Caws dumaa ah.
+
+damaq f.g1 (-mqay, -maqday) ld danaq.
+
+dambaab¹ m.l ld dembaab¹.
+
+dambaab² f.mg1 (-bay, -btay) ld dembaab².
+
+dambaabas¹ m.l Sheelidda wax xogtooda la
+ogyahay la qariyo.
+
+dambaabas² f.g1 (-say, -stay) Wax xogtooda la
+ogyahay qarin.
+
+dambaabasad m.l ld dambaabasasho.
+
+dambaabasasho m.f.dh eeg dambaabaso. ld
+dambaabasad.
+
+dambaabasid m.f.dh eeg dambaabas². 
+
+dambaabaso f.mg3 (-stay, -satay) Wax
+xogtooda la ogyahay qarsasho.
+
+dambaabburo m.dh.u Dhimbilo.
+
+dambaabi f.g2 (-iyay, -isay) ld dembaabi.
+
+dambaabid m.dh ld dembaabid.
+
+dambaabin m.dh ld dembaabin.
+
+dambaabis m.dh ld dembaabin.
+
+dambaabsii f.g2 (-iiyay, -iisay) ld dembaabsii.
+
+dambaabsiin m.dh ld dembaabin.
+
+dambaaburo m.dh Dhimbilo yaryar oo dabka
+ka duulduula.
+
+dambaaji f.g2 (-iyay, -isay) ld dembaaji.
+
+dambaajin m.dh ld dembaajin. dambacaad f.mg1 (-day, -dday) Calool u jiifid
+(qof).
+
+dambar m.l Caanaha ugu horreeya neef dhalay
+laga maalo.
+
+dambari f.g2 (-iyay, -isay) Neef dhalay
+dambar ka lisid.
+
+dambarin m.f.dh eeg dambari. ld dambaris.
+
+dambaris m.l ld dambarin.
+
+dambarsad m.l ld dambarsasho.
+
+dambarsame m.l Lixda bilood ee dayrta iyo
+diraacda oo dayaxu uusan dirirka la
+fariisaneyn (Baladambarsame). ld dambasame.
+
+dambarsasho m.f.dh eeg dambarso. ld
+dambarsad, dambarsi.
+
+dambarsi m.l ld dambarsasho.
+
+dambarso f.mg3 (-saday, -satay) Neef dhalay
+dambar ka maalid.
+
+dambas m.l 1. Budo midab ciira boos ah leh
+oo ka harta dhuxul bastay. 2. D. ah: Midab
+ciira boos ah. ld bambas.
+
+dambasame m.l ld dambarsame.
+
+dambasayn m.f.dh eeg dambasee. ld
+bambasayn.
+
+dambasee f.g2 (-seeyay, -saysay) Wax dambas
+marin. ld bambasee.
+
+dambasoobid m.f.dh eeg dambasow. ld
+bambasoobid.
+
+dambasow f.mg1 (-oobay, -owday; -oobi)
+Qoryo, dhuxul iwm dambas noqosho. ld
+bambasow.
+
+dambasqaad m.l Weel yar, dhalo, macdan,
+qori iwm ka samayn oo sigaarka lagu
+demiyo.
+
+dambasyaal m.l (-llo, m.dh) 1. D. ah: dhagax
+weyn oo dhardhaar laga dhigto. 2. Qori
+weyn, qallalan oo muddo badan la shidan
+karo.
+
+dambaxir¹ m.l Xarig gaaban oo sac la lisayo
+sibraha looga xiro.
+
+dambaxir² f.g1 (-ray, -rtay) Sac la maalayo
+sibraxirid.
+
+dambaxiran f.mg4 (-rnaa, -rnayd) Wax
+dambaxir lagu sameeyey ahaansho (sac la
+lisayo).
+
+dambaxirid m.f.dh eeg dambaxir².
+
+dambaxirnaan m.f.dh eeg dambaxiran. ld
+dambaxirnaansho.
+
+dambaxirnaansho m.l/dh ld dambaxirnaan.
+
+dambayn m.f.dh eeg dambee.
+
+dambaysii f.g2 (-iiyay, -iisay) Ka d.: wax, wax
+kale gadaashooda dhigid.
+
+dambaysiin m.f.dh eeg dambaysii.
+dambe s. 1. Ka d.: dabadeed, kaddib. Tus.
+“Fasaxa ka dambe ayaan is arkaynaa”.
+2. Gadaal xiga; dambeeya. ld damme.
+
+dambee f.mg2 (-beeyay, -baysay) 1. Ka d.:
+wax, wax kale gadaashooda socosho ama
+taagnaan. 2. Ka d.: cid xushmadeyn.
+
+dambeed m.l (-ddo/-dyo, m.dh) (xis.)Ururka
+xubnaha dambe ee lammaaneyaal horsan ee
+xiriir. Guud ahaan waa ururka leh tirsaneyaal
+ee la dhigo dhidibka taagan (dhidibtay) ee
+garaaf.
+
+dambeeto fk. Dabadeed, kaddib.
+
+dambi m.l ld dembi.
+
+dambidhaaf¹ m.l ld dembidhaafid.
+
+dambidhaaf² f.mg1 (-fay, -ftay) ld dembidhaaf².
+
+dambidhaafid m.dh ld dembidhaafid.
+
+dambiil m.dh (-lo, m.l) Qalab caw, xaskul,
+caag iwm laga sameeyo sidde leh oo adeegga
+guriga lagu rito. ld danbiil.
+
+dambiilannimo m.dh ld dembilennimo.
+
+dambiile m.l ld dembiile.
+
+dambitir¹ m.l ld dembitirid.
+
+dambitir² f.g1 (-ray, -rtay) ld dembitir².
+
+dambitirid m.dh ld dembitirid.
+dambow fk. Ka d.: dabadeed, kaddib. Tus.
+“Toban casho ka dambow buu iska tegey”.
+
+damci f.lg2 (-iyay, -isay) Damac gelin.
+
+damcid m.f.dh eeg damac². ld damac¹ (3).
+
+damcin m.f.dh eeg damci. ld damcis.
+
+damcis m.l ld damcin.
+damdaguugan m.l.kh D. ah: mugdi aan waxba
+loo jeedin.
+
+dameer¹ m.l (-rro, m.dh) Labka gammaan la
+rarto, ka yar faraska, leh dhegodhaadheer,
+guud gaaban iyo midab bey ah. ld dabeer¹,
+
+dammeer¹.
+
+dameer² m.dh (-ro, m.dh) Dheddigga
+
+gammaan la rarto, ka yar faraska, leh dhego
+dhaadheer, guud gaaban iyo midab bey ah.
+
+ld dabeer², dammeer².
+
+dameerabilayn m.dh ld dameeradhaglayn. dameerabilee f.mg2 (-leeyay, -leysay) ld
+dameeradhaglee.
+
+dameeradhaglayn m.f.dh eeg dameeradhaglee.
+ld dameerabilayn.
+
+dameeradhaglee f.mg2 (-leeyay, -leysay) Qof
+wax uu niyadda ka jecel yahay is diidsiin. ld
+dameerabilee.
+
+dameeradhuuji f.g2 (-iyay, -isay) Qof
+dameeradhuujo ku qabasho.
+
+dameeradhuujin m.f.dh eeg dameeradhuuji.
+dameeradhuujo m.dh Tab legdenka ka mid ah
+oo qof qof kale labada lugood dhexda kaga
+maro si uu xanuujiyo oo neeftu ugu celiyo.
+
+dameerajoogeen m.l 1. Urur xiddiga ah. 2. ld
+dameerjoog.
+
+dameerdibadeed m.l (-dyo, m.dh) 1. Farow.
+2. Dameer duur joog ah oo aan dadku
+munaafacaadsan.
+
+dameerfarow m.l Dameer weyn, banjoog ah
+oo leh midab diillimo caddaan iyo madow
+ah. ld farow.
+
+dameerhogo m.dh Howtulhamag.
+
+dameerjoog m.l 1. Meel biyaha roobku
+fariistaan. 2. dameerajoogeen.
+
+dameero m.dh ld dameerow.
+
+dameerow m.l Cudurrada carrabka ku dhaca
+mid ka mid ah. ld dameero.
+
+dami f.g2 (-iyay, -isay) 1. Dab, nal iwm
+bakhtin. 2. Dhibaato xasilin. ld demi.
+
+damid m.f.dh eeg dąn. ld demid.
+
+dąmiin m.l (-nno, m.dh) Qof siiba arday oo
+
+fahmadiisu yartahay. ld dąmmiin.
+
+damiin¹ m.l ld dammiin¹.
+
+damiin² f.g1 (-nay, -ntay) ld dammiin².
+
+damiinad¹ m.l ld dammiinasho.
+
+damiinad² m.dh ld dammiinad².
+
+damiinid m.dh ld dammiinid.
+
+damiinnimo m.dh ld dammiinnimo.
+
+dąmiinnimo m.dh Damiin ahaansho (qof). ld
+dąmmiinnimo.
+
+damiino f.g3 (-ntay, -natay) ld dammiino.
+
+damiir m.l Wax la xiriira garaadka aadanaha oo
+fara wanaagga xumahana ka reeba.
+
+damin m.dh eeg dami. ld damis, demin,
+demis.
+
+damis m.dh ld damin.
+
+dammaad¹ m.l Wareer culus oo qofku kala
+garan waayo meesha iyo waqtiga uu joogo.
+
+dammaad² f.mg1 (-day, -dday) Wareer culus
+oo meesha iyo waqtiga la joogo lala kala
+garan waayo la kulmid.
+
+dammaadid m.f.dh eeg dammaad².
+
+dammaadsan f.mg4 (-naa, -nayd) Wax
+dammaaday ahaansho (qof).
+
+dammaadsanaan m.f.dh eeg dammaadsan. ld
+dammaadsanaansho.
+
+dammaadsanaansho m.l/dh ld dammaadsanaan.
+
+dammaan m.l 1. ld lammaan 1. Heshiis
+qoraal ama af oo caddeynaya in la fulin
+doono wax lagu heshiiyey; ballanqaad. 2. Ari
+d. ah: ariga inta jarka ah oo loogu talagalay
+iib.
+
+dammaanad¹ m.l ld dammiinasho.
+
+dammaanad² m.dh ld dammiinad².
+
+dammaanasho m.dh ld dammiinasho.
+
+dammaano f.g3 (-ntay, -natay) ld dammiino.
+
+damman f.mg4 (-naa, -nayd) Qof maskax
+ahaan aan baraarugsanayn ahaansho;
+maahsan.
+
+dammanaan m.f.dh eeg damman. ld
+dammanaansho.
+
+dammanaansho m.l/dh ld dammanaan.
+damme s. ld dambe.
+
+dammeer¹ m.l ld dameer¹.
+
+dammeer² m.dh ld dameer².
+
+dąmmiin m.l ld dąmiin.
+
+dammiin¹ m.l (-nno, m.dh) Qof la yaqaan oo
+qof kale mas'uul ka noqda. ld damiin¹.
+
+dammiin² f.g1 (-nay, -ntay) Qof kale mas'uul
+ka noqosho (qof). ld damiin².
+
+dammiinad¹ m.l ld dammiinasho.
+
+dammiinad² m.dh (-do, m.l) Naag dammiin
+ah. ld damiinad², dammaanad², lammaanad².
+
+dammiinasho m.f.dh eeg dammiino. ld
+damiinad¹, damiinasho, dammaanad¹,
+dammaanasho,
+
+dammiinid m.f.dh eeg dammiin². ld damiinid,
+lammaanid.
+
+dammiinnimo m.dh Dammiin ahaansho. ld
+damiinnimo.
+
+dąmmiinnimo m.dh ld dąmiinnimo.
+
+dammiino f.g3 (-ntay, -natay) Cid damiin ka
+noqosho. ld damiino, dammaano, lammaano.
+
+dammooti m.dh ld tammooti.
+
+damqad m.l ld danqasho.
+
+damqasho m.dh ld danqasho.
+
+damqi f.g2 (-iyay, -isay) ld danaq.
+
+damqid m.dh ld danqid.
+
+damqin m.dh ld danqin.
+
+damqo f.g/mg3 (-qaday, -qatay) ld danqo.
+
+damrad m.dh (-do, m.l) Waran dhego leh oo
+libaax badeedka lagu ugaarsado.
+
+damradayn m.f.dh eeg damradee.
+
+damradee f.g2 (-deeyay, -daysay) Libaax
+badeed iwm damrad ku dhufasho.
+
+damuuji f.g2 (-iyay, -isay) Indho, in yar isku
+qabasho.
+
+damuujin m.f.dh eeg damuuji. 
+
+damuuqsad m.l ld damuuqsasho.
+
+damuuqsasho m.f.dh eeg damuuqso. ld
+damuuqsad, damuuqsi.
+
+damuuqsi m.l ld damuuqsasho.
+
+damuuqso f.g3 (-saday, -satay) Indho, in yar
+isku qabasho.
+
+dan m.dh (-no, m.l) 1. Ujeddo qof doorbido
+in ay faa'ido ugu jirto fal sameyntiisa. 2. D. u
+geli: wax ama qof tixgelin gaar ah siin.
+3. Bannaan.
+
+dąn f.mg1 (-amay, -antay; -ami) Dab, nal
+iwm bakhtiyid. ld den.
+
+danaag¹ m.l Waxtar; dheef.
+
+danaag² m.dh Meel bannaan oo kayni ku
+wareegsantahay.
+
+danaagax m.l (-xyo, m.dh) Gogol yar. ld
+danagax.
+
+danaani f.mg2 (-iyay, -isay) U d.: dad si
+danaana ah gacan ku siin.
+
+dąnaani¹ m.l 1. Soo noqoshada dhawaaqa
+marka uu ku dhaco qararka darbiyada iwm.
+2. Buuq ama bulaan ka soo baxa dad badan
+ama xoolo iwm. 3. Cida dameeraha;
+
+durruqaan. ld dannaanni¹.
+
+dąnaani² f.mg1 (-nyay, -niday; -nyi) Qar,
+derbi iwm dhawaaq soo celin. ld
+dannaanni².
+
+danaanin m.f.dh eeg danaani. ld danaano.
+
+danaano m.dh La safashada qof la safto laba
+cidood ama ka badan oo is haya middood;
+hiilo. ld danaanin.
+
+danaanyid m.f.dh eeg dąnaani². ld
+dannaanniyid.
+
+danab¹ m.l (-byo, m.dh) 1. Biriq. 2. Birdanab.
+3. Qof ama wax dadka soo jiita.
+
+danab² m.l (-byo, m.dh) (fiis.) Barashada
+ifafaalaha saldanab ha ahaado danabneg ama
+mid qulqulaya.
+
+danabayn m.f.dh eeg danabee.
+
+danabaysan f.mg4 (-snaa, -snayd) Wax la
+danabeeyey ahaansho (bir).
+
+danabaysnaan m.f.dh eeg danabaysan. ld
+danabaysnaansho.
+
+danabaysnaansho m.l/dh ld danabaysnaan.
+
+danabee f.g2 (-beeyay, -baysay) Wax danab u
+yeelid.
+
+danabneg m.l (fiis.) Barashada saldanabyada ee
+neg, xoogagga u dhexeeya iyo badada
+danabka ee la xiriira.
+
+danabnimo m.dh Danab ahaansho (qof).
+
+danaboobid m.f.dh eeg danabow.
+
+danabow f.mg1 (-oobay, -owday; -oobi) Wax
+danab leh noqosho.
+danab-soocid m.dh Maxsuulka falgalka
+kiimikaad kana dhasha qulqul danab oo
+dhexmaraaya gudbiye-milme. Raadkani
+waxa uu abuuraa aayano u kala socda
+dhinaca qotinada.
+
+danaf m.l 1. Qabow daran; dhaxan. 2. Weerar.
+
+danagax m.l ld danaagax. danan¹ m.l 1. Cida fardaha. 2. ld dananid.
+
+danan² f.mg1 (-nay, -ntay) 1. Faras ciyid.
+2. Dawan, lacag qaddaaddiic ah iwm
+sanqarid.
+
+dananid m.f.dh eeg danan². ld danan¹ (2).
+
+danaq f.g1 (-nqay, -naqday) Nabar, boog iwm
+dhiig ama dheecan ka keenid. ld damaq,
+damqi, danqi, daqan, daqmi, daqni,
+dinqi.
+
+danayn m.f.dh eeg danee.
+
+danaysad m.l ld danaysasho.
+
+danaysan f.mg4 Wax wax kale lagu daray
+ahaansho.
+
+danaysasho m.f.dh eeg danayso. ld danaysad,
+danaysi.
+
+danaysi m.l Qabsashada qof uu qabsado dan
+uu leeyahay. ld danaysasho.
+
+danaysnaan m.f.dh eeg danaysan. ld
+danaysnaansho.
+
+danaysnaansho m.l/dh ld danaysnaan.
+
+danayso f.mg3 (-stay, -satay) Qof, dan u gaar
+ah fushasho.
+
+danayste m.l (-tayaal, m.l/dh) Qof dantiisa
+keliya ka fekera.
+
+danbiil m.dh ld dambiil.
+
+dandaami f.g2 (-iyay, -isay) Wax culus,
+iyadoo dhulka in yar laga hinjinayo la
+socosho. ld daddaami.
+
+dandaamin m.f.dh eeg dandaami. ld
+daddaamin.
+
+dąndaan m.l (-nno, m.dh) Dhagax weyn.
+
+dandaansad m.l ld dandaansasho.
+
+dandaansasho m.f.dh eeg dandaanso. ld
+daddaansad, daddaansasho, dandaansad.
+
+dandaanso f.g3 (-saday, -satay) Wax culus,
+iyadoo dhulka in yar laga hinjinayo
+qaadasho. ld daddaanso.
+
+dandarrayn m.f.dh eeg dandarree.
+
+dandarraysan f.mg4 (-snaa, -snayd) Wax
+dandarro hayso ahaansho.
+
+dandarraysnaan m.f.dh eeg dandarraysan. ld
+dandarraysnaansho.
+
+dandarraysnaansho m.l/dh ld dandarraysnaan.
+
+dandarree f.g2 (-reeyay, -raysay) Nafley
+dandarro badid.
+
+dandarro m.dh Diif ka muuqata nafley oo ka
+timaadda nafaqo darro ama cudur. 
+
+danduul m.dh (-llo, m.dh) Weel bir ka
+samaysan oo marka ceelasha la qodayo
+dhoobada lagu qaado.
+
+danee f.g2 (-neeyay, -naysay) 1. Caano la
+lulayo biyo yar ku darid. 2. Wax tixgelin
+dheeraad ah siin.
+
+danfadhi m.l.kh (-iyo, m.dh) B. ah: xoolo aan
+xero lahayn. ld banfadhi.
+
+danfariisad m.l ld danfariisasho.
+
+danfariisasho m.f.dh eeg danfariiso. ld
+banfariisad, banfariisasho, danfariisad.
+
+danfariisi¹ m.l Xoolo meel aan xero ahayn lagu
+bariisiyey. ld banfariisi¹.
+
+danfariisi² f.mg2 (-iyay, -isay) Xoolo meel aan
+xero ahayn ku baryid. ld banfariisi².
+
+danfariiso f.mg3 (-stay, -satay) Xoolo, xero
+la'aan baryid. ld banfariiso.
+
+dangalo m.dh (-ooyin, m.l) Wax ay isu yihiin
+naago la wada qabo.
+
+dangaraaro m.dh Madax wareer.
+
+dangaraaroo f.mg3 (-ooday, -ootay)
+Dangararo dareemid (qof).
+
+dangaraarood m.f.l eeg dangaraaroo.
+
+dangee f.g2 (-geeyay, -geysay) Cid hiillo u
+baahnayd oo garab la siin waayey ahaansho.
+
+dangeyn m.f.dh eeg dangee. ld dangeys.
+
+dangeys m.l ld dangeyn.
+
+dangeysan f.mg4 (-snaa, -snayd) Cid hiillo u
+baahnayd oo garab la siin waayey ahaansho.
+
+dangeysnaan m.f.dh eeg dangeysan. ld
+dangeysnaansho.
+
+dangeysnaansho m.l/dh ld dangeysnaan. dangiig¹ m.l 1. Jiif raaxo leh dhabarku
+hooseeyo; xusullaysi. 2. ld dangiigid. ld
+dingiig¹.
+
+dangiig² f.mg1 (-gay, -gtay) Si raaxeysi leh
+dhabarka ugu seexasho. ld dingiig². dangiigid m.f.dh eeg dangiig². ld dangiig¹ (2),
+dingiig¹, dingiigid.
+
+dangiigsad m.l ld dangiigsasho. dangiigsasho m.f.dh eeg dangiigso. ld
+dangiigsad, dangiigsi, dingiigsad,
+dingiigsasho.
+
+dangiigsi m.l ld dangiigsasho.
+
+dangiigso f.mg3 (-saday, -satay) Si raaxeysi leh
+dhabarka ugu seexasho. ld dingiigso. dango m.dh Garabsiin waayidda cid hiillo u
+baahnayd.
+
+dangoobid m.f.dh eeg dangow.
+
+dangow f.mg1 (-oobay, -owday; -oobi) Cid
+hiillo u baahnayd oo garab la siin waayey
+noqosho.
+
+dani¹ m.l Qof mas'uul ka ah baabuur, bas
+iwm. ld deni.
+
+dani² m.dh Geed weyn, ciinka iyo dharkeenka
+ay isku bahyihiin oo ceelasha, guryaha,
+waraha iwm deyr looga dhigo; dano.
+
+danjir m.l ld danjire. danjire m.l (-rayaal, m.l/dh) Nin wakiil ka ah
+dawlad kale; safiir.
+
+danla'aan m.dh Seegseeg iyo shaqo la'aan.
+
+danla'aansho m.l/dh ld danla'aan.
+
+dan-lahelay m.dh.kh D. ah: guntiino ama
+saddex-dhudood haweenku qaadan jireen. ld
+dal-lahelay.
+
+dannaago m.dh ld dinnaago. dannaanni¹ m.l ld dąnaani¹.
+
+dannaanni² f.mg1 (-nyay, -niday; -nyi) ld danaani².
+
+dannaanniyid m.dh ld danaanyid.
+
+dannabayn m.f.dh eeg dannabee.
+
+dannabe m.l.u Neef baadi ah ama la soo xaday
+oo la qashay. ld dannabo.
+
+dannabee f.g2 (-beeyay, -baysay) Neef la soo
+xaday ama baadi ah qalasho.
+
+dannabo m.dh ld dannabe.
+
+danni¹ m.l Dareen shaki iyo hubsiino la'aan
+abuura.
+
+danni² f.g1 (-iyay, -iday; -iyi) Dareen shaki
+iyo hubsiino la'aan leh cid ku abuurid.
+danniyid m.f.dh eeg danni².
+dano m.dh 1. Dani. 2. In yar oo caano
+dhanaan ah oo gundhig looga dhigo caano la
+rabo in ay dhaqso u gorooraan. 3. In yar oo
+caano ah oo laga shubo caano la lulayo oo la
+siiyo qof la rumaysanyahay in uu u
+sancanyahay oo ay haantu subag badan
+dhalayso. 4. Biyo yar oo lagu daro caano la
+lulayo marka ay firfiraan.
+
+danqaab¹ m.l Waxyeello. ld danqaabid.
+
+danqaab² f.g1 (-bay, -btay) Cid waxyeello
+gaarsiin.
+
+danqaabid m.f.dh eeg danqaab². ld danqaab¹,
+danqaabo.
+
+danqaabo m.dh ld danqaabid.
+
+danqaare m.l ld danqaaro.
+
+danqaaro m.dh Nooc cawska dhaadheer ka
+mid ah oo meelaha biyo fariisinka ah ka
+baxa. ld danqaare.
+
+danqad m.l ld danqasho.
+
+danqasho m.f.dh eeg danqo. ld damqad,
+damqasho, danqad, daqmad, daqmasho,
+daqnad
+
+danqi f.g2 (-iyay, -isay) ld danaq.
+
+danqid m.f.dh eeg danaq. ld damqid, damqin,
+danqin, daqmid, daqmin, daqnid.
+
+danqin m.dh ld danqid.
+
+danqo f.g/mg3 (-qaday, -qatay) Boog, nabar
+iwm.wax dhiig ama dhacaan laga keenay
+noqosho. ld damqo, daqmo, daqno.
+
+dansan f.mg4 (-naa, -nayd) Dab, nal iwm wax
+bakhtiyey ahaansho. ld densan.
+
+dansanaan m.f.dh eeg dansan. ld dansanaansho, densanaan, densanaan -sho.
+
+dansanaansho m.l/dh ld dansanaan.
+
+danseeg¹ m.l Wax aan faa'ido lahayn ee qof
+waqti ku dhaafo. ld danseegid. danseeg² f.mg1 (-gay, -gtay) Qof, wax aan
+faa'ido lahayn waqti ku lumin.
+
+danseegid m.f.dh eeg danseeg². ld danseeg¹. danseeji f.g2 (-iyay, -isay) Qof, waqtiga uga
+lumin waxaan faa'iido u lahayn.
+
+danseejin m.f.dh eeg danseeji. ld danseejis. danseejis m.l ld danseejin.
+
+dansheegad m.l ld dansheegasho.
+
+dansheegasho m.f.dh eeg dansheego. ld
+dansheegad.
+
+dansheego f.mg3 (-gtay, -gatay) U d.: qof
+muraad uu leeyahay qof u sheegasho.
+
+danwadaag m.dh (-go, m.l) 1. Dad isku
+degaan ah oo wadaaga heshiis nabadgelyo.
+2. Dad isku degaan ah oo dan gaar ahaaneed
+ka dhexeyso.
+
+danyar¹ m.dh.u Qof dhaqaalihiisu liito oo aan
+heli karin wax nolol maalmeedkiisa
+dhaafsiisan. ld dabyar.
+
+danyar² f.mg4 (-raa, -rayd) Qof dhaqaalihiisu
+liito oo aan heli karin wax dhaafsiisan nolol
+maalmeedka ahaansho.
+
+danyaraan m.f.dh eeg danyar². ld danyari,
+danyaro.
+
+danyari m.dh ld danyaraan.
+
+danyaro m.dh ld danyaraan.
+
+da'oobid m.f.dh eeg da'ow.
+
+da'ow f.mg1 (-oobay, -oowday; -oobi) Duq
+noqosho (qof).
+
+daqan f.g1 (-qnay/-qmay, -qantay; -qni/-
+qmi) ld danaq.
+
+daqaqamid m.f.dh eeg daqaqan². ld daqaqan¹.
+
+daqaqan¹ m.l Socod meel aan guriga ka fogeyn
+lagu gaaro; faalal. ld daqaqamid.
+daqaqan² f.mg1 (-amay, -antay; -ami) U d.:
+Meel aan guriga ka fogeyn socod ku gaarid.
+
+daqar¹ m.l (-rro, m.dh) Dhaawac madaxa
+gaara oo aan lafta jebin. ld dakhar¹.
+
+daqar² f.g1 (-qray, -qartay; -qri) Qof,
+dhaawac aan lafta jebin madaxa ka gaarsiin.
+ld dakhar².
+
+daqarasoon m.l Hanti sako ahaan loo bixiyo
+marka Soonku dhammaado. ld dagarasoon, daqarsoon.
+
+daqarsoon m.l ld daqarasoon.
+
+daqay m.l/dh (-yo, m.dh) Muruq ku yaal laf
+dhabarta labadeeda dhinac.
+
+daqiiji f.g2 (-iyay, -isay) Wax buda ka dhigid.
+
+daqiijin m.f.dh eeg daqiiji.
+
+daqiiq m.l/dh 1. Wax kasta oo aad loo shiido;
+budo. 2. Sarreen aad loo shiiday; bur.
+
+daqiiqad m.dh (-do, m.l) Waqti hal saac ah oo
+lixdan meelood loo qaybshay middood. ld
+daqiiqo.
+
+daqiiqo m.dh ld daqiiqad.
+
+daqmad m.l ld danqasho.
+
+daqmasho m.dh ld danqasho.
+
+daqmi f.lg2 (-iyay, -isay) ld danaq.
+
+daqmid m.dh ld danqid.
+
+daqmin m.dh ld danqid.
+
+daqmo f.mg3 (-maday, -matay) ld danqo.
+
+daqnad m.l ld danqasho.
+
+daqnasho m.dh ld danqasho.
+
+daqni f.g2 (-iyay, -isay) ld daqan.
+
+daqnid m.dh ld danqid.
+
+daqnin m.dh ld danqid.
+
+daqno f.g/mg3 (-naday, -natay) ld danqo.
+
+daqramid m.f.dh eeg daqran¹. ld dakhramid.
+
+daqran¹ f.mg1 (-amay, -antay; -ami) Wax
+madaxa dhaawac ka gaarey noqosho (qof).
+
+daqran² f.mg4 (-naa, -nayd) Wax madaxa
+daqar ka gaarey ahaansho (qof).
+
+daqranaan m.f.dh eeg daqran². ld dakhranaan,
+dakhranaansho, daqranaansho.
+
+daqranaansho m.l/dh ld daqranaan.
+daqrid m.f.dh eeg daqar². ld dakhrid.
+
+daqsi m.l ld duqsi.
+
+dar¹ m.l (-rar, m.l) 1. Weel ka sameysan bir,
+qori, harag oo xoolaha biyo loogu shubo.
+2. Dhisme dhagax iyo shamiinto ka
+samaysan oo xoolaha biyo loogu shubo. 3. In
+xoolo ah oo isku mar ka wada cabta. 4. D.
+ah: dadkii hore.
+
+dar² m.dh.fk 1. D.tay, d.taa iwm: awgay, awgaa
+iwm. 2. D. Alle: Alle dartiis, si niyadsam ah.
+ld daraad.
+
+dar³ f.g/mg1 (-ray, -rtay) 1. (f.g) Badar, biyo,
+caano iwm oo meel ku jira weel in yar uga
+qaadid. 2. (f.g) Middi, waran iwm wax ku
+mudid. 3. (f.mg) Ka d.: xaal wax ku
+sugnaayeen si ka xun noqosho. 4. (f.mg) Ku
+d.: wax, wax kale ku kordhin. 5. (f.mg) Ku
+d.: nin iyo naag isu guurin.
+
+daraad m.dh.fk ld dar².
+
+daraaf m.l Nuqul, bartilmaan.
+
+daraasad m.dh ld daraaso, diraaso.
+
+daraaso m.dh Baaridda ama u dhabbagelidda
+wax la rabo in xogtooda la ogaado. ld
+daraasad, diraaso.
+
+Finished page 206(183) - 210(187)
 
