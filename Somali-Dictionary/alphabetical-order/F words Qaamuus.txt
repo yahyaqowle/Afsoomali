@@ -626,7 +626,6 @@ fadeexayn m.f.dh eeg fadeexee.
 fadeexee f.g2 (-xeeyay, -xaysay) Cid fadeexo
 ku samayn; dacaayadeyn. 
 
-<<<<<<< HEAD
 fadeexo m.dh (-ooyin, m.l) Fal xun oo aan
 qarsoonayn; ceeb, facsharo.
 
@@ -787,6 +786,3 @@ fago f.g3 (-gtay, -gatay) Qof iskiis wax u
 qodasho. 
 
 Completed page 312(289)
-=======
-Completed page 311(288)
->>>>>>> 7b0350569d0d3f00d594c6a3609a68591fb7c0f6
