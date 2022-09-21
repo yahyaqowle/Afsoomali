@@ -1,4 +1,5 @@
 # Soomaali Xaquuq Daabacad kama dhaxeyso
+
 > free for use
 
 Halkan waxaan ku diyaarinaynaa mashaariic lagu hormarinayo afsoomaliga
