@@ -1241,6 +1241,7 @@ falanfalxo m.dh Geed quwaax leh xabag loo
 isticmaalo wax udginta. ld falaanfalax,
 falaanfalxo.
 
+<<<<<<< HEAD
 falanqayn m.f.dh eeg falanqee. ld falanqo.
 
 falanqee f.g2 (-qeeyay, -qaysay) Arrin si dhab
@@ -1380,3 +1381,6 @@ footoono iyo nooc ka mid ah
 niyuutaroonada dhexdhexaadka ah. 
 
 Completed page 315(292)
+=======
+Completed page 314(291)
+>>>>>>> 9069fdf8df082b0ff024eed64da24c281d787f17
