@@ -22,7 +22,7 @@ aabburnaansho
 Aabee
 Aabeyeelid
 Aabi
-Aabiweyrax
+aabiweyrax
 Aabo
 Aabonimo
 Aabyoo
@@ -35,9 +35,8 @@ aadaab
 aadaamid
 aadaan¹
 aadaan²
-aadamiguudkeedaahaan.
-aadaminnimo¹aadminnimo.
-
+aadami
+aadaminnimo¹
 aadaminnimo²
 aadane
 aaddamid
@@ -125,7 +124,6 @@ aammus¹
 aammus²
 aammusan
 aammusdaran
-aammusaynin
 aammusdarnaan
 aammusdarnaansho
 aammusi
@@ -143,7 +141,6 @@ aanayso
 aanee
 aannu
 aano
-aanay
 aar¹
 aar²
 aaraa'
@@ -170,6 +167,7 @@ aargoosi
 aargooso
 aargud
 aargudasho
+aargudid
 aargudis
 aarid
 aaris
@@ -211,7 +209,6 @@ aayakatashi
 aayar
 aayatiin
 aayaxumaan
-aayaxumaansho,
 aayaxumaansho
 aayaxumi
 aayaxumo
@@ -255,7 +252,8 @@ abaahiyid
 abaaji¹
 abaaji²
 abaajiyid
-abaalabaalceli
+abaal
+abaalceli
 abaalcelin
 abaalcelis
 abaaldaran
@@ -296,7 +294,6 @@ abaarsad
 abaarsasho
 abaarso
 abaaseere
-booranaha
 abab¹
 abab²
 ababi
@@ -321,7 +318,8 @@ abasaxnaansho
 abasaxsan
 abasaxsanaan
 abasaxsanaansho
-abashuqleabashuqlee
+abashuqle
+abashuqlee
 abashuqleyn
 abasixid
 abataqan
@@ -352,11 +350,13 @@ abbaarsii
 abbaarsiin
 abbaato
 abbaay
-abbaayabbaaye
+abbaay
+abbaaye
 abbaayguddoy
 abbaayo
 abbaseere
-abboowabboowe
+abboow
+abboowe
 abbuul
 abdo
 abeer
@@ -568,14 +568,16 @@ adse
 aduu
 adwaar
 adyadee
-adyadeynaf¹
+adyadeyn
+af¹
 af²
 afaaf
 afacaayil
 afaggaal
 afar
 afaraad
-afardhegoodafaree
+afardhegood
+afaree
 afareyn
 afareys
 afareysad
@@ -870,7 +872,8 @@ afxumee
 afxumi
 afxumo
 afxumow
-afxunafyaal
+afxun
+afyaal
 afyaqaan
 afyar
 afyuub
@@ -1052,7 +1055,8 @@ alaalax²
 alaale
 alaalennimo
 alaalixid
-alaalnimoalaalo
+alaalnimo
+alaalo
 alab
 alabbas¹
 alabbas²
@@ -1060,7 +1064,6 @@ alabbasid
 alabbaslays
 alabbaslee
 alabbasleyn
-alabbaslays,
 alabbasmays
 alabbasmeyn
 alal
@@ -1160,7 +1163,8 @@ allif²
 allifaad
 allife
 allifid
-alluumiiniyamalluumiiniyam-ogsaydh
+alluumiiniyam
+alluumiiniyam-ogsaydh
 alma-almay
 alma-almayn
 alma-almee
@@ -1281,7 +1285,6 @@ ambuul
 ameer
 amiiba
 amiino
-amiino
 amiino-asiidh
 amiir
 amiirnimo
@@ -1384,7 +1387,7 @@ angarmid
 angarnaan
 angarnaansho
 anguugyo
-anhaydaraydhtusaale
+anhaydaraydh
 ani
 aniga
 animoomitir
@@ -1952,7 +1955,6 @@ asqaysan
 asqaysii
 asqaysiin
 asqaysnaan
-aqsaysnaan,
 asqaysnaansho
 asqee
 asqo
@@ -2116,7 +2118,6 @@ ayaamo
 ayaan²
 ayaandaran
 ayaandarnaan
-ayaandarnaansho,
 ayaandarnaansho
 ayaandarri
 ayaandarro
@@ -2173,6 +2174,3 @@ ayoon-taban
 ayoon-togan
 ayro
 aysootoonik
-
-
-
