@@ -198,8 +198,7 @@ baahee f.g2 (-heeyay, -heysay) U b.: qof ama dad dhibaateysan hanti u uruurin.
 
 bąahi f.g2 (-iyay, -isay) U b.: war dad badan u sheegid. 
 
-baahi¹ m.dh 1. Dareen nafleyda ku dhaca marka ay muddo cunto moogaato; gaajo. 2. Xaalad cunto yari oo meel ka dhacda. 
-            3. Dhibaato ay keento wax la'aantooda. Tus. “Biixi lacag buu baahi u qabaa”. 
+baahi¹ m.dh 1. Dareen nafleyda ku dhaca marka ay muddo cunto moogaato; gaajo. 2. Xaalad cunto yari oo meel ka dhacda. 3. Dhibaato ay keento wax la'aantooda. Tus. “Biixi lacag buu baahi u qabaa”. 
 
 baahi² f.g2 (-iyay, -isay) U b.: cid in ay wax u baahato badid. 
 
@@ -563,8 +562,7 @@ baaryoomid m.f.dh eeg baaryoon.
 
 baaryoon f.mg1 (-oomay, -oontay; -oomi)Markab ama doon dekad ka furasho, ka goosasho. 
 
-baas¹ m.l (-sas, m.l) 1. Dhibaato aad u weyn; belo. 2. Warqad aqoonsi oo lagu galo meel gaar ah sida xeryaha ciidamada, dekedaha iwm.
-                      3. Rasaas si is daba joog ah u dhacda. 
+baas¹ m.l (-sas, m.l) 1. Dhibaato aad u weyn; belo. 2. Warqad aqoonsi oo lagu galo meel gaar ah sida xeryaha ciidamada, dekedaha iwm. 3. Rasaas si is daba joog ah u dhacda. 
 
 baas² f.g1 (-say, -stay) Imtixaan gudbid. Tus. “Cali, imtixaankii wuu baasay”. 
 
@@ -1870,8 +1868,7 @@ baqti² f.mg1 (-iyay, -iday, -iyi) Nafley, iyadoon la gawracin nafbixid. ld bakh
 
 baqti-afuuf¹ m.l 1. Diqsi waaweynoo aan laga waayin meesha baqti yaal. 2. B. ah: qof wax aan qiimo lahayn bunbuuniya. ld bakhtiafuuf¹.
 
-baqti-afuuf² f.mg1 (-fay, -ftay) 1. Wax aan qiimo lahaayn buunbuunin.
-                                 2. Nafley aad u liidata taakulo dheerad ah siin si ay u noolato. ld bakhti-afuuf².
+baqti-afuuf² f.mg1 (-fay, -ftay) 1. Wax aan qiimo lahaayn buunbuunin. 2. Nafley aad u liidata taakulo dheerad ah siin si ay u noolato. ld bakhti-afuuf².
 
 baqti-afuufid m.dh eeg baqti-afuuf². ld bakhtiafuufid.
 
@@ -1884,10 +1881,7 @@ baqtiggowrac² f.mg1 (-cay, -cday; -rici) Baqtigowrac ku kicid. ld bakhtiggowrac
 
 baqtiggowracid m.f.dh eeg baqtiggowrac². 
 
-baqtii f.g2 (-iiyay, -iisay) 1. Nafley, nafta ka goyn. 
-                             2. Nal, raadiye, dab iwm damin. 
-                             3. Nafley xannaano darreyn. 
-                             4. Xoolo, ugaar iwm oo nafbaxaya gawrici waayid. ld bakhtii, bakhtiiji, baqtiiji.
+baqtii f.g2 (-iiyay, -iisay) 1. Nafley, nafta ka goyn. 2. Nal, raadiye, dab iwm damin. 3. Nafley xannaano darreyn. 4. Xoolo, ugaar iwm oo nafbaxaya gawrici waayid. ld bakhtii, bakhtiiji, baqtiiji.
 
 baqtiiji f.g2 (-iiyay, -iisay) ld baqtii.
 
