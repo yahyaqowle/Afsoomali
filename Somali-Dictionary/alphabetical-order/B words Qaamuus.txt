@@ -396,7 +396,7 @@ baanji² f.g1 (-iyay, -iday; -iyi) Si aan xasilooni iyo nidaam lahayn wax u baar
 
 baanjiyid m.f.dh eeg baanji². ld baanji¹. 
 
-baankariis m.l (c.nafl.) Qanjidh laga helo lafdhabarleyda oo ku yaalla laba-iyotobanlaha iyo beeryarada dhexdhooda. Wuxuu soo daaya insaymyo dheefshiid oo u badan tiribsinoojin, amaylase libays kuna shuba laba-iyo-tobanlaha iyaga oo sii maraya marinka baankariyeed. 
+baankariis m.l (c.nafl.) Qanjidh laga helo lafdhabarleyda oo ku yaalla laba-iyo tobanlaha iyo beeryarada dhexdhooda. Wuxuu soo daaya insaymyo dheefshiid oo u badan tiribsinoojin, amaylase libays kuna shuba laba-iyo-tobanlaha iyaga oo sii maraya marinka baankariyeed. 
 
 baano f.g/mg3 (-ntay, -natay) 1. (f.g) Qof buka ama dhaawac ah baan siin. 2. (f.mg) Qof bukaan ama dhaawac ka bogsasho. 
 
@@ -420,7 +420,7 @@ baantookh f.mg1 (-khay, -khday) Cid ammaan badan oo ay lahayn sheegasho.
 
 baantookhid m.f.dh eeg baantookh. 
 
-baantow m.l.kh B. ah: dibi dad dil ah oo cidlajoognimo ku abaaday muddo. ld baantoy.
+baantow m.l.kh B. ah: dibi dad dil ah oo cidla joognimo ku abaaday muddo. ld baantoy.
 
 baantoy m.l.kh ld baantow.
 
@@ -1188,7 +1188,7 @@ bakhti² f.mg2 (-iyay, -isay) ld baqti².
 
 bakhti-afuuf¹ m.l ld baqti-afuuf¹
 
-bakhti-afuuf² f.g1 (-fay, -ftay) ld baqtiafuuf².
+bakhti-afuuf² f.g1 (-fay, -ftay) ld baqti afuuf².
 
 bakhti-afuufid m.dh ld baqti-afuufid.
 
@@ -1574,9 +1574,7 @@ bambax¹ m.l 1. Isugu imaanshaha ay dad badan oo ujeeddo gaar ah lihi isugu yima
 
 bambax² f.mg1 (-xay, -xday; -bixi) Fagaaro isugu imaansho si ujeeddo loo fuliyo (dad badan). ld bannaambax².
 
-bambiiro m.dh 1. Shey jilicsan, ramal ka sameysan oo midabbo iyo tooxyo kala duwan leh oo biyaha celiya.
-              2. Xarko dhudhuuban oo lacagta lagu rito oo ramal ka samaysan. 
-              3. B. ah: kabo ramal ah oo roobka laga gashado. ld ambiiro.
+bambiiro m.dh 1. Shey jilicsan, ramal ka sameysan oo midabbo iyo tooxyo kala duwan leh oo biyaha celiya. 2. Xarko dhudhuuban oo lacagta lagu rito oo ramal ka samaysan. 3. B. ah: kabo ramal ah oo roobka laga gashado. ld ambiiro.
 
 bambixid m.f.dh eeg bambax². ld bambax¹, bannaambax¹, bannaambixid.
 
@@ -1620,8 +1618,7 @@ banbaano m.dh (-ooyin, m.l) ld bambaano.
 
 bandar m.l ld bender.
 
-bandhig¹ m.l 1. Keenidda meel fagaare ah wax-soo-saar warshadeed, beereed, faneed iwm si loo daawado. 
-             2. ld bandhigid, bandhig² f.g1 (-gay, -gtay) Alaab ganacsi ama faneed iwm meel fagaar ah dadweynaha ugu dhigid. 
+bandhig¹ m.l 1. Keenidda meel fagaare ah wax-soo-saar warshadeed, beereed, faneed iwm si loo daawado. 2. ld bandhigid, bandhig² f.g1 (-gay, -gtay) Alaab ganacsi ama faneed iwm meel fagaar ah dadweynaha ugu dhigid. 
 
 bandhigan f.mg4 (-gnaa, -gnayd) Wax la bandhigay ahaansho (alaab). 
 
@@ -1653,8 +1650,7 @@ banfariisi² f.g2 (-iyay, -isay) ld danfariisi².
 
 banfariiso f.mg3 (-stay, -satay) ld danfariiso.
 
-bangalo m.dh (-ooyin, m.l) 1. Guri dhul weyn ku fadhiya, si qurux badan u dhisan, baabuurta dhex geli karto oo dhiri ku tallaalantahay. 
-                           2. Dhismo hareeraha ka guran oo guryaha hortooda ama dushooda lagu dhiso oo lagu leersado. 
+bangalo m.dh (-ooyin, m.l) 1. Guri dhul weyn ku fadhiya, si qurux badan u dhisan, baabuurta dhex geli karto oo dhiri ku tallaalantahay. 2. Dhismo hareeraha ka guran oo guryaha hortooda ama dushooda lagu dhiso oo lagu leersado. 
 
 bangaree f.g2 (-reeyay, -reysay) ld bamgaree.
 
@@ -1662,7 +1658,7 @@ bangareyn m.dh ld bamgareyn. bangeeriyaad m.l (-dyo, m.dh) Shuban ka yimaadda qo
 
 bangi m.l (-iyo, m.dh) ld banki.
 
-banii-aadan m.l.u Dadka Eebehay dunida guudkeeda ku abuuray oo dhan. ld baniiaadmi, benii-aadan, benii-aadmi, biniiaadan.
+banii-aadan m.l.u Dadka Eebehay dunida guudkeeda ku abuuray oo dhan. ld banii aadmi, benii-aadan, benii-aadmi, biniiaadan.
 
 banii-aadannimo m.dh Banii-aadan ahaansho. ld benii-aadannimo, binii-aadannimo.
 
@@ -1678,8 +1674,7 @@ banji-bijoohaar m.l (-rro, m.dh) Dhagax dubnadeed oo wejiga lagu ciyaaro dhinac 
 
 banji-bisaliim m.l ld saliim-bibanji. 
 
-banji-bishiish m.l (-shyo, m.dh) Dhagax dubnadeed oo wejiga lagu ciyaaro dhinac shan dhibcood ku leh, 
-                                 dhinaca kalena lix. ld biish-bishiish, shiish-bibanji, shiishbibiish.
+banji-bishiish m.l (-shyo, m.dh) Dhagax dubnadeed oo wejiga lagu ciyaaro dhinac shan dhibcood ku leh, dhinaca kalena lix. ld biish-bishiish, shiish-bibanji, shiish bibiish.
 
 banji-biyeeg m.l (-gyo, m.dh) Dhagax dubnadeed oo wejiga lagu ciyaaro hal dhibic ku leh, dhinaca kalena shan ku leh. ld yeeg- bibiish.
 
@@ -1709,8 +1704,7 @@ bankarroorsanaan m.dh eeg bankarroorsan. ld bankarroorsanaansho.
 
 bankarroorsanaansho m.l/dh ld bankarroorsanaan.
 
-banki m.l (-iyo/bunuug, m.dh) Maamul xafiisyo leh oo lacagta lagu keydiyo ama layska amaahiyo, fuliyana adeegyo maaliyadeed sida sarrifka lacagaha qalaad, 
-                              xawaaladaha gudaha iyo dibadda iyo furidda ictimadyada. ld bangi.
+banki m.l (-iyo/bunuug, m.dh) Maamul xafiisyo leh oo lacagta lagu keydiyo ama layska amaahiyo, fuliyana adeegyo maaliyadeed sida sarrifka lacagaha qalaad, xawaaladaha gudaha iyo dibadda iyo furidda ictimadyada. ld bangi.
 
 banmar¹ m.l 1. Cudur caaliriya candho neef markaa dhalay oo ka yimaadda nadaafaddarro. 2. ld banmarid.
 
@@ -1729,6 +1723,7 @@ bannaambax¹ m.l ld bambax¹.
 bannaambax² f.mg1 (-xay, -xday) ld bambax².
 
 bannaambixid m.dh ld bambixid.
+
 bannaan¹ m.l 1. Dhul siman oo aan geedo iyo buuro lahayn; ban. 2. Meel xadeysan dhulka dibadda ka ah. 
 
 bannaan² f.mg4 (-naa, -nayd) 1. Meel siman oo aan geedo lahayn ahaansho; meel aan wax oollin ahaansho. 2. Wax sharciga waafaqsan ahaansho. 
@@ -1743,13 +1738,11 @@ bannaanee f.g2 (-neeyay, -neysay) ld bannee.
 
 bannaan-fatah m.l (jool.) Dhul siman oo webi saaran oo ka samaysmay tuullimaadyada xaabka webigu uu sido. 
 
-bannaanow f.mg3 (-naaday, -naatay) 1. Meel aan geedo iyo dhis midna lahayn; dhul siman oo aan geedo iyo buuro iyo boholo midna lahayn; ban. 
-                                   2. Wax xalaal ah noqosho. 
+bannaanow f.mg3 (-naaday, -naatay) 1. Meel aan geedo iyo dhis midna lahayn; dhul siman oo aan geedo iyo buuro iyo boholo midna lahayn; ban. 2. Wax xalaal ah noqosho. 
 
 bannayn m.f.dh eeg bannee. ld bannaanayn.
 
-bannee f.g2 (-neeyay, -naysay) 1. Wax meel sida waddo, irrid iwm ku gudban ka wareejin. 2. Meel xadeysan wax ku jira ka saarid. 
-                               3. Meel geedo ku yaalin bannaan ka dhigid. 4. Wax samayntooda oggolaan (sharci). 
+bannee f.g2 (-neeyay, -naysay) 1. Wax meel sida waddo, irrid iwm ku gudban ka wareejin. 2. Meel xadeysan wax ku jira ka saarid. 3. Meel geedo ku yaalin bannaan ka dhigid. 4. Wax samayntooda oggolaan (sharci). 
 
 bano m.dh 1. Dhaxan badan. 2. B. ah: meel dhaxan badan oo aan gabbaad lahayn. 
 
@@ -1771,8 +1764,7 @@ bantarid m.f.dh eeg bantar².
 
 baq¹ m.l 1. Caano xumaaday oo aan la dhammi karin. 2. ld biqid.
 
-baq² f.mg1 (-qay, -qday; -biqi) 1. Wax xumaaday oo aan la dhami karin noqosho (caano). 2. Baqdin dareemid. 
-                                3. Ka b.: sharci, qawaaniin iwm wax khilaafsan faliddiisa ka digtoonaan si looga baxsado ciqaabta ay jebintiisu leedahay. 
+baq² f.mg1 (-qay, -qday; -biqi) 1. Wax xumaaday oo aan la dhami karin noqosho (caano). 2. Baqdin dareemid. 3. Ka b.: sharci, qawaaniin iwm wax khilaafsan faliddiisa ka digtoonaan si looga baxsado ciqaabta ay jebintiisu leedahay. 
 
 baqaal m.l (-llo, m.dh) Doonyaha safarrada dhaadheer gala tan ugu weyn oo qaadi karta kun jawaan iyo ka badan. ld baqaalad, baqlad.
 
@@ -1810,9 +1802,7 @@ baqaye m.l.u ld baqalye.
 
 baqaynimo m.dh Baqay ahaansho. 
 
-baqbaq m.l 1. Xabag aan saafi ahayn oo jilif, duux iwm ku dhafanyihiin. 
-           2. Dhegdhegga indhaha buka ama aan nadiifka ahayn yeeshaan; fiish, dhalxan. 
-           3. Dalool yar oo ku yaal albaab, dariishad iwm. 
+baqbaq m.l 1. Xabag aan saafi ahayn oo jilif, duux iwm ku dhafanyihiin. 2. Dhegdhegga indhaha buka ama aan nadiifka ahayn yeeshaan; fiish, dhalxan. 3. Dalool yar oo ku yaal albaab, dariishad iwm. 
 
 baqbeeno m.dh Subag iyo caano isku jira oo aan weli la kala miirin. 
 
@@ -1870,12 +1860,11 @@ baqti-afuuf¹ m.l 1. Diqsi waaweynoo aan laga waayin meesha baqti yaal. 2. B. ah
 
 baqti-afuuf² f.mg1 (-fay, -ftay) 1. Wax aan qiimo lahaayn buunbuunin. 2. Nafley aad u liidata taakulo dheerad ah siin si ay u noolato. ld bakhti-afuuf².
 
-baqti-afuufid m.dh eeg baqti-afuuf². ld bakhtiafuufid.
+baqti-afuufid m.dh eeg baqti-afuuf². ld bakhti afuufid.
 
 baqtifuul m.l Duqsi waaweyn, leh midab qurxoon oo buluug ama cagaar ah oo laga helo meelaha waxa qurmay yaaliin. ld bakhtifuul.
 
-baqtiggowrac¹ m.l Colaad aad u xumaata oo inta xeerka wanaagsan oo dagaalka laga gudbo, dadka nool daaye, 
-                  kuwa dhinta la foolxumeeyo (gowrac, addimo ka goyn iwm); baqtiwareen. ld bakhtiggowrac¹.
+baqtiggowrac¹ m.l Colaad aad u xumaata oo inta xeerka wanaagsan oo dagaalka laga gudbo, dadka nool daaye, kuwa dhinta la foolxumeeyo (gowrac, addimo ka goyn iwm); baqtiwareen. ld bakhtiggowrac¹.
 
 baqtiggowrac² f.mg1 (-cay, -cday; -rici) Baqtigowrac ku kicid. ld bakhtiggowrac².
 
@@ -1921,9 +1910,7 @@ bar² m.dh (-ro, m.l) 1. Goobaabin yar oo meesha ku taal midab ka duwan leh. 2. 
 
 bar³ m.l (daaw.) Bar lagu dhasho oo meel xaddidan ee maqaarka ah ku taal. 
 
-bar⁴ f.g1 (-ray, -rtay) 1. Cid, cilmi iyo wax uusan aqoon aqoonsi.
-                        2. Wax laba meelood oo isla 'eg u qaybin. 
-                        3. Is b.: caadaysasho. 
+bar⁴ f.g1 (-ray, -rtay) 1. Cid, cilmi iyo wax uusan aqoon aqoonsi. 2. Wax laba meelood oo isla 'eg u qaybin. 3. Is b.: caadaysasho. 
 
 baraacuud m.l Baro badan oo isugu jira midabbo kala duwan. 
 
@@ -1943,8 +1930,7 @@ baraamitir m.l (-yo, m.dh) (fiis.) Madoorsoome ama doorsoome kala saaraya xaalad
 
 baraaq m.l (-qyo, m.dh) Fadhi caajisnimo ku jirto oo in muddo ah si macnala'aan ah meel loo fadhiyo. 
 
-baraar¹ m.l (-rro, m.dh) 1. Naylo waaweyn oo aan dhibaato mudanayn haddii naaska hooyada ay waayaan. 
-                         2. Meesha markabka loogu xiro borosinka. 
+baraar¹ m.l (-rro, m.dh) 1. Naylo waaweyn oo aan dhibaato mudanayn haddii naaska hooyada ay waayaan. 2. Meesha markabka loogu xiro borosinka. 
 
 baraar² m.dh Neef lo' ah oo leh geeso labada dhinac u kala rogan; sheexo. 
 
@@ -1980,9 +1966,7 @@ baraarug¹ m.l 1. Dareen iyo feejignaan dheeraad ah oo arrin loo yeesho. 2. Si a
 
 baraarug² m.dh (-go, m.l) Dugaagad bir ama maar ah oo carruurta gacanta ama lugta loogu xiro si ayan hurdada uga soo sasin. 
 
-baraarug³ f.mg1 (-gay, -gtay) 1. Qof iskiis hurdo uga kicid. 
-                              2. Si aan caadi ahayn oo dhaqsi leh hurdo ugu kicid.
-                              3. Dareen iyo feejignaan dheeraad ah arrin u yeelasho. 
+baraarug³ f.mg1 (-gay, -gtay) 1. Qof iskiis hurdo uga kicid. 2. Si aan caadi ahayn oo dhaqsi leh hurdo ugu kicid. 3. Dareen iyo feejignaan dheeraad ah arrin u yeelasho. 
 
 baraarugid m.f.dh eeg baraarug³. ld baraarug¹.
 
@@ -1994,14 +1978,11 @@ baraarugsanaansho m.l/dh ld baraarugsanaan. baraaruji f.g2 (-iyay, -isay) 1. Cid
 
 baraarujin m.f.dh eeg baraaruji. ld baraarujis.
 
-baraarujin-caafimaad m.l (daaw.) Habab qanciya dadka si loogu dhiirraggeliyo in ay ku dhaqmaan hab nololeed wanaajinaya caafimaadka kana fogaadaan caadooyinka 
-                                 loo haysto in ay caafimaadka wax u dhimayaan cimri nololeedka soo gaabinaya. 
+baraarujin-caafimaad m.l (daaw.) Habab qanciya dadka si loogu dhiirraggeliyo in ay ku dhaqmaan hab nololeed wanaajinaya caafimaadka kana fogaadaan caadooyinka loo haysto in ay caafimaadka wax u dhimayaan cimri nololeedka soo gaabinaya. 
 
 baraarujis m.l ld baraarujin. baraarujsanaan m.dh (taar.) Fikrado kasta, afkaar, dareen, rajooyin, ujeeddooyin, xusuus uu qofka ama dadka u leeyahay. 
 
-baraas m.l (-ooyin, m.l) (kiim.) Nooc kasta oo ka mid ah birdhafyada kubram-sink oo ilaa 50% tahay sink. Marka xaddiga sink la kordhiyaba, 
-                                 midabka birdhafku wuxuu iskula beddelaa sidan: dahabi-cas oo noqda dahabi; ilaa laga gaadho caddaan-qalimeed. 
-                                 Baraasyada si fudud ayaa loo sameeyaa, si wacanna way ugu adkaystaan daxalaysiga. 
+baraas m.l (-ooyin, m.l) (kiim.) Nooc kasta oo ka mid ah birdhafyada kubram-sink oo ilaa 50% tahay sink. Marka xaddiga sink la kordhiyaba, midabka birdhafku wuxuu iskula beddelaa sidan: dahabi-cas oo noqda dahabi; ilaa laga gaadho caddaan-qalimeed. Baraasyada si fudud ayaa loo sameeyaa, si wacanna way ugu adkaystaan daxalaysiga. 
 
 baraashirix m.l Midab ka kooban baro yaryar badan, midabbo kala duwan ah oo riyuhu yeeshaan. 
 
@@ -2037,8 +2018,7 @@ baraf-dhagax m.l (-xyo, m.dh) (c.cimi.) Kubbado yaryar oo baraf adag ah, dhexroo
 
 baraf-dhalaal m.l (jool.) Dariiqadda qaadidda ama dhaqaajinta barafweynaha dhalaala amase uu ku dhaco uumibax amase barafburbur. 
 
-baraf-durduro m.l (juqr.) Cuf baraf ah oo si tartiib ah hoos ugu dhaqaaqaya waadi dhexdiis, isagoo ka soo dhaqaaqaya meesha sare
-                          ee barafku ku samaysmay una socda xagga badda, waxa jiidayana waa xoogga cufisjiidadka. 
+baraf-durduro m.l (juqr.) Cuf baraf ah oo si tartiib ah hoos ugu dhaqaaqaya waadi dhexdiis, isagoo ka soo dhaqaaqaya meesha sare ee barafku ku samaysmay una socda xagga badda, waxa jiidayana waa xoogga cufisjiidadka. 
 
 barafoobid m.f.dh eeg barafow. 
 
@@ -2086,8 +2066,7 @@ barakow f.mg1 (-oobay, -owday; -oobi) 1. Wax barako yeelasho. 2. Wax tarmid.
 
 baraley m.dh Nooc kabdaha ka mid ah oo lagu naqshadeeyay mayrax ama dun midabbo kala duwan leh. 
 
-barambaro m.dh Cayayaan midab bunni ah, geeso dhaadheer iyo lababaal oo khafiif ah oo qolof 
-               adag ku hoos jira leh oo ku nool musqulaha iyo meelaha qashinku yaallo. ld baranbaro.
+barambaro m.dh Cayayaan midab bunni ah, geeso dhaadheer iyo lababaal oo khafiif ah oo qolof adag ku hoos jira leh oo ku nool musqulaha iyo meelaha qashinku yaallo. ld baranbaro.
 
 barambarqo m.dh (-ooyin, m.l) Libaax dheddig; gool. 
 
@@ -2116,6 +2095,7 @@ baraqnuglaansho m.l/dh eeg baraqnuglow. ld baraqnuglaan.
 baraqnuglow f.mg³ (-laaday, -laatay) Baraqnugul noqosho. 
 
 baraqnugul f.mg⁴ (-glaa, glayd) Qof fulay ah ama biiq ah ahaansho. 
+
 barar¹ m.l Buurashada meel jirka ka mid ah caalir awgeed la buurato. 
 
 barar² f.mg¹ (-ray, -rtay) Meel jirka ka mid ah caalir awgeed la buurasho. 
@@ -2149,18 +2129,15 @@ baras m.l Cudur cuncun leh, oogada dadka ku dhaca oo caddeeya. ld barras.
 barasaab m.l (-byo, m.dh) Qof dawlad u wakiilatay in uu gobol xukumo. 
 
 barashada-baali-nololeed m.dh (taar.) Cilmiga ku saabsan nolosha dhulka dushiisa waqtigii hore, taasoo aan ku ogaanayno barashada lafihii hore. 
-barashada-badweynada m.dh (juqr.) Dersidda badweynada oo ay ka mid tahay dabeecadda biyaha oo la barto dhaqaaqooda, 
-                                  heerkulkooda, guntooda, meesha ay ku jiifto, dhirta iyo xayawaanka, iwm. 
+barashada-badweynada m.dh (juqr.) Dersidda badweynada oo ay ka mid tahay dabeecadda biyaha oo la barto dhaqaaqooda, heerkulkooda, guntooda, meesha ay ku jiifto, dhirta iyo xayawaanka, iwm. 
 
-barashada-cilmiyadii hore m.dh (taar.) Barashada su'aalaha caamka ah, laga bilaabo far qoriddii hore,
-                                       iyo barashada Kirishtaannimada, sidii ay sameeyeen Yurub qarnigii 9aad ilaa kii 17aad. 
+barashada-cilmiyadii hore m.dh (taar.) Barashada su'aalaha caamka ah, laga bilaabo far qoriddii hore, iyo barashada Kirishtaannimada, sidii ay sameeyeen Yurub qarnigii 9aad ilaa kii 17aad. 
 
 barashada-foosillada m.dh (taar.) Sayniska ku taxalluqa noolaha ciribgo'ay, asalkiisa ha ahaado dhir ama xayawaan, oo la helo haraagoodii oo ku aasan dhadhaabaha. 
 
 barashada-gabowga m.l (daaw.) Barashada aqoonta ku saabsan isbeddellada ka dhaca jirka iyo maskaxda oo la socda gabowga iyo dhibaatooyinka la xiriira. 
 
-barashada-lakabyada-dhulka m.dh (ama jiyoolojiyada da' dhagaxeedka) (juqr.) Qayb juqraafiga ka mid ah oo wax ka sheegta siday isugu xigtay 
-                                                                            da'dii dhadhaabuhu sameysmeen. 
+barashada-lakabyada-dhulka m.dh (ama jiyoolojiyada da' dhagaxeedka) (juqr.) Qayb juqraafiga ka mid ah oo wax ka sheegta siday isugu xigtay da'dii dhadhaabuhu sameysmeen. 
 
 barashada-unugga m.dh (baay.) Barashada dhismaha iyo shaqada unugyada. 
 
@@ -2375,7 +2352,7 @@ bariisii f.g2 (-iiyay, -iisay) ld barii.
 
 bariisiin m.f.dh ld bariin.
 
-bariiso¹ m.dh 1. Waqtiga u dhexeeya qoraxsoobaxa ilaa ay qoraxdu diirimaad dhaxanta kiciya ka yeelato. 2. Roob da'a arooryada hore. 
+bariiso¹ m.dh 1. Waqtiga u dhexeeya qorax soobaxa ilaa ay qoraxdu diirimaad dhaxanta kiciya ka yeelato. 2. Roob da'a arooryada hore. 
 
 bariiso² f.mg3 (-stay, -satay) Meel lagu hoyaday ilaa diirimaadka qorraxdu dhaxanta kiciyo ku sugnaan. 
 
@@ -2491,11 +2468,9 @@ barko f.g3 (-kaday, -katay) Wax barkin ka dhigasho.
 
 barlamaan m.l ld barlammaan.
 
-barlammaan m.l 1. Urur dawladaha dimoqraadiga ahi leeyihiin xubnahiisana dadka ay soo doortaan, oo goo'aannada iyo sharciyada ansixiya. 
-               2. Xarunta ay xubanaha baarlammaanka ku kulmaan. ld baarlamaan, baarlammaan, barlamaan.
+barlammaan m.l 1. Urur dawladaha dimoqraadiga ahi leeyihiin xubnahiisana dadka ay soo doortaan, oo goo'aannada iyo sharciyada ansixiya. 2. Xarunta ay xubanaha baarlammaanka ku kulmaan. ld baarlamaan, baarlammaan, barlamaan.
 
-barmaguur m.dh (-ro ..., m.l) (fiis.) Baro ku muujisan heerkul cabbiraha oo sugan, laguna tilmaansado astaamo walax leedahay oo la yaqaanno. 
-                                      Labada baro maguur ee muhiimka ah waa barta barafka (0 °C) iyo barta uumiga (100 ° C). 
+barmaguur m.dh (-ro ..., m.l) (fiis.) Baro ku muujisan heerkul cabbiraha oo sugan, laguna tilmaansado astaamo walax leedahay oo la yaqaanno. Labada baro maguur ee muhiimka ah waa barta barafka (0 °C) iyo barta uumiga (100 ° C). 
 
 barmid m.f.dh eeg baran¹. 
 
@@ -2509,8 +2484,7 @@ barnaansho m.l/dh ld barnaan.
 
 barni m.dh Nooc ka mid ah jaadadka timirta, midab bunni ah leh oo faradda u eg kase waaweyn. 
 
-barnoqod m.l (xis.) Barta ugu sarreysa ama ugu hooseysa ee ku taalla xood, taas oo ah, bar halka uu kulanka iska beddelo min kordhid ilaa dhimid, 
-                    ama min dhinmid ilaa kordhid, iyo weliba taabtuhuna waa uu jiifaa. Haddii isbeddelku yahay kordhid ilaa dhinmid waa barta ugu sarreysa. 
+barnoqod m.l (xis.) Barta ugu sarreysa ama ugu hooseysa ee ku taalla xood, taas oo ah, bar halka uu kulanka iska beddelo min kordhid ilaa dhimid, ama min dhinmid ilaa kordhid, iyo weliba taabtuhuna waa uu jiifaa. Haddii isbeddelku yahay kordhid ilaa dhinmid waa barta ugu sarreysa. 
 
 baro¹ m.dh 1. Degaan lagu dhasho ama lagu dhaqmo; guri. 2. Goobta lagu cayaaro ciyaarta xayaadka. 
 
@@ -2588,8 +2562,7 @@ barqaqabow m.l Toddobada subaxnimo ilaa sagaalka ama subaxnimada inta qorraxdu a
 
 barqi f.g2 (-iyay, -isay) Xoolo inta aan la maalin subaxii daajin. 
 
-barqiirqiir m.dh (-ro ..., m.l) (fiis.) Xaaladda dareeraha ee wejiyada hoorka iyo neeftu ay isku cufnaanyihiin.Markaa, dareeraha heerkulkiisa, 
-                                        cadaadiskiisa iyo muggiisuba waxa ay taaganyihiin xaalad qiirqiir. 
+barqiirqiir m.dh (-ro ..., m.l) (fiis.) Xaaladda dareeraha ee wejiyada hoorka iyo neeftu ay isku cufnaanyihiin.Markaa, dareeraha heerkulkiisa, cadaadiskiisa iyo muggiisuba waxa ay taaganyihiin xaalad qiirqiir. 
 
 barqimo m.dh ld barqo.
 
@@ -2621,8 +2594,7 @@ barraaji f.g2 (-iyay, -isay) Kala b.: wax laba qeybood oo isla'eg u kala dhambal
 
 barraajin m.f.dh eeg barraaji. 
 
-barraajis m.dh 1. Geed caleemo balballaaran iyo miro la cuno leh oo dhulka ku faafa. 
-               2. Geed dhulka ku faafa,leh laamo dhaadheer oo jilicsan, caleemo balballaaran oo khudrad ahaan loo cuno. 
+barraajis m.dh 1. Geed caleemo balballaaran iyo miro la cuno leh oo dhulka ku faafa. 2. Geed dhulka ku faafa,leh laamo dhaadheer oo jilicsan, caleemo balballaaran oo khudrad ahaan loo cuno. 
 
 barraaq f.mg1 (-qay, -qday) In muddo ah si macna la'aan meel u fadhiyid (qof). 
 
@@ -2656,8 +2628,7 @@ barriiqo² f.mg3 (-qday, -qatay) Ku b.: wax meel sibiibix ah ku sidbasho.
 
 barroosi m.l ld barroosin.
 
-barroosin m.l Bir culus, afar ganood oo dib u laaban iyo dabo daloosha oo silsilad lagu xiro leh, 
-              oo maraakibta iyo doonyaha badda loogu rido kolka la joojinaayo. ld barroosi.
+barroosin m.l Bir culus, afar ganood oo dib u laaban iyo dabo daloosha oo silsilad lagu xiro leh, oo maraakibta iyo doonyaha badda loogu rido kolka la joojinaayo. ld barroosi.
 
 barsad m.dh ld bersed.
 
@@ -2769,19 +2740,15 @@ baryootan¹ m.l 1. Baryo badan. 2. ld baryootamid.
 
 baryootan² f.mg1 (-amay, -antay; -ami) Si aad ah cid u baryid. 
 
-bas¹ m.l 1. Geeri caadi ah ee ku timaaddo qof tiisii gashay. 
-         2. (-sas m.l) Baabbuur weyn oo dedan oo daaqada muraayado ah iyo kuraas leh oo rakaabka qaado. 
-         3. Wax gubasho ku dhammaaday oo dambas noqday. 
+bas¹ m.l 1. Geeri caadi ah ee ku timaaddo qof tiisii gashay. 2. (-sas m.l) Baabbuur weyn oo dedan oo daaqada muraayado ah iyo kuraas leh oo rakaabka qaado. 3. Wax gubasho ku dhammaaday oo dambas noqday. 
 
 bas² f.mg1 (-say, -stay) 1. Wax shidan dambas noqosho. 2. Ood iwm duugnimo awgeed la baabi'id. 
 
-basaas¹ m.dh (-siin/-syo, m.dh) 1. Qof, sir cidi leedahay raadiya, una gudbiya cid kale oo ay dan u tahay. 
-                                2. Qof, sir dawladeed raadiya, una gudbiya dawlad kale; sirdoon. 
+basaas¹ m.dh (-siin/-syo, m.dh) 1. Qof, sir cidi leedahay raadiya, una gudbiya cid kale oo ay dan u tahay. 2. Qof, sir dawladeed raadiya, una gudbiya dawlad kale; sirdoon. 
 
 basaas² m.dh Qallaylka, googgo'a iyo midab doorsoonka ku dhaca timaha marka aan muddo dufan la marin. 
 
-basaas³ f.g/mg1 (-say, -stay) 1. (f.g) Cid sirteeda, cid kale oo ay dan u tahay u gudbin. 
-                              2. (f.mg) Timo aan muddo dufan la marin qallayl, googgo' iyo midab doorsoon la kulmid. 
+basaas³ f.g/mg1 (-say, -stay) 1. (f.g) Cid sirteeda, cid kale oo ay dan u tahay u gudbin. 2. (f.mg) Timo aan muddo dufan la marin qallayl, googgo' iyo midab doorsoon la kulmid. 
 
 basaasan f.mg4 (-snaa, -snayd) Wax basaasay ahaansho (timo). 
 
@@ -2799,8 +2766,7 @@ basal m.dh.u Khudrad ur silloon oo dhadhan kulul, caleemo dhuudhuuban oo dhaadhe
 
 basalt m.dh (jool.) Dhadhaabo midabkeedu madow yahay, wiriqaheeduna yaryaryihiin, ka abuurma ciid raran ah oo ka soo gufaacda burkaanta oo qabowday ee adkaatay. 
 
-ba'san f.mg4 (-naa, -nayd) 1. Wax la bi'iyay ahaansho (arrin). 
-                           2. Ku b.: wax, wax kale oo foolxumeeya lagu haleeley ahaansho. Tus. “Darbiga dhiigaa ku ba'san”. 
+ba'san f.mg4 (-naa, -nayd) 1. Wax la bi'iyay ahaansho (arrin). 2. Ku b.: wax, wax kale oo foolxumeeya lagu haleeley ahaansho. Tus. “Darbiga dhiigaa ku ba'san”. 
 
 ba'sanaan m.f.dh eeg ba'san. ld ba'sanaansho.
 
@@ -2916,8 +2882,7 @@ basrid m.f.dh eeg basar². ld basar¹.
 
 bastoolad m.dh (-do, m.l) Hubka fudud nooc ka mid ah, xabbado ka dhacaan, jeebka lagu qaadan karo oo gacanta laga rido. ld baastoolad.
 
-bastooreyn m.dh (daaw.) Kululeynta caano ilaa kulku gaaro 65°C oo lagu hayo soddon daqiiqadood (30'), ama kulka la gaarsiiyo ila 72°C laguna hayo 
-                        shan iyo toban daqiiqadood (15'), si loo dilo baktiiriyada ay ka mid yihiin kan qaaxada iyo kan tiifowga. 
+bastooreyn m.dh (daaw.) Kululeynta caano ilaa kulku gaaro 65°C oo lagu hayo soddon daqiiqadood (30'), ama kulka la gaarsiiyo ila 72°C laguna hayo shan iyo toban daqiiqadood (15'), si loo dilo baktiiriyada ay ka mid yihiin kan qaaxada iyo kan tiifowga. 
 
 bataato m.dh Geed qudaarta la beerto ka mid ah oo leh bari macaan oo la cuno marka la karsho. ld baradho.
 
@@ -2957,8 +2922,7 @@ batrool m.l 1. Baansiin. 2. Saliid qaali ah, laga qodo dhulka, loo adeegsado shi
 
 batuux m.dh ld bataax.
 
-bawaasiir m.dh (-rro, m.dh) (daaw.) Ballaarashada xididdada badan ee dhiiggu ka buuxo oo ku yaal futada qarkeeda. 
-                                    Badanaa waxa keena calool joogsi muddo dheer socday ama shuban. ld baabasiir, baabusiir, baawasiir.
+bawaasiir m.dh (-rro, m.dh) (daaw.) Ballaarashada xididdada badan ee dhiiggu ka buuxo oo ku yaal futada qarkeeda. Badanaa waxa keena calool joogsi muddo dheer socday ama shuban. ld baabasiir, baabusiir, baawasiir.
 
 bawhaar m.l Qaylo dheer. 
 
@@ -2974,11 +2938,7 @@ bawlo m.dh ld bawlad.
 
 bawne m.l Nafley bakaylaha u eg, kase yar, qararka buuraha ku nool oo orod bootimaaleyn ah leh; dabariyaadle. 
 
-bax f.mg1 (-xay, -xday; -bixi) 1. Meel ka tegid. 2. Dhimasho. 3. Caloolbixid, shubmid. 4. Soo dheeraan (dhir, timo iwm). 5. Muuqasho (qorrax, dayax iwm). 
-                               6. Shidmid (dab). 7. Gadmid, iibsamid (ganacsi). 8. Ka b.: wax ka noqosho. 9. Ka b.: arrin ama waajib gudasho. 
-                               10. Ku b.: qaymo ku fadhiisasho. 11. La b.: wax meel ku jira baxsasho. 12. La b.: la cararid (gabar). 
-                               13. Isku b.: isku buuqid, isku kicid. 14. Isku b.: jiq noqosho. 15. Kala b.: kala qaybsamid. 
-                               16. Kala b.: dhanaanaasho, suusacid (caano). 17. Haan caano lagu lulay subag dhalid. 
+bax f.mg1 (-xay, -xday; -bixi) 1. Meel ka tegid. 2. Dhimasho. 3. Caloolbixid, shubmid. 4. Soo dheeraan (dhir, timo iwm). 5. Muuqasho (qorrax, dayax iwm). 6. Shidmid (dab). 7. Gadmid, iibsamid (ganacsi). 8. Ka b.: wax ka noqosho. 9. Ka b.: arrin ama waajib gudasho. 10. Ku b.: qaymo ku fadhiisasho. 11. La b.: wax meel ku jira baxsasho. 12. La b.: la cararid (gabar). 13. Isku b.: isku buuqid, isku kicid. 14. Isku b.: jiq noqosho. 15. Kala b.: kala qaybsamid. 16. Kala b.: dhanaanaasho, suusacid (caano). 17. Haan caano lagu lulay subag dhalid. 
 
 baxaalli m.l Hab la dhaqanka dad ee qof leeyahay. 
 
@@ -3010,18 +2970,13 @@ baxnin m.l Shuban.
 
 baxri m.dh 1. Dad doonyada ka shaqeeya oo tabta iyo xeeladaha badda yaqaan. 2. Dabayl dhanka badda ka timaadda. 
 
-baxsad m.l 1. B. ah: qof meel lagu ogaa si sharcidarro ah uga fakaday meeshi lagu ogaa. 
-           2. B. ah: neef xoolo ah oo ka fakaday meeshi lagu ogaa. 
-           3. ld baxsasho.
+baxsad m.l 1. B. ah: qof meel lagu ogaa si sharcidarro ah uga fakaday meeshi lagu ogaa. 2. B. ah: neef xoolo ah oo ka fakaday meeshi lagu ogaa. 3. ld baxsasho.
 
-baxsan f.mg4 (-naa, -nayd) 1. Wax kulansaday qurux, wanaag caqli dheeraad ah ahaansho (qof). 
-                           2. Wax is hanashadii ay khamro, caro, fikir dheer iwm ay ka lumisay ahaansho (qof). 
-                           3. Kala b.: derin iwm wax fidsan ahaansho. 
+baxsan f.mg4 (-naa, -nayd) 1. Wax kulansaday qurux, wanaag caqli dheeraad ah ahaansho (qof). 2. Wax is hanashadii ay khamro, caro, fikir dheer iwm ay ka lumisay ahaansho (qof). 3. Kala b.: derin iwm wax fidsan ahaansho. 
 
 baxsanaan¹ m.f.dh eeg baxsan. ld baxsanaansho.
 
-baxsanaan² m.dh (daaw.) Xaalad maskaxeed lagu yaqaan farxad aan caadi ahayn iyo firfircoon oo caadiga ka baxsan, 
-                        fahmo aad u kacsan oo si dhakhso ah ugu beddelanta caro dhawaansho. 
+baxsanaan² m.dh (daaw.) Xaalad maskaxeed lagu yaqaan farxad aan caadi ahayn iyo firfircoon oo caadiga ka baxsan, fahmo aad u kacsan oo si dhakhso ah ugu beddelanta caro dhawaansho. 
 
 baxsanaansho m.l/dh ld baxsanaan.
 
