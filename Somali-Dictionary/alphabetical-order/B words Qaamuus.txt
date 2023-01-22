@@ -5002,19 +5002,13 @@ bongaree f.g2 (-reeyay, -reysay) ld bamgaree.
 
 bongareyn m.dh ld bamgareyn. 
 
-boob¹ m.l 1. Si sedbursi xoog iyo dhaqso leh oo hanti cid ka dhexeyso loo qaato.
-          2. Si xoog iyo sharcidarro ah oo hanti iwm loo qaato. 
-          3. Baadariga ugu sarreeya Fatikaanka. 
-          4. ld boobid.
+boob¹ m.l 1. Si sedbursi xoog iyo dhaqso leh oo hanti cid ka dhexeyso loo qaato. 2. Si xoog iyo sharcidarro ah oo hanti iwm loo qaato. 3. Baadariga ugu sarreeya Fatikaanka. 4. ld boobid.
 
-boob² f.g1 (-bay, -btay) 1. Si sedbursi xoog iyo dhaqso leh hanti cid ka dhexeyso u qaadasho. 
-                         2. Si xoog iyo sharcidarro ah hanti iwm cid uga qaadasho.
-                         3. Dedejin (cunid, socod, iwm). 
+boob² f.g1 (-bay, -btay) 1. Si sedbursi xoog iyo dhaqso leh hanti cid ka dhexeyso u qaadasho. 2. Si xoog iyo sharcidarro ah hanti iwm cid uga qaadasho. 3. Dedejin (cunid, socod, iwm). 
 
 boobas m.l Habaas; boor. 
 
-boobe m.l (-bayaal, m.l/dh) 1. Nooc banaatiiqda ka mid ah oo si daranddoori ah u dhaca. 
-                            2. Cayayaan yaryar oo gala iniinaha qaraha iyo sisinta oo bololiya. 
+boobe m.l (-bayaal, m.l/dh) 1. Nooc banaatiiqda ka mid ah oo si daranddoori ah u dhaca. 2. Cayayaan yaryar oo gala iniinaha qaraha iyo sisinta oo bololiya. 
 
 boobid m.f.dh eeg boob². ld boob¹ (4).
 
@@ -5030,10 +5024,7 @@ booc² m.dh Geed caano leh caleemo balballaaran, laamo jiljilicsan iyo miro kuus
 
 boocaar m.dh Nooc ka mid ah kalluun. 
 
-bǫod f.mg1 (-day, -dday) 1. Meel lagu taagnaa si dhaqso iyo xoog leh kor uga kicid iyaadoo lugaha hal mar la wada qaadayo. 
-                         2. Sac kudid (dibi). 
-                         3. Ka b.: wax qotoma dul marid iyadoo dhankeeda kale lagu dhacayo. 
-                         4. Kala b.: arrin iwm ku heshin waayid. 
+bǫod f.mg1 (-day, -dday) 1. Meel lagu taagnaa si dhaqso iyo xoog leh kor uga kicid iyaadoo lugaha hal mar la wada qaadayo. 2. Sac kudid (dibi). 3. Ka b.: wax qotoma dul marid iyadoo dhankeeda kale lagu dhacayo. 4. Kala b.: arrin iwm ku heshin waayid. 
 
 bood¹ m.l Midab caddaan caawl ku dheehan ah oo ay fardaha yeeshaan. 
 
@@ -5049,17 +5040,13 @@ boodal m.l (-llo, m.dh) Nin geesi ah.
 
 boodayn m.f.dh eeg boodee. ld boorayn (2).
 
-booddo¹ m.dh 1. ld bootin. Si degdeg iyo xoog leh, inta cagaha meel loogu dhufto, oo laba melood laysaga hawakaco.
-             2. Cayayaan yar oo boodbooda oo dadka iyo nafleyda kale dhiigooda ku nool; qandhiso. 
+booddo¹ m.dh 1. ld bootin. Si degdeg iyo xoog leh, inta cagaha meel loogu dhufto, oo laba melood laysaga hawakaco. 2. Cayayaan yar oo boodbooda oo dadka iyo nafleyda kale dhiigooda ku nool; qandhiso. 
 
-booddo² m.dh (-ooyin, m.l) (c.nafl.) Xasharaad dhiigga dhuuqa oo aan baalal lahayn, lugose leh ay ku booddo. B.da waaweyn si aan joogto ahayn ayey waxay ku 
-                                     dul noolaadaan shimbiraha iyo naasleyda. Qaarka dadka cunana waxay qaadi karaan cudurro kala duwan. 
+booddo² m.dh (-ooyin, m.l) (c.nafl.) Xasharaad dhiigga dhuuqa oo aan baalal lahayn, lugose leh ay ku booddo. B.da waaweyn si aan joogto ahayn ayey waxay ku dul noolaadaan shimbiraha iyo naasleyda. Qaarka dadka cunana waxay qaadi karaan cudurro kala duwan. 
 
 boodee f.g2 (-deeyay, -daysay) 1. Bood dhar ku mayrid. 2. Bood timaha ku caddayn. ld booree (2).
 
-boodh m.l (-dho, m.dh) (baay.) Unug taran oo keligii kobci kara iyada oo aanu la kulmin unug kale oo taran b.ka waxa soo saara dhirta, fangiga,
-                               bakteeriyada iyo qaar ka mid ah borotosoowaha. B.ku wuxuu noqon karaa noole u eg waalidkii ama
-                               wuxuu mari karaa heer kale oo meerta nololeed. 
+boodh m.l (-dho, m.dh) (baay.) Unug taran oo keligii kobci kara iyada oo aanu la kulmin unug kale oo taran b.ka waxa soo saara dhirta, fangiga, bakteeriyada iyo qaar ka mid ah borotosoowaha. B.ku wuxuu noqon karaa noole u eg waalidkii ama wuxuu mari karaa heer kale oo meerta nololeed. 
 
 boodhar m.l Budo cad oo siigo ah udgoon oo waqtiga kuleylaha la marsado si ay dhidika u nuugto. ld boolbare, boolbire, bootar.
 
@@ -5089,9 +5076,7 @@ boogaysnaansho m.l/dh ld boogaysnaan.
 
 boogcalooleed¹ m.dh (-dyo, m.dh) Nabar caloosha ka soo baxa. ld boogcaloolo.
 
-boog-calooleed² m.dh (-dyo, m.l) (daaw.) Boog ku sameysmata caloosha waxaana keena aasidhka oo gubeysa caloosha. Aasidhka caloosha ma bato. Astaamaha: 
-                                         matag iyo xanuun caloosha cunnada kaddib, waxaa iman kara dhiigbax iyo waxa kaloo dhici kara kala xirin 
-                                         caloosha iyo xidmaha markii nabarku buskoodo. 
+boog-calooleed² m.dh (-dyo, m.l) (daaw.) Boog ku sameysmata caloosha waxaana keena aasidhka oo gubeysa caloosha. Aasidhka caloosha ma bato. Astaamaha: matag iyo xanuun caloosha cunnada kaddib, waxaa iman kara dhiigbax iyo waxa kaloo dhici kara kala xirin caloosha iyo xidmaha markii nabarku buskoodo. 
 
 boogcaloolo m.dh ld boogcalooleed¹.
 
@@ -5101,8 +5086,7 @@ boogoobid m.f.dh eeg boogow². ld boogow¹.
 
 boogow¹ m.l ld boogoobid. boogow² f.mg1 (-oobay, -owday; -oobi) Boog yeelasho. 
 
-boog-xiidmeed m.dh (-dyo, m.dh) (daaw.) Boog ku taal qayb ka mid ah xiidmaha (duodenum) waxaana keena asidhka caloosha. Waxaana u badan dadka noocooda 
-                                        dhiigga uu yahay kooxda “O”. Astaamaha: xanuun uurkujirtada marka calooshu marantahay; matagna waa jiri karaa. 
+boog-xiidmeed m.dh (-dyo, m.dh) (daaw.) Boog ku taal qayb ka mid ah xiidmaha (duodenum) waxaana keena asidhka caloosha. Waxaana u badan dadka noocooda dhiigga uu yahay kooxda “O”. Astaamaha: xanuun uurkujirtada marka calooshu marantahay; matagna waa jiri karaa. 
 
 boohaar m.dh (-ro, m.l) 1. Cabbir u gaar ah beeyada oo u dhigma afar kiintaal. 2. Falxad. 3. B. ah: nafley aad u xoog badan. 
 
@@ -5116,8 +5100,7 @@ boojaal m.dh (-lo, m.l) Digaag aan weli curan.
 
 boojay m.l Maroodi yar oo caanannuug ah. 
 
-booji f.g2 (-iyay, -isay) 1. Qof madax furasho laga rabo xoog ku kaxayn; afduubid. 
-                          2. Gabar guur laga rabo xoog ku kaxayn si loo soo mehersado; dhicid. 
+booji f.g2 (-iyay, -isay) 1. Qof madax furasho laga rabo xoog ku kaxayn; afduubid. 2. Gabar guur laga rabo xoog ku kaxayn si loo soo mehersado; dhicid. 
 
 boojimo m.dh (-ooyin, m.l) Gabar xoog lagula baxay oo aan yarad laga bixin. 
 
@@ -5153,8 +5136,7 @@ booli¹ m.dh.u Hanti qof lahaa oo qof kale si sharci darro ah u milkiyo.
 
 booli² f.g1 (-lyay, -liday; -lyi) Hanti qof lahaa, qof kale si sharci darro ah ku milkiyid. 
 
-boolibabtaydh m.l (-dhyo, m.dh) (baay.) Iskudhis orgaanig ah oo ka yimaada amiino asiidho isugu xidhmay dariiqadda xarfinta. 
-                                        B.adu waxay isugu xidhmaan si ay u sameeyaan borotiino. 
+boolibabtaydh m.l (-dhyo, m.dh) (baay.) Iskudhis orgaanig ah oo ka yimaada amiino asiidho isugu xidhmay dariiqadda xarfinta. B.adu waxay isugu xidhmaan si ay u sameeyaan borotiino. 
 
 boolicun m.l (-nno, m.dh) Qof hanti booli ah ku dhaqma. ld boolicune, booliquute.
 
@@ -5200,8 +5182,7 @@ boor¹ m.l 1. Ciid budo ah oo dabayshu si sahlan u qaaddo; siigo; bus. 2. B. ah:
 
 boor² m.dh ld boorid.
 
-boor³ f.g1 (-ray, -rtay) 1. Sac godlan waayey ama dhashiisa diiday wamme ama fintir iwm sabiisha ka gelin. 
-                         2. Is b.: dhabarka godid. 
+boor³ f.g1 (-ray, -rtay) 1. Sac godlan waayey ama dhashiisa diiday wamme ama fintir iwm sabiisha ka gelin. 2. Is b.: dhabarka godid. 
 
 booraan m.dh (-aamo, m.l) God hoos u dheer oo af dhuuban leh. 
 
@@ -5221,8 +5202,7 @@ booraysasho m.f.dh eeg boorayso. ld booraysad, booraysi.
 
 booraysi m.l ld booraysasho.
 
-boorayso f.mg3 (-stay, -satay) (dii.) Biyo la'aan awgeed xubnaha laga weyso qaato qaar ka mid ah 
-                                      (wejiga iyo gacmaha) ciid nadiif ah marin si cibaado loo guto; tayamum. 
+boorayso f.mg3 (-stay, -satay) (dii.) Biyo la'aan awgeed xubnaha laga weyso qaato qaar ka mid ah (wejiga iyo gacmaha) ciid nadiif ah marin si cibaado loo guto; tayamum. 
 
 boore m.l B. ah: midab u eg kan dambaska. 
 
@@ -5244,7 +5224,7 @@ boornaan m.f.dh eeg booran. ld boornaansho.
 
 boornaansho m.l/dh ld boornaan.
 
-booron m.l (-nno, m.dh) (kiim.) Curiye bir-ueke ah adag, si fududna u burbura, kana tirsan rurka III ee tusaha kalgalka curiyeyaasha. 
+booron m.l (-nno, m.dh) (kiim.) Curiye bir-u eke ah adag, si fududna u burbura, kana tirsan rurka III ee tusaha kalgalka curiyeyaasha. 
 
 boorri f.mg2 (-iyay, -isay) Ku b.: cid hawl qabashadeda ku guubaabin. 
 
@@ -5252,11 +5232,7 @@ boorrin m.f.dh eeg boorri.
 
 boorso m.dh (-ooyin, m.l) Shay caag ama saan ka samaysan oo gacanta lagu qaadan karo oo lacag, dhar, buugag iwm lagu rito. 
 
-boos¹ m.l (-sas, m.l) 1. Qof gaboobay. 
-                      2. Nin lug ama gacan la'. 
-                      3. Meel qof deeqda. 
-                      4. Dhul sharciyeysan oo qof gaar ahaan u leeyahay. 
-                      5. ld boosay. Midab cad oo farduhu yeeshaan. 
+boos¹ m.l (-sas, m.l) 1. Qof gaboobay. 2. Nin lug ama gacan la'. 3. Meel qof deeqda. 4. Dhul sharciyeysan oo qof gaar ahaan u leeyahay. 5. ld boosay. Midab cad oo farduhu yeeshaan. 
 
 boos² m.dh 1. Haweenay lug ama gacan la'. 2. B. ah: haan duug ah oo biyaha sii deysa; abaali. 
 
@@ -5274,8 +5250,7 @@ boostaale m.l (-layaal, m.l/dh) Qof waraaqaha
 
 boostada ka soo qaada oo dadkii lahaa u geeya. 
 
-boosto m.dh 1. Maamul dawladeed oo ku jaadan waraaqaha, dhambaallada iwm oo la isu diro qaybintooda iyo isgaarsiintooda. 
-            2. Xafiisyada iyo rugta hawlahaas lagu qabto. 
+boosto m.dh 1. Maamul dawladeed oo ku jaadan waraaqaha, dhambaallada iwm oo la isu diro qaybintooda iyo isgaarsiintooda. 2. Xafiisyada iyo rugta hawlahaas lagu qabto. 
 
 bootaale m.l ld bootoole.
 
@@ -5321,8 +5296,7 @@ booyaan¹ m.l 1. Hadal badan oo aan duluc lahayn. 2. ld booyaamid.
 
 booyaan² f.mg1 (-aamay, -aantay, -aami) Hadal badan oo aan duluc lahayn ku hadlid. 
 
-booyad m.dh (-do, m.l) 1. Baabuur fuusto weyn xambaarsan oo biyaha, baasiinka, naaftada iwm lagu qaado. 
-                       2. Haan weynoo laba lugood oo kuwa baabuurta ah leh oo biyaha lagu kaydsado. 
+booyad m.dh (-do, m.l) 1. Baabuur fuusto weyn xambaarsan oo biyaha, baasiinka, naaftada iwm lagu qaado. 2. Haan weynoo laba lugood oo kuwa baabuurta ah leh oo biyaha lagu kaydsado. 
 
 booyid m.dh ld ooyid.
 
@@ -5350,8 +5324,7 @@ boqon¹ m.l (-nno, m.dh) Xarig laga sameeyo seedda boqonta oo lagu xiro qaansada
 
 boqon² m.dh (-qno, m.l) Seedda, ciribta iyo muruqa kubka isu haysa. 
 
-boqon³ m.dh (-qno, m.l) (c.nafl.) Xarriiq toosan oo isku xirta laba barood oo ku dul yaalla xood. Tusaale ahaan, 
-                                  xarriijinta isku xirta laba barood oo ku yaalla meeriska goobada waa b.. 
+boqon³ m.dh (-qno, m.l) (c.nafl.) Xarriiq toosan oo isku xirta laba barood oo ku dul yaalla xood. Tusaale ahaan, xarriijinta isku xirta laba barood oo ku yaalla meeriska goobada waa b.. 
 
 boqondhaw¹ m.l 1. Geed digir meseggo imw oo soo fufay. 2. ld boqondhebid.
 
@@ -5383,9 +5356,7 @@ boqoolsiin m.dh ld baqoolin.
 
 boqoolsiis m.l ld boqoolin.
 
-boqor¹ m.l (-rro, m.dh) 1. Nin madax u ah tol ama qaran oo xakunkiisu dhaxaltooyo yahay. 
-                        2. Maro dhuuban, dheer, qurux badan, dacallada bul ku leh oo haweenku dhexda ku xirtaan. 
-                        3. B. ah: neef riyo ah oo dhexda midab ku leh. 
+boqor¹ m.l (-rro, m.dh) 1. Nin madax u ah tol ama qaran oo xakunkiisu dhaxaltooyo yahay. 2. Maro dhuuban, dheer, qurux badan, dacallada bul ku leh oo haweenku dhexda ku xirtaan. 3. B. ah: neef riyo ah oo dhexda midab ku leh. 
 
 boqor² f.g1 (-qray, -qortay; -qri) Qof boqornimo u caleemo saarid. 
 
@@ -5415,22 +5386,15 @@ boqshad m.dh ld baqshad.
 
 borobogaanda m.dh (siyaa.) War iwm oo la xiriira fidin dicaayad ama xayeesiin arrimo siyaasadeed, dhaqaale, ganacsi iwm. 
 
-borojekshan-koombeed m.l (-dyo, m.dh)(juqr.) Khariidad la soo saaro marka warqad koombo oo kale u samaysan lagu wareejiyo galoobka. 
-                                             Khariidadda waxaa lagu xardhaa koombada dusheeda, dabadeedna koombada waa la kala fidiyaa. 
+borojekshan-koombeed m.l (-dyo, m.dh)(juqr.) Khariidad la soo saaro marka warqad koombo oo kale u samaysan lagu wareejiyo galoobka. Khariidadda waxaa lagu xardhaa koombada dusheeda, dabadeedna koombada waa la kala fidiyaa. 
 
-borojekshan-sargo'an m.l (-no, m.dh) (juqr.) Nooc khariidad brojekshan ah, taas oo u muuqata sida iyadoo galoobka laga arko fogaansho ma dhawaato ah, 
-                                             sidaas darteed hal galoob-badh ayaa lagu muujiyaa khariidad brojekshan. Fallaaraha ilayska 
-                                             ee borojekshanka samayntiisa saldhig u ah waa barbaro waxayna ku qotomaan sallaxa borojekshanka. 
+borojekshan-sargo'an m.l (-no, m.dh) (juqr.) Nooc khariidad brojekshan ah, taas oo u muuqata sida iyadoo galoobka laga arko fogaansho ma dhawaato ah, sidaas darteed hal galoob-badh ayaa lagu muujiyaa khariidad brojekshan. Fallaaraha ilayska ee borojekshanka samayntiisa saldhig u ah waa barbaro waxayna ku qotomaan sallaxa borojekshanka. 
 
-borojekshan-toobineed m.l (-dyo, m.dh)(juqr.) Khariidad la sameeyo marka galoobka lagu wareejiyo warqad toobin oo kale u samaysan. 
-                                              Figta toobinku way ka sarraysaa cidhifka dhulka. Khariidadda waxaa lagu xardhaa toobinka dushiisa, 
-                                              dabadeedna toobinka ayaa la kala fidiyaa. 
+borojekshan-toobineed m.l (-dyo, m.dh)(juqr.) Khariidad la sameeyo marka galoobka lagu wareejiyo warqad toobin oo kale u samaysan. Figta toobinku way ka sarraysaa cidhifka dhulka. Khariidadda waxaa lagu xardhaa toobinka dushiisa, dabadeedna toobinka ayaa la kala fidiyaa. 
 
 boromiin m.dh (kiim.) Curiye hoor ah oo guduudan, firfircoonidiisuna heer dhexe tahay, kana tirsan haloojinnada (ururka VII ee tusaha kalgalka curiyayaasha). 
 
-boronkiito m.dh (daaw.) Halamacoodka dhuumaha neefta waxayna u kala baxdaa mid muddo gaaban (acute) iyo mid muddo dheer (chronic).
-                        Midda hore waxa lagu yaqaan: qufac xaako leh, isku roorid dhuumaha neefta; midda labaad waxaa lagu yaqaan: 
-                        xab badan oo dhuumaha neefta ka xaruuma. 
+boronkiito m.dh (daaw.) Halamacoodka dhuumaha neefta waxayna u kala baxdaa mid muddo gaaban (acute) iyo mid muddo dheer (chronic). Midda hore waxa lagu yaqaan: qufac xaako leh, isku roorid dhuumaha neefta; midda labaad waxaa lagu yaqaan: xab badan oo dhuumaha neefta ka xaruuma. 
 
 borookaariyootig m.l (-gyo, m.dh) (baay.) Noole walxaha hiddo-sidaha aanay ku xidhnayn bu'da unugga. 
  
@@ -5440,18 +5404,15 @@ borootiin m.l (-nno, m.dh) (baay.) Dheef asaasi u ah caafimaadka, jirdhiska oo l
 
 borotiin-bu'eed m.l (-dyo, m.dh) (baay.) Iskudhis kasta oo laga helo unugyada noolaha kasta oo ka kooban asiidh bu'eedyo (DNA ama RNA) iyo borotiin isu tegay. 
 
-borotista m.dh (-ooyin, m.l) (baay.) Boqortooyo koobaysa kala soocidda noolayaasha sahlan ee bayoolajiyeed. 
-                                     Waxa ka mid ah aljiga, fangiga, bakteeriyada iyo borotosoowaha. 
+borotista m.dh (-ooyin, m.l) (baay.) Boqortooyo koobaysa kala soocidda noolayaasha sahlan ee bayoolajiyeed. Waxa ka mid ah aljiga, fangiga, bakteeriyada iyo borotosoowaha. 
 
-borotobalaasam m.u (baay.) Walax miromiro leh ee ka kooban muxtawiyaadka nool ee unugga. Taa waxa looga jeedaa walxaha ku jira unugga oo dhan marka laga reebo 
-                           daloollada waaweyn iyo walxaha markaa soo gelay ama la qashin saarayo. Waxay ka koobantahay bu' dhex taalla saytobalaasam xab oo kale ah. 
+borotobalaasam m.u (baay.) Walax miromiro leh ee ka kooban muxtawiyaadka nool ee unugga. Taa waxa looga jeedaa walxaha ku jira unugga oo dhan marka laga reebo daloollada waaweyn iyo walxaha markaa soo gelay ama la qashin saarayo. Waxay ka koobantahay bu' dhex taalla saytobalaasam xab oo kale ah. 
 
 borotokool m.l 1. Diiwaan. 2. Heshiis caalami ah oo ku saabsan habka loo maro xafladaha dibloomaasiga ah. 
 
 borotoon m.l (-nno, m.dh) (kiim.) Saxar asaasi ah oo leh saldanab togan. B.nnadu waa iniin-bu'eedyo laga helo dhammaan bu'leyda. 
 
-botani m.l Barashada cilmiyaysan ee dhirta oo ay ka mid yihiin anatamiga, morfoolojiga, bayookimistariga, 
-           abla-ablaynta, saytoolajiga, hiddo-barashada, ikoolojiga, tadawurka iyo filiqsanaantooda juqraafiyeed. 
+botani m.l Barashada cilmiyaysan ee dhirta oo ay ka mid yihiin anatamiga, morfoolojiga, bayookimistariga, abla-ablaynta, saytoolajiga, hiddo-barashada, ikoolojiga, tadawurka iyo filiqsanaantooda juqraafiyeed. 
 
 bow m.dh 1. Jug; b. sii: qof wax ku dhufasho. 2. (sh.r) B. dheh: cod lagu muujiyo dhufashada. 
 
@@ -5495,15 +5456,9 @@ boy² f.mg1 (boyay, boysay) ld oy.
 
 braagmatiismaha m.l Hab loo fikiro ama ku saabsan dhibaatada ficil ahaan, oo aan ahayn dariiq aragtiyeed. 
 
-bu'¹ m.dh (bu'o, m.l) 1. Isha nafleyda inteeda madow. 
-                      2. Afarta caloolood ee raamsatada middeed. 
-                      3. Cudur beeryarada barariya oo kaneecada laga qaado. 
-                      4. (sh.r) B. dheh: cod lagu muujiyo shanqar aad u badan. 
+bu'¹ m.dh (bu'o, m.l) 1. Isha nafleyda inteeda madow. 2. Afarta caloolood ee raamsatada middeed. 3. Cudur beeryarada barariya oo kaneecada laga qaado. 4. (sh.r) B. dheh: cod lagu muujiyo shanqar aad u badan. 
 
-bu'² m.dh 1. (baay.) Jidh dhex yaallo saytobalaasamka unugyada, kaasoo ay ku jiraan walxaha hiddo side DNA. 
-          2. (kiim.) Qaybta atamka ee saldanabeedku toganyahay, cufka atamkuna ka yimaado; b.du borotoonno 
-                     iyo niyuutroonno ayay ka koobantahay; b.da atamka waxaa lagu muujin karaa summad tilmaamaysa tirada 
-                     (cufka, borotoonnada, atamka) iyo curyaha magaciisa. 
+bu'² m.dh 1. (baay.) Jidh dhex yaallo saytobalaasamka unugyada, kaasoo ay ku jiraan walxaha hiddo side DNA. 2. (kiim.) Qaybta atamka ee saldanabeedku toganyahay, cufka atamkuna ka yimaado; b.du borotoonno iyo niyuutroonno ayay ka koobantahay; b.da atamka waxaa lagu muujin karaa summad tilmaamaysa tirada (cufka, borotoonnada, atamka) iyo curyaha magaciisa. 
 
 bu'asho m.f.dh eeg bu'o. 
 
@@ -5521,9 +5476,7 @@ bucayn m.dh ld bugayn. bucee f.g2 (-ceeyay, -ceysay) ld bugee. buco f.mg3 (-cday
 
 bucshirad m.dh ld bucshiro (1).
 
-bucshiro m.dh 1. ld bucshirad. Ganacsi. 
-              2. Alaab laga ganacsado, badeeco. 
-              3. Nooc ka mid ah ciyaaraha turubka oo afarta warqadood ee badda taal la baayaco. 
+bucshiro m.dh 1. ld bucshirad. Ganacsi. 2. Alaab laga ganacsado, badeeco. 3. Nooc ka mid ah ciyaaraha turubka oo afarta warqadood ee badda taal la baayaco. 
 
 buctureen m.l (bot.) Geed yar oo caleemo iyo ubax udgoon leh oo guryaha, xafiisyada iwm lagu beero. 
 
@@ -5553,7 +5506,7 @@ bud-dhig² f.g1 (-gay, -gtay) (dii.) Qof dhintay iil gelin.
 
 bud-dhige m.l (-gayaal, m.l/dh) Qofka qofka dhintay dad ugu xiga oo buddhiggiisa leh. 
 
-bud-dhigid m.f.dh eeg bud-dhig². ld buddhig¹.
+bud-dhigid m.f.dh eeg bud-dhig². ld bud-dhig¹.
 
 buddi m.l (-iyiin, m.dh) (dii.) Qof raacsan diinta loo yaqaan buddiyadda. 
 
@@ -5573,9 +5526,7 @@ budow¹ m.l Ka hariwaayidda laga hariwaayo xaajo la bartay oo la qaayibay. ld bu
 
 budow² f.mg1 (-oobay, -owday; -oobi) Ka hariwaayid wax la bartay oo la qaayibay. 
 
-budul m.l (-llo, m.dh) 1. Meel xoolaha marintoodu ay jilcisay oo habaas ka dhigtay. 
-                       2. Dariiq la maro, daw, tub, dhabbe. 
-                       3. Wax la tumay oo budo laga dhigay. 
+budul m.l (-llo, m.dh) 1. Meel xoolaha marintoodu ay jilcisay oo habaas ka dhigtay. 2. Dariiq la maro, daw, tub, dhabbe. 3. Wax la tumay oo budo laga dhigay. 
 
 bug¹ m.dh.sh.r B. dheh: cod lagu muujiyo qarax ama dhac. 
 
@@ -5619,8 +5570,7 @@ bukaansocod m.l (-dyo, m.dh) 1. Qof jirran oo socon kara oo lugtiisa ku taga mee
 
 bukaansocod-eegto m.dh (-ooyin, m.l) Meesha dadka jirran lagu baaro cudurradooda oo lagu daaweeyo, laakiin aaney seexan. 
 
-bukaan-wareysi m.l (daaw.) Wareysiga bukaanka oo uu takhtarku ka qoro, kana kooban: 
-                           a) war bukaan qoyseed; b) war bukaan qofeed; c) war bukaan cudur hore; d) war bukaan cudurdambe. 
+bukaan-wareysi m.l (daaw.) Wareysiga bukaanka oo uu takhtarku ka qoro, kana kooban: a) war bukaan qoyseed; b) war bukaan qofeed; c) war bukaan cudur hore; d) war bukaan cudurdambe. 
 
 bukaar m.dh ld bakaar.
 
@@ -5652,8 +5602,7 @@ bukur¹ m.l (-rro, m.dh) Haruubka dhiil ama aagaan yar.
 
 bukur² m.dh (-ro, m.l) Dhiil ama aagaan yar oo caanaha lagu shubto. 
 
-bul¹ m.l (-lal, m.l) 1. Miiqyo badan oo dun, mayrax iwm ah oo salka isaga xiran waxna lagu qurxiyo.
-                     2. Saynta ka laallaadda dabada nafleyda qaarkeed inteeda dambe. 
+bul¹ m.l (-lal, m.l) 1. Miiqyo badan oo dun, mayrax iwm ah oo salka isaga xiran waxna lagu qurxiyo. 2. Saynta ka laallaadda dabada nafleyda qaarkeed inteeda dambe. 
 
 bul² f.g1 (bulay, bushay) Mayrax, dun iwm miiqyo yaryar ka dhigid. 
 
@@ -5711,8 +5660,7 @@ bullaacad m.dh (-do, m.l) God musqul, dhuumaha qaada wasakhda musqulaha.
 
 bullaale m.l 1. Faras midabka dambarka leh. 2. Nooc ka mid ah jaadadka gorgorka. 
 
-bullo m.dh 1. Ciyaar hiddaha iyo dhaqanka ka mid ah, ragga iyo haweenku wada ciyaaraan, leh jiib, jaan, buun, durbaan iyo biro la isku garaaco. 
-           2. B. ah: midab fardood dambarka u eg. 
+bullo m.dh 1. Ciyaar hiddaha iyo dhaqanka ka mid ah, ragga iyo haweenku wada ciyaaraan, leh jiib, jaan, buun, durbaan iyo biro la isku garaaco. 2. B. ah: midab fardood dambarka u eg. 
 
 bulmid m.f.dh eeg bulaan. 
 
@@ -5758,9 +5706,7 @@ bulxan² f.mg1 (-amay, -antay; -ami) Nafley badan cod farxad iyo qosol leh samay
 
 bumbo m.dh (-ooyin, m.l) ld bambaano.
 
-bun m.l 1. Geed dhulka kulul ka baxa, dhala miro kuuskuusan oo beer iyo qolof adag leh. 
-        2. Miraha geed bunka oo laga sameeyo qaxwaha, kafee. 
-        3. Miraha bunka oo saliid ma subag lagu shiilay. 
+bun m.l 1. Geed dhulka kulul ka baxa, dhala miro kuuskuusan oo beer iyo qolof adag leh. 2. Miraha geed bunka oo laga sameeyo qaxwaha, kafee. 3. Miraha bunka oo saliid ma subag lagu shiilay. 
 
 bunaaxi¹ m.l ld banaaxiyid.
 
@@ -5771,6 +5717,7 @@ bunaaxin m.dh ld banaaxiyid.
 bunaaxis m.l ld banaaxiyid.
 
 bunaaxiyid m.dh ld banaaxiyid.
+
 bunaaxo m.dh ld banaaxo.
 
 bunaysad m.l ld bunaysasho.
@@ -5817,10 +5764,7 @@ bu'o f.mg3 (-'day, -'dday) Weel cadaadiska gudahiisa ku jira oo aad u batay awge
 
 buq¹ m.dh (-qo, m.l) 1. Meesha ay biyaha ka soo burqadaan. 2. Ceel biyo badan leh. 3. Hogaha shaxda midka dhexda ku beegan. 
 
-buq² m.dh (-qo, m.l) 1. (jool.) Qulqul biyood joogto ama xilliyeed oo dhulka ka imaanaya, wuxuu samaysmaa marka biyaha roobku 
-                                dhulka hoos u galaan ilaa bar gaar ah, halkaasoo ay ku ururaan aakhiritaankana ay kor u soo burqadaan. 
-                     2. (juqr.) Loolalka dhexena waa xilliga jilaalka ku xiga, xiddigis ahaanna loo tixgeliyo inuu ku dhammaado 
-                                kubbadbadhka woqooyi min caanomaallada isle'eg ee Guga (ilaa 21 maarso) ilaa hornaqa xagaaga (ilaa 21 juun). 
+buq² m.dh (-qo, m.l) 1. (jool.) Qulqul biyood joogto ama xilliyeed oo dhulka ka imaanaya, wuxuu samaysmaa marka biyaha roobku dhulka hoos u galaan ilaa bar gaar ah, halkaasoo ay ku ururaan aakhiritaankana ay kor u soo burqadaan. 2. (juqr.) Loolalka dhexena waa xilliga jilaalka ku xiga, xiddigis ahaanna loo tixgeliyo inuu ku dhammaado kubbadbadhka woqooyi min caanomaallada isle'eg ee Guga (ilaa 21 maarso) ilaa hornaqa xagaaga (ilaa 21 juun). 
 
 buq³ f.mg1 (-qay, -qday) Biyo, neef, gaas iwm oo inta xoog ku soo baxa, daboolkii celinayay tuura ama jeexa; dillaacid; burqasho; qarxasho. 
 
@@ -5854,8 +5798,7 @@ buquujin m.f.dh eeg buquuji.
 
 buquul m.l ld baqal¹.
 
-bur¹ m.l 1. Budo cad oo rootiga, malawaxa iwm laga samaysto. 2. Taag ciid. 3. Cad yar (ciid, soor, sonkor iwm).
-         4. Hal geed oo caws ah oo bahalladda yaryar galaan. 5. Abur; xoor. 
+bur¹ m.l 1. Budo cad oo rootiga, malawaxa iwm laga samaysto. 2. Taag ciid. 3. Cad yar (ciid, soor, sonkor iwm). 4. Hal geed oo caws ah oo bahalladda yaryar galaan. 5. Abur; xoor. 
 
 bųr¹ m.l (-rar, m.l) Ul culus, toosan, madax buuran leh oo hub ahaan loo qaato; qool; garruun. ld bud¹.
 
@@ -5906,8 +5849,7 @@ buray¹ m.dh ld buro¹.
 
 buray² m.dh ld buro².
 
-burbur¹ m.l.u (-rro, m.dh) 1. Cadad yaryar oo wax is haystay u kala jajabo. 
-                           2. Caano la lulay oo aan weli subag dhalin. ld burur¹ (2).
+burbur¹ m.l.u (-rro, m.dh) 1. Cadad yaryar oo wax is haystay u kala jajabo. 2. Caano la lulay oo aan weli subag dhalin. ld burur¹ (2).
 
 burbur² f.mg1 (-ray, -rtay) Wax is haystay, cadad yaryar u kala jebid. ld burur² (2).
 
@@ -5969,9 +5911,7 @@ burge m.l Fuley. ld burje.
 
 burhaan m.dh (dii.) Awood qarsoon, dhib iyo dheefba leh oo la rumaysan yahay in dad gaar ah Eebbe siiyo. 
 
-buri f.g/mg2 (-iyay, -isay) 1. (f.g) Nafley orodsiin si meel looga fogeeyo; eryid; cayrin. 
-                            2. (f.mg) Qof meel uu ku noolaa ama hawl ka hayey ka fogayn dhaliil awgeed. 
-                            3. (f.mg) U b.: cid sed dheeraad ah siin. 
+buri f.g/mg2 (-iyay, -isay) 1. (f.g) Nafley orodsiin si meel looga fogeeyo; eryid; cayrin. 2. (f.mg) Qof meel uu ku noolaa ama hawl ka hayey ka fogayn dhaliil awgeed. 3. (f.mg) U b.: cid sed dheeraad ah siin. 
 
 bųri f.g2 (-iyay, -isay) 1. Cid weyso u dhawrnayd ka jebin. 2. Xeer jirey baabbi'in. 3. Xeer jirey ku xad gudibid. ld burri.
 
@@ -5983,8 +5923,7 @@ bųrin m.f.dh eeg bųri. ld bųris, burrin, burris.
 
 burin¹ m.f.dh eeg buri. ld buris.
 
-burin² m.dh 1. (fals.) Ficil ama fikrad ka soo horjedda jiritaan shay. 
-            2. (fals.) Nooc ka mid af diidmada, ama afkaar dhamaanteed ka soo horjeedda, wixii jiray dhamaan. 
+burin² m.dh 1. (fals.) Ficil ama fikrad ka soo horjedda jiritaan shay. 2. (fals.) Nooc ka mid af diidmada, ama afkaar dhamaanteed ka soo horjeedda, wixii jiray dhamaan. 
 
 buris¹ m.l ld burin¹.
 
@@ -6018,17 +5957,11 @@ bųro m.dh (-ooyin, m.l) Haan yar; aagaan. ld buray².
 
 buro¹ m.dh (-ooyin, m.l) 1. Hilib aan caadi ahayn, kuusan oo jirka naflayda meel ka mid ah ka soo baxa. 2. Sed dheeraad ah oo cid la siiyo. 
 
-buro² m.dh (daaw.) Bararid: astaamaha caanka ah ee halaamacoodka midkood; saddexda kale waxa weeye: kul, casaan, iyo xanuun. 
-                   Meesha halaamacoodsan waxa bararka u keena ayadoo xididdada yaryarka ah ee dhiigga ka yimaado dhacaan 
-                   la socdaan boroteyin oo ku urura unugyada dhexdooda. 
+buro² m.dh (daaw.) Bararid: astaamaha caanka ah ee halaamacoodka midkood; saddexda kale waxa weeye: kul, casaan, iyo xanuun. Meesha halaamacoodsan waxa bararka u keena ayadoo xididdada yaryarka ah ee dhiigga ka yimaado dhacaan la socdaan boroteyin oo ku urura unugyada dhexdooda. 
 
-burobahalaad m.dh (-dyo, m.l) (daaw.) Buro dhex galeysa oo baabi'inaysa soohyada ama xubinta ay ka farcanto islamarkaasna ku faafi 
-                                      karta meelo kale oo jirka ka mid ah, ayadoo cadcad ka mid ah raacayaan dhiigga ama liinfada. 
-                                      Haddii aan la daweyn wakhti ku habboon waxay keentaa caafimaadka oo 
-                                      maalinba maalinta ka dambeysa sii xummaada iyo dhimasho. ld burabbahalaad.
+burobahalaad m.dh (-dyo, m.l) (daaw.) Buro dhex galeysa oo baabi'inaysa soohyada ama xubinta ay ka farcanto islamarkaasna ku faafi karta meelo kale oo jirka ka mid ah, ayadoo cadcad ka mid ah raacayaan dhiigga ama liinfada. Haddii aan la daweyn wakhti ku habboon waxay keentaa caafimaadka oo maalinba maalinta ka dambeysa sii xummaada iyo dhimasho. ld burabbahalaad.
 
-burocaanood m.dh (daaw.) Burada aan ku fideyn oo aan baabi'ineyn sooha ama xubinta ay ka baxday isla markaana aan meel kale oo 
-                         jirka ka mid ah aan tageyn intay dhiigga raacdo; waana burada aan kansarka ahayn. 
+burocaanood m.dh (daaw.) Burada aan ku fideyn oo aan baabi'ineyn sooha ama xubinta ay ka baxday isla markaana aan meel kale oo jirka ka mid ah aan tageyn intay dhiigga raacdo; waana burada aan kansarka ahayn. 
 
 buro-qanjireed m.dh (daaw.) Buro ka dhalata sooh qanjireed ama cad isu muujisa qaabka qanjirka. 
 
@@ -6056,8 +5989,7 @@ bursayn m.dh Xabbado badan oo hal mar dad badani ridaan.
 
 burshaan m.l Buur yar; kood. 
 
-burshin m.dh (-imo, m.l) 1. Labada xubnood ee ku wareegsan afka nafleyda, kana qeyb qaadata codaynta. 
-                         2. Labada xubnood ee ku wareegsan xubinta taranka ee haweenka. ld bishin, bushin (2).
+burshin m.dh (-imo, m.l) 1. Labada xubnood ee ku wareegsan afka nafleyda, kana qeyb qaadata codaynta. 2. Labada xubnood ee ku wareegsan xubinta taranka ee haweenka. ld bishin, bushin (2).
 
 burshintuur¹ m.l 1. Xarig yar oo lagu dhuujiyo faruurta kore ee geela si uu socodka u dheereeyo. 2. ld burshintuurid.
 
@@ -6097,8 +6029,7 @@ burunjiyee f.mg2 (-yeeyay, -yeysay) Cabsi, gabow, qandho iwm la gariirid.
 
 burunjiyeyn m.f.dh eeg burunjiyee. 
 
-buruq m.dh (-qo, m.l) 1.Bari dhirta qaarkeed dhanka hoose ka bixiso, adag, kuuskuusan oo la cuno.
-                      2. Miro, sida qaraha, babbayga iwm inta jilicsan oo la cuno. 
+buruq m.dh (-qo, m.l) 1.Bari dhirta qaarkeed dhanka hoose ka bixiso, adag, kuuskuusan oo la cuno. 2. Miro, sida qaraha, babbayga iwm inta jilicsan oo la cuno. 
 
 burur¹ m.l 1. Dareen qofka ku dhasha marka uu la kulmo wax shucuurtiisa kiciyo oo ka lumiyo is-hanashada; jidbo. 2. ld burbur(1). 3. ld bururid.
 
@@ -6262,12 +6193,9 @@ buuf² m.dh 1. Duufsi. 2. B. ku hay: ladnaan. Tus. “Cali buuftuu ku hayaa”.
 
 buufbuuf m.l (-fyo, m.dh) Dugaagad dahab ama qalin ka samaysan. 
 
-buufi f.g2 (-iyay, -isay) 1. Wax neef ku shubid. 
-                          2. Neef maaddo ur leh ama sun ka sameysan meel ku siiddeyn.
-                          3. Hoore midab leh oo tuubbo si xoog leh uga baxayo meel ku rinjiyid. 
+buufi f.g2 (-iyay, -isay) 1. Wax neef ku shubid. 2. Neef maaddo ur leh ama sun ka sameysan meel ku siiddeyn. 3. Hoore midab leh oo tuubbo si xoog leh uga baxayo meel ku rinjiyid. 
 
-buufimo m.dh (-ooyin, m.l) Qalab maqaar ka sameyn, bixiya neef badan, leh qaab laba sibraar oo hal af wadaaga, labada dacal ee 
-                           kalena ku leh meelo gacanta lagu qabsado oo tumaaluhu dabka ay biraha ku farsameyaan ku qaxiyaan. 
+buufimo m.dh (-ooyin, m.l) Qalab maqaar ka sameyn, bixiya neef badan, leh qaab laba sibraar oo hal af wadaaga, labada dacal ee kalena ku leh meelo gacanta lagu qabsado oo tumaaluhu dabka ay biraha ku farsameyaan ku qaxiyaan. 
 
 buufin¹ m.l Xuub yar cinjir ka samaysan, qaabab kala duwan leh, marka hawo laga buuxiyo kala baxa oo carruurtu ku ciyaarto. 
 
@@ -6281,8 +6209,7 @@ buuflayn m.f.dh eeg buuflee.
 
 buuflee f.mg2 (-leeyay, -laysay) 1. Xoolo baad ka dhergid. 2. Cid caro ama kibir muujin. 
 
-buug m.l (buug, m.dh/-aag/-ag, m.l) 1. Tiro warqado ah, dhan isaga xiran, garbad leh oo suugaan amaa saynis ku qoranyahay. 
-                                    2. Tiro warqado ah, dhan isaga xiran garbad leh oo aan wax ku qorneyn. 
+buug m.l (buug, m.dh/-aag/-ag, m.l) 1. Tiro warqado ah, dhan isaga xiran, garbad leh oo suugaan amaa saynis ku qoranyahay. 2. Tiro warqado ah, dhan isaga xiran garbad leh oo aan wax ku qorneyn. 
 
 buuhood m.l 1. Ciid jilicsan oo boor badan. 2. Dhir wax lagu daweeyo. 
 
@@ -6298,8 +6225,7 @@ buulcaws m.l/dh (-syo, m.dh) Hooy yar oo ka samaysan caws iyo qoryo la isa saara
 
 buulley¹ m.dh Qayb ka mid ah heerka koritaanka cayayaanka qaarkood. 
 
-buulley² m.dh (c.nafl.) Heerka saddexaad ee koritaanka meerta nololeedka qaar ka mid ah cayayaanka. Heerka b.da quudashada iyo 
-                        socodkuba way joogsadaan, waxaana dhaca isbeddelka uu caydigu isu beddelayo qaangaadh. 
+buulley² m.dh (c.nafl.) Heerka saddexaad ee koritaanka meerta nololeedka qaar ka mid ah cayayaanka. Heerka b.da quudashada iyo socodkuba way joogsadaan, waxaana dhaca isbeddelka uu caydigu isu beddelayo qaangaadh. 
 
 buulo m.dh Degaan buulal badan ka dhisanyihiin; tuulo. 
 
@@ -6335,8 +6261,7 @@ buunto m.dh ld buundo.
 
 buuq¹ m.l 1. Hadal ama cod dheer oo nafley badan isku mar sameyso. 2. Dad ama xoola badan oo meel isugu yimid. 
 
-buuq² m.l (fiis.) Jabaq kasta oo dad dhiba; waxa lagu qiyaasaa iskeelka desibal oo u dhexeeya heerka maqalka ugu hooseeya (0dB) iyo heerka dhawaaqa 
-                  maqalku xanuuniyo (130dB). Dhawaqyo maqalka qasa oo dhexgala liid rakaad ee marin sigaarsiin. 
+buuq² m.l (fiis.) Jabaq kasta oo dad dhiba; waxa lagu qiyaasaa iskeelka desibal oo u dhexeeya heerka maqalka ugu hooseeya (0dB) iyo heerka dhawaaqa maqalku xanuuniyo (130dB). Dhawaqyo maqalka qasa oo dhexgala liid rakaad ee marin sigaarsiin. 
 
 buuq³ f.mg1 (-qay, -qday) 1. Nafley badan, hadal ama cod badan isku mar sameyn. 2. Dad ama xoolo badan meel isugu imaansho. 
 
@@ -6344,8 +6269,7 @@ buuqid m.f.dh eeg buuq³.
 
 buur barafeed m.l.u (-yo, m.dh) Cuf baraf dhuleed oo ka sammaysmay dhammaadka baraf weyne ama baraf gogol. Buur baraftu waxay dul sabbaysaa badda. 
 
-buur¹ m.l/dh (-rar/-ro, m.l) 1. Wax sida dhagax ciid iwm oo inta la is-dul-saaray dhulka ka yare kacsan. 
-                             2. Cuf dhul ah oo in door ah ka sarreeyo dhulalka ku wareegsan kana joog dheer gunbur. 
+buur¹ m.l/dh (-rar/-ro, m.l) 1. Wax sida dhagax ciid iwm oo inta la is-dul-saaray dhulka ka yare kacsan. 2. Cuf dhul ah oo in door ah ka sarreeyo dhulalka ku wareegsan kana joog dheer gunbur. 
 
 buur² f.g1 (-ray, -rtay) 1. Wax sida ciid, dhagxaan iwm meel tuurid. 2. Afka b.: caro darteed la aamusid (qof). 
 
@@ -6359,10 +6283,7 @@ buurbuur m.l 1. Barar; higaag. 2. (u) Wax farabadan; tubaalo.
 
 buure m.l (-rayaal, m.l/dh) Xuub biyo ku jiraan oo ka yimaada sabiisha xoolaha ugaarta iwm marka ay foolanayaan. 
 
-buuri¹ m.l 1. Geedo jaadad badan ah oo ubax guduud iyo caddaan ah iyo caleemo waaweyn, oo waran qaabki leh, bixiya; saakarro; tabaako. 
-           2. Caleenta geedahaas oo siyaalo badan loogu isticmaalo (afka oo laga qiiqiyo ama laga cuno, sankoo laga cuno). 
-           3. Waxyaalo kaloo caleemahaas laga sameeyo: sigaar, shurug, saliid, daawo, udgoon iwm.
-           4. Buuriga la qiiqiyo. 
+buuri¹ m.l 1. Geedo jaadad badan ah oo ubax guduud iyo caddaan ah iyo caleemo waaweyn, oo waran qaabki leh, bixiya; saakarro; tabaako. 2. Caleenta geedahaas oo siyaalo badan loogu isticmaalo (afka oo laga qiiqiyo ama laga cuno, sankoo laga cuno). 3. Waxyaalo kaloo caleemahaas laga sameeyo: sigaar, shurug, saliid, daawo, udgoon iwm. 4. Buuriga la qiiqiyo. 
 
 buuri² f.g2 (-iyay, -isay) Qof ama wax cayilin, naaxin; wax weynayn. 
 
@@ -6384,8 +6305,7 @@ bųuro f.mg3 (-rtay, -ratay) Nafley cayilid; weynaansho.
 
 buurqaaf m.dh Wax dhib badan oo aan la dhaafi karin. 
 
-buur-sameyn m.dh (jool.) Buur dhisid: isbeddel ku dhaca heerka sinnaanta qolofta dhullka, isbeddelkaas oo dhadhaabo kor loogu soo tuuro 
-                         si ay u sameeyaan silsillado buuro laalaab ama dhul go'. 
+buur-sameyn m.dh (jool.) Buur dhisid: isbeddel ku dhaca heerka sinnaanta qolofta dhullka, isbeddelkaas oo dhadhaabo kor loogu soo tuuro si ay u sameeyaan silsillado buuro laalaab ama dhul go'. 
 
 buuryaggoys m.dh ld beejaggoys.
 
@@ -6457,6 +6377,5 @@ buuxso f.g3 (-saday, -satay) 1. Wax muggiisa wax dhan ku shubasho ama ku qaadash
 
 buxuur m.l (-rro, m.dh) 1. Qof aqoon iyo garaad dheeraad ah leh; abwaan; mufti. 2. Koox daanyeero ah kan hoggaamiya. 
 
-bu'yaro m.dh (-ooyin, m.l) (baay.) Jidh yar oo wareegsan oo isku cufan oo laga helo bu'da aan qaybsamin ee unugga dhirta iyo xayawaanka, 
-                                   taas oo ka kooban borotiin, DNA, iyo RNA. Waxay door muhiin ah ka ciyaartaa soo saaridda ribosoomka iyo borotiinka.
+bu'yaro m.dh (-ooyin, m.l) (baay.) Jidh yar oo wareegsan oo isku cufan oo laga helo bu'da aan qaybsamin ee unugga dhirta iyo xayawaanka, taas oo ka kooban borotiin, DNA, iyo RNA. Waxay door muhiin ah ka ciyaartaa soo saaridda ribosoomka iyo borotiinka.
 
