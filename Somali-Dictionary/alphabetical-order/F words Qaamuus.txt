@@ -108,7 +108,10 @@ faa'iideyso f.mg3 (-stay, -satay) 1. Wax kororsasho (cid). 2. Ka f.: si dhagari 
 
 faa'iidid m.f.dh eeg faa'iid. ld faa'idid.
 
-faa'iido m.dh (-ooyin, m.l) 1. Munaafacaad dheeraad ah oo wax loo hawl galay laga helo. 2. Badeeca marka la gado, inta raasumaalkii hore ku kororta. ld faa'ido, feydo¹.faa'iidoddoon m.l.kh ld faa'iidaddoon.
+faa'iido m.dh (-ooyin, m.l) 1. Munaafacaad dheeraad ah oo wax loo hawl galay laga helo. 2. Badeeca marka la gado, inta raasumaalkii hore ku kororta. ld faa'ido,
+feydo¹.
+
+faa'iidoddoon m.l.kh ld faa'iidaddoon.
 
 faajafaajo m.dh Qof ladan isaga oo aan dan lahayn tago meelo kala duwan, ama waxaan muhim ahayn lacag ku kharajgarayo. 
 
@@ -208,7 +211,7 @@ faan² m.dh (-no, m.l) 1. Ilig dheer. 2. Foolasha maroodiga ee dhaadheer midkood
 
 faan³ f.mg1 (-nay, -ntay) Hadal aan dhab ahayn isku ammaanid. 
 
-faanfaan¹ m.l 1. Fal kibir ku jiro oo cid muujiso si loogu ammaano. 2. ld faanfaanid.
+faanfaan¹ m.l 1. Fal kibir ku jiro oo cid muujiso si loogu ammaano. 2. ld faanfaanid.
 
 faanfaan² f.mg1 (-nay, -ntay) Fal kibir ku jiro muujin si loogu ammaano. 
 
@@ -224,7 +227,7 @@ faanis m.l ld faanin.
 
 faansan f.mg4 (-naa, -nayd) La ammaanay ahaansho (qof). 
 
-faansanaan m.f.dh eeg faansanaan. ld faansanaansho.
+faansanaan m.f.dh eeg faansanaan. ld faansanaansho.
 
 faansanaansho m.l/dh ld faansanaan.
 
@@ -302,7 +305,7 @@ faarsad m.l ld faarsasho.
 
 faarsan f.mg4 (-naa, -nayd) Wax la faariyey ahaansho (caano). 
 
-faarsanaan m.f.dh eeg faarsan. ld faarsanaansho.
+faarsanaan m.f.dh eeg faarsan. ld faarsanaansho.
 
 faarsanaansho m.l/dh ld faarsanaan.
 
@@ -316,7 +319,7 @@ faarugsasho m.dh ld faarumaysasho.
 
 faarugsi m.l ld faarumaysasho.
 
-faarugso f.mg3 (-saday, -satay) ld faarumayso.
+faarugso f.mg3 (-saday, -satay) ld faarumayso.
 
 faarumayn m.f.dh eeg faarumee. 
 
@@ -335,6 +338,7 @@ faaruq² f.g1 (-qay,- qday) Wax maran, wixii ku jiray laga saaray.
 faaruqi f.g2 (-iyay, -isay) 1. Weel wax ku jira ka marin. 2. Meel wax yaalliin ka marin. 
 
 faaruqid m.f.dh eeg faaruq². 
+
 faaruqin m.f.dh eeg faaruqi. ld faaruqis.
 
 faaruqis m.l ld faaruqin.
@@ -365,7 +369,7 @@ faasid² m.f.dh eeg faas². ld faashid.
 
 faasiq m.l (-qiin/-qyo, m.dh) Qof fisqi badan sameeya. ld faasuq.
 
-faasiqnimo m.dh Faasiq ahaansho. ld faasuqnimo.
+faasiqnimo m.dh Faasiq ahaansho. ld faasuqnimo.
 
 faasuq m.l ld faasiq.
 
@@ -379,7 +383,9 @@ Faataadhugle samayn. ld faataalee.
 
 faataadhugleyn m.f.dh eeg faataadhuglee. ld faataalayn.
 
-faataalayn m.dh ld faataadhugleyn. faataalee f.mg2 (-leeyay, -leysay) ld faataadhuglee.
+faataalayn m.dh ld faataadhugleyn.
+
+faataalee f.mg2 (-leeyay, -leysay) ld faataadhuglee.
 
 faataxayn m.f.dh eeg faataxee. 
 
@@ -419,7 +425,7 @@ facaayil m.l.w eeg ficil.
 
 facaysad m.l ld facaysasho.
 
-facaysasho m.f.dh eeg facayso. ld facaysad, facaysi, filaysad, filaysasho, filaysi..
+facaysasho m.f.dh eeg facayso. ld facaysad, facaysi, filaysad, filaysasho, filaysi.
 
 facaysi m.l ld facaysasho.
 
@@ -437,9 +443,7 @@ facshar¹ m.l (-rro, m.dh) 1. Ceeb iyo sharafdhac weyn. 2. ld facsharid.3. Kashi
 
 facshar² f.g1 (-ray, -rtay) Facshar ku samayn; ceebeyn. ld faxshar².
 
-facsharan f.mg1 (-rmay, -rantay; -rmi) Qof la 
-
-facsharayay noqosho. ld faxsharan.
+facsharan f.mg1 (-rmay, -rantay; -rmi) Qof la facsharayay noqosho. ld faxsharan.
 
 facsharid m.f.dh eeg facshar². ld facshar1 (2), faxshar¹, faxsharid.
 
@@ -467,9 +471,11 @@ faddaraysnaansho m.l/dh ld faddaraysnaan.
 
 faddare m.l.kh 1. F. ah: qof ku dhaqma wax aan diinta Islaamka iyo dhaqanku oggoleyn; nijaas. 2. F. ah: wax nijaasi gaartay. ld faddaro.
 
-faddaree f.g2 (-reeyay, -raysay) Wax faddaro 
+faddaree f.g2 (-reeyay, -raysay) Wax faddaro ka dhigid, wax baabi'in.
 
-ka dhigid, wax baabi'in. faddaro m.dh.kh ld faddare.faddaroobid m.f.dh eeg faddarow². ld faddarow¹.
+faddaro m.dh.kh ld faddare.
+
+faddaroobid m.f.dh eeg faddarow². ld faddarow¹.
 
 faddarow¹ m.l ld faddaroobid.
 
@@ -487,4 +493,4 @@ fadeexayn m.f.dh eeg fadeexee.
 
 fadeexee f.g2 (-xeeyay, -xaysay) Cid fadeexo ku samayn; dacaayadeyn.
  
-Finished page 310(287), 311(288)
+Finished F words page 310(287), 311(288)
