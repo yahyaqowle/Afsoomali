@@ -308,7 +308,9 @@ faarsanaan m.f.dh eeg faarsan. ld faarsanaansho.
 
 faarsanaansho m.l/dh ld faarsanaan.
 
-faarsasho m.f.dh eeg faarso. ld faarsad, faarsifaarsi¹ m.l ld faarsasho.
+faarsasho m.f.dh eeg faarso. ld faarsad. 
+
+faarsifaarsi¹ m.l ld faarsasho.
 
 faarsi² m.l Noocyada kallunka ka mid ah. ld faardi.
 
@@ -324,7 +326,9 @@ faarumayn m.f.dh eeg faarumee.
 
 faarumaysad m.l ld faarumaysasho.
 
-faarumaysasho m.f.dh eeg faarumayso. ld faarugsasho, faarugsi, faarumaysad, faarumaysasho,faarumaysi m.l ld faarumaysasho.
+faarumaysasho m.f.dh eeg faarumayso. ld faarugsasho, faarugsi, faarumaysad, faarumaysasho. 
+
+faarumaysi m.l ld faarumaysasho.
 
 faarumayso f.mg3 (-stay, -satay) 1. Hal la lisayo lugaha dambe kala bixin. 2. Qof meel dheer iska tusid iyadoo aan loo baaqin. ld faarugso.
 
@@ -374,7 +378,9 @@ faasuq m.l ld faasiq.
 
 faasuqnimo m.dh ld faasiqnimo.
 
-faataa m.l ld faataadhugle. faataadhugle m.l (-layaal m.l/dh) Qof faan badan oo sheegta wax uusan ahayn. ld faataa.
+faataa m.l ld faataadhugle. 
+
+faataadhugle m.l (-layaal m.l/dh) Qof faan badan oo sheegta wax uusan ahayn. ld faataa.
 
 faataadhuglee f.mg2 (-leeyay, -leysay)
 
@@ -418,7 +424,9 @@ faay² f.mg1 (-yay, -yday) Caafimaad qabid.
 
 faayid m.f.dh eeg faay². ld faay¹.
 
-fac m.l (-cac, m.l) 1. Da'. 2. F. ah: dad isku da' ah oo isku waqti nool, jiil. 3. ld faacad.facaad m.dh ld fac (3).
+fac m.l (-cac, m.l) 1. Da'. 2. F. ah: dad isku da' ah oo isku waqti nool, jiil. 3. ld faacad.
+
+facaad m.dh ld fac (3).
 
 facaayil m.l.w eeg ficil. 
 
@@ -478,7 +486,7 @@ faddaroobid m.f.dh eeg faddarow². ld faddarow¹.
 
 faddarow¹ m.l ld faddaroobid.
 
-faddarow² f.mg1 (-oobay, -owday; -oobi)Wax, faddaro noqosho. 
+faddarow² f.mg1 (-oobay, -owday; -oobi) Wax, faddaro noqosho. 
 
 faddhac¹ m.l.kh F. ah: go'idda wax cadad ka go'aan ee uu yeesho meelo daloola. 
 
@@ -486,7 +494,9 @@ faddhac² f.mg1 (-cay, -cday; -dhici) Wax, cadad meelo daloola u yeela ka go'id.
 
 faddhicid m.f.dh eeg faddhac². 
 
-faddo m.dh 1. Meel dhulka kale in yar ka sarreysa, bannaan oo la dego waqtiga roobabawda. 2. Taag. fadeexad m.dh ld fadeexo.
+faddo m.dh 1. Meel dhulka kale in yar ka sarreysa, bannaan oo la dego waqtiga roobabawda. 2. Taag. 
+
+fadeexad m.dh ld fadeexo.
 
 fadeexayn m.f.dh eeg fadeexee. 
 
@@ -496,7 +506,7 @@ fadeexo m.dh (-ooyin, m.l) Fal xun oo aan qarsoonayn; ceeb, facsharo.
 
 fadeexoobid m.f.dh eeg fadeexow. 
 
-fadeexow f.mg1 (-oobay, -owday; -oobi)Fadeexo la kulmid. 
+fadeexow f.mg1 (-oobay, -owday; -oobi) Fadeexo la kulmid. 
 
 fadfad¹ m.l.u Godgod yaryar oo cudurka furuqu ku reebo jirka nafleyda; furuqdhaw, furuqdhoon. 
 
@@ -508,7 +518,7 @@ fadgoo m.dh ld fadgooyo.
 
 fadgooyo m.dh 1. Qiimagoo lagaga deyanayo gataha u horeeya waxa uu bixiyo. 2. Hanti yar oo xoolo gooyo ahaan qof loo siyo. 3. Waxtar horaadka laga helo shay kharaj ku baxay. 4. Cadad waaweyn oo wax loo googooyo. ld fadgoo.
 
-fadhaq-dareen m.l (daaw.) Miiqaqo dareenwadaha ee unugga dareenwade, kuwaasi oo u gudbiyo gujooyinka dareen wade jidhka unugga dareen wadaha. 
+fadhaq-dareen m.l (daaw.) Miiqaqo dareen wadaha ee unugga dareenwade, kuwaasi oo u gudbiyo gujooyinka dareen wade jidhka unugga dareen wadaha. 
 
 fadhi¹ m.l (-iyo, m.dh) 1. Qaabka iyo xaalada qof salka dhulka ku haya. 2.(-iyo, m.dh) Rug la degganyahay. Tus. “Fadhigeygu waa Afgooye”. 3. Lo' tiradeedu boqol gaartay. 4. Shir muhim ah. Tus. “Fadhigii shalay la galay go'aan wax-ku-ool ah ayaa ka soo baxay”. 5. Caano f. ah: caano garoor ah; eedaq. 6. Qolka f.ga: qol loogu taloggalay in la fadhiisto. 7. ld fadhiyid.
 
@@ -602,7 +612,9 @@ fagiiji f.mg2 (-iyay, -isay) Ku f. indhaha: libiqsi la'aan indhaha wax ku eegid.
 
 fagiijin m.f.dh eeg fagiiji. ld fagiijis.
 
-fagiijis m.l ld fagiijin. fagis m.dh ld fagid. faglayn m.dh ld fadallayn.
+fagiijis m.l ld fagiijin. fagis m.dh ld fagid. 
+
+faglayn m.dh ld fadallayn.
 
 faglee f.mg2 (-leeyay, -leysay) ld fadallee.
 
@@ -798,7 +810,7 @@ falaanfalid m.f.dh eeg falaanfal². ld falaanfulid.
 
 falaanfallow m.l ld falanfallow.
 
-falaanfalnaan m.f.dh eeg falaanfalan. ld falaanfalnaansho, falaanfulnaan, falaanfulnaansho.
+falaanfalnaan m.f.dh eeg falaanfalan. ld falaanfalnaansho, falaanfulnaan, falaanfulnaansho.
 
 falaanfalnaansho m.l/dh ld falaanfalnaan.
 
@@ -824,7 +836,9 @@ falaanjin m.f.dh eeg falaanji. ld falaanjis, falaanjiyid, falaaji.
 
 falaanjis m.l ld falaanjin. falaanjiyid m.dh ld falaanjin. falaas m.l 1. Nooc ka mid ah cayaaraha turubka oo qof kasta oo cayaaraya saddex xabbo la siiyo. 2. Tarmuus. 
 
-fąlag m.l ld feleg. falag¹ m.dh ld falko.
+fąlag m.l ld feleg. 
+
+falag¹ m.dh ld falko.
 
 falag² f.g1 (-lgay, -lagtay) ld falki.
 
