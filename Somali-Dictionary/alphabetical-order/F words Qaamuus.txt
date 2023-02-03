@@ -868,6 +868,7 @@ falanfalxo m.dh Geed quwaax leh xabag loo isticmaalo wax udginta. ld falaanfalax
 falanqayn m.f.dh eeg falanqee. ld falanqo.
 
 falanqee f.g2 (-qeeyay, -qaysay) Arrin si dhab ah uga doodid; arrin u kuurgelid, arrin gudo gelid. 
+
 falanqo m.dh ld falanqayn.
 
 falasho m.f.dh eeg falo.
@@ -878,7 +879,11 @@ falaxgooddi¹ m.l ld falaxgooddiyid.
 
 falaxgooddi² f.mg1/2 (-iyay, -iday/-isay; -iyi)Booloxoofto samayn; u bootayn; faatadhuglayn. ld faalaxgooddi², foolaxgooddi².
 
-falaxgooddin m.dh ld falaxgooddyid. falaxgooddis m.l ld falaxgooddiyid. falaxgooddiyid m.f.dh eeg falaxgooddi². ld faalaxgooddi¹, faalaxgooddin, faalaxgooddis. 
+falaxgooddin m.dh ld falaxgooddyid.
+
+falaxgooddis m.l ld falaxgooddiyid.
+
+falaxgooddiyid m.f.dh eeg falaxgooddi². ld faalaxgooddi¹, faalaxgooddin, faalaxgooddis. 
 
 fale¹ m.l (-layaal, m.l/dh) Walax kimikeed oo isbeddel keena. 
 
@@ -892,9 +897,7 @@ falfal¹ m.l 1. Hilib cad, ama cadad waaweyn oo biyo lagu kariyey. 2. Jid laango
 
 falfal² m.dh.sh.r Dhaqdhaqaaqa hore karkaraya. 
 
-falfal³ f.g1 (-alay, -ashay) 1. (f.g) Cid sixir ku 
-
-samayn. 2. (f.mg) Hoore wax karkaray noqosho. 
+falfal³ f.g1 (-alay, -ashay) 1. (f.g) Cid sixir ku samayn. 2. (f.mg) Hoore wax karkaray noqosho. 
 
 falfalid m.f.dh eeg falfal³. 
 
@@ -924,9 +927,7 @@ falfalxun f.mg4 (-umaa, -umayd) Falid aan dhaqan wanaagsanayn ahaansho. ld falxu
 
 falgal taxan m.l (-llo ..., m.dh) (kiim.) Falgal iswada oo maxsuulka tallaabada hore uu curiyo tallaabada xigta. 
 
-falgal-geddismi-kara m.l (kiim.) Falgalka kiimikaad ee labada dhinacba u socon kara. 
-
-Guud ahaan, falgaleyaasha iyo maxsuulladu waxa ay isku yihiin iskujir dheellitiran. 
+falgal-geddismi-kara m.l (kiim.) Falgalka kiimikaad ee labada dhinacba u socon kara. Guud ahaan, falgaleyaasha iyo maxsuulladu waxa ay isku yihiin iskujir dheellitiran. 
 
 falgalkeene m.l (-nno, m.dh) (kiim.) Iskudhis la falgala mid kale (oo ah ka la danaynayo). Ereygan, f., waxa badanaaba lagu isticmaalaa kiimikallada shaybaarka ee caadiga ah sida: naatriyam haydarogsaydh, haydarokoloorig asiidh, iwm ee loo adeegsado tijaabada iyo saafidda. 
 
@@ -934,9 +935,7 @@ falid m.f.dh eeg fal². ld fal¹ (4), falniin.
 
 falkaab m.l (nax.) Erey ku kordhiya faahfaahin micnaha falka, sida: “soo”, “sii”, “wada”, iwm. 
 
-falkaaliye m.l (nax.) Fal loo adeegsado in uu fal 
-
-kale oo qaab masdar leh ka kaaliyo xagga habka, muuqaalka, amminka, qofka, tirada iwm; waxaa ka mid ah “jir”, “doon”, “leh”; waxaana loo adeegsadaa ammin iyo hab go'an. Tus. “Kubbad buu cayaari jiray”. 
+falkaaliye m.l (nax.) Fal loo adeegsado in uu fal kale oo qaab masdar leh ka kaaliyo xagga habka, muuqaalka, amminka, qofka, tirada iwm; waxaa ka mid ah “jir”, “doon”, “leh”; waxaana loo adeegsadaa ammin iyo hab go'an. Tus. “Kubbad buu cayaari jiray”. 
 
 falkamid m.f.dh eeg falkan¹. 
 
@@ -956,7 +955,9 @@ falkin m.f.dh eeg falki. ld falkid, falkis.
 
 falkis m.l ld falkin.
 
-falko¹ m.dh (-ooyin, m.l) 1. Daar, derin iwm oo caw ka samaysan oo aan midab lagu xardhin. 2. ld falag¹. falko² f.g3 (-aday, -atay) Falag samaysasho. ld falagso.
+falko¹ m.dh (-ooyin, m.l) 1. Daar, derin iwm oo caw ka samaysan oo aan midab lagu xardhin. 2. ld falag¹. 
+
+falko² f.g3 (-aday, -atay) Falag samaysasho. ld falagso.
 
 fallaadh-cireed m.l (-dyo, m.dh) (fiis.) Kaaha saxar tamaraysan oo soo gaadha dhulka kana yimaada cirka. Waxa ay badanaaba ka koobanyihiin borotoono leh xaddiyo yaryar oo bu'o culus ah. Waxa kale oo ku jira footoono iyo nooc ka mid ah niyuutaroonada dhexdhexaadka ah. 
 
