@@ -1071,7 +1071,123 @@ falxumo m.dh ld falfalxumaan.
 
 falxun f.mg4 (-umaa, -umayd) ld falfalxun.
 
-Finished F words page 316(293)
+
+fan m.l ld fąn (2).
+
+fąn m.l 1. Xirfad bani-aadamku ku soo bandhigo ama ku matalo dareenka uu ka qabo dabeecadda ama dhacdooyinka nolosha. 2. ld fan. Dusha gaadiidka, qaybta hore ama dambe ee alaabta yaryar la saaro. 
+
+fanaajiin m.dh.w eeg fujaan. ld faraajiin. fanadheer m.dh Koor aan afrog ahayn. 
+
+fanasho m.f.dh eeg fano. 
+
+fanax¹ m.l Meesha laba farood oo kasta iska galaan. 
+
+fanax² m.dh (-nxo, m.l) Laba fool oo kala durugsan inta u dhexeysa (ilkaha dadka). 
+
+fanayn m.f.dh eeg fanee. ld fanaysi, fangelin, fangelis.
+
+fanaysasho m.f.dh eeg fanayso. 
+
+fanaysi m.l ld fanayn.
+
+fanayso f.g3 (-stay, -satay) Faras la fuushanyahay gadaal ka fuulid. 
+
+fandambeed m.l/dh (-dyo, m.dh) Dusha xoolaha la rarto dhankeeda dambe. 
+
+fandhaal m.l (-llo, m.dh) Qaaddo qori ka samaysan. 
+
+fandhaallaysan f.mg4 (-snaa, -snayd) Wax fandhaal la socdaan ahaansho (xeero). 
+
+fandhaallaysnaan m.f.dh eeg fandhaallaysan. ld fandhaallaysnaansho.
+
+fandhaallaysnaansho m.l/dh ld fandhaallaysnaan.
+
+fandhar f.g1 (-ray, -rtay) Meel malax ama qodaxi ku jirto aayar furid. ld findhir, findhiri.
+
+fandharid m.f.dh eeg fandhar. ld findhirid, findhirin, findhiris.
+
+fanee f.g2 (-neeyay, -naysay) Faras la saaranyahay cid kale fan ka saarid. ld fangeli.
+
+fangal¹ m.l Faras la fuushanyahay oo fankiisa qof kale la fariisiyo. ld fangelid.
+
+fangal² f.g1 (-alay, -ashay; -geli) Faras la fuushanyahay gadaal ka fuulid. ld fansaar³.
+
+fangar¹ m.dh Meel wax ka go'ay daloolka ay yeelato. ld fongor¹ (3).
+
+fangar² f.g1 (-ray, -rtay) Wax dalool u yeelid. 
+
+fangaran f.mg4 (-rnaa, -rnayd) Wax fangar leh ahaansho. ld fongoran (2). fangarid m.f.dh eeg fangar². 
+
+fangarnaan m.f.dh eeg fangaran. ld fangarnaansho.
+
+fangarnaansho m.l/dh ld fangarnaan. fangeli f.g2 (-iyay, -isay) ld fanee.
+
+fangelid m.f.dh eeg falgal². ld fangal¹. fangelin m.dh ld fanayn.
+
+fangelis m.l ld fanayn.
+
+fangi m.l.u (-iyo, m.dh) (baay.) Koox ka tirsan dhirta yar yar oo aan lahayn cagaariye. 
+
+fanhoraad m.l (-dyo, m.dh) Dusha xoolaha la rarto dhankeeda hore ee garbaha xiga. 
+
+faniin¹ m.l ld finiin¹.
+
+faniin² f.mg1 (-nay, -ntay) ld finiin².
+
+faniini f.g2 (-iyay, -isay) ld finiini.
+
+faniinid m.dh ld finiinid.
+
+faniinin m.dh ld finiinin.
+
+faniinis m.l ld finiinin.
+
+faniinto m.dh Nooc digirta ka mid ah, yaryar oo marka balaggeedu qallalo iskii u qarxada. fanjar m.dh ld janfar.
+
+fanjeedi f.mg2 (-iyay, -isay) Meel ka tegid. 
+
+fanjeedin m.f.dh eeg fanjeedi. ld fanjeedis. fanjeedis m.l ld fanjeedin.
+
+fanji-dile m.l (-layaal, m.l/dh) (daaw.) Dawo lagu dilo fangaska. 
+
+fanjooq f.mg1 (-qay, -qday) Dan la'aan meel muddo u taagnaan (cid). 
+
+fanjooqi f.g2 (-iyay, -isay) ld fanqooji. fanjooqid m.f.dh eeg fanjooq. 
+
+fanjooqin m.f.dh ld fanqoojin.
+
+fanjooqis m.l ld fanqoojin. fanjooqsan f.mg4 (-naa, -nayd) Wax la fanjooqiyay ahaansho. 
+
+fanjooqsanaan m.f.dh eeg fanjooqsan. ld fanjooqsanaansho.
+
+fanjooqsanaansho m.l/dh ld fanjooqsanaan.
+
+fannaan m.l (-niin/-nno, m.dh) 1. Nin masrax ka heesa. 2. Nin fanka ku xeel dheer. 
+
+fannaanad m.dh (-do, m.l) 1. Haweeney masrax ka heesta. 2. Haweeney fanka ku xeel dheer. 
+
+fannid¹ m.l ld fannidid.
+
+fannid² f.g1 (-day, -dday) 1. Wax, wax kale ka dhex raadin. 2. Wax heerheer u kala saarid. 
+
+fannidaad m.dh ld fannidid.
+
+fannidid m.f.dh eeg fannid². ld fannid¹, fannidaad.
+
+fano f.g3 (-ntay, -natay) Meel fuuliddeedu dhib tahay, xeelad ku korid. 
+
+fanqooji f.g2 (-iyay, -isay) Wax, wax kale in yar kor uga qaadid. ld fanjooqi. fanqoojin m.f.dh eeg fanqooji. ld fanjooqin, fanjooqis, fanqoojin, fanqoojis.
+
+fanqoojis m.l ld fanqoojin.
+
+fanqooq¹ m.l 1. Wax meel uu ku dhegganaa ka soo fuqay laakiin weli meel yar ka haysta. 2. Fadhi aan salka dhulka lagu hayn; kadalloob. 3. Wax meeshi ay saarnaayeen in yar kor uga kacay. 4. ld fanqooqid.
+
+fanqooq² f.g/mg1 (-qay, -qday) 1. Wax meel ay saarnaayeen ama ku dhegganaayeen in yar kor uga kicid. 2. Kadalloob u fariisasho. 
+
+fanqooqid m.f.dh eeg fanqooq². ld fanqooq¹ (4)
+
+Finished F words page 317(294)
+
 
 
 
