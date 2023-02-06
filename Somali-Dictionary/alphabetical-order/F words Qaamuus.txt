@@ -1071,7 +1071,6 @@ falxumo m.dh ld falfalxumaan.
 
 falxun f.mg4 (-umaa, -umayd) ld falfalxun.
 
-
 fan m.l ld fąn (2).
 
 fąn m.l 1. Xirfad bani-aadamku ku soo bandhigo ama ku matalo dareenka uu ka qabo dabeecadda ama dhacdooyinka nolosha. 2. ld fan. Dusha gaadiidka, qaybta hore ama dambe ee alaabta yaryar la saaro. 
@@ -1312,8 +1311,245 @@ far² f.g1 (-ray, -rtay) 1. Meel, jir iwm qalab caarad dhuuban ku qodid. 2. Cid 
 
 Finished F words page 318(295)
 
+faraaci¹ m.l Habeenka dayaxu xiddigta faraacida la fadhiyo. 
 
+faraaci² m.dh Xiddigaha raqaha midkood.
 
+faraajiin m.dh.w eeg fujaan. 
+
+faraar m.l ld farraar.
+
+faraasilad m.dh (-do, m.l) Shay wax lagu miisaamo oo culayskiisu u dhigmo 16 kiilo ama 28 rodol. ld faraasilo.
+
+faraasilo m.dh (-ooyin, m.l) ld faraasilad.
+
+faraati m.l (-iyo, m.dh) 1. Shay farta la gashado xarrago darteed. 2. Ilmasidaha afkiisa (minka). 
+
+faraatikeen m.l Keenidda ilmasidka geelu foodda soo muujiyo. 
+
+farabbadan¹ m.dh ld farammaggooggo.
+
+farabbadan² f.mg4 (-naa, -nayd) Wax badan ahaansho. 
+
+farabbadi m.dh ld farabbadnaan.
+
+farabbadnaan m.f.dh eeg farabbadan. ld farabbadi, farabbadnaansho, farabbadni.
+
+farabbadnaansho m.l/dh ld farabbadnaan.
+
+farabbadni m.dh Badnaanta wax tiradoodu badantahay. ld farabbadnaan.
+
+farabbar¹ m.l 1. Carbin, agabar. 2. ld farabbarid.
+
+farabbar² f.g1 (-ray, -rtay) Neef ugub oo curtay maalis oggolaysiin. 
+
+farabbarad m.l 1. Qof wax dhigasho bilaabay. 2. Qof farshaxannimo bilaabay. 
+
+farabbaran f.mg4 (-rnaa, -rnayd) Wax la farabaray ahaansho. 
+
+farabbarasho m.f.dh eeg farabaro. ld farabarad.
+
+farabbarid m.f.dh eeg farabbar². ld farabbar¹ (2).
+
+farabbaro f.g3 (-rtay, -ratay) Neef curtay agabarasho. 
+
+farabbax¹ m.l.kh F. ah: qof asluub xun, madax adag oo laga quustay. ld farakabbax, farakalabbax (1).
+
+farabbax² f.mg1 (-xay, -xday; -bixi) Qof wax laga quustay oo aan la saxi karin noqosho. 
+
+farabbaxsad m.l ld farabbaxsasho.
+
+farabbaxsasho m.f.dh eeg farabbaxso. ld farabbaxsad, farabbaxsi.
+
+farabbaxsi m.l ld farabbaxsasho.
+
+farabbaxso f.mg3 (-saday, -satay) 1. Cararid. 2. Ka f.: wax la hayey gacan ka fakasho. 3. U f.: qof inuu la dagaallamo qof kale u fakasho. 
+
+farabbixid m.f.dh eeg farabbax². 
+
+farac¹ m.l (-cyo, m.dh) 1. Durriyad. 2. Laan hay'adeed, bangi, xisbi iwm oo meel ka furan. 
+
+farac² m.l (-cyo, m.dh) (nax.) Habdhac uu erey uga soo farcamo mid kale. Tus. “fur + e -> fure”. 
+
+farac-hunguri m.l (daaw.) Mid ka mid ah dhuumaha hawada ee sambabka. Hunguri cadku wuxuu u qaybsamaa laba f. h. oo waaweyn, iyada oo sambab waliba mid leeyahay kuwaas oo u sii kala qaybsama f. h.yaal yaryar, kaddibna noqda farac hunguri yarayaal. 
+
+farad m.dh (bot.) Timir laf yar oo aad u macaan oo leh midab guduud madow xigeen ah. 
+
+faraddaanyo m.dh ld faratoonyo. Faraha lugaha oo iin gaartey awgeed korka iska fuula. 
+
+faradduub m.l Khasab. 
+
+faradduug m.l Wax yar oo abaalmarin ahaan loo siiyo hawl la qabtay. 
+
+faradh m.l (-dho, m.dh) (fiis.) Summad F. Halbeegga Caalamiga (H.C.) ee madhxinta, waxana loo qeexaa madhxinta madhxiye kasbaday saldanab 1 kuulam, marka keyd taraqiisa la gaarsiiyey 1 foolt. F. waa halbeeg ka weyn istiicmaalka caadiga ah, waxana la qaataa jajabkiisa oo ay ka mid yihiin biiko-f. (PF) iyo maykaro f. (μF). 
+
+faradhaq¹ m.l ld faraxal¹.
+
+faradhaq² f.mg1 (-qay, -qday) ld faraxal².
+
+faradhaqad m.l ld faraxalasho.
+
+faradhaqan f.mg4 (-qnaa, -qnayd) ld faraxalan.
+
+faradhaqasho m.dh ld faraxalasho.
+
+faradhaqid m.dh ld faraxalid.
+
+faradhaqnaan m.dh ld faraxalnaan.
+
+faradhaqnaansho m.l/dh ld faraxalnaan.
+
+faradhaqo f.mg3 (-qday, -qatay) ld faraxalo.
+
+faradheere m.l Geed xididkiisa xoolaha loo qodo oo ay ku dhacarsadaan. 
+
+farafarayn m.f.dh eeg farafaree. ld farafarays.
+
+farafarays m.f.dh ld farafarayn.
+
+farafaree f.mg2 (-reeyay, -raysay) Wax fara ku taataabasho. 
+
+farafootamid m.f.dh eeg farafootan². 
+
+farafootan¹ m.l Nooc legdinta ka mid ah. 
+
+farafootan² f.mg1 (-amay, -antay; -ami) Qof, qof kale la legdamid. 
+
+faraggal m.l 1. (daaw.) Cudur faraha gala oo u yeela dhaawacyo aad u xanuun badan. 2. ld farammar. ld fargal (2).
+
+faraggeli f.g2 (-iyay, -isay) Wax si toos ah wax uga qabasho. 
+
+faraggelin m.f.dh eeg faraggeli. ld faraggelis.
+
+faraggelis m.l ld faraggelin. 
+
+faraggirgir m.l Gacanta dhabarkeeda oo cid lagu dhufto. ld faraggoror, farajirjir.
+
+faraggorgor m.l 1. Ciyaar carruureed. 2. Fiidda geeduhu ka fufaan. 3. Faraggirgir. 
+
+faraggoys m.dh (-syo, m.l) Nooc shimbiraha hilibcunka ka mid ah; dafo. 
+
+faraggubyo m.dh 1. Faraha gacanta ama lugta oo gubta. 2. Abaal marin yar oo la siiyo qof cunto kariyey. 
+
+faraggubyoo f.mg3 (-ooday, -ootay) Faraha ka gubasho. 
+
+faraggubyood m.f.l eeg faraggubyoo. 
+
+faragguuto m.dh (-ooyin, m.l) Wax yar oo far iyo suul lagu qaadi karo. 
+
+farahal¹ m.l Biyaha lagu farahasho. 
+
+farahal² f.mg1 (-alay, -ashay) U f.: gacmaha qofka mayrid. 
+
+farahalasho m.f.dh eeg farahalo. 
+
+farahalid m.f.dh eeg farahal². 
+
+farahalo f.mg3 (-ashay, -alatay) Gacmaha iska mayrid. 
+
+farajannayn m.f.dh eeg farajannee. 
+
+farajannaysad m.l ld farajannaysasho.
+
+farajannaysasho m.l/dh eeg farajannayso. ld farajannaysad, farajannaysi, farajucsad, farajucsa
+
+farajannaysi m.l ld farajannaysasho.
+
+farajannayso f.mg3 (-stay, -satay) Faraha xubnahooda jucsasho. ld farajucso.
+
+farajannee f.g2 (-neeyay, -naysay) Xubnaha faraha jucin. 
+
+farajirjir m.l ld faraggirgir.
+
+farajucsad m.l ld farajannaysasho.
+
+farajucsasho m.dh ld farajannaysasho.
+
+farajucsi m.l ld farajannaysasho.
+
+farajucso f.mg3 (-saday, -satay) ld farajannayso.
+
+farakabbax m.l.kh ld farabbax¹.
+
+farakacayaar¹ m.l Isjiidjiid ama legdan aan dhab ahayn oo dheeldheel loo sameeyo. 
+
+farakacayaar² f.mg1 (-ray, -rtay) Isjiidjiid ama legdan aan dhab ahayn dheeldheel u samayn. 
+
+farakacayaarid m.f.dh eeg farakacayaar². 
+
+farakalabbax m.l ld 1. ld. farabbax¹.². ld. farakalabbixid.
+
+farakalabbixid m.dh Faro ka qaadidda cid faraha laga qado; dayrin. ld farakalabbax (2).
+
+farakannax¹ m.l ld farkannax¹.
+
+farakannax² f.mg1 (-xay, -xday) ld farkannax.
+
+farakannaxsan f.mg4 (-naa, -nayd) ld farkannaxsan.
+
+farakannaxsanaan m.dh ld farkannaxsanaan.
+
+farakannaxsanaansho m.l/dh ld farkannaxsanaan.
+
+farakannixid m.dh ld farkannixid.
+
+farakh m.l (-khyo/furuukh, m.dh) Ilma aan meher xalaal ah ku dhalan; wacal; garac. 
+
+farakuhayn m.dh 1. Shaqo socota oo markaas gacanta lagu hayo. 2. Qabashada si joogto ah hawl loo qabto. ld farakuhays.
+
+farakuhays m.l ld farakuhayn.
+
+faral m.l.kh f. ah: wax qasab ay qofka ku tahay in uu sameeyo (diinta). 
+
+faraley m.dh ld Farammaggooggo; ld farooley.
+
+farallaab m.l In yar oo lacag ah oo hoos laysugu dhiibo. 
+
+farammaggaadho m.dh Caro dhawaan; sabirdarro. ld farammaggaarto.
+
+farammaggaarto m.dh ld farammaggaadho. 
+
+farammaggooggo m.dh (c.nafl.) Bahal jaadad badan leh oo badda ku nool oo leh jir buufimo yar la moodo iyo siddeed lugood ama gacmood oo dhuudhuuban oo hoos u jeeddada ku leh goobooyin yaryar oo wax ku dhega ama nuuga. ld farammuggo, faraley (1), farabbadan¹.
+
+farammar m.l 1. Wax gacanta la geliyo ama lagu duubo marka hawl adag la qabanayo. 2. ld faraggal.
+
+farammaran f.mg4 (-rnaa, -rnayd) 1. Qof aan hanti lahayn ahaansho. 2. Wax farammar leh ahaansho (qof). 3. Qof aan gacanta wax ugu jirin ahaansho (hub, lacag iwm). 
+
+farammarnaan m.f.dh eeg farammaran. ld farammarnaansho.
+
+farammarnaansho m.l/dh ld farammarnaan.
+
+farammarooji f.g2 (-iyay, -isay) Ka f.: qof wax gacanta ugu jirey xoog uga qaadid. ld farammaroori.
+
+farammaroojin m.f.dh eeg farammarooji. ld farammaroorin.
+
+farammarooqsad m.l ld farammarooqsasho.
+
+farammarooqsasho m.f.dh eeg farammarooqso. ld farammarooqsad, farammarooqsi, faraammaroorsad.
+
+farammarooqsi m.l ld farammarooqsasho.
+
+farammarooqso f.g3 (-saday, -satay) Ka f.: qof wax gacanta ugu jirey xoog uga qaadasho. ld farammaroorso.
+
+farammaroori f.g2 (-iyay, -isay) ld farammarooji.
+
+farammaroorin m.dh ld farammaroojin. 
+
+farammaroorsad m.l ld farammarooqsasasho.
+
+farammaroorsasho m.dh ld farammarooqsasho.
+
+farammaroorsi m.l ld farammarooqsasho.
+
+farammaroorso f.g3 (-saday, -satay) ld farammarooqso.
+
+farammayr m.l ld faraxal¹.
+
+farammayrasho m.dh ld faraxalasho.
+
+farammayro f.mg3 (-rtay, -ratay) ld faraxalo.
+
+Finished F words page 319(296) & 320(297)
 
 
 
