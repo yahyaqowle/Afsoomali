@@ -1204,7 +1204,113 @@ fanqooq² f.g/mg1 (-qay, -qday) 1. Wax meel ay saarnaayeen ama ku dhegganaayeen 
 
 fanqooqid m.f.dh eeg fanqooq². ld fanqooq¹ (4)
 
-Finished F words page 317(294)
+fanqooqsad m.l ld fanqooqsasho.
+
+fanqooqsasho m.f.dh eeg fanqooqso. ld fanqooqsad, fanqooqsi.
+
+fanqooqsi m.l ld fanqooqsasho.
+
+fanqooqso f.mg3 (-saday, -satay) Wax lagu fadhiyey in yar kor uga kicid.
+
+fansaar¹ m.l 1. Alaabo yar oo aan cuslayn oo gaadiidka dheegga laga saaro marka lararaayo. 2. ld fangelid.
+
+fansaar² m.l (xis.) Qaanuun xisaabeed ka dhexeeya laba urur (xaddi), kaas oo, kutirsane kasta oo ka mid ah ururka hore (horaad) uu ku aado kutrisane keliya oo ka mid ah ururka dambe (dambeed).
+
+fansaar³ f.g1 (-ray, -rtay) ld fangal².
+
+fansaarid m.dh ld fangelid.
+
+fansaar-is-haysta m.l (xis.) Fansaar aan ku dhicin isbeddel dhaqso ah marka doorsoomaha madax bannaan ee fansaarku uu kordho ama yaraado.
+
+fansaar-jibbaar m.l (xis.) Fansaarka f(x) = e oo loo qoro f(x) = exp(x). Waxa kale oo loo isticmaalaa fansaarrada noocan oo kale ah, ax, oo a ay tahay madoorsoome. Guud ahaan, waa fansaar leh doorsoomayaal loo jibaaxay jibbaar ahaan.
+
+fansaar-labasaable m.l (xis.) Urur fansaarro oo leh astaamooyin u eg marka dhan laga eego kuwa fansaarrada tirignometeri waxaana lagu magacaabaa saynka labasaable (sinh (x)), kosaynka labasaable (cosh (x)) iwm. Waxa la xiriiraan laba saab sida ay fansaarrada tirignometeriga ula xiriiraan goobada.
+
+fansaar-tirigonometari m.dh (-rro ..., m.l)(xis.) Fansaarro leh qiime maangal sida sin(x), cos(x) iyo tan(x) ee laga helo dheehashada qaar ka mid ah saamiyada dhinacyada saddex-xagal qumman.
+
+fantatiir¹ m.l ld fantatiirid.
+
+fantatiir² f.g1 (-ray, -rtay) Xoog iyo dadaal badan iska doonid; istiilid. ld wantatiir².
+
+fantatiirid m.f.dh eeg fantatiir². ld fantatiir¹, wantatiir¹, wantatiirid.
+
+fantax m.dh (-xyo, m.l) 1. Meel yar oo ka banaan wax qarkiis. 2. Leebka meesha boqonka laga saaro ee qabsata.
+
+fanteel m.dh.kh F. ah: dallaal (meel).
+
+fanteeli f.g2 (-iyay, -isay) Meel firaaqo ka dhigid.
+
+fanteelin m.f.dh eeg fanteeli.
+
+fanto m.dh (daaw.) Cudur jirka ku dhaca oo nabarro dhacaan iyo malax lihi ka soo yaacaan oo goggooyaan.
+
+faq¹ m.l Hadal hoos la isugu sheegid.
+
+faq² f.mg1 (-qay, -qday; fiqi) Hadal hoos isugu sheegid; shawrid.
+
+faqdiiran f.mg4 (-rnaa, -rnayd) 1. Wax cararaya meel fog ka sii muuqasho. 2. Qof, qof kale oo hawl haya isagoo dul taagan kuurid. ld fakiiran.
+
+faqdiirnaan m.f.dh eeg faqdiiran. ld fakiirnaan, fakiirnaansho, faqdiirnaansho.
+
+faqdiirnaansho m.l/dh ld faqdiirnaan.
+
+faqi f.g2 (-iyay, -isay) ld fiqi².
+
+faqid m.f.dh eeg faq². ld fiqid.
+
+faqiir¹ m.l (-rro/fuqaraa, m.dh) Qof dan yar ah oo aan hanti lahayn; cayr, sabool.
+
+faqiir² f.mg1 (-ray, -rtay) Faqiir noqosho. ld faqiirow, faqri².
+
+faqiirad m.dh Naag sabool ah.
+
+faqiiri f.g2 (-iyay, -isay) Cid faqiir ka dhigid. ld faqiirtee.
+
+faqiirid m.f.dh eeg faqiir². ld faqiiroobid, faqrin, faqriyid.
+
+faqiirin m.f.dh eeg faqiiri. ld faqiirtayn.
+
+faqiiroobid m.dh ld faqiirid.
+
+faqiirow f.mg1 (-oobay, -owday) ld faqiir².
+
+faqiirtayn m.f.dh eeg faqiirtee.
+
+faqiirtee f.g2 (-teeyay, -taysay) ld faqiiri.
+
+faqin m.dh ld fiqin.
+
+faqis m.l ld fiqin.
+
+faqrad m.dh Qayb kastoo ka mid ah qaybo qoraal.
+
+faqri¹ m.l 1. Hanti la'aan. 2. F. ah: qof aan hanti lahayn.
+
+faqri² f.g1/2 (-iyay,-iday/-isay; -iyi) ld faqiir².
+
+faqrin m.dh ld faqiirid.
+
+faqrinnimo m.dh Faqri ahaansho.
+
+faqriyid m.dh ld faqiirid.
+
+faquuq¹ m.l 1. Takoor; karatiil; karaantiil. 2. ld faquuqid.
+
+faquuq² f.g1 (-qay, -qday) Wax ama qof takoorid.
+
+faquuqan f.mg4 (-qnaa, -qnayd) Nafley intii ay la nooleyd wax ka takooran ahaansho.
+
+faquuqid m.f.dh eeg faquuq². ld faquuq¹ (2).
+
+faquuqnaan m.f.dh eeg faquuqan. ld faquuqnaansho.
+
+faquuqnaansho m.l/dh ld faquuqnaan.
+
+far¹ m.dh (-ro, m.l) 1. Xubnaha dhuudhuban oo ciddiyuhu ku yaallaan oo gacmaha iyo cagaha dadku ku dhammaadaan middood. 2. Hab loo qoro af. 3. Jeex biyo mareen ah. 4. Fandhaal 5. Xuruuf loo adeegsado qorista afka. 6. Hab farshaxan oo wax loo sameeyo.
+
+far² f.g1 (-ray, -rtay) 1. Meel, jir iwm qalab caarad dhuuban ku qodid. 2. Cid farriin u dhiibid. 3. Cid amar siin.
+
+Finished F words page 318(295)
 
 
 
