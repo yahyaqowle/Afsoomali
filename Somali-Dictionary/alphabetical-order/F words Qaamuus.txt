@@ -1831,7 +1831,9 @@ farmuq f.g1 (-qay, -qday) Cid wax ku tuhmid.
 
 farmuqid m.f.dh eeg farmuq. 
 
-farnaan m.f.dh eeg faran². ld farnaansho.farnaansho m.l/dh ld farnaan.
+farnaan m.f.dh eeg faran². ld farnaansho.
+
+farnaansho m.l/dh ld farnaan.
 
 faro f.g/lg3 (-rtay, -ratay) 1. Wax fandharasho. 2. Cid farriin u dhiibasho. 
 
@@ -1867,7 +1869,7 @@ farsamadhaari m.l.kh F. ah: qof farsamo aad u yaqaan.
 
 farsamaxumaan m.dh eeg farsamaxun. ld farsamaxumaansho, farsamaxumi, farsamaxumo.
 
-farsamaxumaansho m.l/dh ld farsamaxumaan.
+farsamaxumaansho m.l/dh ld farsamaxumaan.
 
 farsamaxumi m.dh ld farsamaxumaan.
 
@@ -1977,7 +1979,7 @@ farxumi m.dh 1. Hab qoraal-gacmeed oo qof wax u qoro oo ay adagtahay si loo akhr
 
 farxumo m.dh ld farxumi.
 
-farxun f.mg4 (-umaa, -umayd) 1. Qof qoraalgacmeedkiisa si loo akhriyo ay adagtahay ahaansho. 2. Qof farshaxannimadiisu aanay wanaagsanayn ahaansho. 
+farxun f.mg4 (-umaa, -umayd) 1. Qof qoraal gacmeedkiisa si loo akhriyo ay adagtahay ahaansho. 2. Qof farshaxannimadiisu aanay wanaagsanayn ahaansho. 
 
 faryaro m.dh Gacmaha iyo lugaha farahooda midda ugu yar. 
 
@@ -2025,7 +2027,7 @@ fasakhnaansho m.l/dh ld fasakhnaan.
 
 fasakho f.g3 (-khday, -khatay) Haweeney saygeeda oo aan ogeyn ama ka raalli ahayn iska furid. ld fasaqo.
 
-fasal m.l (-llo, m.dh) 1. Qaybaha buug leeyahay midkood. 2. Heerarka waxbarashada dugsiga midkood. 3. Xilli wax la beeri karo. 4. Dalagga hal xilli beer ka soo go'a. 
+fasal m.l (-llo, m.dh) 1. Qaybaha buug lee yahay midkood. 2. Heerarka waxbarashada dugsiga midkood. 3. Xilli wax la beeri karo. 4. Dalagga hal xilli beer ka soo go'a. 
 
 fasaleeti m.l (-iyo, m.dh) 1. Maro yar oo afka lagu tirto. 2. Maro yar oo midabo leh oo haweenku madaxa saartaan; masar. ld safaleeti.
 
@@ -2331,7 +2333,9 @@ fayiigsad m.l ld fayiigsasho.
 
 fayiigsasho m.f.dh eeg fayiigso. ld fayiigsad, fayiigsi.
 
-fayiigsi m.l ld fayiigsasho. fayiigso f.mg3 (-saday, -satay) Indho binixsi samayn. 
+fayiigsi m.l ld fayiigsasho. 
+
+fayiigso f.mg3 (-saday, -satay) Indho binixsi samayn. 
 
 fayiix m.dh ld feex.
 
@@ -2449,7 +2453,7 @@ feeraaris m.l ld feeraarin.
 
 feeraarsan f.mg4 (-naa, -nayd) Wax la feeraariyay ahaansho. ld firaarsan.
 
-feeraarsanaan m.f.dh eeg feeraarsan. ld feeraarsanaansho, firaarsanaan, firaarsanaansho.
+feeraarsanaan m.f.dh eeg feeraarsan. ld feeraarsanaansho, firaarsanaan, firaarsanaansho.
 
 feeraarsanaansho m.l/dh ld feeraarsanaan.
 
