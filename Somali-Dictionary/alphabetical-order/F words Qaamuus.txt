@@ -2825,7 +2825,7 @@ fiigid m.f.dh eeg fiig². ld fiig¹.
 
 fiigsan f.mg4 (-naa, -nayd) Wax la fiijiyey ahaansho. 
 
-fiigsanaan m.f.dh eeg fiigsan. ld fiigsanaansho.
+fiigsanaan m.f.dh eeg fiigsan. ld fiigsanaansho.
 
 fiigsanaansho m.l/dh ld fiigsanaan. 
 
@@ -3014,37 +3014,6 @@ fiko f.mg3 (-kaday, -katay) ld fako.
 fikrad m.dh ld fekrad.
 
 finish pages 329(306)-332(309)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
