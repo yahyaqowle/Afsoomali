@@ -358,7 +358,9 @@ aas¹ m.l 1. Xabaalidda meydka; ld aasid. 2. Marka aasku madoobaado: waqtiga qor
 
 aas² f.g1 (-say, -stay) Wax dhulka ku xabaalid (dad dhintay); duugid. 
 
-aasaas¹ m.l ld asaas¹. asaasid. aasaas² f.g1 (-say, -stay) ld asaas².
+aasaas¹ m.l ld asaas¹. asaasid. 
+
+aasaas² f.g1 (-say, -stay) ld asaas².
 
 aasaasan¹ f.mg1 (-smay, -santay) ld asaasan¹.
 
@@ -494,7 +496,9 @@ abaahi¹ m.l Isutagga awrka iyo hasha. ld abaahiyid.
 
 abaahi² f.g1/2 (-iyay, -iday/-isay; -iyi) Hal kudid (awr). 
 
-abaahin m.f.dh eeg abaahi². ld abaahiyid.abaahiqab m.l ld buudhqab.
+abaahin m.f.dh eeg abaahi². ld abaahiyid.
+
+abaahiqab m.l ld buudhqab.
 
 abaahis m.l ld abaahiyid.
 
@@ -658,7 +662,7 @@ abbaan m.l (-nno, m.dh) 1. Qof cid magan geliyey. 2. Qof, cid magan u ah.
 
 abbaanduul m.l Cilmiga barashada hoggaaminta ciidamada xagga dagaalka. ld ammaanduul.
 
-abbaanduule m.l (-layaal, m.l/dh) 1. Qof taliye u ah col duullaan ah. 2. Taliyexigeenka gaas, guuto, qayb iwm ee ciidamada. ld ammaanduule.
+abbaanduule m.l (-layaal, m.l/dh) 1. Qof taliye u ah col duullaan ah. 2. Taliye xigeenka gaas, guuto, qayb iwm ee ciidamada. ld ammaanduule.
 
 abbaannimo m.dh Abbaan ahaansho. 
 
@@ -702,11 +706,11 @@ abbaato m.dh.fk Hor iyo a.: fal la sameeyo inta aan ujeeddo la lahaa lagu dhaqaa
 
 abbaay m.dh ld abbaaye.
 
-abbaay abbaay m.dh Digri haweenka u gaar ah oo la sameeyo marka haweeney ay kuraysanayso ama markii caado ahaan loo xusayo abbaay Faaduumo oo lagu wado gabadhii Rasuulka (n.k.h.a.). 
+abbaay-abbaay m.dh Digri haweenka u gaar ah oo la sameeyo marka haweeney ay kuraysanayso ama markii caado ahaan loo xusayo abbaay Faaduumo oo lagu wado gabadhii Rasuulka (n.k.h.a.). 
 
 abbaaye m.l (-yayaal, m.l/dh) 1. Wax ay gabadhi u tahay wiilka ama gabadha la dhalatay. 2. Erey “walaal” ka dhigan oo gabdhaha wada dhashay ama xigto ah ama is jecel isugu yeeraan. 3. Gabadhi waxa ay u tahay ilmaha la dhashay ee ka yaryar. ld abbaay, abbaayo.
 
-abbaayguddoy m.dh (-ooyin, m.l) Cayayaan jiriiqaaqa iyo ayaxa la bah ah oo leh madax ka weyn jirka intiisa kale iyo lix lugood oo ay labada hore dhaadheeryihiin. ld ayeeyolugdheer; abooto-idabbadis.
+abbaayguddoy m.dh (-ooyin, m.l) Cayayaan jiriiqaaqa iyo ayaxa la bah ah oo leh madax ka weyn jirka intiisa kale iyo lix lugood oo ay labada hore dhaadheeryihiin. ld ayeeyo-lugdheer; abooto-idabbadis.
 
 abbaayo m.dh ld abbaaye.
 
@@ -910,7 +914,7 @@ abuutufaax m.l A. ah: macwiis tufaax astaan u ahi ku sawiran yahay.
 
 abwaan m.l (-nno, m.dh) 1. Buug ama buugag taxane ah oo laamaha aqoonta oo dhami ku uruursanyihiin. 2. Nin curin iyo hal-abuur suugaaneed leh. 3. A. ah: nin garasho aqoon iyo waaya-aragnimo dheeraad ah leh. 4. (riw.) Qof riwaayadaha curiya. 
 
-abwaanad m.dh (-do, m.l) 1. Haweeney curin iyo hal-abuur suugaaneed leh. 2. A. ah: haweeney garasho, aqoon iyo waayaaragnimo dheeraad ah leh. 
+abwaanad m.dh (-do, m.l) 1. Haweeney curin iyo hal-abuur suugaaneed leh. 2. A. ah: haweeney garasho, aqoon iyo waaya aragnimo dheeraad ah leh. 
 
 abwaannimo m.dh Abwaan ahaansho. 
 
@@ -942,7 +946,7 @@ acuudu-billaahi e.d Eray Eebbe looga magan galo wixii la sharaysto. ld cawdu-bil
 
 acuudu-billaysad m.l ld acuudu-billaysasho.
 
-acuudu-billaysasho m.f.dh eeg acuudubilleyso. ld acuudu-billeysad, acuudubilleysi, cawdu-billeysad
+acuudu-billaysasho m.f.dh eeg acuudu-billeyso. ld acuudu-billeysad, acuudu-billeysi, cawdu-billeysad
 
 acuudu-billeysi m.l ld acuudu-billeysasho.
 
@@ -1072,13 +1076,17 @@ adeegid m.dh eeg adeeg².
 
 adeego f.mg3 (-gtay, -gatay) 1. Cunto maalmeed suuq ka soo iibsasho. 2. Hawl keligii qabsasho (qof). 
 
-adeegsad m.f.dh ld adeegsasho. adeegsasho m.f.dh eeg adeegso. ld adeegsad, adeegsi.
+adeegsad m.f.dh ld adeegsasho. 
 
-adeegsi m.l ld adeegsasho. adeegso f.g/mg3 (-saday, -satay) 1. (f.g) Cid adeeg u dirsasho. 2. (f.mg) U a.: wax samayntooda qalab ama wax kale u isticmaalid. Tus. “Baaritaanka dhiigga kombiyuutar                                                                             ayaa loo adeegsadaa”. 
+adeegsasho m.f.dh eeg adeegso. ld adeegsad, adeegsi.
+
+adeegsi m.l ld adeegsasho. 
+
+adeegso f.g/mg3 (-saday, -satay) 1. (f.g) Cid adeeg u dirsasho. 2. (f.mg) U a.: wax samayntooda qalab ama wax kale u isticmaalid. Tus. “Baaritaanka dhiigga kombiyuutar                                                                             ayaa loo adeegsadaa”. 
 
 adeegto m.dh (-ooyin, m.l) Haweenay shaqo hoosaad ka qabata guryaha, xafiisyada iwm. 
 
-adeer m.l (-rro, m.dh) 1. Nin waxa uu u yahay ilmaha walaalkii dhalay. 2. Hab xurmo leh oo qof da'weyn loogu yeero. 3. (u.j) adeerow! 4. (u.j) wiilka aan adeerka u ahayow!; gabadha aan adeerka u ahayey! 
+adeer m.l (-rro, m.dh) 1. Nin waxa uu u yahay ilmaha walaalkii dhalay. 2. Hab xurmo leh oo qof da'weyn loogu yeero. 3. (u.j) adeerow! 4. (u.j) wiilka aan adeerka u ahayow!; gabadha aan adeerka u ahayey!. 
 
 adeernimo m.dh Adeer ahaansho. 
 
@@ -1418,11 +1426,13 @@ afgammuurid m.f.dh eeg afgammuur². ld afgammuur¹ (2), afgammuux¹, afgammuuxid
 
 afgammuurmid m.f.dh eeg afgammuuran¹. ld afgammuuxmid, afgamuurmid, afgamuuxmid.
 
-afgammuurnaan m.f.dh eeg afgammuuran². ld afgammuurnaansho, afgammuuxnaan, afgammuuxnaansho,
+afgammuurnaan m.f.dh eeg afgammuuran². ld afgammuurnaansho, afgammuuxnaan, afgammuuxnaansho.
 
 afgammuurnaansho m.l/dh ld afgammuurnaan.
 
-afgammuux¹ m.l ld afgammuurid. afgammuux² f.g1 (-xay, -xday) ld afgammuur².
+afgammuux¹ m.l ld afgammuurid. 
+
+afgammuux² f.g1 (-xay, -xday) ld afgammuur².
 
 afgammuuxan¹ f.mg1 (-xmay, -xantay) ld afgammuuran¹.
 
@@ -1430,13 +1440,17 @@ afgammuuxan² f.mg4 (-xnaa, -xnayd) ld afgammuuran².
 
 afgammuuxmid m.dh ld afgamuurmid.
 
-afgammuuxnaan m.dh ld afgammuurnaan. afgammuuxnaansho m.l/dh ld afgammuurnaan.
+afgammuuxnaan m.dh ld afgammuurnaan. 
+
+afgammuuxnaansho m.l/dh ld afgammuurnaan.
 
 afgamuuran¹ f.mg1 (-rmay, -rantay) ld afgammuuran¹.
 
 afgamuuran² f.mg4 (-rnaa, -rnayd) ld afgammuuran².
 
-afgamuurmid m.dh ld afgammuurmid. afgamuurnaan m.dh ld afgammuurnaan.
+afgamuurmid m.dh ld afgammuurmid. 
+
+afgamuurnaan m.dh ld afgammuurnaan.
 
 afgamuurnaansho m.l/dh ld afgammuurnaan.
 
@@ -1468,7 +1482,9 @@ afgembin m.dh ld afgembiyid. afgembiyid m.f.dh eeg afgembi². ld afgembi¹ (3), 
 
 afgobaadsad m.l ld afgobaadsasho. afgobaadsasho m.f.dh eeg afgobaadso. ld afgobaadsad, afgobaadsi.
 
-afgobaadsi m.l ld afgobaadsasho. afgobaadso f.mg3 (-saday, -satay) 1. Hadal macaan oo hufan oo eed ka carar darteeda keliya u dhihid. 2. Si asluub leh arrin uga xogwarramid (qof). 
+afgobaadsi m.l ld afgobaadsasho. 
+
+afgobaadso f.mg3 (-saday, -satay) 1. Hadal macaan oo hufan oo eed ka carar darteeda keliya u dhihid. 2. Si asluub leh arrin uga xogwarramid (qof). 
 
 afgorofow m.l ld afdhalow.
 
@@ -1550,7 +1566,9 @@ aflixid m.f.dh eeg aflax². ld aflax¹, aflaxaad.
 
 aflixin m.f.dh eeg aflixi. ld aflixis.
 
-aflixis m.l ld aflixin.afmaal m.l (-llo, m.dh) 1. A. ah: maansayahan. 2. A. ah: qof codkar ah. 
+aflixis m.l ld aflixin.
+
+afmaal m.l (-llo, m.dh) 1. A. ah: maansayahan. 2. A. ah: qof codkar ah. 
 
 afmaalnimo m.l Afmaal ahaansho. 
 
@@ -1606,15 +1624,25 @@ afraad m.l/dh.t.j ld afaraad.
 
 afrid m.l Mayrax, derin iwm oo daaha looga dhigo aqal-Soomaaliga. 
 
-afrog¹ m.l ld afrogid. afrog² f.g1 (-gay, -gtay) 1. Weel afkiisa sare hoos marin. 2. Weel waxa ku jira ka wadaddaadin. 
+afrog¹ m.l ld afrogid. 
+
+afrog² f.g1 (-gay, -gtay) 1. Weel afkiisa sare hoos marin. 2. Weel waxa ku jira ka wadaddaadin. 
 
 afrogan f.mg4 (-gnaa, -gnayd) Weel la afrogay ahaansho. 
 
-afrogid m.f.dh eeg afrog². ld afrog¹. afrognaan m.f.dh eeg afrogan. ld afrognaansho.
+afrogid m.f.dh eeg afrog². ld afrog¹. 
 
-afrognaansho m.l/dh ld afrognaan. afruug¹ m.l ld afuugid.
+afrognaan m.f.dh eeg afrogan. ld afrognaansho.
 
-afruug² f.g1 (-gay, -gtay) ld afuug². afruugid m.dh ld afuugid. afruujin m.dh Burburinta beer carradeeda la burburiyo lana carrageddiyo. 
+afrognaansho m.l/dh ld afrognaan. 
+
+afruug¹ m.l ld afuugid.
+
+afruug² f.g1 (-gay, -gtay) ld afuug². 
+
+afruugid m.dh ld afuugid. 
+
+afruujin m.dh Burburinta beer carradeeda la burburiyo lana carrageddiyo. 
 
 afsaar m.dh Oodda xerada ariga afka lagaga oodo. 
 
@@ -1776,7 +1804,9 @@ agaasin² f.g1 (-imay, -intay; -imi) Habeyn iyo isku dubbaridid (hawl).
 
 agaasinnaan m.f.dh eeg agaasiman. ld agaasinnaansho.
 
-agaasinnaansho m.l/dh ld agaasinnaan. agab¹ m.l 1. Faa'idada iyo waxtarka ay cidi leedahay. 2. Ciirsi; miciin. 
+agaasinnaansho m.l/dh ld agaasinnaan. 
+
+agab¹ m.l 1. Faa'idada iyo waxtarka ay cidi leedahay. 2. Ciirsi; miciin. 
 
 agab² m.dh.u Qalabka guri, makhaayad iwm looga adeegto. 
 
@@ -1882,7 +1912,9 @@ aguugan¹ f.mg1 (-gmay, -gantay; -gmi) Wax la aguugay noqosho.
 
 aguugan² f.mg4 (-gnaa, -gnayd) Wax la aguugay ahaansho. 
 
-aguugid m.f.dh eeg aguug². ld aguug¹. aguugmid m.f.dh eeg aguugan¹. 
+aguugid m.f.dh eeg aguug². ld aguug¹. 
+
+aguugmid m.f.dh eeg aguugan¹. 
 
 aguugnaan m.f.dh eeg aguugan². ld aguugnaansho.
 
@@ -1934,7 +1966,7 @@ ahmin m.l.u 1. Ariga intiisa shilis oo la suuq geyn karo. 2. Orgida iyo wananka 
 
 ahmiyad m.dh Ujeeddo; qasdi; muhiimmad. 
 
-ahraam¹ m.dh Dhisma soo yaal ah oo Masaaridii hore dhistay oo leh shagli saddexgeesoole. 
+ahraam¹ m.dh Dhisma soo yaal ah oo Masaaridii hore dhistay oo leh shagli saddex-geesoole. 
 
 ahraam² m.dh (xis.) Adke salkiisu yahay geesoole iyo dhammaan wejiyada kalena ay yihiin saddex-xagallo wadaaga gees. 
 
@@ -1958,7 +1990,9 @@ ajaran² f.mg4 (-naa, -nayd) Cid wax ku qataltay ahaansho.
 
 ajaraysasho m.dh ld ajarsasho.
 
-ajarayso f.mg3 (-stay, -satay) ld ajarso. ajarid m.f.dh eeg ajar³. ld ajar¹ (2).
+ajarayso f.mg3 (-stay, -satay) ld ajarso. 
+
+ajarid m.f.dh eeg ajar³. ld ajar¹ (2).
 
 ajarmid m.f.dh eeg ajaran¹. 
 
@@ -1984,13 +2018,17 @@ ajeyn m.f.dh eeg ajee.
 
 aji m.l.u (aji, m.dh) 1. Qof nasab wanaagsan ka soo jeeda. 2. Soomaali. 
 
-ajiib¹ m.l 1. Aqbal. 2. ld ajiibid. ajiib² f.g1 (-bay, -btay) Cid wax ay rabto ka aqbalid. 
+ajiib¹ m.l 1. Aqbal. 2. ld ajiibid. 
+
+ajiib² f.g1 (-bay, -btay) Cid wax ay rabto ka aqbalid. 
 
 ajiibid m.f.dh eeg ajiib². ld ajiib¹ (2).
 
 ajir m.l ld ajar¹ (1).
 
-ajirsad m.l ld ajarsasho. ajirsasho m.dh ld ajarsasho.
+ajirsad m.l ld ajarsasho. 
+
+ajirsasho m.dh ld ajarsasho.
 
 ajirso f.mg3 (-saday, -satay) ld ajarso.
 
@@ -2008,7 +2046,9 @@ ajood m.f.l eeg ajoo.
 
 ajri m.l ld ajar¹ (1).
 
-ajuuro m.dh ld ijaar¹. akademiye m.l 1. Maamul ka kooban aqoonyahanno oo loo xilsaaray kor u qaadidda aqoonta, fanka iyo dhaqanka bulshada. 2. Dugsi sare oo qaabilsan carbiska ciidamada. ld akademiyo.
+ajuuro m.dh ld ijaar¹. 
+
+akademiye m.l 1. Maamul ka kooban aqoonyahanno oo loo xilsaaray kor u qaadidda aqoonta, fanka iyo dhaqanka bulshada. 2. Dugsi sare oo qaabilsan carbiska ciidamada. ld akademiyo.
 
 akademiyo m.dh ld akademiye.
 
@@ -2240,9 +2280,7 @@ alifba' m.dh Xuruuf af lagu qoro oo ka kooban shaqallo iyo Shibbanayaal; alif. l
 
 alifle m.l (-layaal, m.l/dh) Qof ciidanka qalabka sida ka mid ah oo darajadiisu hal alif tahay. 
 
-alifley m.dh.u 1. Carruur dugsi ku jirta oo 
-
-alifka dhigata. 2. Ciidamada inta alif sidata. 
+alifley m.dh.u 1. Carruur dugsi ku jirta oo alifka dhigata. 2. Ciidamada inta alif sidata. 
 
 aliil m.l (-lo, m.dh) (baay.) Mid ka mid ah muuqaallada talantaalliga ah ee hiddo side. Noolayaasha badankoodu waxay leeyihiin laba aliil oo midba hiddoside ka yimid (midba waalid ka yimid), kaas oo ku jira koromosoomyo iskumid ah. Hal aliil badanaa waxa uu shiiqiyaa ka kale oo loo yaqaan shiiqsane, kaas oo ay ka baxaan astaamaha u gaarka ah noolahaas. 
 
@@ -2336,7 +2374,7 @@ alma-almay m.dh Cucub ama lucbad ay ilmuhu ku cayaaraan oo qaab aroosad leh.
 
 alma-almayn m.f.dh eeg alma-almee. 
 
-alma-almee f.mg2 (-meeyay, -maysay) Almaalmay ciyaarid. 
+alma-almee f.mg2 (-meeyay, -maysay) Alma-almay ciyaarid. 
 
 almaas m.l Nooc ka mid ah dhagxaanta qaaliga ah. ld dheeman.
 
@@ -2360,7 +2398,9 @@ aloogmid m.f.dh eeg aloogan¹.
 
 aloognaan m.f.dh eeg aloogan². ld aloognaansho.
 
-aloognaansho m.l/dh ld aloognaan. aloogsasho m.f.dh eeg aloogso. 
+aloognaansho m.l/dh ld aloognaan. 
+
+aloogsasho m.f.dh eeg aloogso. 
 
 aloogso f.mg3 (-saday, -satay) Si didmo iyo degganaan la'aan leh u kicid (nafley). 
 
@@ -2430,7 +2470,9 @@ amaagan² f.mg4 (-naa, -nayd) ld ammaagan².
 
 amaagid m.dh ld ammaagid.
 
-amaagnaan m.dh ld ammaagnaan. amaagnaansho m.l/dh ld ammaagnaan.
+amaagnaan m.dh ld ammaagnaan. 
+
+amaagnaansho m.l/dh ld ammaagnaan.
 
 amaah m.dh (-hyo, m.l) Xoolo qof laga qaato oo mar lagu heshiiyay loo soo celiyo. 
 
@@ -2474,17 +2516,21 @@ amakaag² f.mg1 (-gay, -gtay) Si aad ah u yaabid. ld amankaag².
 
 amakaagid m.f.dh eeg amakaag². ld amakaag¹ (2), amankaag¹, amankaagid.
 
-amakaagsan f.mg4 (-naa, -nayd) Wax 
+amakaagsan f.mg4 (-naa, -nayd) Wax amankaag hayo ahaansho. ld amankaagsan.
 
-amankaag hayo ahaansho. ld amankaagsan.
-
-amakaagsanaan m.dh ld amakaagsanaansho, amankaagsanaan, amankaagsanaansh
+amakaagsanaan m.dh ld amakaagsanaansho, amankaagsanaan, amankaagsanaansho.
 
 amakaagsanaansho m.l/dh ld amakaagsanaan.
 
-amankaag¹ m.l ld amakaagid. amankaag² f.mg1 (-gay, -gtay) ld amakaag². amankaagid m.f.dh ld amakaagid.
+amankaag¹ m.l ld amakaagid. 
 
-amankaagsan f.mg4 ld amakaagsan. amankaagsanaan m.f.dh ld amakagsanaan.
+amankaag² f.mg1 (-gay, -gtay) ld amakaag². 
+
+amankaagid m.f.dh ld amakaagid.
+
+amankaagsan f.mg4 ld amakaagsan. 
+
+amankaagsanaan m.f.dh ld amakagsanaan.
 
 amankaagsanaansho m.l/dh ld amakaagsanaan.
 
@@ -2606,7 +2652,9 @@ ammaana-allah e.d Nabadgelyo.
 
 ammaanan f.mg4 (-aannaa, -aannayd) Wax la ammaanay ahaansho. 
 
-ammaanayn m.f.dh eeg ammaanee. ammaanaysan f.mg4 (-snaa, -snayd) Wax la ammaanaystay ahaansho. 
+ammaanayn m.f.dh eeg ammaanee. 
+
+ammaanaysan f.mg4 (-snaa, -snayd) Wax la ammaanaystay ahaansho. 
 
 ammaanaysasho m.f.dh eeg ammaanayso. 
 
@@ -2654,7 +2702,7 @@ amminka m.dh.fk Hadda; eegga. ld imminka.
 
 amminla' m.dh 1. Xilliga xagaaga dabadiisa. 2. Roobka ugu horreeya dayrta. 
 
-ammooniya m.dh (-mo, m.dh) (kiim.) Neef midab laawe ah oo ur sindhiidha leh. Ammooniyadu aad ayay ugu milantaa biyaha (milanka dheregsan ee ammooniyada ah waxa ku jira 36.9 % oo ammoniya ah markuu heerkulku yahay 0° C.):milanbiyoodka ammoniya waa beys waxaana ku jira saami ammooniya ah oo madaxbannaano. 
+ammooniya m.dh (-mo, m.dh) (kiim.) Neef midab laawe ah oo ur sindhiidha leh. Ammooniyadu aad ayay ugu milantaa biyaha (milanka dheregsan ee ammooniyada ah waxa ku jira 36.9 % oo ammoniya ah markuu heerkulku yahay 0° C.): milan-biyoodka ammoniya waa beys waxaana ku jira saami ammooniya ah oo madaxbannaano. 
 
 ammuur¹ m.l Nooc xamaaratada ka mid ah oo muluca u eg kase weyn oo leh midab bunni ah. ld amuur.
 
@@ -2772,7 +2820,9 @@ angarmid m.f.dh eeg angar¹.
 
 angarnaan m.f.dh eeg angaran². ld angarnaansho.
 
-angarnaansho m.l/dh ld angarnaan. anguubyo m.dh ld anguugyo.
+angarnaansho m.l/dh ld angarnaan. 
+
+anguubyo m.dh ld anguugyo.
 
 anguugyo m.dh Dareen murugo gocosho ku dheehan tahay leh. ld anguubyo. 
 
@@ -2896,7 +2946,7 @@ antaradhaafid m.f.dh eeg antaradhaaf². ld antaradhaaf¹ (2).
 
 antaradhaafin m.f.dh eeg antaradhaafi. 
 
-antarasayt m.l (-yo, m.dh) (jool.) Dhuxuldhagaxeed adag oo madow oo dhalaala oo ah dhuxusha ugu heerka sarraysa oo ay ku jiraan qiyaasta ugu yar ee biyo iyo maatarka aan xasilloonayn, iyo heerka xaddidan ee u sarreeya ee urkaarboonka. 
+antarasayt m.l (-yo, m.dh) (jool.) Dhuxul-dhagaxeed adag oo madow oo dhalaala oo ah dhuxusha ugu heerka sarraysa oo ay ku jiraan qiyaasta ugu yar ee biyo iyo maatarka aan xasilloonayn, iyo heerka xaddidan ee u sarreeya ee urkaarboonka. 
 
 antaro m.dh (-ooyin, m.l) Xad; seere; sohdin. 
 
@@ -3178,7 +3228,9 @@ arammi m.l/dh Xanuun ka dhasha nabar hore oo aan si dhab ah u biskoon; doog(ta).
 
 aranjaato m.dh Cabbitaan laga sameeyo liinxaali, biyo iyo sonkor oo midab hurdi ah leh. 
 
-arar m.dh 1. Dhulka u dhow ee ku heeran ceel ama degaan. 2. Gogoldhigga loo sameeyo hadal ama qoraal. 3. Daaqidda ay xoolo la waraabshey soo daaqaan inta ayan rakaadan. ararad m.l ld ararasho.
+arar m.dh 1. Dhulka u dhow ee ku heeran ceel ama degaan. 2. Gogoldhigga loo sameeyo hadal ama qoraal. 3. Daaqidda ay xoolo la waraabshey soo daaqaan inta ayan rakaadan. 
+
+ararad m.l ld ararasho.
 
 ararasho m.f.dh eeg araro. ld ararad.
 
@@ -3188,7 +3240,7 @@ ararin m.f.dh eeg arari.
 
 araro f.mg3 (-rtay, -ratay) 1. Hadal ama qoraal gogoldhig u samaysasho. 2. Ka sii a.: wax in ay dhacayaan la filayo ka afeefsasho.3. Xoola la waraabiyey inta aanay rakaadan daaq tegid. 
 
-arax m.dh (-raxyo /-rxaan, m.l) 1. Xiriirta lafdhabarta qaybteeda sare oo ay feeraha ishaystaan. 2. Xubin hilib ah oo ka kooban dhowr ricirood iyo cadkooda. 3. Sac, saddex da'ood ama ka badan dhalay. 
+arax m.dh (-raxyo /-rxaan, m.l) 1. Xiriirta lafdhabarta qaybteeda sare oo ay feeraha is-haystaan. 2. Xubin hilib ah oo ka kooban dhowr ricirood iyo cadkooda. 3. Sac, saddex da'ood ama ka badan dhalay. 
 
 araxdaaco m.dh Deri. 
 
@@ -3238,7 +3290,9 @@ ardaa m.l (-aayo, m.dh) Duggaal kor ka furan, ood ka samaysan, aqallada hortooda
 
 ardaadhig¹ m.l ld ardaaggal¹.
 
-ardaadhig² f.mg1 (-gay; -gtay) ld ardaaggal². ardaadhigid m.dh ld ardaaggelid.
+ardaadhig² f.mg1 (-gay; -gtay) ld ardaaggal². 
+
+ardaadhigid m.dh ld ardaaggelid.
 
 ardaaggal¹ m.l 1. Marti u noqoshada reer gabar laga doonayo. 2. A. ah: nin reer uu gabar ka doonayo darteed marti ugu ah. ld ardaadhig¹.
 
@@ -3292,7 +3346,9 @@ argagid m.dh ld irkigid.
 
 argagsan f.mg4 (-naa, -nayd) ld irkigsan.
 
-argagsanaan m.dh ld irkigsanaan. argagsanaansho m.l/dh ld irkigsanaan.
+argagsanaan m.dh ld irkigsanaan. 
+
+argagsanaansho m.l/dh ld irkigsanaan.
 
 argeeg m.l/dh Geed nagaar aan qodax lahayn, oo leh laamo dhuudhuuban, caleemo yaryar iyo xididdo dhaadheer oo weelbiyoodka laga tolo. 
 
@@ -3324,7 +3380,7 @@ arjumid m.f.dh eeg arjun.
 
 arjun f.g1 (-umay, -untay; -umi) Qof dhagax ku dilid. 
 
-arkaan m.dh.w A.ta islaamka: shanta tiir ee diinta islaanka ku taagan tahay. ld arkaanuislaan.
+arkaan m.dh.w A.ta islaamka: shanta tiir ee diinta islaanka ku taagan tahay. ld arkaanu-islaan.
 
 arkaanu-islaan m.l ld arkaan.
 
@@ -3408,9 +3464,13 @@ aroosgal² f.mg1 (-alay, -ashay; -geli) ld aqalgal².
 
 aroosgeli f.g2 (-iyay. -isay ld aroosi.
 
-aroosgelid m.dh ld aqalgelid. aroosgelin m.f.dh ld aroosin.
+aroosgelid m.dh ld aqalgelid. 
 
-aroosi f.mg2 (-iyay, -isay) U a.: qof guurkiisa tabaabusheyn. ld aqalgeli, aroosgeli. aroosid m.f.dh eeg aroos². ld aroos¹ (1), aroosgal¹, aroosgelid.
+aroosgelin m.f.dh ld aroosin.
+
+aroosi f.mg2 (-iyay, -isay) U a.: qof guurkiisa tabaabusheyn. ld aqalgeli, aroosgeli. 
+
+aroosid m.f.dh eeg aroos². ld aroos¹ (1), aroosgal¹, aroosgelid.
 
 aroosin m.f.dh eeg aroosi. ld aqalgelin, aroosgelin.
 
@@ -3478,11 +3538,11 @@ arratir² f.mg1 (-ray, -rtay) U a.: qof arradan arratirsiin. ld arrad-tir².
 
 arratiran f.mg4 (-rnaa, -rnayd) Wax la arratiray ahaansho (qof). ld arrad-tiran.
 
-arratirasho m.f.dh eeg arratiro. ld arradtirasho.
+arratirasho m.f.dh eeg arratiro. ld arrad-tirasho.
 
 arratirid m.f.dh eeg arratir². ld arrad-tir¹, arrad-tirid, arratir¹ (2).
 
-arratirnaan m.f.dh eeg arratiran. ld arradtirnaan, arrad-tirnaansho, arratirnaan-sho.
+arratirnaan m.f.dh eeg arratiran. ld arrad-tirnaan, arrad-tirnaansho, arratirnaan-sho.
 
 arratirnaansho m.l/dh ld arratirnaan.
 
@@ -3506,9 +3566,11 @@ arrinso f.mg3 (-saday, -satay) Ka a.: arrin, xal u raadsasho; arrin ka talabixid
 
 arruman f.mg4 (-mnaa, -mnayd) Wax la arrumay ahaansho (geel). 
 
-arrumasho m.f.dh eeg arrumo. arrumid m.f.dh eeg arrun². 
+arrumasho m.f.dh eeg arrumo. 
 
-arrumnaan m.f.dh eeg arruman. ld arrumnaansho, arrunnaan, arrunnaansho.
+arrumid m.f.dh eeg arrun². 
+
+arrumnaan m.f.dh eeg arruman. ld arrumnaansho, arrunnaan, arrunnaansho.
 
 arrumnaansho m.l/dh ld arrumnaan.
 
@@ -3784,7 +3846,7 @@ asiib f.g1 (-bay, -btay) 1. Dhibaato weyn cid ku dhicid. “Inkaar baa asiibtay 
 
 asiibid m.f.dh eeg asiib. ld aseebid.
 
-asiidh m.l (-dyo, m.dh) (kiim.) 1. Nooc iskudhis ah oo leh haydarojiin kuna kalafurma biyaha oona saara ayoonno togan oo haydarojiin ah. 2. Aragtida lowriboronistidh ee asiidhada iyo beysyada (1923), waxay qeexiddaa hore u ballaadhisay, in asiidhu tahay borotoo. 
+asiidh m.l (-dyo, m.dh) (kiim.) 1. Nooc iskudhis ah oo leh haydarojiin kuna kalafurma biyaha oona saara ayoonno togan oo haydarojiin ah. 2. Aragtida lowri-boronistidh ee asiidhada iyo beysyada (1923), waxay qeexiddaa hore u ballaadhisay, in asiidhu tahay borotoo. 
 
 asiidha-yuurig m.dh (baay.) Maxsuulka burburka buriin ee garaadleyda shimbiraha, xammaaratada berriga iyo cayayaanka. Marka laga reebo garaadleyda, Maxsuulkaas badankiisa waa la qashinsaaraa. Asiidhka yuurig waa ma milme, sidaa darteed, waxa loo saaraa adke ahaan, taas oo dhowrta biyaha qiimaha u leh dhulka oomanaha ah. Asiidhka yuurig markay jidhka ku badato waxay ku ururtaa kala goysyada dhareerka leh taas oo ay ku keento xanuun. 
 
@@ -3804,7 +3866,7 @@ asitayl m.l (kiim.) Kooxda orgaanigga ah ee CH3CO (kooxda itanoyl).
 
 asjab m.l ld asyab.
 
-askaaris m.l.u (-syo, m.dh) (baay.) Ablaablaynta qaarkeed waxay ka tirsanyihiin duulka loo yaqaan fasmaydiya (Phasmaidia), waxaanay leeyihiin af leh 3 ilaa 6 baabila. 
+askaaris m.l.u (-syo, m.dh) (baay.) Abla-ablaynta qaarkeed waxay ka tirsanyihiin duulka loo yaqaan fasmaydiya (Phasmaidia), waxaanay leeyihiin af leh 3 ilaa 6 baabila. 
 
 askaax m.dh ld askax.
 
@@ -3876,7 +3938,9 @@ asluubeysnaan m.f.dh eeg asluubeysan. ld asluubeysnaansho.
 
 asluubeysnaansho m.l/dh ld asluubeysnaan.
 
-asmayn m.f.dh eeg asmee. asmaysan f.mg4 (-snaa, -snayd) Wax asma lagu gamay ahaansho. 
+asmayn m.f.dh eeg asmee. 
+
+asmaysan f.mg4 (-snaa, -snayd) Wax asma lagu gamay ahaansho. 
 
 asmaysnaan m.f.dh eeg asmaysan. ld asmaysnaansho.
 
@@ -3996,7 +4060,7 @@ asuul m.l Xeer aan qorneyn oo dad meel wada deggani leeyihiin.
 
 asxantu e.d Mahadsanid! ld axsantu.
 
-asyab m.l 1. Dabaylo ka yimaada waqooyi-bari oo doonyuhu uga dhoofaan koonfurgalbeed. 2. Xilliga dabeylaha asyabku dhacaan. ld asjab.
+asyab m.l 1. Dabaylo ka yimaada waqooyi-bari oo doonyuhu uga dhoofaan koonfur-galbeed. 2. Xilliga dabeylaha asyabku dhacaan. ld asjab.
 
 atam m.l (-myo, m.dh) (fiis.) Saxarka ugu yar ee curiye jiri kara kana qaybqaadan kara falgal kiimikaad. Waxa uu ka koobanyahay bu' iyo elektaroonno ku dul wareega. Bu'du waxa ay siddaa saldanab togane ah, elektaroonnaduna waxa ay sidaan saldanab tabane ah. Atamku danabneg ahaan waa dhexdhexaad. ld atom.
 
@@ -4124,7 +4188,9 @@ awoodsii f.lg2 (-iiyay, -iisay) Cid karti ay wax ku qabato u yeelid.
 
 awoodsiin m.f.dh eeg awoodsii. ld awoodsiis.
 
-awoodsiis m.l ld awoodsiin. awoowe m.l (-wayaal, m.l/dh) 1. Aabbaha aabbihiis ama hooyada aabbaheed. 2. u.j: awoowow! 3. u.j: wiilka aan awoowaha u ahayow!; gabadha aan awoowaha u ahayey! ld awow. 
+awoodsiis m.l ld awoodsiin. 
+
+awoowe m.l (-wayaal, m.l/dh) 1. Aabbaha aabbihiis ama hooyada aabbaheed. 2. u.j: awoowow! 3. u.j: wiilka aan awoowaha u ahayow!; gabadha aan awoowaha u ahayey! ld awow. 
 
 awow m.l ld awoowe. awqoosi m.l Gacan yaraha hargaantiga, marka uu herinta la joogo. 
 
