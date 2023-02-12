@@ -2391,7 +2391,7 @@ feddo m.dh (-ooyin, m.l) Dhul sare oo siman.
 
 feded m.l (-ddo, m.dh) Wax cabsi awgeed uga cararid. 
 
-fededi f.g2 (-iyay, -isay) Qof in uu cabsi awgeed wax uga cararo gayeysiin. 
+fededi f.g2 (-iyay, -isay) Qof in uu cabsi awgeed wax uga cararo gayeysiin.
 
 fededid m.f.dh eeg feded. 
 
@@ -2425,17 +2425,17 @@ feejignaan m.dh ld feeyignaan.
 
 feejignaansho m.l/dh ld feeyignaan. 
 
-feen m.l/dh Cadad yaryar oo ku hara laf hilib laga cunay. 
+feen m.l/dh Cadad yaryar oo ku hara laf hilib laga cunay.
 
 feenad m.l ld feenasho.
 
 feenasho m.f.dh eeg feeno. ld feenad.
 
-feeni f.g2 (-iyay, -isay) Laf feen ka dhammayn. 
+feeni f.g2 (-iyay, -isay) Laf feen ka dhammayn.
 
-feenin m.f.dh eeg feeni. 
+feenin m.f.dh eeg feeni.
 
-feeno f.g3 (-ntay, -natay) Laf hilib ku haray ka dhammaysasho. 
+feeno f.g3 (-ntay, -natay) Laf hilib ku haray ka dhammaysasho.
 
 fęer m.l (-rar, m.l) Dhufashada wax lagu dhufto gacanta oo duuban. 
 
@@ -2483,33 +2483,535 @@ feernaan m.f.dh eeg feeran. ld feernaansho.
 
 feernaansho m.l/dh ld feernaan.
 
-feero¹ m.dh (-ooyin, m.l) Qalab bir ah, gacan la qabto leh, oo dharka lagu kaawiyadeeyo; kaawiyad. 
+feero¹ m.dh (-ooyin, m.l) Qalab bir ah, gacan la qabto leh, oo dharka lagu kaawiyadeeyo; kaawiyad.
 
-feero² m.l.w eeg feer¹; qaaxo. 
+feero² m.l.w eeg feer¹; qaaxo.
 
-feero³ f.g3 (-rtay, -ratay) 1. Timo shanlo ku habaysasho. 2. Caw, mayrax iwm jeexjeexasho. 
+feero³ f.g3 (-rtay, -ratay) 1. Timo shanlo ku habaysasho. 2. Caw, mayrax iwm jeexjeexasho.
 
-feertamid m.f.dh eeg feertan². 
+feertamid m.f.dh eeg feertan².
 
 feertan¹ m.l 1. Ciyaar laba qof feer ay ku tartamaan. 2. Isdhaafsashada laba qof feer ku dagaallamaan. 
 
-feertan² f.mg1 (-amay, -antay; -ami) 1. Laba qof feer ku tartamid. 2. Feer ku dagaallamid. 
+feertan² f.mg1 (-amay, -antay; -ami) 1. Laba qof feer ku tartamid. 2. Feer ku dagaallamid.
 
 feertin m.l ld feytin.
 
-feeryahan m.l (-nno, m.dh) Nin xeeladaha feerka yaqaan. 
+feeryahan m.l (-nno, m.dh) Nin xeeladaha feerka yaqaan.
 
 feetin m.l (-nno, m.dh) Qori qallalan oo caarad dhuuban leh oo wax muda. ld feertin, feytin.
 
-finish pages 323(300)-328(305)
+feex m.dh (-xo, m.l) (daaw.) Buro carjaw ah, oogada nafleyda ka soo baxda jug hore oo gaartey awgeed. ld faax¹ (3), fayiix, fiix².
 
+feeyig f.mg4 (-gaa, -gayd) 1. Wax digtoon ahaansho. 2. Wax dhiillo hayso ahaansho. ld feejig, feejigan, feeyigan, foojig, foojigan.
 
+feeyigaan m.f.dh eeg feeyig. ld feejigaan, feejigaansho, feejignaan, feejignaansho.
 
+feeyigaansho m.l/dh ld feeyigaan. 
 
+feeyigan f.mg4 (-naa, -nayd) ld feeyig. 
 
+feeyignaan m.dh ld feeyigaan.
 
+feeyignaansho m.l/dh ld feeyigaan. 
 
+feeys m.l (-syo, m.dh) Maro calal ama cutub mayrax ah oo lagu tirtiro weelasha la culo; catir, cidaad. 
 
+fejiciso m.dh ld fajiciso. 
+
+feker¹ m.l (afkaar, m.dh) 1. Garasho. 2. Wax qofka maskaxdiisa ku soo dhaca oo uu iskula hadlo. ld fakar¹, fikir¹.
+
+feker² f.mg1 (-ray, -rtay) 1. Fikrad raadin. 2. Wax maan ku hayn. ld fakar², fikir².
+
+fekerid m.f.dh eeg feker². ld fakarid, fikirid.
+
+fekersan f.mg4 (-naa, -nayd) Wax fekeraya ahaansho. ld fakarsan, fikirsan.
+
+fekersanaan m.f.dh eeg fekersan. ld fakarsanaan, fakarsanaansho, fekersanaansho, fikir
+
+fekersanaansho m.l/dh ld fekersanaan.
+
+fekersii f.mg2 (-iyay, -isay) Ka f.: qof feker ku abuurid. ld fakarsii, fikirsii.
+
+fekersiin m.f.dh eeg fekersii. ld fakarsiin, fikirsiin.
+
+fekrad m.dh (-do, m.l) Ra'yi. ld fikrad.
+
+feleg m.l 1. Cilmi al f.: xiddigaha wareeggooda iyo sida ay dadka u saameeyaan. 2. Xiddig weyn. 3. (-gyo, m.dh) Ayaandarro, dhibaato, hoog, masiibo. ld fąlag. 
+
+fennid f.g1 (-day, -dday) Wax feteshid. 
+
+fennidid m.f.dh eeg fennid. 
+
+fenooloji m.l Sayniska ku shuqul leh raadka ay ku yeeshaan isbeddelka xilliyadu xoolaha iyo dhirtaba. 
+
+ferdan f.mg1 (-naa, -nayd) Wax fered ku dhacay ahaansho (qof). 
+
+ferdanaan m.f.dh eeg ferdan. ld ferdanaansho.
+
+ferdanaansho m.l/dh ld ferdanaan.
+
+ferdibax¹ m.l Iyadoo ruuxaan la adeegsanayo qof wax ka dahsoon loo sheego. 
+
+ferdibax² f.mg1 (-xay, -xday) U f.: ruuxaan isku soo dejin si qof wax ka dahsoon loogu sheego. 
+
+ferdibbixid m.f.dh eeg ferdibax². 
+
+ferdid m.f.dh eeg fered². 
+
+fered¹ m.l 1. Wax wanaagsan oo khayr leh. Tus. “Fered Alla ha kuu furo”. 2. Inkaar, habaar. 
+
+fered² f.g1 (-rday, -redday) Qof inkaar la helid. 
+
+ferenfer m.l ld faranfar.
+
+ferenji m.l. Nin cad oo aan muslin ahayn. 
+
+ferenjiyad m.dh.kh Haweeney cad oo aan muslin ahayn. 
+
+fergad m.l ld fargasho. 
+
+fergasho m.dh ld fargasho. 
+
+fergo f.mg3 (-gaday, -gatay) ld fargo. 
+
+feterinari m.l Xanaanada xoolaha. 
+
+fetesh¹ m.l ld fatash¹.
+
+fetesh² f.g1 (-shay, -shtay) ld fatash².
+
+feteshid m.dh ld fatashid.
+
+fetesho f.g3 (-shtay, -shatay) ld fatasho.
+
+feyd f.g1 (-day, -dday) 1. Wax, wax ku gudban ka weecin. 2. Wax, wax ku daboolan ka qaadid. 
+
+feydad m.l ld feydasho.
+
+feydan f.mg4 (-dnaa, -dnayd) Wax la feydey ahaansho. 
+
+feydasho m.f.dh eeg feydo². ld feydad.
+
+feydid m.f.dh eeg feyd. 
+
+feydnaan m.f.dh eeg feydan. ld feyd-naansho.
+
+feydnaansho m.l/dh ld feydnaan.
+
+feydo¹ m.dh ld faa'iido.
+
+feydo² f.g3 (-ytay, -ydatay) Qayb jirka ka mid ah maro ka qaadid. 
+
+feygamuur m.dh Nooc kabo soomaaliga ka mid ah oo leh suun dambe iyo mid faraha dushooda saaran, labo maqaar oo adag oo cagta labadeed dhinac kor uga tagaan iyo indhal ay gasho far dhexaadda lugta. 
+
+feynuus m.l (-syo, m.dh) Qalab guryaha lagu iftiinsado leh sal gaas lagu shubo, gal quraarad ah iyo liifad holacda. ld faanuus.
+
+feytin m.l ld feertin, feetin.
+
+fibrin m.l (baay.) Borotiinta aan milmin ee samaysa miiqa yaryar ee laga helo meelaha dhaawacma, kuwaas oo aasaas u ah xinjirowga dhiigga. 
+
+fibrinojiin m.l Borotiinta ku milan balaasmada dhiigga, taas oo marka si habboon loo firfircooniyo isu beddesha miiqaq fibrin oo aan milmayn. 
+
+ficil¹ m.l 1. ld ficilo. Dareen cid loogu hiillinayo. 2. (afcaal, m.dh/facaayil, m.l)Waxqabad. 
+
+ficil² m.l (afcaal, m.dh/ faacaayil, m.l) (nax.) Fal. 
+
+ficilo m.dh ld ficil1
+
+ficiloo f.mg3 (-ooday, -ootay) U f.: ficilo samayn. 
+
+ficilood m.f.l eeg ficiloo.
+ 
+ficiltamid m.f.dh eeg ficiltan². ld ficiltan¹ (2).ficiltan¹ m.l 1. Dareen tartan xin lihi ku jiro oo cid ku dhaca ama muujiso. 2. ld ficiltamid.
+
+ficiltan² f.mg1 (-amay, -antay; -ami) U f.: tartan dareen xin lihi ku jiro ku kicid ama muujin. 
+
+fid f.mg1 (-day, -dday) Wax meel ku baahid. 
+
+fiddayn m.f.dh eeg fiddee. 
+
+fidde m.l Werdi loo akhriyo dadka dhinta. ld fiddow, fidyo.
+
+fiddee f.g2 (-deeyay, -deysay) U f.: qof dhintay werdi u akhriyid. 
+
+fiddi m.l (-iyo, m.dh) Ul yar, dhuuban oo lagu ciyaaro shacdurka. 
+
+fiddow m.l ld fidde.
+
+fidhikhi f.g2 (-iyay, -isay) ld firikhi.
+
+fidhikhin m.dh ld firikhin.
+
+fidi f.g2 (-iyay, -isay) 1. Wax baahin. 2. Wax kala bixin. 
+
+fidid m.f.dh eeg fid. ld fiditaan.
+
+fidin m.f.dh eeg fidi. ld fidis.
+
+fidis m.l ld fidin.
+
+fiditaan m.l ld fidid.
+
+fidmad m.dh ld fidno.
+
+fidmawade m.l ld fidnawale.
+
+fidmawale m.l ld fidnawale.
+
+fidmayn m.dh ld fidnayn.
+
+fidmee f.g2 (-meeyay, -meysay) ld fidnee.
+
+fidmo m.dh ld fidno.
+
+fidmoole m.l ld fidnoole.
+
+fidnad m.dh ld fidno.
+
+fidnawade m.l ld fidnawale.
+
+fidnawale m.l (-layaal, m.l/dh) Qof dadka isku dira oo fidna ku dhex beera. ld fidmawade, fidmawale, fidnawade.
+
+fidnayn m.f.dh eeg fidnee. ld fidmayn.
+
+fidnee f.g2 (-neeyay, -naysay) Fidno ku abuurid. ld fidmee.
+
+fidno m.dh 1. Colaad iyo isnecbaan dad dhex taal, rabsho, qalaanqal. 2. Nin f. badan: fidnawale. 
+
+fidnoole m.l (-layaal, m.l/dh) Qof dadka isku dira oo colaad dhex dhiga. 
+
+fidro m.dh (dii.) Seko dadka laga bixiyo oo ay waajib ku tahay in uu bixiyo qof kasta oo muslin ah oo awooda dhammaadka bisha Ramadaan. 
+
+fidsan f.mg4 (-naa, -nayd) Wax la kala bixiyey ahaansho. 
+
+fidsanaan m.f.dh eeg fidsan. ld fidsa-naansho.
+
+fidsanaansho m.l/dh ld fidsanaan.
+
+fidsasho m.f.dh eeg fidso. 
+
+fidso f.g3 (-saday, -satay) Wax kala baxsasho. 
+
+fidyo m.dh ld fidde.
+
+fig¹ m.dh ld fiq.
+
+fig² m.dh (-gyo, m.dh) (jool.) Meesha fiigan ee buurta, ee ka dul taagan dhulka ku wareegsan ama buurta inteeda kale. 
+
+figee f.g2 (-geeyay, -geysay) Cid iyadoo caloosha dhulka loo dhigayo garbadduub u xirid. 
+
+figeyn m.f.dh eeg figee. ld figeys.
+
+figeys m.l ld figeyn. 
+
+figeysan f.mg4 (-naa, -nayd) Wax la figeeyey ahaansho. 
+
+figeysnaan m.f.dh eeg figeysan. ld figeysnaansho.
+
+figeysnaansho m.l/dh ld figeysnaan. 
+
+figle m.l Kor u taaggidda wadaan biyeysan si xoog iyo xeelad leh kor loogu taago. 
+
+figlee f.g2 (-leeyay, -leysay) Figle samayn. 
+
+figleyn m.f.dh eeg figlee. ld figleys.
+
+figleys m.l ld figleyn. 
+
+fiic m.l.kh F. ah: qof karti iyo hufnaan ku sifoobey. 
+
+fiican f.mg4 (-cnaa, -cnayd) 1. Wax wanaagsan ahaansho. 2. Ku f.: wax si gaar ah wax ugu wanaagsan ahaansho. 
+
+fiicnaan m.f.dh eeg fiican. ld fiicnaansho.
+
+fiicnaansho m.l/dh eeg fiicnow. ld fiicnaan.
+
+fiicnayn m.f.dh eeg fiicnee. 
+
+fiicnee f.g2 (-neeyay, -naysay) Wax wanaagsan ka dhigid. 
+
+fiicnow f.mg3 (-naaday, -naatay) Wax wanaagsan noqosho. 
+
+fįid¹ m.l (-dad, m.l) Amminta u dhexeysa maqribka illaa cishaha.į 
+
+fiid² m.dh.u 1. Buur, laan iwm meesha ugu sarreysa. 2. Ubax. 
+
+fiidaaddow m.l.fk Waqtiga aasku madoobaado. 
+
+fiidcaarre m.l (-ayaal, m.l/dh) Fiid-horaad. ld fiidcarre.
+
+fiidcarraysad m.l ld fiidcarraysasho.
+
+fiidcarraysasho m.f.dh eeg fiidcarrayso. ld fiidcarraysad, fiidcarraysi.
+
+fiidcarraysi m.l ld fiidcarraysasho.
+
+fiidcarrayso f.mg3 (-stay, -satay) Fiidka hore arrin qabsasho. 
+
+fiidcarre m.l ld fiidcaarre.
+
+fiid-dambe m.l Xilliga u dhexeya maqribka illaa cishaha. 
+
+fiid-dhacsad m.l ld fiid-dhacsasho.
+
+fiid-dhacsasho m.f.dh eeg fiid-dhacso. ld fiiddhacsad, fiid-dhacsi.
+
+fiid-dhacsi m.l ld fiid-dhacsasho.
+
+fiid-dhacso f.mg3 (-saday, -satay) Geed ubax daadin. 
+
+fiidgoosad m.l ld fiiidgoosasho
+
+fiidgoosasho m.f.dh eeg fiidgooso. ld fiidgoosad, fiidgoosi.
+
+fiidgoosi m.l ld fiidgoosasho.
+
+fiidgooso f.mg3 (-stay, -satay) Fiid hawl qabasho. 
+
+fiidgooyo m.dh Hawl la qabto fiid-horaadka. ld fiid-horor.
+
+fiid-horaad m.l Fiidka intiisa hore. 
+
+fiid-horor¹ m.l 1. Weerar dad lagu qaaday waqti fiid ah. 2. ld fiid-gooyo. fiid-horor² f.g1 (-ray, -rtay) 1. Waqti fiid ah dad weerar ku qaadid. 2. Fiid-horaad wax qabasho. 
+
+fiid-hororid m.f.dh eeg fiid-horor². 
+
+fiidi f.mg2 (-iyay, -isay) 1. Geed ubax bixin. 2. U f.: xoolo, fiid daajin. 
+
+fiidimo m.dh Cuntada fiidkii la cuno; casho. 
+
+fiidin m.f.dh eeg fiidi. 
+
+fiidmaal¹ m.l Maalidda xoolaha fiidkii la maalo. 
+
+fiidmaal² f.g1 (-aalay, -aashay) Xoolo fiid maalid. 
+
+fiidmaalid m.f.dh eeg fiidmaal². 
+
+fiidmeer m.dh Haad naasleyda ka mid ah, cayayaanka ku nool leh, baalal xuub adag oo ay wax ku dareento oo habeenkii duusha; kibilli. 
+
+fiidnimo m.dh.fk Waqti fiid ah. 
+
+fiidraac¹ m.l Guurada habeenka qaybtiisa hore la sameeyo. ld fiidraacid.
+
+fiidraac² f.mg1 (-cay, -cday) Fiid-horaad guurid. 
+
+fiidraacid m.f.dh eeg fiidraac². ld fiidraac¹.
+
+fiidsad m.l ld fiidsasho.
+
+fiidsasho m.f.dh eeg fiidso. ld fiidsad, fiidsi.
+
+fiidsi m.l ld fiidsasho.
+
+fiidso f.mg3 (-saday, -satay) Waqti fiid ah maararroobid. 
+
+fiig¹ m.l ld fiigid.
+
+fiig² f.mg1 (-gay, gtay) 1. Neef qalo la cararid. 2. Irdhoobid. 
+
+fiigaal m.l.kh ld fiigtaal.
+
+fiigacarar¹ m.l ld fiigacararid. 
+
+fiigacarar² f.mg1 (-ray, -rtay) Carar aan meel loo socdo la aqoon cararid; fiigid; baydadid. 
+
+fiigcararid m.f.dh eeg fiigcarar². ld fiig-carar¹. 
+
+fiigid m.f.dh eeg fiig². ld fiig¹.
+
+fiigsan f.mg4 (-naa, -nayd) Wax la fiijiyey ahaansho. 
+
+fiigsanaan m.f.dh eeg fiigsan. ld fiigsanaansho.
+
+fiigsanaansho m.l/dh ld fiigsanaan. 
+
+fiigtaal m.l.kh 1. F. ah: neef tood ama fiige ah oo ay adagtahay in la maalo. 2. F. ah: neef didsan oo aan la qaban karin. ld fiigaal.
+
+fiijaan m.l (-nno, m.dh) ld fujaan.
+
+fiiji f.mg2 (-iyay, -isay) Fooryid. 
+
+fįiji f.g2 (-iyay, -isay) Wax didid. 
+
+fiijin m.f.dh eeg fiiji. ld fiijis.
+
+fįijin m.f.dh eeg fįiji. ld fįijis.
+
+fiijis m.l ld fiijin. 
+
+fįijis m.l ld fįijin. 
+
+fiil m.l Midab cad oo geela iyo farduhu yeshaan. 
+
+fiillo m.dh (-ooyin, m.l) Aqal weyn oo gooni u go'an oo deyd leh. 
+
+fiilo m.dh 1. Daliigo bir ama naxaas ama macdan kale ka samaysan oo korontada la raacsiyo. 2. (muus.) Xargaha shareerada. 
+
+fiin m.dh 1. Jaad ka mid ah shimbiraha oo leh qaylo dheer oo meel fog laga maqlo, dadkuna rumaysanyahay inay ka digto colaad ama roob badan; galaw, dhebed. 2. Geed, buur iwm. meeshooda ugu sarreysa. 3. Kuul yaryar oo haweenku xirto. 
+
+fiin barbaar m.dh Findoob. 
+
+fiindhayn m.f.dh eeg fiindhee. ld fiindhays, fiindho.
+
+fiindhays m.l ld fiindhayn.
+
+fiindhee f.g2 (-dheeyay, -dhaysay) 1. Sabuul qob ka qaadid. 2. Wax kala shaandhayn. 
+
+fiindho m.dh ld fiindhayn.
+
+fiiq¹ m.l (-qyo, m.dh) 1. Caarad, af. 2. Qalista indhaha. 3. Qashin. 4. Meesha u sarreysa wax dheer. 
+
+fiiq² m.dh ld fuuq².
+
+fiiq³ f.g/mg1 (-qay, -qday) 1. (f.g) Wax diir ka qaadid. 2. (f.g) Wax caarad dhuuban u yeelid. 3. (f.g) Indho qalid. 4. (f.g) Meel xaaqid. 5. (f.mg) Far ku f., gacan ku f.: wax dhuuban wax ku tilmaamid. 
+
+fiiqan¹ f.mg1 (-qmay, -qantay; -qmi) 1. Wax dubka laga qaaday noqosho. 2. Wax caarad dhuuban loo yeelay noqosho. 
+
+fiiqan² f.mg4 (-qnaa, -qnayd) 1. Wax dubka laga qaaday ahaansho. 2. Wax caarad dhuuban loo yeelay ahaansho. 3. Wax indhaha laga qalay ahaansho. 4. Wax qashin laga xaaqay ahaansho. 
+
+fiiqasho m.f.dh eeg fiiqo. 
+
+fiiqid m.f.dh eeg fiiq³. 
+
+fiiqmid m.f.dh eeg fiiqan¹. 
+
+fiiqnaan m.f.dh eeg fiiqan². ld fiiqnaansho.
+
+fiiqnaansho m.l/dh ld fiiqnaan.
+
+fiiqo f.g3 (-qday, -qatay) 1. Wax dub ka qaadasho. 2. Wax caarad dhuuban u yeelasho. 3. Meel qashin ka xaarasho.
+
+fiiqsad m.l ld fiiqsasho.
+
+fiiqsasho m.f.dh eeg fiiqso. ld fiiqsad, fiiqsi.
+
+fiiqsi m.l ld fiiqsasho.
+
+fiiqsii f.g2 (-iiyay, -iisay) Hoore cid aayar kabbisiin.
+
+fiiqsiin m.f.dh eeg fiiqsii. 
+
+fiiqso f.g3 (-saday, -satay) Hoore aayar kabbasho. 
+
+fiiqtamid m.f.dh eeg fiiqtan². ld fiiqtan¹ (3).
+
+fiiqtan¹ m.l 1. Kabbaysi aayar-aayar ah oo caano loo wadaago. 2. Si tartiib ah oo caano loo dhamo. 3. ld fiiqtamid.
+
+fiiqtan² f.g1 (-amay, -antay; -ami)1. Kabbaysi aayar-aayar ah caano u wadaagid. 2. Si tartiib ah caano u dhamid. 
+
+fiiqtin m.l (-inno, m.dh) Qori af dhuuban oo wax mudi kara. 
+
+fiiqtukaale m.l Fiiqsi caano laga dhergey lagu sameeyo iyadoo lagu soo noqno-qanayo. 
+
+fiiqtukaalee f.mg2 (-leeyay, -leysay)Fiiqtukaale samayn. 
+
+fiiqtukaaleyn m.f.dh eeg fiiqtukaalee. 
+
+fiiqtukaaleysad m.l ld fiiqtukaaleysasho.
+
+fiiqtukaaleysasho m.f.dh eeg fiiqtukaaleyso. ld fiiqtukaaleysad.
+
+fiiqtukaaleyso f.g3 (-stay, -satay) Caano si fiiqtukaale ah u dhamid. 
+
+fiir¹ m.l Nacayb loo muujiyo nafley meel ku cusub. 
+
+fiir² f.g1 (-ray, -rtay) Nafley meel ku cusub nacayb u muujin. 
+
+fiiradarro m.dh Caqli gaabni, fahmayaro. 
+
+fiiradheer f.mg4 (-raa, -rayd) Wax garasho wanaagasan ahaansho (qof). 
+
+fiiradheeraan m.f.dh eeg fiiradheer. ld fiiradheeraansho, fiiradheeri.
+
+fiiradheeraansho m.l/dh ld fiiradheeraan.
+
+fiiradheeri m.dh ld fiiradheeraan.
+
+fiiraggaaban f.mg4 (-bnaa, -bnayd) Wax feker yar ahaansho (qof). 
+
+fiiraggaabi m.dh ld fiiraggaabnaan.
+
+fiiraggaabnaan m.f.dh eeg fiiraggaaban. ld fiiraggaabi, fiiraggaabnaansho, fiiraggaabni.
+
+fiiraggaabnaansho m.l/dh ld fiiraggaabnaan.
+
+fiiraggaabni m.dh ld fiiraggaabnaan.
+
+fiiri f.g/mg2 (-iyay, -isay) 1.(f.g) Wax eegid. 2. (f.g) Wax ka fekerid. 3. (f.mg) Isu f.: waxyaabo isbarbardhigid. 4. (f.mg) Ka f.: wax, wax kale ka ilaalin. 5. (f.mg) Ka f.: cid wax ka sixid. 6. (f.mg) Ku f.: wax, wax kale ku tijaabin. 7. (f.mg) U f.: cid wax u raadin. 
+
+fiirid m.f.dh eeg fiir². 
+
+fiirin m.f.dh eeg fiiri. 
+
+fiiro m.dh 1. Daymo, eegmo. 2. Feker. 3. F. gaar: wax si gaar ah in loo eego loo baahanyahay. 
+
+fiirsad m.l ld fiirsasho.
+
+fiirsasho m.f.dh eeg fiirso. ld fiirsad, fiirsi.
+
+fiirsi m.l ld fiirsasho.
+
+fiirso f.g3 (-saday, -satay) 1. Wax meel ka dayasho. 2. U f.: wax si fiican uga fekerid. 
+
+fiirus m.l (baay.) Noole yaryar oo aan lagu arki karin mikariskoobka caadiga ah oo keena cudurro halis u ah xoolaha, dadka iyo geedaha. 
+
+fiish m.l 1. Daaf. 2. Malaxda ka timaad indhaha marka daaf ku dhaco. 
+
+fiisika m.dh ld fiisiko.
+
+fiisikis m.l ld fiisiko.
+
+fiisiko m.dh Barashada xeerarka suga dhismaha uunka marka loo eego maatarka iyo tamarta ee ay ka koobantahay. Caado ahaan, barashada waxa loo qaybin jirey qaybo: kul, ileys, jabaq, danab iyo birlabnimo, iyo mekaaniko. ld fiisika, fiisikis, fisika, fisikis, fisiko.
+
+fiistola m.l (-layaal, m.l/dh) Isudalooshamid aan caadi ahayn ee labo xubnood oo uurkujirtada ka mid ah ama xubin jirka dibeddiisa. 
+
+fiito m.dh 1. Ubax aan weli dillacin o isku duuban. 2. Caws cosob ah oo aan la daaqin. 3. Dhaawac biskoon waayey. 4. Cudur idaha irmaan naasaha ka gala. 
+
+fiix¹ m.l 1. Firfir subag ah oo marka caanaha la lulo dul sabbeeya. 2. Fuf. 3. Dufan yar oo ka dhashiima laf qorrax taal. 4. ld fiixid.
+
+fiix² m.dh ld feex.
+
+fiix³ f.mg1 (-xay, -xday) 1. Caano firfir yeelasho. 2. Wax sida dhidid, biyo iwm meel ka soo kor bixid. 3. Geed fufid. 
+
+fiixi f.g2 (-iyay, -isay) 1. Caano firfir ka keenid. 2. Wax ka dhididin. 3. Geed fuf yeelasho. 
+
+fiixid m.f.dh eeg fiix³. ld fiix¹ (4).
+
+fiixin m.f.dh eeg fiixi. 
+
+fijaan m.l ld fujaan.
+
+fikad m.l ld fakasho.
+
+fikasho m.dh ld fakasho.
+
+fiki f.g2 (-iyay, -isay) ld faki.
+
+fikin m.dh ld fakin.
+
+fikir¹ m.l ld feker¹.
+
+fikir² f.mg1 (-ray, -rtay) ld feker².
+
+fikirid m.dh ld fekerid.
+
+fikirsan f.mg4 (-naa, -nayd) ld fekersan.
+
+fikirsanaan m.dh ld fekersanaan.
+
+fikirsanaansho m.l/dh ld fekersanaan.
+
+fikirsii f.mg2 (-iiyay, -iisay) ld fekersii.
+
+fikirsiin m.dh ld fekersiin.
+
+fiko f.mg3 (-kaday, -katay) ld fako.
+
+fikrad m.dh ld fekrad.
+
+finish pages 329(306)-332(309)
 
 
 
