@@ -2773,7 +2773,9 @@ fiidgooyo m.dh Hawl la qabto fiid-horaadka. ld fiid-horor.
 
 fiid-horaad m.l Fiidka intiisa hore. 
 
-fiid-horor¹ m.l 1. Weerar dad lagu qaaday waqti fiid ah. 2. ld fiid-gooyo. fiid-horor² f.g1 (-ray, -rtay) 1. Waqti fiid ah dad weerar ku qaadid. 2. Fiid-horaad wax qabasho. 
+fiid-horor¹ m.l 1. Weerar dad lagu qaaday waqti fiid ah. 2. ld fiid-gooyo. 
+
+fiid-horor² f.g1 (-ray, -rtay) 1. Waqti fiid ah dad weerar ku qaadid. 2. Fiid-horaad wax qabasho. 
 
 fiid-hororid m.f.dh eeg fiid-horor². 
 
