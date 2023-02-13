@@ -3074,7 +3074,9 @@ filfilin m.f.dh eeg filfili.
 
 filfillaa m.l Xabag cadaadeed, weli aan adkaan oo marka la cuno lagu dibbiro. 
 
-filgan¹ m.l ld filgin. filgan² f.mg1 (-nay, -ntay) Wax la filgay ahaansho. 
+filgan¹ m.l ld filgin. 
+
+filgan² f.mg1 (-nay, -ntay) Wax la filgay ahaansho. 
 
 filgasho m.f.dh eeg filgo. 
 
@@ -3088,7 +3090,9 @@ filid m.f.dh eeg fil². ld filitaan (1).
 
 filig¹ m.l 1. Qalab yar oo inta sun lagu shubo cayayaanka lagu buufiyo. 2. Sun hoore ah oo cayayaanka lagu buufiyo. 
 
-filig² f.g1 (-gay, -gtay) 1. Wax nidaamsanaa kala daadin. 2. Wax iska filqid. filim m.l ld filin. 
+filig² f.g1 (-gay, -gtay) 1. Wax nidaamsanaa kala daadin. 2. Wax iska filqid. 
+
+filim m.l ld filin. 
 
 filin m.l (-mmo/aflaam, m.dh) 1. Daliig dheer, dhuuban, xalleefsan oo dusha laga mariyo maaddo dareemi og iftiinka oo wax lagu sawiro. 2. Muuqaallo sawirro ah, dhaqdhaqaaqa hadala oo la daawado. 3. Fagaaraha lagu daawado aflaanta; shaneemo. ld filim. 
 
