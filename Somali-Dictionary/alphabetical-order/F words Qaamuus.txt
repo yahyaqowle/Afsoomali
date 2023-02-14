@@ -16,7 +16,7 @@ faadir m.l (-riin, m.dh) ld faaddir.
 
 faadumo m.dh Farta u dhaxeysa faryarada iyo fardhexaadda.
  
-faaf¹ m.l 1. Meesha wabiyadu iyo daadadku ku fatahaan. 2. ld faafid.
+faaf¹ m.l 1.Meesha wabiyadu iyo daadadku ku fatahaan. 2. ld faafid.
 
 faaf² f.mg1 (-fay, -ftay) Biyo, cudur, war iwm meel ku baahid. ld faah², faax².
 
@@ -36,9 +36,7 @@ faafto m.dh Ceel maaxda oo dowlis lagaga cabbo.
 
 faag f.g1 (-gay, -gtay) 1. Dhul iyadoo aan hoos loo dheereyn qodid. 2. Geed, koor iwm laga qorayo qaabayn. 
 
-faagad m.l ld faagasho. 
-
-faagasho m.f.dh eeg faago. ld faagad.
+faagad m.l ld faagasho. faagasho m.f.dh eeg faago. ld faagad.
 
 faagid m.f.dh eeg faag. 
 
@@ -282,9 +280,7 @@ faarfaarid m.dh ld farfarid.
 
 faari f.g2 (-iyay, -isay) Caano, dawo iwm faar u yeelid. 
 
-faarid m.dh 1. ld faarniin. eeg faar². 2. ld farid.
-
-faarin m.f.dh eeg faari. 
+faarid m.dh 1. ld faarniin. eeg faar². 2. ld farid.faarin m.f.dh eeg faari. 
 
 faarixid m.dh ld farxid.
 
@@ -584,9 +580,7 @@ faduulin m.f.dh eeg faduuli². ld faduulis.
 
 faduulis m.l ld faduulin.
 
-fag¹ m.dh.sh.r F. dheh: orod!. 
-
-fag² f.g1 (-gay, -gtay) Dhul si aan dheereyn u qodid. 
+fag¹ m.dh.sh.r F. dheh: orod! fag² f.g1 (-gay, -gtay) Dhul si aan dheereyn u qodid. 
 
 fagaag m.l Meel bannaan oo degaan ama aqal hortiis ah. 
 
@@ -666,7 +660,7 @@ fahmad m.dh ld fahmo.
 
 fahmaddaran f.mg4 (-rnaa, -rnayd) Wax xanuun aan weynayn hayo ahaansho.
 
-fahmaddarnaan m.f.dh eeg fahmaddaran. ld fahmaddarnaansho.
+fahmaddarnaan m.f.dh eeg fahmaddaran. ldfahmaddarnaansho.
 
 fahmaddarnaansho m.l/dh ld fahmaddar-naan.
 
@@ -770,9 +764,7 @@ fakasho m.f.dh eeg fako. ld fakad, fikad, fikasho.
 
 fakato m.dh Nooc digirta ka mid ah oo marka ay geedka ku bislaato qarxata.
 
-fakayoon m.l 1. Qof dhiifoon. 2. Dabayl. 
-
-faki f.g2 (-iyay, -isay) 1. Cid halis ka badbaadin. 2. Wax waasac ka dhigid. 3. Wax meeel si xoog leh u qabsaday ka sii deyn. ld fiki.
+fakayoon m.l 1. Qof dhiifoon. 2. Dabayl. faki f.g2 (-iyay, -isay) 1. Cid halis ka badbaadin. 2. Wax waasac ka dhigid. 3. Wax meeel si xoog leh u qabsaday ka sii deyn. ld fiki.
 
 fakiiran f.mg4 (-rnaa, -rnayd) ld faqdiiran.
 
@@ -800,9 +792,7 @@ falaadxumaan m.f.dh eeg falaadxun. ld falaadxumaansho, falaadxumo.
 
 falaadxumaansho m.l/dh ld falaadxumaan.
 
-falaadxumo m.dh 1. Dhaqan xumo. 2. ld falaadxumaan.
-
-falaadxun f.mg4 (-umaa, -umayd) Wax dhaqan xun ahaansho. 
+falaadxumo m.dh 1. Dhaqan xumo. 2. ld falaadxumaan.falaadxun f.mg4 (-umaa, -umayd) Wax dhaqan xun ahaansho. 
 
 falaaji f.g2 (-iyay, -isay) Dhoobo, dambas iwm walaaqid. 
 
@@ -844,11 +834,7 @@ falaanji f.g2 (-jyay, -jisay) Dhoobo, dambas iwm walaaqid.
 
 falaanjin m.f.dh eeg falaanji. ld falaanjis, falaanjiyid, falaaji.
 
-falaanjis m.l ld falaanjin. 
-
-falaanjiyid m.dh ld falaanjin. 
-
-falaas m.l 1. Nooc ka mid ah cayaaraha turubka oo qof kasta oo cayaaraya saddex xabbo la siiyo. 2. Tarmuus. 
+falaanjis m.l ld falaanjin. falaanjiyid m.dh ld falaanjin. falaas m.l 1. Nooc ka mid ah cayaaraha turubka oo qof kasta oo cayaaraya saddex xabbo la siiyo. 2. Tarmuus. 
 
 fąlag m.l ld feleg. 
 
@@ -870,9 +856,7 @@ falagsi m.l ld falkasho.
 
 falagso f.g3 (-saday, -satay) ld falko².
 
-falan¹ m.l 1. F.kay, f.kaa iwm: dartay, dartaa iwm. 2. “F.kiisii gal!”: “Arrintiisii gal!”. 
-
-falan² f.mg1 (-lmay, -lantay; -lmi) 1. Wax sixran noqosho. 2. Beer wax la falay noqosho. 3. Dhul wax la banneeyey noqosho. 
+falan¹ m.l 1. F.kay, f.kaa iwm: dartay, dartaa iwm. 2. “F.kiisii gal!”: “Arrintiisii gal!”. falan² f.mg1 (-lmay, -lantay; -lmi) 1. Wax sixran noqosho. 2. Beer wax la falay noqosho. 3. Dhul wax la banneeyey noqosho. 
 
 falan³ f.mg4 (-lnaa, -lnayd) Wax la falay ahaansho. 
 
@@ -892,13 +876,13 @@ falaxfalax m.l 1. Geed quwaax faleenka ka mid ah oo leh beeyo marka la shido udg
 
 falaxgooddi¹ m.l ld falaxgooddiyid.
 
-falaxgooddi² f.mg1/2 (-iyay, -iday/-isay; -iyi)Booloxoofto samayn; u bootayn; faatadhuglayn. ld faalaxgooddi², foolaxgooddi².
+falaxgooddi² f.mg1/2 (-iyay, -iday/-isay; -iyi)Booloxoofto samayn; u bootayn; faatadhuglayn. ld faalaxgooddi², foolaxgooddi².
 
 falaxgooddin m.dh ld falaxgooddyid.
 
 falaxgooddis m.l ld falaxgooddiyid.
 
-falaxgooddiyid m.f.dh eeg falaxgooddi². ld faalaxgooddi¹, faalaxgooddin, faalaxgooddis. 
+falaxgooddiyid m.f.dh eeg falaxgooddi². ld faalaxgooddi¹, faalaxgooddin, faalaxgooddis. 
 
 fale¹ m.l (-layaal, m.l/dh) Walax kimikeed oo isbeddel keena. 
 
@@ -928,7 +912,7 @@ falfalliirid m.f.dh eeg falfalliir².
 
 falfalliirmid m.f.dh eeg falfalliiran¹. 
 
-falfalliirnaan m.f.dh eeg falfalliiran². ld falfalliirnaansho.
+falfalliirnaan m.f.dh eeg falfalliiran². ld falfalliirnaansho.
 
 falfalliirnaansho m.l/dh ld falfallirnaan.
 
@@ -964,9 +948,7 @@ falkanaansho m.l/dh ld falkanaan.
 
 falkasho m.f.dh eeg falko². ld falagsad, falagsasho, falagsi.
 
-falki f.g2 (-iyay, -isay) Falko samayn. ld falag². 
-
-falkid m.dh ld falkin.
+falki f.g2 (-iyay, -isay) Falko samayn. ld falag². falkid m.dh ld falkin.
 
 falkin m.f.dh eeg falki. ld falkid, falkis.
 
@@ -1004,7 +986,7 @@ fallaagow f.mg1 (-oobay, -owday; -oobi) Fallaago noqosho.
 
 fallaar m.dh (-ro, m.l) 1. Bir yar, dhuuban, afka gammuun looga daabo, qaansooyinka laga gamo oo loo adeegsado dagaalka iyo ugaarsiga. 2. Nudo dhuudhuuban oo iftiinka qorraxda keena.
 
-fallaar-gaama m.l (-rro ..., m.l) (fiis.) Kaah birlab danabeed ay si joogto ah u bixiyaan walxo kaahfala marka ay walaxdu ku jirto kalaguurbu'eed.
+fallaar gaama m.l (-rro ..., m.l) (fiis.) Kaah birlab danabeed ay si joogto ah u bixiyaan walxo kaahfala marka ay walaxdu ku jirto kalaguurbu'eed.
 
 fallaax m.l (-xyo, m.dh) Qof waji iyo laab furan.
 
@@ -1662,7 +1644,9 @@ faraxalad m.l ld faraxalasho.
 
 faraxalan f.mg4 (-lnaa, -lnayd) Wax farahiisu dhaqanyihiin ahaansho. ld faradhaqan.
 
-faraxalasho m.f.dh eeg faraxalo. ld faradhaqad, faradhaqasho, farammayrasho, faraxalad
+faraxalasho m.f.dh eeg faraxalo. ld faradhaqad,
+
+faradhaqasho, farammayrasho, faraxalad
 
 faraxalid m.f.dh eeg faraxal². ld faradhaqid.
 
@@ -1818,7 +1802,7 @@ farkannaxsan f.mg4 (-naa, -nayd) Wax farkannax hayo ahaansho. ld farakannaxsan, 
 
 farkannaxsanaan m.f.dh eeg farkannaxsan. ld farakannaxsanaan, farakannaxsanaansho, fargannaxsa
 
-farkannaxsanaansho m.l/dh ld farkannaxsanaan.
+farkannaxsanaansho m.l/dh ld farkannaxsanaan.
 
 farkannixid m.f.dh eeg farkannax². ld farakannixid, fargannixid.
 
@@ -1869,8 +1853,8 @@ farraar m.l/dh (-rro, m.dh) Labada ganood ee ul, hangool, iwm hal cirif ku leeya
 farraarre m.l Meereeyeyaasha u dhexeeya dhulka iyo cirjeexda midkood; Mariikh. 
 
 farriin m.dh (-iimo, m.l) Hadal aan qorrayn oo qof loo dhiibo si uu u gaarsiiyo qof kale; adeeg. 
-
-farriiq¹ m.l 1. Butaaco, firdhad, finnin. 2. Tarriiq, dillaac. 
+f
+arriiq¹ m.l 1. Butaaco, firdhad, finnin. 2. Tarriiq, dillaac. 
 
 farriiq² f.g/mg1 (-qay, -qday) 1. (f.g) Dareere yar meel ka soo dhiijin. 2. (f.mg) Dareere yar meel ka soo dhiiqid. 
 
@@ -2298,7 +2282,7 @@ faxid m.f.dh eeg fax². ld faxis.
 
 faxis m.l ld faxid.
 
-faxlid-tallow m.l (-wyo, m.dh) Gudbinta faxalka ee laga soo qaado faxalsidaha geed loona gudbiyo fur ubo-ubaxda geed kale. 
+faxlid tallow m.l (-wyo, m.dh) Gudbinta faxalka ee laga soo qaado faxalsidaha geed loona gudbiyo fur ubo-ubaxda geed kale. 
 
 faxlid¹ m.f.dh eeg faxal³. 
 
@@ -2542,7 +2526,7 @@ fekerid m.f.dh eeg feker². ld fakarid, fikirid.
 
 fekersan f.mg4 (-naa, -nayd) Wax fekeraya ahaansho. ld fakarsan, fikirsan.
 
-fekersanaan m.f.dh eeg fekersan. ld fakarsanaan, fakarsanaansho, fekersanaansho, fikir
+fekersanaan m.f.dh eeg fekersan. ld fakarsanaan, fakarsanaansho, fekersanaansho, fikir
 
 fekersanaansho m.l/dh ld fekersanaan.
 
@@ -2628,7 +2612,7 @@ fibrin m.l (baay.) Borotiinta aan milmin ee samaysa miiqa yaryar ee laga helo me
 
 fibrinojiin m.l Borotiinta ku milan balaasmada dhiigga, taas oo marka si habboon loo firfircooniyo isu beddesha miiqaq fibrin oo aan milmayn. 
 
-ficil¹ m.l 1. ld ficilo. Dareen cid loogu hiillinayo. 2. (afcaal, m.dh/facaayil, m.l) Waxqabad. 
+ficil¹ m.l 1. ld ficilo. Dareen cid loogu hiillinayo. 2. (afcaal, m.dh/facaayil, m.l)Waxqabad. 
 
 ficil² m.l (afcaal, m.dh/ faacaayil, m.l) (nax.) Fal. 
 
@@ -2722,7 +2706,7 @@ figeys m.l ld figeyn.
 
 figeysan f.mg4 (-naa, -nayd) Wax la figeeyey ahaansho. 
 
-figeysnaan m.f.dh eeg figeysan. ld figeysnaansho.
+figeysnaan m.f.dh eeg figeysan. ld figeysnaansho.
 
 figeysnaansho m.l/dh ld figeysnaan. 
 
@@ -2770,7 +2754,7 @@ fiid-dambe m.l Xilliga u dhexeya maqribka illaa cishaha.
 
 fiid-dhacsad m.l ld fiid-dhacsasho.
 
-fiid-dhacsasho m.f.dh eeg fiid-dhacso. ld fiiddhacsad, fiid-dhacsi.
+fiid-dhacsasho m.f.dh eeg fiid-dhacso. ld fiiddhacsad, fiid-dhacsi.
 
 fiid-dhacsi m.l ld fiid-dhacsasho.
 
@@ -2868,7 +2852,7 @@ fiilo m.dh 1. Daliigo bir ama naxaas ama macdan kale ka samaysan oo korontada la
 
 fiin m.dh 1. Jaad ka mid ah shimbiraha oo leh qaylo dheer oo meel fog laga maqlo, dadkuna rumaysanyahay inay ka digto colaad ama roob badan; galaw, dhebed. 2. Geed, buur iwm. meeshooda ugu sarreysa. 3. Kuul yaryar oo haweenku xirto. 
 
-fiin-barbaar m.dh Findoob. 
+fiin barbaar m.dh Findoob. 
 
 fiindhayn m.f.dh eeg fiindhee. ld fiindhays, fiindho.
 
@@ -2950,9 +2934,9 @@ fiiraggaaban f.mg4 (-bnaa, -bnayd) Wax feker yar ahaansho (qof).
 
 fiiraggaabi m.dh ld fiiraggaabnaan.
 
-fiiraggaabnaan m.f.dh eeg fiiraggaaban. ld fiiraggaabi, fiiraggaabnaansho, fiirag-gaabni.
+fiiraggaabnaan m.f.dh eeg fiiraggaaban. ld fiiraggaabi, fiiraggaabnaansho, fiiraggaabni.
 
-fiiraggaabnaansho m.l/dh ld fiiraggaabnaan.
+fiiraggaabnaansho m.l/dh ld fiiraggaabnaan.
 
 fiiraggaabni m.dh ld fiiraggaabnaan.
 
@@ -3074,9 +3058,7 @@ filfilin m.f.dh eeg filfili.
 
 filfillaa m.l Xabag cadaadeed, weli aan adkaan oo marka la cuno lagu dibbiro. 
 
-filgan¹ m.l ld filgin. 
-
-filgan² f.mg1 (-nay, -ntay) Wax la filgay ahaansho. 
+filgan¹ m.l ld filgin. filgan² f.mg1 (-nay, -ntay) Wax la filgay ahaansho. 
 
 filgasho m.f.dh eeg filgo. 
 
@@ -3090,9 +3072,7 @@ filid m.f.dh eeg fil². ld filitaan (1).
 
 filig¹ m.l 1. Qalab yar oo inta sun lagu shubo cayayaanka lagu buufiyo. 2. Sun hoore ah oo cayayaanka lagu buufiyo. 
 
-filig² f.g1 (-gay, -gtay) 1. Wax nidaamsanaa kala daadin. 2. Wax iska filqid. 
-
-filim m.l ld filin. 
+filig² f.g1 (-gay, -gtay) 1. Wax nidaamsanaa kala daadin. 2. Wax iska filqid. filim m.l ld filin. 
 
 filin m.l (-mmo/aflaam, m.dh) 1. Daliig dheer, dhuuban, xalleefsan oo dusha laga mariyo maaddo dareemi og iftiinka oo wax lagu sawiro. 2. Muuqaallo sawirro ah, dhaqdhaqaaqa hadala oo la daawado. 3. Fagaaraha lagu daawado aflaanta; shaneemo. ld filim. 
 
@@ -3100,7 +3080,7 @@ filiq f.g1 (-lqay, -liqday; -lqi) Wax sayrin.
 
 filiqsan f.mg4 (-naa, -nayd) Wax la filqay ahaansho. ld firiqsan.
 
-filiqsanaan m.f.dh eeg filiqsan. ld filiqsanaansho, firiqsanaan, firiqsanaansho. 
+filiqsanaan m.f.dh eeg filiqsan. ld filiqsanaansho, firiqsanaan, firiqsanaansho. 
 
 filiqsanaansho m.l/dh ld filiqsanaan.
 
@@ -3270,7 +3250,7 @@ firaashan f.mg4 (-shnaa, -shnayd) Wax la firaashay ahaansho.
 
 firaashid m.f.dh eeg firaash². 
 
-firaashnaan m.f.dh eeg firaashan. ld firaashnaansho.
+firaashnaan m.f.dh eeg firaashan. ld firaashnaansho.
 
 firaashnaansho m.l/dh ld firaashnaan.
 
@@ -3394,7 +3374,7 @@ firirin m.dh ld firdhin.
 
 firirsan f.mg4 (-naa, -nayd) Wax wada jirey oo kala yaacay ahaansho. ld firdhisan.
 
-firirsanaan m.f.dh eeg firirsan. ld firdhisnaan, firdhisnaansho, firirsanaansho.
+firirsanaan m.f.dh eeg firirsan. ld firdhisnaan, firdhisnaansho, firirsanaansho.
 
 firirsanaansho m.l/dh ld firirsanaan.
 
@@ -3442,7 +3422,7 @@ fisiko m.dh ld fiisiko.
 
 fisiq m.l ld fisqi.
 
-fisiyooloji m.l (baay.) Barashada shaqooyin-ka dhismayaasha iyo dariiqooyinka bayokiimikeed ee ka dhaca dhismayaasha iyo noolaha guud ahaanba. 
+fisiyooloji m.l (baay.) Barashada shaqooyin-ka dhismayaasha iyo dariiqooyinka bayokiimikeed ee ka dhaca dhismayaasha iyo noolaha guud ahaanba. 
 
 fisqi m.l Falal xun oo aan diinta iyo dhaqankuba oggolayn. ld fisiq, fusqi, fusuq.
 
@@ -3458,7 +3438,7 @@ fitaaxin m.f.dh eeg fitaaxi. ld fataaxin.
 
 fitaaxsan f.mg4 (-naa, -nayd) Wax la fitaaxiyey ahaansho (xero). ld fataaxsan.
 
-fitaaxsanaan m.f.dh eeg fitaaxsan. ld fataaxsanaan, fataaxsanaansho, fitaaxsanaansho.
+fitaaxsanaan m.f.dh eeg fitaaxsan. ld fataaxsanaan, fataaxsanaansho, fitaaxsanaansho.
 
 fitaaxsanaansho m.l/dh ld fitaaxsanaan.
 
@@ -3492,7 +3472,215 @@ fogee f.g2 (-geeyay, -geysay) 1. Cid ama wax meel durugsan geyn. 2. Cid shisheey
 
 fogeyn m.f.dh eeg fogee.
 
-finish pages 333(310)-336(313)
+fogow f.mg3 (-gaaday, -gaatay) Meel durugsan tegid. 
+
+folkaano m.dh (-ooyin, m.l) (jool.) Dhul qaab toobineed leh oo ku yaal oogada dhulka oo ay samaysay maagma xoog ugu soo baxay oogada dhulka; dhadhaab dhalaashan, ama laarfa, ayaa ugu dambeynta soo baxa, oo marmarka qaarkood leh qarax xoog leh, burbur dhadhaabeed iyo dambas ayaana hawada u baxa. Soo bixidda laarfaha, ama qaraxyada ayaa inta badan ka dhiga f. ney yeelato qaabka kur-toobineed ama buur, kaddibna si tartiib ah ayay dhismayaal u sameeyaan waxyaalihii soo baxay, kasoo si aadna u qaro weyn uguna tuulma hareeraha daloolka. F.oyinka sida badan badaha agtooda ayay ku suganyihiin. Folkaanku wuxuu noqon karaa: mid nool, mid hurda ama mid aan noolaynba oon dib dambe u qarxaynin. 
+
+foloora m.dh (juqr.) Nafleyda dhirta ee gobol ama kal jiyoolojiyeed. Foloora wuxuu la xiriira erayga foona oo loo isticmaalo nafleyda xayawaanka. 
+
+fongor¹ m.dh 1. Dabci xumi qof leeyahay. 2. Summad xoolaha lagu dhigo. 3. ld fangar 1. Meel wax ka go'een daloolka ay yeelato. 
+
+fongor² f.g1 (-ray, -rtay) 1. Cid takoorid. 2. Wax dalool u yeelid. 
+
+fongoran f.mg4 (-rnaa, -rnayd) 1. Wax la fongoray ahaansho. 2. ld fangaran. Wax cad ka maqanyahay ahaansho. 
+
+fongorid m.f.dh eeg fongor². 
+
+fongornaan m.f.dh eeg fongoran. ld fongornaansho.
+
+fongornaansho m.l/dh ld fongornaan.
+
+fontaano m.dh ld foontaano.
+
+fooc¹ m.l (-cyo, m.dh) Dhul, jir iwm. wax ka soo taagan. 
+
+fooc² f.mg1 (-cay, -cday) 1. Wax siman kor u soo kuusmid. 2. Abuur dhul kasoo bixid. 
+
+foocaar m.dh 1. Saddexda xiddigood oo godintu ka samaysantahay. 2. Meesha doonyaha iyo maraakiibta lagu xiro si aan dabayshu u qaadin. 
+
+fooci f.g2 (-iyay, -isay) 1. Wax kor u soo kuusid. 2. Jago ka qaadid (qof). 
+
+foocid m.f.dh eeg fooc². 
+
+foocin m.f.dh eeg fooci. 
+
+fooc-lalmada m.l (-cyo ..., m.l) (daaw.) Fooc, sida badan san, oo ka baxa xuubka malaaska. Sida badan waxa laga helaa sanka iyo daaloollada kale oo sanka xiga, wuxu keenaa awdid, daloollada, infekshin muddo dheer iyo sandareer. 
+
+foocsan f.mg4 (-naa, -nayd) Wax soo foocay ahaansho. 
+
+foocsanaan m.f.dh eeg foocsan. ld foocsanaansho.
+
+foocsnaansho m.l/dh ld foocsanaan.
+
+food m.dh (-do, m.l) 1. Timaha intooda hore ee wejiga korkiisa ku beegan. 2. F. u reeb: timo yar oo loogu reebo madaxa carruurta, siiba gabdhaha, meel wejiga korkiisa ku beegan. 3. Aqal soomaaliga meesha irridda korkeeda ku beegan. 
+
+foodcadde m.l (bot.) Geed-nagaar, wada cad, leh bul weyn oo jilicsan oo dhiigga nabarrada ka socda lagu joojiyo. 
+
+foodcase m.l Geed ubax cas leh oo geela iyo ariguba daaqiisa jecelyihiin. 
+
+fooddad m.l/dh (-do, m.l) Garbasaar. 
+
+foodgoo f.g2 (-ooyay, -ooysay) Gabarnimo ku aroosid. 
+
+foodgooyo m.dh 1. Wax foodda sare laga jaro. 2. ld foodgoyn.
+
+foodgoyn m.f.dh eeg foodgoo. ld foodgooyo (2).
+
+foodi f.g2 (-iyay, -isay) Isu f.: laba wax ama ka badan isbarbardhigid. 
+
+foodin m.f.dh eeg foodi. 
+
+foodley m.dh Gabar yar oo aan weli qaangaarin; dhoocil. 
+
+foodsaar¹ m.l (-rro, m.dh) 1. Raar aqalka miyiga wejiga hore laga saaro. 2. Gabbaad. 3. ld foodshareer. Maro haweenku wejiga saartaan. 4. ld foodsaarid.
+
+foodsaar² f.g1 (-ray, -rtay) 1. Wax kafool kafool uga hor tegid. 2. Meel ku gabbasho. 
+
+foodsaarid m.f.dh eeg foodsaar². ld foodsaar¹ (4).
+
+foodshareer m.l (-rro, m.dh) 1. ld foodsaar 1 (3). 2. Timaha foodda oo inta salxanyaha soo dhaafa wejiga yareeya oo foolxumeeya; wejiga qaarkiisa kore oo aan dadku badanaa timo ku lahayn, timo ka baxa. 
+
+foof¹ m.l 1. Xoolo daaq doonad ah. 2. Meesha xooluhu daaqaan. 3. Inta u dhexeysa xerada iyo daaqsinta. 4. Kadin geel ah. 5. Daaq. 6. ld foofid. ld soof¹.
+
+foof² f.mg1 (-fay, -ftay) Xoolo daaq doonasho. ld soof².
+
+foofi f.g2 (-iyay, -isay) Xoolo daaq geyn. ld soofi.
+
+foofid m.f.dh eeg foof². ld foof¹ (6), soof¹, soofid.
+
+foofin m.f.dh eeg foofi. ld foofis, soofin, soofis.
+
+foofis m.l ld foofin
+
+foofiye m.l (-yayaal, m.l/dh) (baay.) Meel yar oo diisan oo ku taalla badhtanka qaybta dambe ee natiinaha qaar ka mid ah lafdhabarleyda. Waa meesha ugu muhiimsan ee uu ku soo dhaco ilaysku, waana halka aasaaska u weyn ee ragga. Waxa laga helaa qorratada, qaar ka mid ah shimbiraha iyo garadleyda ay ku jiraan dadku. 
+
+foofsad m.l ld foofsasho.
+
+foofsasho m.f.dh eeg foofso. ld foofsad, foofsi, soofsad, soofsasho, soofsi.
+
+foofsi m.l ld foofsasho.
+
+foofso f.g3 (-saday, -satay) Xoolo daaq geysasho. ld soofso.
+
+foog m.dh 1. F.ta/berri f.ta: maalinta gelinkeeda hore; subax. 2. Berri. 
+
+foogan f.mg4 (-gnaa, -gnayd) Wax soo taagan oo aan meel laga maro lahayn ahaansho. 
+
+foognaan m.f.dh eeg foogan. ld foognaansho. 
+
+foognaansho m.l/dh ld foognaan.
+
+foohaar m.l Xarrago dhar waaweyn loo qaato oo is tustus iyo kibir ku jiraan. 
+
+foohaari f.g2 (-iyay, -isay) Is f.: xarrago iyo isweyneyn dhar waaweyn u qaadasho oo dadka is tustusid. 
+
+foohaarin m.f.dh eeg foohaari. 
+
+foojig f.mg4 (-gaa, -gayd) ld feeyig.
+
+foojigaan m.dh ld feeyigaan. 
+
+foojigaansho m.l/dh ld feeyigaan. 
+
+foojigan f.mg4 (-gaa, -gayd) ld feeyig.
+
+foojignaan m.dh ld feeyigaan. 
+
+foojignaansho m.l/dh ld feeyigaan. 
+
+fookh m.l ld fooq.
+
+fookhad m.dh Ur udgoon oo ka soo baxa cunto geedeysan oo bisil ama la bisleynayo. 
+
+fookhadayn m.f.dh eeg fookhadee. 
+
+fookhadee f.g2 (-deeyay, -daysay) Cunto fookhad u yeelid. 
+
+fool¹ m.l (-lal, m.l) 1. Weji. 2. Afarta ilig ee dhoollaha u dhexeeya midkood. 3. Jiko. 4. Toos; horay. 
+
+fool² m.dh Dareen xanuun leh oo dheddigga qabta marka ay umulayaan. 
+
+fool³ m.dh (daaw.) Qabashooyin isku xig xiga oo dhallaan iyo mandheer uga soo baxaan ilma-sidaha naag xaamilad ah. 
+
+fool4 f.mg1 (-oolay, -ooshay) 1. Ka f.: dhibaato iwm ka gudbid. 2. Ka f.: karti dheeraad ah cid kaga rayn. 
+
+foolad m.l ld foolasho.
+
+foolasho m.f.dh eeg foolo. ld foolad.
+
+foolaxgooddi¹ m.l ld falaxgooddiyid. 
+
+foolaxgooddi² f.g1/2 (-iyay, -iday/-isay; -iyi)ld falaxgooddi².
+
+foolaxgooddin m.dh ld falaxgooddiyid.
+
+foolaxgooddis m.l ld falaxgooddiyid. 
+
+foolaxgooddiyid m.dh ld falaxgooddiyid.
+
+foolaxgootayn m.f.dh eeg foolaxgootee. 
+
+foolaxgootee f.mg2 (-teeyay, -taysay) U f: cid u faanid. 
+
+foolbaxo f.mg3 (-xday, -xatay) Fooltagid. 
+
+foolbaxsad m.l ld foolbaxsasho.
+
+foolbaxsasho m.f.dh eeg foolbaxso. ld foolbaxsad, foolbaxsi.
+
+foolbaxsi m.l ld foolbaxsasho.
+
+foolbaxso f.mg3 (-saday, -satay) 1. Bun marsasho. 2. Foolcararid. 
+
+foolbeenaad m.dh ld fooldiin.
+
+foolcarar¹ m.l Naasley foolanaysa oo xanuun la luntay. ld foolcararid.
+
+foolcarar² f.mg1 (-ray, -rtay) Naasley xanuun la cararid. 
+
+foolcararid m.f.dh eeg foolcarar². ld foolcarar¹.
+
+fooldhabasho m.f.dh eeg fooldhabo. 
+
+fooldhabo f.g3 (-btay, -batay) Bun la dubay jirka marsasho. 
+
+fooldhaq¹ m.l 1. F. ah: biyo yar oo wejiga lagu dhaqo. 2. ld fooldhiqid.
+
+fooldhaq² f.mg1 (-qay, -qday; -dhiqi) U f.: cid wejiga u dhaqid. 
+
+fooldhaqasho m.f.dh eeg foodhaqo. 
+
+fooldhaqo f.g3 (-qday, -qatay) Weji mayrasho. 
+
+fooldhaw m.l Bun la dubay oo jirka la marsado. 
+
+fooldhiqid m.f.dh eeg fooldhaq². ld fooldhaq¹ (2).
+
+fooldiin m.l Xanuun fooleed qabta dheddigoodka dhalaya marka ay soo sid dhoweeyaan. ld foolbeenaad.
+
+foolhallaabid m.f.dh eeg foolhallow². ld foolhallow¹ (2), fooltag¹, fooltegid.
+
+foolhallow¹ m.l 1. Dheddig foolanaya oo xanuun la lumay. 2. ld foolhallaabid.
+
+foolhallow² f.mg1 (-laabay,-lowday; -laabi)Dheddigood foolanaya xanuun la lumid. ld fooltag².
+
+fooli f.g2 (-iyay, -isay) Dheddig foolanaya ilaalin. 
+
+foolid m.f.dh eeg fool4. 
+
+foolin m.f.dh eeg fooli . ld foolis.
+
+foolis m.l ld foolin.
+
+foolkaano-dambaseed m.l (-dyo, m.dh) (jool.) Qurubyo yaryar oo laarfa, oo badanaa leh qaab goobo, kaasoo dibadda u soo tuurtay foolkaano iyadoo dareere ah, adkaanaysana markey soo dhacdo. 
+
+foolmaroodi m.l Labada ilig ee dhaadheer ee maroodiga gafuurkiisa ka taagan. 
+
+finish pages 337(314)-338(315)
+
+
+
+
 
 
 
