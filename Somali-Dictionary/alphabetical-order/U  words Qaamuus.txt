@@ -163,175 +163,163 @@ ugaarso f.g3 (-saday, -satay) Ugaar doonasho. ld ugaaro.
 ugaas m.l Nin tol madaxnimadiisa loo caleemasaaray.
 
 ugaasee f.g2 (-seeyay, -seysay) Qof ugaas (is)ka dhigid.
+
 ugaaseyn m.f.dh eeg ugaasee.
+
 ugaasnimo m.dh Ugaas ahaansho.
-ugan f.mg4 (-gnaa, -gnayd) Weel wax dab
-lagu qallajiyey ahaansho.
-ugar¹ m.l 1. Inan. 2. Harag xoolaad oo la
-idiimay.
-ugar² m.dh (-ro, m.l) Kiish ama boorso harag
-ka samaysan.
-ugax¹ m.dh.u (-gxaan, m.dh) 1. Shay
-kakoonsan, qolof adag oo ay dhasho nafleyda
-inta aan naasleyda ahayn, oo uu ku jiro
-abuurka ilmaha iyo nafaqadii korin lahayd;
-ukun. 2. Unug dheddig oo ka soo go'a
-ugxiyaha naasleyda dheddig oo marka uu
-bacrimiyo unugmaniga labi ilmo ka
-abuurmaan.
-ugax² m.dh (ugxanno, m.dh) (baay.) Unug
-taran oo qaangadh ah oo laga helo
-xayawaanka dheddig, kaasi oo uu saaroo
-ugxansiduhu.
-ugaxlay m.dh (c.nafl.) Xubinta taranka ee ugu
-muhiimsan xagga dheddigga oo soo saarta
-unug-ukumeed
-iyo
-hormoonnada
-istroojinka kaltan toosan kaddib markii ay
-ku dhacaan hormoonnada goonadotroofiin
-loo yaqaan oo laga siidaayo qoqobka hore ee
-qanjirdhiiqa bitiwitariga waxa jira laba
-ugxeeye oo ku yaal qaybta hoose ee
-uurkujirtada, labada dhinac ee ilmosidaha.
-ugbaad m.l 1. Dhir roob ku da'ay oo baxday
-oo aan cidi daaqin. 2. Dhul weli ugub ah.
+
+ugan f.mg4 (-gnaa, -gnayd) Weel wax dab lagu qallajiyey ahaansho.
+
+ugar¹ m.l 1. Inan. 2. Harag xoolaad oo la idiimay.
+
+ugar² m.dh (-ro, m.l) Kiish ama boorso harag ka samaysan.
+
+ugax¹ m.dh.u (-gxaan, m.dh) 1. Shay kakoonsan, qolof adag oo ay dhasho nafleyda inta aan naasleyda ahayn, oo uu ku jiro abuurka ilmaha iyo nafaqadii korin lahayd; ukun. 2. Unug dheddig oo ka soo go'a ugxiyaha naasleyda dheddig oo marka uu bacrimiyo unugmaniga labi ilmo ka abuurmaan.
+
+ugax² m.dh (ugxanno, m.dh) (baay.) Unug taran oo qaangadh ah oo laga helo xayawaanka dheddig, kaasi oo uu saaroo ugxansiduhu.
+
+ugaxlay m.dh (c.nafl.) Xubinta taranka ee ugu muhiimsan xagga dheddigga oo soo saarta unug-ukumeed iyo hormoonnada istroojinka kaltan toosan kaddib markii ay ku dhacaan hormoonnada goonadotroofiin loo yaqaan oo laga siidaayo qoqobka hore ee qanjirdhiiqa bitiwitariga waxa jira laba ugxeeye oo ku yaal qaybta hoose ee uurkujirtada, labada dhinac ee ilmosidaha.
+
+ugbaad m.l 1. Dhir roob ku da'ay oo baxday oo aan cidi daaqin. 2. Dhul weli ugub ah.
+
 ugbaadsasho m.f.dh eeg ugbaadso. ld ugbaadsi.
+
 ugbaadsi m.l ld ugbaadsasho.umaamad
-ugbaadso f.mg3 (-saday, -satay) Qof ugbaad
-doonasho.
+
+ugbaadso f.mg3 (-saday, -satay) Qof ugbaad doonasho.
+
 ugbaan m.f.dh eeg ugub². ld ugbaansho.
+
 ugbaansho m.l/dh ld ugbaan.
-ugeyb m.l Riyaha intooda jirta sannad ka kor
-dhalmana aan gaarin.
+
+ugeyb m.l Riyaha intooda jirta sannad ka kor dhalmana aan gaarin.
+
 ugid m.f.dh eeg ug.
+
 ugnaan m.f.dh eeg ugan. ld ugnaansho.
+
 ugnaansho m.l/dh ld ugnaan.
-ugu hooseeye¹ m.l Qiimaha ugu yar ama ugu
-hooseeya.
-ugub¹ m.l.kh 1. Dhul dihin oo aan weli laga
-xoojin; cusayb. 2. Naflay dheddig oo aan
-weli curan.
-ugub² f.mg4 (-gbaa, -gbayd) Wax aan weli
-curan ahaansho.
-ugubi m.dh Shimbir yar oo midabkeeda bey ah
-oo dhulka uun ku socota.
+
+ugu-hooseeye¹ m.l Qiimaha ugu yar ama ugu hooseeya.
+
+ugub¹ m.l.kh 1. Dhul dihin oo aan weli laga xoojin; cusayb. 2. Naflay dheddig oo aan weli curan.
+
+ugub² f.mg4 (-gbaa, -gbayd) Wax aan weli curan ahaansho.
+
+ugubi m.dh Shimbir yar oo midabkeeda bey ah oo dhulka uun ku socota.
+
 ugubnimo m.dh Ugub ahaansho.
-uguf m.l (-fyo, m.dh) Sabuul meseggo, oo
-qaaday cudur ama biyo la'aan heshay
-awgeed, oo aan yeelan badar fiican.
+
+uguf m.l (-fyo, m.dh) Sabuul meseggo, oo qaaday cudur ama biyo la'aan heshay awgeed, oo aan yeelan badar fiican.
+
 ugufaa m.l Dibi laba jir ah.
-ugu-hooseeye² m.l (-yayaal, m.l/dh) (xis.) Bar
-ku taalla garaaf fansaar taas oo leh qiimaha
-ugu hooseeya ee ku dhex jira gaalis. Haddii
-fansaarku yahay xood si joogta ah isu haysta,
-u hooseeyaha fansaarku waa bar noqod; taas
-oo ah tiirada taabtaha marka loo eego
-xoodka ay si joogto ah isaga beddesho min
-togane ilaa tabane iyada oo maraysa eber.
+
+ugu-hooseeye² m.l (-yayaal, m.l/dh) (xis.) Bar ku taalla garaaf fansaar taas oo leh qiimaha ugu hooseeya ee ku dhex jira gaalis. Haddii fansaarku yahay xood si joogta ah isu haysta, u hooseeyaha fansaarku waa bar noqod; taas oo ah tiirada taabtaha marka loo eego xoodka ay si joogto ah isaga beddesho min togane ilaa tabane iyada oo maraysa eber.
+
 ugunji m.l Liin, bambeelmo.
+
 ugxaan m.dh.w eeg ugax¹.
-ugxanayn m.dh (baay.) Sii daynta ugxanta ka
-timaada ugxansidaha. Unug ugxaneedka ku
-dhex koraya goonkiisa wuxuu tegaa
-ugxansidaha dushiisa; marka uu qaangaadho
-waxa laga soo daayaa goonka iyada oo lagu
-sii daynayo moqorka jidhka, halkaas oo laga
-gudbiyo marin ubxaneedka.
-ugxandhalid m.dh (baay.) Taran ugxanta
-bacrinsani ay ku korto kuna dillaacdo marin
-ugxaneedka hooyada.
-ugxanside m.l (-dayaal, m.l/dh) 1. (c.nafl.)
-Organka taranka ee dheddigga xayawaanka
-kaas oo soo saara ugxanta. 2. (bot.) Salka
-hulan ee kaarbalka ubaxa, kaas oo ka kooban
-hal ama in ka badan oo ugxan side yare.
-Bacriminta kaddib, derbiga ugxansiduhu
-wuxuu u koraa xagga midhaha isaagoo
-daboolaya iniinyaha.
-ugxanside-yare m.l (-rayaal, m.l/dh) (bot.)
-Qaybta organnada taranka dheddigga ee
-iniinyaha geedka, taas oo ka kooban bu'da,
-kiish uurjiif iyo lakab ugxaneedya.
-ujeeddo m.dh (-ooyin, m.l) 1. Macnaha looga
-danleeyahay hadal, fal, hadaf iwm.
-2. Dulucda qoraal rasmi ah ama dood. ld
-ulajeeddo.
-ujro m.dh Lacag ama wax kale oo qiimo leh oo
-shaqo la qabtay lagu bixiyo ama laga qaato.
-ld ujuuro.
+
+ugxanayn m.dh (baay.) Sii daynta ugxanta ka timaada ugxansidaha. Unug ugxaneedka ku dhex koraya goonkiisa wuxuu tegaa ugxansidaha dushiisa; marka uu qaangaadho waxa laga soo daayaa goonka iyada oo lagu sii daynayo moqorka jidhka, halkaas oo laga gudbiyo marin ubxaneedka.
+
+ugxandhalid m.dh (baay.) Taran ugxanta bacrinsani ay ku korto kuna dillaacdo marin ugxaneedka hooyada.
+
+ugxanside m.l (-dayaal, m.l/dh) 1. (c.nafl.) Organka taranka ee dheddigga xayawaanka kaas oo soo saara ugxanta. 2. (bot.) Salka hulan ee kaarbalka ubaxa, kaas oo ka kooban hal ama in ka badan oo ugxan side yare. Bacriminta kaddib, derbiga ugxansiduhu wuxuu u koraa xagga midhaha isaagoo daboolaya iniinyaha.
+
+ugxanside-yare m.l (-rayaal, m.l/dh) (bot.) Qaybta organnada taranka dheddigga ee iniinyaha geedka, taas oo ka kooban bu'da, kiish uurjiif iyo lakab ugxaneedya.
+
+ujeeddo m.dh (-ooyin, m.l) 1. Macnaha looga danleeyahay hadal, fal, hadaf iwm. 2. Dulucda qoraal rasmi ah ama dood. ld ulajeeddo.
+
+ujro m.dh Lacag ama wax kale oo qiimo leh oo shaqo la qabtay lagu bixiyo ama laga qaato. ld ujuuro.
+
 ujuuro m.dh ld ujro.
-ukun m.dh.u (-umo, m.l) Shay kakoonsan,
-qolof adag oo ay dhasho nafleyda inta aan
-naasleyda ahayn, oo uu ku jiro abuurkii
-ilmaha iyo nafaqadii korin lahayd.
-ul m.dh (-lo, m.l) 1. (-lo, m.l) Qori dhuuban,
-geedaha laga goosto oo loo qaato in laysku
-daafaco ama xoolaha lagu raaco. 2. Lo'
-tiradeedu boqol (100) gaartay. 3. Tiro lo' ah
-oo gaar isula soofta.
-ulaaxi f.mg2 (-iyay, -isay) Sida neef caato ah
-oo biyo ka dhergey uu u socdo, u socosho.
+
+ukun m.dh.u (-umo, m.l) Shay kakoonsan, qolof adag oo ay dhasho nafleyda inta aan naasleyda ahayn, oo uu ku jiro abuurkii ilmaha iyo nafaqadii korin lahayd.
+
+ul m.dh (-lo, m.l) 1. (-lo, m.l) Qori dhuuban, geedaha laga goosto oo loo qaato in laysku daafaco ama xoolaha lagu raaco. 2. Lo' tiradeedu boqol (100) gaartay. 3. Tiro lo' ah oo gaar isula soofta.
+
+ulaaxi f.mg2 (-iyay, -isay) Sida neef caato ah oo biyo ka dhergey uu u socdo, u socosho.
+
 ulaaxin m.f.dh eeg ulaaxi. ld ulaaxis.
+
 ulaaxis m.l ld ulaaxin.
+
 ulajeeddo m.dh ld ujeeddo.
-ulakac m.l.fk Samaynta fal kas iyo ogaal loo
-sameeyo.
+
+ulakac m.l.fk Samaynta fal kas iyo ogaal loo sameeyo.
+
 ulayn m.f.dh eeg ulee. ld ulays.
+
 ulays m.l ld ulayn.
-ulaysi-dagiiran m.l Waddo halka ay ka
-billaabanaysa u ballaaran, halka ay ku
-dhammaanaysana u ciriiryoon oo dagiiranka
-lagu soo qumiyo si ay ugu ururaan edegga.
-Mur-dagiiran.
+
+ulaysi-dagiiran m.l Waddo halka ay ka billaabanaysa u ballaaran, halka ay ku dhammaanaysana u ciriiryoon oo dagiiranka lagu soo qumiyo si ay ugu ururaan edegga. Mur-dagiiran.
+
 ulee f.g2 (-leeyay, -laysay) Wax ul la dhicid.
+
 uleex f.mg1 (-xay, -xday) Aayar u socosho.
+
 uleexid m.f.dh eeg uleex.
+
 ulootamid m.dh ld ultamid.
+
 ulootan¹ m.l ld ultamid.
+
 ulootan² f.mg1 (-amay, -antay) ld ultan².
-ultamid m.f.dh eeg ultan². ld ulootamid,
-ulootan¹, ultan¹.
+
+ultamid m.f.dh eeg ultan². ld ulootamid, ulootan¹, ultan¹.
+
 ultan¹ m.l ld ultamid.
-ultan² f.mg1 (-amay, -antay; -ami) Laba qof
-ama ka badan cayaar ulo yaryar laysla
-dhacayo ku tartamid. ld ulootan².
-ultansii f.g2 (-iiyay, -iisay) Laba qof ama ka
-badan ula yaryar oo laysla dhaco ku
-tartansiin (ciyaar).
+
+ultan² f.mg1 (-amay, -antay; -ami) Laba qof ama ka badan cayaar ulo yaryar laysla dhacayo ku tartamid. ld ulootan².
+
+ultansii f.g2 (-iiyay, -iisay) Laba qof ama ka badan ula yaryar oo laysla dhaco ku tartansiin (ciyaar).
+
 ultansiin m.f.dh eeg ultansii. ld ultansiis.
+
 ultansiis m.l ld ultansiin.
+
 uluufaad m.l.t Tiro kumanyaal gaarta.
+
 umaad¹ m.l Geeri, mawd, dhimasho.
+
 umaad² f.mg1 (-day, -dday) Nafley dhimasho.
-umaadad f.g1 (-day, -dday) Si hanti loo unko
-wax meel dhigid. ld amaamud.
+
+umaadad f.g1 (-day, -dday) Si hanti loo unko wax meel dhigid. ld amaamud.
+
 umaadid m.f.dh eeg umaad².
+
 umaamad f.g1 (-day, -dday) Maal aruursasho.
-823umaamadan
-umaamadan f.mg4 (-dnaa, -dnayd) ld
-amaamudan.
+
+umaamadan f.mg4 (-dnaa, -dnayd) ld amaamudan.
+
 umaamade m.l ld amaamude.
-umaamadid m.f.dh eeg umaamad. ld
-amaamudid.
+
+umaamadid m.f.dh eeg umaamad. ld amaamudid.
+
 umaamudnaan m.dh ld amaamuudnaan.
+
 umaamudnaansho m.l/dh ld amaamudnaan.
+
 umal¹ m.l Caro ciilqab ah.
-umal² f.mg1 (-mlay, -mashay; -mli) Caro
-ciilqab leh dareemid. ld umashoo.
-umashoo f.mg3 (-ooday, -ootay) Qof
-dareema caro ciilqab ah noqosho. ld umal².
+
+umal² f.mg1 (-mlay, -mashay; -mli) Caro ciilqab leh dareemid. ld umashoo.
+
+umashoo f.mg3 (-ooday, -ootay) Qof dareema caro ciilqab ah noqosho. ld umal².
+
 umashood m.f.l ld umlid.
+
 umlid m.f.dh eeg umal². ld umashood.
-ummaag m.dh Xirmo ah cawska rarada laga
-sameeyo.
-ummad m.dh (-do, m.l) 1. Dad meel wada
-deggan oo dhaqan iyo dhaqaale wadaag ah.
-2. Dad.
+
+ummaag m.dh Xirmo ah cawska rarada laga sameeyo.
+
+ummad m.dh (-do, m.l) 1. Dad meel wada deggan oo dhaqan iyo dhaqaale wadaag ah. 2. Dad.
+
 ummadnimo m.dh Ummad ahaansho.
-ummi m.l.kh U. ah: qof aan wax qori karin
-waxna akhrin karin.
+
+ummi m.l.kh U. ah: qof aan wax qori karin waxna akhrin karin.
+
 umminnimo m.dh Ummi ahaansho.
+
 ummiya m.dh Shareero.
 ummul¹ m.dh (-lo, m.l) Qof dumar ah oo
 kolkaas ilmo dhashay.
