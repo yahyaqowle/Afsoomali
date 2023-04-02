@@ -331,66 +331,58 @@ oogo-dhul m.dh (-ooyin-dhul, m.l) 1. (jool.) Qaybta adag ee qolofta dhulka, taas
 oohi f.mg2 (-iyay, -isay) Ka o.: cid oohin ka keenid. ld boohi, ooy.
 
 oohin¹ m.f.dh eeg oohi. ld boohin.
+
 oohin² m.dh Dareen qofka ilmo ka keena.
-oojiniisis m.l (baay.) Soo saarista iyo korista
-ugxanta ee ilmagaleenka xayawaanka
-gudihiisa.
-ookiyaale m.l (-llo, m.dh) Muraayad indhaha
-la gashado oo araggu ku saacido ama
-qorraxda laga gashado.
+
+oojiniisis m.l (baay.) Soo saarista iyo korista ugxanta ee ilmagaleenka xayawaanka gudihiisa.
+
+ookiyaale m.l (-llo, m.dh) Muraayad indhaha la gashado oo araggu ku saacido ama qorraxda laga gashado.
+
 ool¹ m.l/dh Degaan; reer meel wada yaal.
-ool² f.mg1 (-lay, -ooshay) 1. ld aal 2. Socod,
-geeddi iwm ka baaqasho. 2. Ka o.: wax
-helitaankooda ka quusasho.
+
+ool² f.mg1 (-lay, -ooshay) 1. ld aal 2. Socod, geeddi iwm ka baaqasho. 2. Ka o.: wax helitaankooda ka quusasho.
+
 oollaan m.dh ld aallid.
+
 oollaansho m.l/dh ld aallid.
+
 oollid m.f.dh ld aallid.
+
 oollimaad m.l ld aallid.
-oollin m.l Meel muddo badan la degganaa;
-yaallin.
+
+oollin m.l Meel muddo badan la degganaa; yaallin.
+
 oollow f.g3 (-looday, -lootay) ld aal².
-oomaar¹ m.l 1. Kul badan. 2. Ur ka dhasha
-cunto gubatay biyo la'aan awgeed.
-oomaar² f.mg1 (-ray, -rtay) 1. Kul badan ku
-gubasho. 2. Cunto dab saaran biya la'aan
-awgeed gubasho.
-oomaari f.mg2 (-iyay, -isay) Wax oomaar u
-yeelid.
+
+oomaar¹ m.l 1. Kul badan. 2. Ur ka dhasha cunto gubatay biyo la'aan awgeed.
+
+oomaar² f.mg1 (-ray, -rtay) 1. Kul badan ku gubasho. 2. Cunto dab saaran biya la'aan awgeed gubasho.
+
+oomaari f.mg2 (-iyay, -isay) Wax oomaar u yeelid.
+
 oomaarid m.f.dh eeg oomaar².
+
 oomaarin m.f.dh eeg oomaari.
+
 oomanayn m.dh Biyo ka saaridda walax.
-oomane m.l (-ayaal, m.l/dh) (c.cimi.) Roob
-yari: badanaa waxaa lagu isticmaalaa cimilo
-ama gobol uu roobku ku yaryahay oo uu
-deegaanta si liidata ugu filanyahay. Mararka
-qaarkood waxaa lagu isticmaalaa meelaha
-celceliska roobku ka yaryahay 250 mm (10
-hiisk).
-oomane-u-eke m.l (-yaal, m.l/dh) (juqr.)
-Ereyo loo istiicmalo cimilada iyo deegaanta
-siday u kala horeeyaan gobollada cidhifyada
-lamadegaannada
-halkaasoo
-roob
-sannadeedku in yar badanyahay deegaantuna
-xoogaa ka filiqsantahay meelaha ku xiga, sida
-lamadegaanka
-kulul
-iyo
-safaanaha
-dhexdooda.
-oomasoore m.l Dhul oommane ah oo aan dad
-iyo duunyo midna joogin.
+
+oomane m.l (-ayaal, m.l/dh) (c.cimi.) Roob yari: badanaa waxaa lagu isticmaalaa cimilo ama gobol uu roobku ku yaryahay oo uu deegaanta si liidata ugu filanyahay. Mararka qaarkood waxaa lagu isticmaalaa meelaha celceliska roobku ka yaryahay 250 mm (10 hiisk).
+
+oomane-u-eke m.l (-yaal, m.l/dh) (juqr.) Ereyo loo istiicmalo cimilada iyo deegaanta siday u kala horeeyaan gobollada cidhifyada lamadegaannada halkaasoo roob sannadeedku in yar badanyahay deegaantuna xoogaa ka filiqsantahay meelaha ku xiga, sida lamadegaanka kulul iyo safaanaha dhexdooda.
+
+oomasoore m.l Dhul oommane ah oo aan dad iyo duunyo midna joogin.
+
 oomati m.dh Wax la quuto.
-oomi f.g2 (-iyay, -isay) 1. Nafley biyo u
-diidid. 2. Cid hadal badan ku daalin.
+
+oomi f.g2 (-iyay, -isay) 1. Nafley biyo u diidid. 2. Cid hadal badan ku daalin.
+
 oomid m.f.dh eeg oon³.
+
 oomin m.f.dh eeg oomi.
-oomiye m.l (-yayaal, m.l/dh) (daaw.)
-Kaadisokorow.orgood
-oomman f.mg4 (-naa, -nayd) 1. Cid wax oon
-hayo ahaansho. 2. Cid wax si aad ah wax ugu
-baahan ahaansho.
+
+oomiye m.l (-yayaal, m.l/dh) (daaw.) Kaadisokorow.
+
+oomman f.mg4 (-naa, -nayd) 1. Cid wax oon hayo ahaansho. 2. Cid wax si aad ah wax ugu baahan ahaansho.
 oommanaan m.f.dh eeg oomman. ld
 oommanaansho.
 oommanaansho m.l/dh ld oommanaan.
