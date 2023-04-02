@@ -4303,82 +4303,87 @@ hoobsiis m.l ld hoobsiin.
 hoobso f.g3 (-saday, -satay) 1. Weel buuxdhaafay si uusan u daadan in ka cabid. 2. Wax meel ka daadasho. 3. Miro xaabsasho.
 
 hoodaar m.l 1. H. ah: qof karti badan; diric; rag. 2. H. ah: qof nasiib badan. 3. (e.d) H.!: waa tahay!. ld hooddaar.
-hoodaddee f.g2 (-deeyay, -deysay) Qof
-danihiisa ka jeedin.
+
+hoodaddee f.g2 (-deeyay, -deysay) Qof danihiisa ka jeedin.
+
 hoodaddeyn m.f.dh eeg hoodaddee.
-hoodaddo m.dh Ka jeedinta qof danihiisa laga
-jeediyo.
-hoodadee f.g2 (-deeyay, -deysay) 1. Qof
-danihiisa ku jeedin. 2. Qof si qarsoodi ah
-ugu hiilin.
+
+hoodaddo m.dh Ka jeedinta qof danihiisa laga jeediyo.
+
+hoodadee f.g2 (-deeyay, -deysay) 1. Qof danihiisa ku jeedin. 2. Qof si qarsoodi ah ugu hiilin.
+
 hooddaar m.l ld hoodaar.
-hooddeyn e.d Jawaabta loo celiyo qofka
-yiraahdo hooddi.
-hooddi e.d Erey la yiraahdo kolka la doonayo
-in la galo guri cid kale leedahay, yacnii “ma
-soo geli karaa!”. ld hoodi.
+
+hooddeyn e.d Jawaabta loo celiyo qofka yiraahdo hooddi.
+
+hooddi e.d Erey la yiraahdo kolka la doonayo in la galo guri cid kale leedahay, yacnii “ma soo geli karaa!”. ld hoodi.
+
 hoodeyn e.d ld hooddeyn.
+
 hoodi e.d ld hooddi.
+
 hoodo m.dh Naasib.
-hoog¹ m.l Dhacdo leh dhibaato lagu hoobto;
-ba'; belo.
-hoog² f.mg1 (-gay, -gtay) Dhacdo dhibaato
-lagu hoobto leh la kulmid.
-hoogaami f.g2 (-iyay, -isay) Madaxa iyo
-gacmaha hoos u laallaadin.
+
+hoog¹ m.l Dhacdo leh dhibaato lagu hoobto; ba'; belo.
+
+hoog² f.mg1 (-gay, -gtay) Dhacdo dhibaato lagu hoobto leh la kulmid.
+
+hoogaami f.g2 (-iyay, -isay) Madaxa iyo gacmaha hoos u laallaadin.
+
 hoogaamin m.f.dh eeg hoogaami.
+
 hoogaansad m.l ld hoogaansasho.
-hoogaansasho m.f.dh eeg hoogaanso. ld
-hoogaansad, hoogaansi.
+
+hoogaansasho m.f.dh eeg hoogaanso. ld hoogaansad, hoogaansi.
+
 hoogaansi m.l ld hoogaansasho.
-hoogaanso f.mg3 (-saday, -satay) Madaxa iyo
-gacmaha hoos u laallaadsasho.
+
+hoogaanso f.mg3 (-saday, -satay) Madaxa iyo gacmaha hoos u laallaadsasho.
+
 hoogey e.d Waa belo!
+
 hoogid m.f.dh eeg hoog².
+
 hoohey e.d ld haadey.
+
 hooji f.g2 (-iyay, -isay) Cid hoog ku ridid.
+
 hoojin m.f.dh eeg hooji.
-hool f.g1 (-olay, -oshay) 1. Wax xoqid.
-2. Timo, dhogor iwm hoobin. 3. Wax dub
-ka qaadid.
-hoolan¹ f.mg1 (-lmay, -lantay; -lmi) 1. Wax
-la xoqay noqosho. 2. Timo ama dhogor wax
-la xiiray noqosho. 3. Wax dubka laga qaaday
-noqosho.
-hoolan² f.mg4 (-lnaa, -lnayd) 1. Wax la xoqay
-ahaansho. 2. Timo ama dhogor la xiiray
-ahaansho. 3. Wax dubka laga qaaday
-ahaansho.
-hoolato m.dh Cudur madaxa ku dhaca oo
-timaha ka hoobiya.
-hoolhool¹ m.l Gaashiyo banbannaan oo
-timihii ama dhogortii ka rifmeen oo ku yaal
-maqaar.hoosdhig²
-hoolhool² f.g1 (-oolay, -ooshay) Harag ama
-saan gaashiye banbannaan u yeelid iyadoo
-timaha ama dhogorta laga rifayo.
+
+hool f.g1 (-olay, -oshay) 1. Wax xoqid. 2. Timo, dhogor iwm hoobin. 3. Wax dub ka qaadid.
+
+hoolan¹ f.mg1 (-lmay, -lantay; -lmi) 1. Wax la xoqay noqosho. 2. Timo ama dhogor wax la xiiray noqosho. 3. Wax dubka laga qaaday noqosho.
+
+hoolan² f.mg4 (-lnaa, -lnayd) 1. Wax la xoqay ahaansho. 2. Timo ama dhogor la xiiray ahaansho. 3. Wax dubka laga qaaday ahaansho.
+
+hoolato m.dh Cudur madaxa ku dhaca oo timaha ka hoobiya.
+
+hoolhool¹ m.l Gaashiyo banbannaan oo timihii ama dhogortii ka rifmeen oo ku yaal maqaar.
+
+hoolhool² f.g1 (-oolay, -ooshay) Harag ama saan gaashiye banbannaan u yeelid iyadoo timaha ama dhogorta laga rifayo.
+
 hoolhoolid m.f.dh eeg hoolhool².
+
 hoolid m.f.dh eeg hool. ld hoolis.
+
 hoolif m.dh.u Timo badan oo shuruf leh.
+
 hoolis m.dh ld hoolid.
+
 hoolmid m.f.dh eeg hoolan¹.
-hoolnaan m.f.dh eeg hoolan². ld hoolnaan-
-sho.
+
+hoolnaan m.f.dh eeg hoolan². ld hoolnaan-sho.
+
 hoolnaansho m.l/dh ld hoolnaan.
-hoomaa f.mg1 (-aayay, -aayday, -ayi) Meel
-sare hoos wax uga eegid.
+
+hoomaa f.mg1 (-aayay, -aayday, -ayi) Meel sare hoos wax uga eegid.
+
 hoomaayid m.f.dh eeg hoomaa.
-hoombaro m.dh Naasley badda ku nool, leh af
-dheer oo u eg kan shimbiraha, kor ka
-madow hoosna ka cad, la aaminsanyahay
-inuu leeyahay garaad fiican oo la tababbari
-karo. ld hobbabboro.
-hoomiyostaasis m.l (daaw.) Sugidda xaaladaha
-joogtada ah ee gudaha noolaha, taas oo u
-oggolaanaysa unugyada inay si wanaagsan u
-shaqeeyaan, iyaga oo anay saamaynin
-isbeddel kasta oo ka dhaca degaanka dibadda
-ee noolaha.
+
+hoombaro m.dh Naasley badda ku nool, leh afdheer oo u eg kan shimbiraha, kor ka madow hoosna ka cad, la aaminsanyahay inuu leeyahay garaad fiican oo la tababbari karo. ld hobbabboro.
+
+hoomiyostaasis m.l (daaw.) Sugidda xaaladaha joogtada ah ee gudaha noolaha, taas oo u oggolaanaysa unugyada inay si wanaagsan u shaqeeyaan, iyaga oo anay saamaynin isbeddel kasta oo ka dhaca degaanka dibadda ee noolaha.
+
 hoomo m.dh.u 1. Xoolo intooda tabarta daran
 ee aan sabadka dhaafin. 2. Dad cayr ah oo
 aan tabar lahayn.
