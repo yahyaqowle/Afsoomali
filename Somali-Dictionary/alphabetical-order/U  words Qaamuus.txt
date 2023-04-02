@@ -321,404 +321,395 @@ ummi m.l.kh U. ah: qof aan wax qori karin waxna akhrin karin.
 umminnimo m.dh Ummi ahaansho.
 
 ummiya m.dh Shareero.
-ummul¹ m.dh (-lo, m.l) Qof dumar ah oo
-kolkaas ilmo dhashay.
-ummul² f.mg1 (-ulay, -ushay) Ilmo uur ku
-jiray dhalid.
-ummuladdoox m.l (-xyo, m.dh) 1. Dilaa aan
-cidna u nixin oo wuxuu arkaba dila.
-2. Colaad aan cidna la reebin.
-ummulbax¹ m.l Dhammaadka afartanka casho
-ee ugu dambeeya kolka ay hooyadu
-ummusho.
-ummulbax² f.mg1 (-xay, -xday; -bixi)
-Afartanka casho ee ummusha lagu jiray
-dhammaysasho.
-ummulbixi f.g2 (-iyay, -isay) Hooyo dhashay,
-intay afartanka casho ee ummusha ka
-dhammaysanayso u adeegid; nafaqgayn.
+
+ummul¹ m.dh (-lo, m.l) Qof dumar ah oo kolkaas ilmo dhashay.
+
+ummul² f.mg1 (-ulay, -ushay) Ilmo uur ku jiray dhalid.
+
+ummuladdoox m.l (-xyo, m.dh) 1. Dilaa aan cidna u nixin oo wuxuu arkaba dila. 2. Colaad aan cidna la reebin.
+
+ummulbax¹ m.l Dhammaadka afartanka casho ee ugu dambeeya kolka ay hooyadu ummusho.
+
+ummulbax² f.mg1 (-xay, -xday; -bixi) Afartanka casho ee ummusha lagu jiray dhammaysasho.
+
+ummulbixi f.g2 (-iyay, -isay) Hooyo dhashay, intay afartanka casho ee ummusha ka dhammaysanayso u adeegid; nafaqgayn.
+
 ummulbixid m.f.dh eeg ummulbax².
+
 ummulbixin m.f.dh eeg ummulbixi.
+
 ummuli f.g2 (-iyay, -isay) Ilmo ka dhalin.
+
 ummulid m.f.dh eeg ummul².
+
 ummulin m.f.dh eeg ummuli. ld ummulis.
+
 ummulis m.l ld ummulin.
-ummuliso m.dh (-ooyin, ml.) Haweeney
-aqoon u leh sida loo dhaliyo naagaha.
-ummuliye m.l (-yayaal, m.l/dh) Nin yaqaan
-sida loo dhaliyo ummuliyo haweenka
-ummulaya.
-ummulow m.l Cudur ku dhaca dumarka
-ummula.
-ummulraac¹ m.l Geerida ku timaada
-haweeney ummulaysa ama ummushay.
-824
-ummulraac² f.mg1 (-cay, -cday) Haweeney
-ummushay dhimasho. ld ummulraaco.
+
+ummuliso m.dh (-ooyin, ml.) Haweeney aqoon u leh sida loo dhaliyo naagaha.
+
+ummuliye m.l (-yayaal, m.l/dh) Nin yaqaan sida loo dhaliyo ummuliyo haweenka ummulaya.
+
+ummulow m.l Cudur ku dhaca dumarka ummula.
+
+ummulraac¹ m.l Geerida ku timaada haweeney ummulaysa ama ummushay.
+
+ummulraac² f.mg1 (-cay, -cday) Haweeney ummushay dhimasho. ld ummulraaco.
+
 ummulraacasho m.dh ld ummulraacid.
+
 ummulraacid m.f.dh eeg ummulraac².
-ummulraaco f.mg3 (-cday, -catay) ld
-ummulraac².
+
+ummulraaco f.mg3 (-cday, -catay) ld ummulraac².
+
 ummuur m.dh ld ammuur².
-ummuuraysan f.mg4 (-snaa, -snayd) ld
-ammuureysan.
+
+ummuuraysan f.mg4 (-snaa, -snayd) ld ammuureysan.
+
 ummuuraysnaan m.dh ld ammuureysnaan.
-ummuuraysnaansho
-m.l/dh
-ld
-ammuureysnaansho.
+
+ummuuraysnaansho m.l/dh ld ammuureysnaansho.
+
 uneexo m.dh ld aneexo.
-unfaxyee f.mg2 (-yeeyay, -yeysay) Neef ari ah
-unfaxyo keenid.
+
+unfaxyee f.mg2 (-yeeyay, -yeysay) Neef ari ah unfaxyo keenid.
+
 unfaxyeyn m.f.dh eeg unfaxyee.
-unfaxyo m.dh Dhiig ka yimaada neef ari ah oo
-bilihii ugu horreeyay dhiciyay.
+
+unfaxyo m.dh Dhiig ka yimaada neef ari ah oo bilihii ugu horreeyay dhiciyay.
+
 unfo m.dh Qarandi, saddexsulley.
+
 unkad m.l ld unkasho.
+
 unkamid m.f.dh eeg unkan¹.
-unkan¹ f.mg1 (-amay, -antay; -ami) Wax la
-unkay noqosho.
-unkan² f.mg4 (-naa, -nayd) Wax la unka
-ahaansho.
+
+unkan¹ f.mg1 (-amay, -antay; -ami) Wax la unkay noqosho.
+
+unkan² f.mg4 (-naa, -nayd) Wax la unka ahaansho.
+
 unkanaan m.f.dh eeg unkan². ld unkanaansho.
+
 unkanaansho m.l/dh ld unkanaan.
+
 unkasho m.f.dh eeg unko. ld unkad.
+
 unkid m.f.dh eeg unug².
-unko f.g3 (-kaday, -katay) Weel toliddiisa
-ama caw, harrar iwm falkintooda billaabid.
+
+unko f.g3 (-kaday, -katay) Weel toliddiisa ama caw, harrar iwm falkintooda billaabid.
+
 unkod m.l ld onkod¹.
-unsar m.l Wasakh yar oo ku jirta weel hoore
-ku jira salkiisa. ld usar.
+
+unsar m.l Wasakh yar oo ku jirta weel hoore ku jira salkiisa. ld usar.
+
 untiye m.l ld yibir.
-unug¹ m.l (-gyo, m.dh) Wax aan hore u jirin
-oo la curinayo, bilawga ugu horreeya.
-unug² m.l (-gyo, m.dh) (baay) Halbeegga salka
-nolosha ee maatar iyo tamarina ka soo
-uunmaan, ku beddelmaan, ku kaydsaman,
-kuna isticmaal galaan. Unug kastaa wuxuu
-ka koobanyahay walxo cufan oo borotiin ah
-(borotobalaasam), kuwaas oo u meesiyoobey
-walax xab oo kale ah (saytobalaasam) iyo bu',
-kaas oo ay ku jirto DNA.
-unug³ f.g1 (-nkay, -nugday; -nki) Unug
-samayn.
-unug-dareen-dhaqaaq m.l (-gyo ..., m.dh)
-(c.nafl.) Unug ama organ soo saara jawaab
-fisiyoolojyiyeed marka uu nashaad iyo guyo
-dareen wade. Tus. “Muruqyada iyo
-qanjidhada”.
-unug-dareen-wade m.l (-dayaal, m.l/dh)
-(c.nafl.) Unug dheeraaday oo faracyo leh,
-kaasi oo ah halbeegga aasaaska u ahurur shaqaale
-habdhiska dareenwadka, gaarna u ah
-gudbinta gujooyinka.
-unugga cad ee dhiigga m.l eeg liyuukoosayt.
-unugga Daaniyal m.l (fiis.) Unug aasaasi ah
-(sida unugga foolt), xoog danab wadihiisuna
-yahay 1.08 V, lehna qotino maar (+) iyo
-naxaas ah (-). Unuggan waxa uu leeyahay
-gudbiye naxaro salfaytah iyo milanka maar
-salfayt oo kahortaga daahneefeed ka dhaca
-unugga.
-unug-gudeed m.l (-dyo, m.dh) (c.nafl.)
-Unugyada inta u dhaxaysa.
-unug-maskaxeedka dhaqaaqa m.l (c.nafl.)
-Unugyada sameeya mareennada u dhexeeya
-maskaxda iyo xubinta dhaqaaqa, (muruqa,
-lafaha) midkood.
-unug-waalid m.l (-gyo ..., m.dh) (c.nafl.)
-Unugga ay ka soo farcamaan ama ka
-samaysmaan
-unugyada
-kale
-marka
-qaybsanka unugga dhaco.
-unugyada dhiigga ee cas cas m.dh eeg
-iritaroosayt.
-unugyo badane m.l.u (-nayaal, m.dh) Noole
-ka kooban unugyo badan.
-ununush m.l.u Waxaruhu marka ay geedo
-daaqidda bilaabaan.
-unuun m.l 1. Madax; kur. 2. Geed faalala oo
-qaraha u eg oo bixiya miro dacarta ka sii
-kharaar oo laysku dhaweeyo.
-unuungoo f.g2 (-ooyay, -oysay) Nafley
-madaxa ka jarid.
+
+unug¹ m.l (-gyo, m.dh) Wax aan hore u jirin oo la curinayo, bilawga ugu horreeya.
+
+unug² m.l (-gyo, m.dh) (baay) Halbeegga salka nolosha ee maatar iyo tamarina ka soo uunmaan, ku beddelmaan, ku kaydsaman, kuna isticmaal galaan. Unug kastaa wuxuu ka koobanyahay walxo cufan oo borotiin ah (borotobalaasam), kuwaas oo u meesiyoobey walax xab oo kale ah (saytobalaasam) iyo bu', kaas oo ay ku jirto DNA.
+
+unug³ f.g1 (-nkay, -nugday; -nki) Unug samayn.
+
+unug-dareen-dhaqaaq m.l (-gyo ..., m.dh)(c.nafl.) Unug ama organ soo saara jawaab fisiyoolojyiyeed marka uu nashaad iyo guyo dareen wade. Tus. “Muruqyada iyo qanjidhada”.
+
+unug-dareen-wade m.l (-dayaal, m.l/dh)(c.nafl.) Unug dheeraaday oo faracyo leh, kaasi oo ah halbeegga aasaaska u ahurur shaqaale habdhiska dareenwadka, gaarna u ah gudbinta gujooyinka.
+
+unugga-cad-ee-dhiigga m.l eeg liyuukoosayt.
+
+unugga-Daaniyal m.l (fiis.) Unug aasaasi ah (sida unugga foolt), xoog danab wadihiisuna yahay 1.08 V, lehna qotino maar (+) iyo naxaas ah (-). Unuggan waxa uu leeyahay gudbiye naxaro salfaytah iyo milanka maar salfayt oo kahortaga daahneefeed ka dhaca unugga.
+
+unug-gudeed m.l (-dyo, m.dh) (c.nafl.) Unugyada inta u dhaxaysa.
+
+unug-maskaxeedka-dhaqaaqa m.l (c.nafl.) Unugyada sameeya mareennada u dhexeeya maskaxda iyo xubinta dhaqaaqa, (muruqa, lafaha) midkood.
+
+unug-waalid m.l (-gyo ..., m.dh) (c.nafl.) Unugga ay ka soo farcamaan ama ka samaysmaan unugyada kale marka qaybsanka unugga dhaco.
+
+unugyada-dhiigga-ee-cas-cas m.dh eeg iritaroosayt.
+
+unugyo-badane m.l.u (-nayaal, m.dh) Noole ka kooban unugyo badan.
+
+ununush m.l.u Waxaruhu marka ay geedo daaqidda bilaabaan.
+
+unuun m.l 1. Madax; kur. 2. Geed faalala oo qaraha u eg oo bixiya miro dacarta ka sii kharaar oo laysku dhaweeyo.
+
+unuungoo f.g2 (-ooyay, -oysay) Nafley madaxa ka jarid.
+
 unuungoyn m.f.dh eeg unuungoo.
-unuunuf¹ m.l Af-ku-urursiga cunta yar oo
-dhulka daadsan afka lagu uruursado. ld
-anaanuf¹
-unuunuf² f.mg1 (-fay, -ftay) Nafley cunto yar
-oo dhulka ku daadsan uruursasho. ld
-anaanuf².
+
+unuunuf¹ m.l Af-ku-urursiga cunta yar oo dhulka daadsan afka lagu uruursado. ld anaanuf¹
+
+unuunuf² f.mg1 (-fay, -ftay) Nafley cunto yar oo dhulka ku daadsan uruursasho. ld anaanuf².
+
 unuunufid m.f.dh eeg unuunuf². ld anaanufid.
+
 uq m.dh ld cuq.
-ur¹ m.l (-rar, m.l) 1. Wax sanku jecleysto ama
-necbaysto ee uu dareemo. 2. Qurun.
-ur² m.dh 1. Dabayl lixdii bilood doc ka
-timaadda; neecaw; dabayl. 2. Dhanka
-dabayshu ka dhacayso. 3. ld ur¹.
-ur³ f.mg1 (-ray, -rtay) 1. Ur qurmuun
-yeelasho. 2. U u.: wax nicid. 3. U u.: wax ur
-qurmuun leh dareemid.
-uraa m.l Geed-quwaax ur sillan oo aad u
-lifaaqoon leh: ur cayayaanka iyo bahal-
-hoosaadka lagu laayo.
-uraad m.dh Saaca iyo waxtarka daaqu leeyahay.
-ld urshi.
-urdhac m.l Jihada dabayshu u socoto. ld
-urdhicid.
+
+ur¹ m.l (-rar, m.l) 1. Wax sanku jecleysto ama necbaysto ee uu dareemo. 2. Qurun.
+
+ur² m.dh 1. Dabayl lixdii bilood doc ka timaadda; neecaw; dabayl. 2. Dhanka dabayshu ka dhacayso. 3. ld ur¹.
+
+ur³ f.mg1 (-ray, -rtay) 1. Ur qurmuun yeelasho. 2. U u.: wax nicid. 3. U u.: wax ur qurmuun leh dareemid.
+
+uraa m.l Geed-quwaax ur sillan oo aad u lifaaqoon leh: ur cayayaanka iyo bahal-hoosaadka lagu laayo.
+
+uraad m.dh Saaca iyo waxtarka daaqu leeyahay. ld urshi.
+
+urdhac m.l Jihada dabayshu u socoto. ld urdhicid.
+
 urdhicid m.dh ld urdhac.
-urduf m.l (-fyo, m.dh) Wax tabar daran oo aan
-muuqaalkiisu fiicnayn.
-ureed m.l (-dyo, m.dh) (baay.) Dareenka urta
-ama dariiqadda wax lagu uriyo; tani oo lagu
-helo qaabilayaasha urta ama qaabilayaasha ku
-jira organnada ureed, sida sanka, kuwaas oo
-xasaasi u ah hawada ama kiimikooyinka ka
-dhasha biyaha. Nashaadinta qaabilayaashaasi
-waxay sababtaa inay u gudbiso wararka
-maskaxda iyaga oo sii maraya dariiqa dareen
-wadaha ureed.
+
+urduf m.l (-fyo, m.dh) Wax tabar daran oo aan muuqaalkiisu fiicnayn.
+
+ureed m.l (-dyo, m.dh) (baay.) Dareenka urta ama dariiqadda wax lagu uriyo; tani oo lagu helo qaabilayaasha urta ama qaabilayaasha ku jira organnada ureed, sida sanka, kuwaas oo xasaasi u ah hawada ama kiimikooyinka ka dhasha biyaha. Nashaadinta qaabilayaashaasi waxay sababtaa inay u gudbiso wararka maskaxda iyaga oo sii maraya dariiqa dareen wadaha ureed.
+
 urgumo m.dh Uurkuhayn; cadaawad.
-urgun m.l (-unno, m.dh) Hoore adkaaday oo
-weel salkiisa ku haray, gufar.
-uri f.g2 (-iyay, -isay) 1. Wax urkooda
-dareemid. 2. Wax qurmin. Tus. “Kalluunkii
-bakhtiyey baddii buu uriyey”.
+
+urgun m.l (-unno, m.dh) Hoore adkaaday oo weel salkiisa ku haray, gufar.
+
+uri f.g2 (-iyay, -isay) 1. Wax urkooda dareemid. 2. Wax qurmin. Tus. “Kalluunkii bakhtiyey baddii buu uriyey”.
+
 urid m.f.dh eeg ur³.
+
 urin m.f.dh eeg uri.
+
 uris m.l Cudur carruurta ka ballaariya madaxa.
-uriso m.dh Wax loo akhriyo in laysku nacsiiyo
-laba qof oo israbta ama is jecel.
+
+uriso m.dh Wax loo akhriyo in laysku nacsiiyo laba qof oo israbta ama is jecel.
+
 urre m.l Aboorka kiisa labka.
-ursad m.dh 1. Cudur ku dhaca eyga iyo
-naasleyda la bahda ah oo ay calaamo u tahay
-biyonicid iyo laystaannimo. 2. ld ursasho.
+
+ursad m.dh 1. Cudur ku dhaca eyga iyo naasleyda la bahda ah oo ay calaamo u tahay biyonicid iyo laystaannimo. 2. ld ursasho.
+
 ursamo m.dh Dabayshu xagga ay u dhacayso.
+
 ursasho m.f.dh eeg urso. ld ursad, ursi.
-ursato m.dh Cayayaanka jaad ka mid ah oo
-doorshaanka ka sii yaryar kana fudfudud oo
-aan wax qaniinin.
+
+ursato m.dh Cayayaanka jaad ka mid ah oo doorshaanka ka sii yaryar kana fudfudud oo aan wax qaniinin.
+
 urshi m.dh ld uraad.
+
 ursi m.l ld ursasho.
-ursii f.lg2 (-iiyay, -iisay) 1. Wax ur leh cid
-sanka u saarid. 2. U ursii: nafley wax nacsiin.
+
+ursii f.lg2 (-iiyay, -iisay) 1. Wax ur leh cid sanka u saarid. 2. U ursii: nafley wax nacsiin.
+
 ursiin m.f.dh eeg ursii.
-urso f.g3 (-saday, -satay) Wax ur leh sanka
-saarasho.
+
+urso f.g3 (-saday, -satay) Wax ur leh sanka saarasho.
+
 uruf m.l U. ah: qof jin yar oo gaaban.
-urug m.dh Cudur dadka, xoolaha iyo
-shimbiraha ku dhaca oo sambabada
-waxyeeleeya oo xummad badan iyo qufac
-leh; qaaxo; feero.
-urugo
-m.dh
-Uurkutaallo;
-tiiraanyo;
-caloolxumo.
-urugoo f.mg3 (-ooday, -ootay) Tiiraanyo
-dareemid.
+
+urug m.dh Cudur dadka, xoolaha iyo shimbiraha ku dhaca oo sambabada waxyeeleeya oo xummad badan iyo qufac leh; qaaxo; feero.
+
+urugo m.dh Uurkutaallo; tiiraanyo; caloolxumo.
+
+urugoo f.mg3 (-ooday, -ootay) Tiiraanyo dareemid.
+
 urugood m.f.l eeg urugoo.
-urun m.l Xarig dhuuban, dun ka samaysan oo
-wiilasha yaryar dhexda loogu xiro kaddib
-marka la gardaadiyo.
-urur shaqaale m.l (-rro ..., m.dh) (taar.) Urur
-matala xoogsatada, rabo in uu wax ka
-825urur¹
-baddelo xaaladda nolosha, mushaarada iyo
-lacagta.
-urur¹ m.l (-rro, m.dh) 1. Seddax horimood oo
-ciidan ah. 2. Dad aragti siyaasadeed ku
-midoobay. 3. Tiro isku wax ka hadlaysa oo is
-buuxinaysa.
-urur² m.l (-rro, m.dh) 1. (kiim.) Marka la eego
-tusaha falgalka curiyayaasha, waa tax
-curiyayaal ah oo kiimika ahaan isu'eg lehna
-ratibaad elektaroonikaad oo isu'eg. Ururku
-waa curiyayaasha joog u taxan ku wada jira
-ee tusaha kalgalka curiyayaasha. Marka la
-eego kiimikada orgaanikada ah, waa atam
-ama koox atamyo ah oo xukuma astamaha
-gaarka ah ee molikiyuulada ku wada jira bah
-gaar ah. 2. (kiim.) Ururinta walxo nooc kasta
-leh. Walxaha sameeya urur waxa lagu
-magacabaa kutirsaneyaasha ama xubnaha
-urur.
-urur³ m.dh Xiddigo dhawr ah oo meel isugu
-yimaada oo isla socda.
-urur4 f.mg1 (-ray, -rtay) Nafley tiro badan
-meel isugu imaansho. ld urursan¹.
-ururi f.g2 (-iyay, -isay) 1. Wax meel isugu
-keenid. 2. U u.: kaalmo cid la siinayo dad
-kala duwan uga qaadid. ld aruuri.
+
+urun m.l Xarig dhuuban, dun ka samaysan oo wiilasha yaryar dhexda loogu xiro kaddib marka la gardaadiyo.
+
+urur-shaqaale m.l (-rro ..., m.dh) (taar.) Urur matala xoogsatada, rabo in uu wax ka
+
+baddelo xaaladda nolosha, mushaarada iyo lacagta.
+
+urur¹ m.l (-rro, m.dh) 1. Seddax horimood oo ciidan ah. 2. Dad aragti siyaasadeed ku midoobay. 3. Tiro isku wax ka hadlaysa oo is buuxinaysa.
+
+urur² m.l (-rro, m.dh) 1. (kiim.) Marka la eego tusaha falgalka curiyayaasha, waa tax curiyayaal ah oo kiimika ahaan isu'eg lehna ratibaad elektaroonikaad oo isu'eg. Ururku waa curiyayaasha joog u taxan ku wada jira ee tusaha kalgalka curiyayaasha. Marka la eego kiimikada orgaanikada ah, waa atam ama koox atamyo ah oo xukuma astamaha gaarka ah ee molikiyuulada ku wada jira bah gaar ah. 2. (kiim.) Ururinta walxo nooc kasta leh. Walxaha sameeya urur waxa lagu magacabaa kutirsaneyaasha ama xubnaha urur.
+
+urur³ m.dh Xiddigo dhawr ah oo meel isugu yimaada oo isla socda.
+
+urur4 f.mg1 (-ray, -rtay) Nafley tiro badan meel isugu imaansho. ld urursan¹.
+
+ururi f.g2 (-iyay, -isay) 1. Wax meel isugu keenid. 2. U u.: kaalmo cid la siinayo dad kala duwan uga qaadid. ld aruuri.
+
 ururid m.f.dh eeg urur³. ld aruurid.
+
 ururin m.f.dh eeg ururi. ld aruurin, ururis.
+
 ururis m.l ld aruurin, ururin.
-Ururkii Qaramada m.l Urur la sameeyey
-dagaalkii adduunka ee kowaad kaddib, kasoo
-loo dhisay horumarinta Iskaashiga caalamiga
-iyo ka hortagga dagaal, wuxuuna burburiyey
-dagaalkii II ee Adduunka.
+
+Ururkii-Qaramada m.l Urur la sameeyey dagaalkii adduunka ee kowaad kaddib, kasoo loo dhisay horumarinta Iskaashiga caalamiga iyo ka hortagga dagaal, wuxuuna burburiyey dagaalkii II ee Adduunka.
+
 urursamid m.f.dh ld ururid.
-urursan¹ f.mg1 (-amay, -antay) Wax la
-ururiyay noqosho. ld urur4.
-urursan² f.mg4 (-naa, -nayd) 1. Wax la
-ururiyey ahaansho. 2. Wax aan kala
-daadsanayn ahaansho.
+
+urursan¹ f.mg1 (-amay, -antay) Wax la ururiyay noqosho. ld urur4.
+
+urursan² f.mg4 (-naa, -nayd) 1. Wax la ururiyey ahaansho. 2. Wax aan kala daadsanayn ahaansho.
+
 urursanaan m.dh eeg urursan². ld aruursanaan.
+
 urursanaansho m.l/dh ld aruursanaan.
+
 urursasho m.f.dh eeg ururso. ld aruursasho.
-ururso f.g3 (-saday, -satay) Wax kala firirsan
-meel isugu keensasho. ld aruurso.
+
+ururso f.g3 (-saday, -satay) Wax kala firirsan meel isugu keensasho. ld aruurso.
+
 uruur f.mg1 (ray, -rtay) ld aruur².
+
 uruuri f.g2 (-iyay, -isay) ld aruuri.
+
 uruurid m.dh ld aruurid.
+
 uruurin m.dh ld aruurin.
+
 uruuris m.l ld aruurin.
+
 uruursad m.l ld aruursasho.
+
 uruursan f.mg4 (-naa, -nayd) ld aruursan.
+
 uruursanaan m.dh ld aruursanaan.
+
 uruursanaansho m.l/dh ld aruursanaan.
+
 uruursasho m.dh ld aruursasho.
-826
+
 uruurso f.g3 (-saday, -satay) ld aruurso.
+
 us e.d Aamus!
+
 usar m.l ld unsar.
+
 usduurad m.dh ld usduuro.
-usduuro m.dh (-ooyin, m.l) Dhacdo
-taariikheed oo sooyaal ah, oo wax laga
-beddelay qaabkeeda hore. ld asduurad,
-usduurad.
-uskag m.l Wasakh ku taal jir dad ama dhar. ld
-uskug.
+
+usduuro m.dh (-ooyin, m.l) Dhacdo taariikheed oo sooyaal ah, oo wax laga beddelay qaabkeeda hore. ld asduurad, usduurad.
+
+uskag m.l Wasakh ku taal jir dad ama dhar. ld uskug.
+
 uskagayn m.f.dh eeg uskagee.
-uskagee f.g2 (-geeyay, -gaysay) Wax uskag u
-yeelid.
-uskag-galeen m.l Jir dad meesha wasakh
-qabatinka leh.
+
+uskagee f.g2 (-geeyay, -gaysay) Wax uskag u yeelid.
+
+uskag-galeen m.l Jir dad meesha wasakh qabatinka leh.
+
 uskagoobid m.f.dh eeg uskagow.
-uskagow f.mg1 (-oobay, -owday; -oobi)
-Uskag yeelasho.
+
+uskagow f.mg1 (-oobay, -owday; -oobi) Uskag yeelasho.
+
 uskug m.l ld uskag.
-ustaad m.l (-dyo, m.dh) Macallin; bare. ld
-astaad.
-usur m.l (-rro, m.dh) Dhul jiq ah oo aan la
-mari karin.
+
+ustaad m.l (-dyo, m.dh) Macallin; bare. ld astaad.
+
+usur m.l (-rro, m.dh) Dhul jiq ah oo aan la mari karin.
+
 utun m.dh Godob weyn; aano.
-uu¹ mu.dhm.y Magacuyaal tilmaamaya qofka
-saddexaad ee kelida lab ah (kan laga
-hadlayo). Tus. “Wuxuu rabaa inuu wax ka
-barto”
-uu² e.d Erey dareen oo tilmaamaya wax kedo
-ah ama wax naxdin ah, iwm.
-uub m.dh (-bo, m.l) 1. Carun ka yimaad
-xubinta taranka ee nafley dhashay. 2. (-bo,
-m.l) God dhuuban oo hoos u dheer.
-uubatee f.mg2 (-teeyay, -teysay) 1. Sida
-uubatada u ciyid. 2. Qaylo dheer cid
-maqashiin.
+
+uu¹ mu.dhm.y Magacuyaal tilmaamaya qofka saddexaad ee kelida lab ah (kan laga hadlayo). Tus. “Wuxuu rabaa inuu wax ka barto”
+
+uu² e.d Erey dareen oo tilmaamaya wax kedo ah ama wax naxdin ah, iwm.
+
+uub m.dh (-bo, m.l) 1. Carun ka yimaad xubinta taranka ee nafley dhashay. 2. (-bo, m.l) God dhuuban oo hoos u dheer.
+
+uubatee f.mg2 (-teeyay, -teysay) 1. Sida uubatada u ciyid. 2. Qaylo dheer cid maqashiin.
+
 uubateyn m.f.dh eeg uubatee.
-uubato m.dh.u (-ooyin, m.l) 1. Bahal eeyga u
-eg: yey; yeey; uuley. 2. Qaylo dheer.
+
+uubato m.dh.u (-ooyin, m.l) 1. Bahal eeyga u eg: yey; yeey; uuley. 2. Qaylo dheer.
+
 uubo m.dh ld uub.
+
 uud m.l Daaq; caws.
+
 uufannaa m.l ld uufannays.
-uufannays m.l 1. U. ah: maroodi markaa
-dhashay ama beriyo jiray. 2. (m.l.u) U. ah:
-dad aan meel loogu hagaago lahayn. ld
-uufannaa.
+
+uufannays m.l 1. U. ah: maroodi markaa dhashay ama beriyo jiray. 2. (m.l.u) U. ah: dad aan meel loogu hagaago lahayn. ld uufannaa.
+
 uugaabid m.f.dh eeg uugaw².
-uugaabo m.dh Qaylo kicin iyo tirtirsi leh oo
-dad loo jeediyo; guubaabo.
-uugaami f.g2 (-iyay, -isay) Geel in uu uugaan
-sameeyo ku kallifid.
+
+uugaabo m.dh Qaylo kicin iyo tirtirsi leh oo dad loo jeediyo; guubaabo.
+
+uugaami f.g2 (-iyay, -isay) Geel in uu uugaan sameeyo ku kallifid.
+
 uugaamid m.f.dh eeg uugaan².
+
 uugaamin m.f.dh eeg uugaami. ld uugaamis.
+
 uugaamis m.l ld uugaamin.
+
 uugaamo m.dh ld uugaan.uurgubyood
-uugaan¹ m.l 1. (m.l.u) Daruuro cokan.
-2. Yabaq, buuq. ld uugaamo.
-uugaan² f.mg1 (-aamay, -aantay; -aami)
-1. Daruuro cukan cir ku dedmid. 2. Yabqid;
-buuqid.
+
+uugaan¹ m.l 1. (m.l.u) Daruuro cokan. 2. Yabaq, buuq. ld uugaamo.
+
+uugaan² f.mg1 (-aamay, -aantay; -aami) 1. Daruuro cukan cir ku dedmid. 2. Yabqid; buuqid.
+
 uugaw¹ m.l Uugaan.
-uugaw² f.mg1 (-way, -wday) Uugaan samayn
-(geel).
-uugo m.dh (-ooyin, m.l) Dhawaaq wiilka geela
-jiraa sameeyo markuu rabo inuu isu ururiyo.
-ld uujo.
-uuji f.g2 (-iyay, -isay) Uugaan ka keenid
-(geel).
+
+uugaw² f.mg1 (-way, -wday) Uugaan samayn (geel).
+
+uugo m.dh (-ooyin, m.l) Dhawaaq wiilka geela jiraa sameeyo markuu rabo inuu isu ururiyo. ld uujo.
+
+uuji f.g2 (-iyay, -isay) Uugaan ka keenid (geel).
+
 uujin m.f.dh eeg uuji. ld uujis.
+
 uujis m.l ld uujin, uugaw¹.
+
 uujo m.dh ld uugo.
+
 uulayn m.f.dh eeg uulee.
-uulee f.mg2 (-leeyay, -laysay) Qaylo dheer
-samayn.
+
+uulee f.mg2 (-leeyay, -laysay) Qaylo dheer samayn.
+
 uuley m.dh Yeey, uubato.
+
 uuman¹ m.l 1. Jin, rooxaan. 2. ld uun¹.
-uuman² f.mg1 (uunmay, uumantay; uunmi)
-Wax la abuuray noqosho.
-uuman³ f.mg4 (uunnaa, uunnayd) Wax la
-abuuray ahaansho.
+
+uuman² f.mg1 (uunmay, uumantay; uunmi) Wax la abuuray noqosho.
+
+uuman³ f.mg4 (uunnaa, uunnayd) Wax la abuuray ahaansho.
+
 uumasho m.f.dh eeg uumo.
-uumi saarid m.dh (bot.)Biyo lunka dhirta kaas
-oo ay ku sii daayaan gibilka. Biyo lunku
-badanaa wuxuu ka dhacaa caleemaha iyaga
-oo ka baxaya daloolada istomaataha, kaasi oo
-shaqadiisa ugu weyni tahay isdhaafsiga
-neefaha.
+
+uumi-saarid m.dh (bot.)Biyo lunka dhirta kaas oo ay ku sii daayaan gibilka. Biyo lunku badanaa wuxuu ka dhacaa caleemaha iyaga oo ka baxaya daloolada istomaataha, kaasi oo shaqadiisa ugu weyni tahay isdhaafsiga neefaha.
+
 uumi¹ m.l 1. Humri kulul. 2. Kul; diirimaad.
+
 uumi² f.g2 (-iyay, -isay) Wax dab ku diirin.
-uumibax¹ m.dh (-xyo, m.dh) 1. (fiis.)
-Isbedelka wejiga hoorku ku noqdo neef ama
-uumi. Uumibixinta waxay ku dhici kartaa
-heerkul kasta, dhakhsaheeduna wuxuu la
-kordhaa heerkulka. 2. (fiis.) Dariiqadda
-walaxi isaga beddesho dareere isuguna
-beddesho heerka uumiga ama biyaha hawada
-ku jira.
-uumibax² f.mg1 (-xay, -xday; -bixi) Hoore la
-kululeeyey qiiq bixid.
+
+uumibax¹ m.dh (-xyo, m.dh) 1. (fiis.) Isbedelka wejiga hoorku ku noqdo neef ama uumi. Uumibixinta waxay ku dhici kartaa heerkul kasta, dhakhsaheeduna wuxuu la kordhaa heerkulka. 2. (fiis.) Dariiqadda walaxi isaga beddesho dareere isuguna beddesho heerka uumiga ama biyaha hawada ku jira.
+
+uumibax² f.mg1 (-xay, -xday; -bixi) Hoore la kululeeyey qiiq bixid.
+
 uumibixid m.f.dh eeg uumibax².
-uumibiyood m.l Hoore la kululeeyey qiiq ka
-baxay oo qabow taabtay awgiis biyo isu
-beddeley.
+
+uumibiyood m.l Hoore la kululeeyey qiiq ka baxay oo qabow taabtay awgiis biyo isu beddeley.
+
 uumid m.f.dh eeg uun².
-uumihoorow m.l (fiis.) Isbeddelka uumi ama
-neef ay ku noqoto hoor. Weji-gaddoonkaasi
-waxa wehesha kul baxa.
+
+uumihoorow m.l (fiis.) Isbeddelka uumi ama neef ay ku noqoto hoor. Weji-gaddoonkaasi waxa wehesha kul baxa.
+
 uumin m.f.dh eeg uumi. ld uumis.
+
 uumis m.l ld uumin.
-uumitee f.g2 (-tgeeyay, -teysay) Hilib uumito
-ka dhigid.
+
+uumitee f.g2 (-tgeeyay, -teysay) Hilib uumito ka dhigid.
+
 uumiteyn m.f.dh eeg uumitee.
+
 uumito m.dh Hilib uumi kulul lagu bisleeyey.
-uumo f.g3 (uuntay, uumatay) Ilaah wax
-abuurasho.
+
+uumo f.g3 (uuntay, uumatay) Ilaah wax abuurasho.
+
 uun¹ m.l 1. Wax kastoo Alle uumay. 2. Uumi.
-uun² f.g1 (uumay, uuntay; uumi) Eebbe wax
-abuurid.
-uun³ fk. 1. Keliya. Tus. “Carruurta uun
-caanaha sii”. 2. Mid kastaba ha ahaadee.
-Tus.”Nin uun weyddii”. 3. Mid aan
-cayinnayn, mid aan la garanayn. Tus. “Wiil
-uun baa noo sheegay”.
+
+uun² f.g1 (uumay, uuntay; uumi) Eebbe wax abuurid.
+
+uun³ fk. 1. Keliya. Tus. “Carruurta uun caanaha sii”. 2. Mid kastaba ha ahaadee. Tus.”Nin uun weyddii”. 3. Mid aan cayinnayn, mid aan la garanayn. Tus. “Wiil uun baa noo sheegay”.
+
 uunmid m.f.dh eeg uuman².
+
 uunnaan m.f.dh eeg uuman³. ld uunnaansho.
+
 uunnaansho m.l/dh ld uunnaan.
+
 uunrays m.l Dabagaalle; tukulush.
+
 uunsad m.l ld uunsasho.
-uunsan f.mg4 (-naa, -nayd) 1. Wax uunsi lagu
-shiday ahaansho. 2. Wax la uumiyey
-ahaansho.
-uunsanaan
-m.f.dh
-eeg
-uunsan.
-ld
-unsanaansho.
+
+uunsan f.mg4 (-naa, -nayd) 1. Wax uunsi lagu shiday ahaansho. 2. Wax la uumiyey ahaansho.
+
+uunsanaan m.f.dh eeg uunsan. ld unsanaansho.
+
 uunsanaansho m.l/dh ld uunsanaan.
 uunsasho m.f.dh eeg uunso.
 uunsi m.l Walxo laysku dardaray oo laysku
