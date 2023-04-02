@@ -383,182 +383,197 @@ oomin m.f.dh eeg oomi.
 oomiye m.l (-yayaal, m.l/dh) (daaw.) Kaadisokorow.
 
 oomman f.mg4 (-naa, -nayd) 1. Cid wax oon hayo ahaansho. 2. Cid wax si aad ah wax ugu baahan ahaansho.
-oommanaan m.f.dh eeg oomman. ld
-oommanaansho.
+
+oommanaan m.f.dh eeg oomman. ld oommanaansho.
+
 oommanaansho m.l/dh ld oommanaan.
-oommane m.l (-nayaal, m.l/dh) 1. Meel aan
-biyo lahayn. 2. O. ah: dhaan aan gaarin
-biyihii meesha uu ka heli lahaa.
+
+oommane m.l (-nayaal, m.l/dh) 1. Meel aan biyo lahayn. 2. O. ah: dhaan aan gaarin biyihii meesha uu ka heli lahaa.
+
 oommanoobid m.f.dh eeg oommanow.
-oommanow f.mg1 (-oobay, -owday; -oobi)
-Nalfey wax oon haayo noqosho.
-oon¹ m.l Baahi biyo la cabbo loo qabo;
-harraad.
-oon² m.dh Wax kasta oo la cuno ama la cabbo,
-cunto.
-oon³ f.mg1 (-oomay, -oontay; -oomi) Biyo
-rabid.
+
+oommanow f.mg1 (-oobay, -owday; -oobi) Nalfey wax oon haayo noqosho.
+
+oon¹ m.l Baahi biyo la cabbo loo qabo; harraad.
+
+oon² m.dh Wax kasta oo la cuno ama la cabbo, cunto.
+
+oon³ f.mg1 (-oomay, -oontay; -oomi) Biyo rabid.
+
 oonbeel¹ m.l ld onbeelid.
-oonbeel² f.mg1 (-eelay, -eeshay) Biyo aan laga
-dhergin cabbid; harraadbeel.
-oonbeelid m.f.dh eeg oonbeel². ld oonbeel¹.
-oonguul m.l O. ah: xoolo aroor ah oo baryey
-xeradoodii meel aan ahayn.
-oontir f.g1 (-ray, -rtay) Nafley biyo ay oonka
-uga baxdo siin.
+
+oonbeel² f.mg1 (-eelay, -eeshay) Biyo aan laga dhergin cabbid; harraadbeel.
+
+oonbeelid m.f.dh eeg oonbeel². ld oonbeel¹. 
+
+oonguul m.l O. ah: xoolo aroor ah oo baryey xeradoodii meel aan ahayn.
+
+oontir f.g1 (-ray, -rtay) Nafley biyo ay oonka uga baxdo siin.
+
 oontirid m.f.dh eeg oontir.
-oor m.l Miro yaryar oo udgoon oo ay dumarku
-isku carfiyaa.
-oordinayt m.l (-tyo, m.dh) (xis.) Kulanka-y oo
-barbarro ahaan loogu cabbiro dhidibka-y ee
-ku yaalla habdhiska kulannada kaartis
-(Barbardhig Absiisa).
+
+oor m.l Miro yaryar oo udgoon oo ay dumarku isku carfiyaa.
+
+oordinayt m.l (-tyo, m.dh) (xis.) Kulanka-y oo barbarro ahaan loogu cabbiro dhidibka-y ee ku yaalla habdhiska kulannada kaartis (Barbardhig Absiisa).
+
 oori m.dh (-iyo, m.l) Haweeney la qabo; afo.
-ooriyo m.dh Hanti ganaax ahaan looga qaado
-nin mehersaday gabadh nin kale u dooneyd.
-ooro m.dh (daaw.) Cudur dhegaha xoolaha
-dushooda sare ku dhaca oo qolfo iyo finan u
-yeela.
+
+ooriyo m.dh Hanti ganaax ahaan looga qaado nin mehersaday gabadh nin kale u dooneyd.
+
+ooro m.dh (daaw.) Cudur dhegaha xoolaha dushooda sare ku dhaca oo qolfo iyo finan u yeela.
+
 ooroobid m.f.dh eeg oorow.
-oorow f.mg1 (-oobay, -owday; -oobi) Ooro
-qaad (xoolo).
-ooryawalaal m.l (-llo, m.dh) Laba nin oo labo
-haween oo walaalo ah kala qaba, waxa ay isu
-yihiin. ld ooryowalaal.
-ooryawalaaloobid m.f.dh eeg ooryawalaalow. ld
-ooryowalaaloobid.
-ooryawalaalow f.mg1 (-oobay, -owday; -
-oobi) Laba nin ooryawalaal noqosho. ld
-ooryowalaalow.
+
+oorow f.mg1 (-oobay, -owday; -oobi) Ooro qaad (xoolo).
+
+ooryawalaal m.l (-llo, m.dh) Laba nin oo labo haween oo walaalo ah kala qaba, waxa ay isu yihiin. ld ooryowalaal.
+
+ooryawalaaloobid m.f.dh eeg ooryawalaalow. ld ooryowalaaloobid.
+
+ooryawalaalow f.mg1 (-oobay, -owday; -oobi) Laba nin ooryawalaal noqosho. ld ooryowalaalow.
+
 ooryowalaal m.l (-llo, m.dh) ld ooryawalaal.
-ooryowalaalee f.g2 (-leeyay, -leysay) Labo nin
-ooryowalaal ka dhigid.
+
+ooryowalaalee f.g2 (-leeyay, -leysay) Labo nin ooryowalaal ka dhigid.
+
 ooryowalaaleyn m.f.dh eeg ooryowalaalee.
-ooryowalaaloobid
-m.f.dh
-ld
-ooryawalaaloobid.
-ooryowalaalow f.mg1 (-oobay, -owday; -
-oobi) ld ooryawalaalow.
-oosayt m.l (-tyo, m.dh) (baay.) Unug taran
-laga helo ugxansidaha xilliga oojiniisiska.
-Waxay
-ka
-timaadaa
-korriinka
-oogooniyamka.
-ooy f.mg1 (-yay, -yday; -yi) Oohin sameyn. ld
-booy.
+
+ooryowalaaloobid m.f.dh ld ooryawalaaloobid.
+
+ooryowalaalow f.mg1 (-oobay, -owday; -oobi) ld ooryawalaalow.
+
+oosayt m.l (-tyo, m.dh) (baay.) Unug taran laga helo ugxansidaha xilliga oojiniisiska. Waxay ka timaadaa korriinka oogooniyamka.
+
+ooy f.mg1 (-yay, -yday; -yi) Oohin sameyn. ld booy.
+
 ooyid m.f.dh eeg ooy. ld booyid.
-ooysin m.dh Neef xoolo ah oo tacsi ahaan
-loogu geeyo reer nin oday ahi ka dhintay.
-or m.l (orar, m.l) Cod wada jir ah oo dad meel
-fog jooga ka yeera.
-ǫr m.l (orar, m.l) 1. Dhar; maro. 2. Calal.
-3. Bulka cawsa meyrada.
-oraah m.dh (-ho, m.l) 1. hadal xigmad
-xambaarsan oo munaasabad ama waqti gaar
-ah loo adeegsado. 2. Ereyo la isu geeyey oo
-macna la fahmo sameeya. 3. Hadal. ld oroh.
-oranjo m.dh Liin kulkulucsan, waxoogaa ka
-waaweyn liimadhanaanta oo macaan. ld
-araanjo.
+
+ooysin m.dh Neef xoolo ah oo tacsi ahaan loogu geeyo reer nin oday ahi ka dhintay.
+
+or m.l (orar, m.l) Cod wada jir ah oo dad meel fog jooga ka yeera.
+
+ǫr m.l (orar, m.l) 1. Dhar; maro. 2. Calal. 3. Bulka cawsa meyrada.
+
+oraah m.dh (-ho, m.l) 1. hadal xigmad xambaarsan oo munaasabad ama waqti gaar ah loo adeegsado. 2. Ereyo la isu geeyey oo macna la fahmo sameeya. 3. Hadal. ld oroh.
+
+oranjo m.dh Liin kulkulucsan, waxoogaa ka waaweyn liimadhanaanta oo macaan. ld araanjo.
+
 ordid m.f.dh eeg orod².
+
 ordisii f.g2 (-iiyay, -iisay) ld orodsii.
+
 ordisiin m.dh ld orodsiin.
+
 ordisiis m.l ld orodsiin.
-organ m.l (-no, m.dh) (c.nafl.) Qayb ka mid ah
-jidhka noolaha oo u khaas ah, inay qabato
-hal shaqo ama in ka badan. Tusaale,
-xayawaanka: dhegaha, indhaha, sambabada
-iyo kelyaha. Tusaale, dhirta: caleemaha,
-xididdada iyo ubaxa. Organku wuxuu ka
-koobanyahay nudo badan oo kala duwan.
-organ yare m.l (-rayaal, m.l/dh) Qayb kasta oo
-ka mid ah unugga, sida bu'da ama jeedalka,
-taas oo qabata shaqo gaar ah.
+
+organ m.l (-no, m.dh) (c.nafl.) Qayb ka mid ah jidhka noolaha oo u khaas ah, inay qabato hal shaqo ama in ka badan. Tusaale, xayawaanka: dhegaha, indhaha, sambabada iyo kelyaha. Tusaale, dhirta: caleemaha, xididdada iyo ubaxa. Organku wuxuu ka koobanyahay nudo badan oo kala duwan.
+
+organ-yare m.l (-rayaal, m.l/dh) Qayb kasta oo ka mid ah unugga, sida bu'da ama jeedalka, taas oo qabata shaqo gaar ah.
+
 orgee f.g2 (-geeyay, -geysay) Orgi ri' tallaabid.
+
 orgeyn m.f.dh eeg orgee.
-orgeysan f.mg4 (-snaa, -snayd) Ri' wax orgi u
-baahan ahaansho.
-orgeysguur m.l Waayidda uu sac ama ri'
-orgeysani waayo dibi ama orgi kuda (booda).
-orgeysnaan m.f.dh eeg orgeysan. ld
-orgeysnaansho.
+
+orgeysan f.mg4 (-snaa, -snayd) Ri' wax orgi u baahan ahaansho.
+
+orgeysguur m.l Waayidda uu sac ama ri'orgeysani waayo dibi ama orgi kuda (booda).
+
+orgeysnaan m.f.dh eeg orgeysan. ld orgeysnaansho.
+
 orgeysnaansho m.l/dh ld orgeysnaan.
+
 orgi m.l (-iyo, m.dh) Laboodka aricadka.
-orgobbe m.l (-bayaal, m.l/dh) 1. Shabeel lab
-oo qooqan oo dad cun ah. 2. Qof dhaqan
-bahal leh.
-orgoo f.mg3 (-ooday, -ootay) Sac ama ri' wax
-boodid u baahan noqosho.
+
+orgobbe m.l (-bayaal, m.l/dh) 1. Shabeel lab oo qooqan oo dad cun ah. 2. Qof dhaqan bahal leh.
+
+orgoo f.mg3 (-ooday, -ootay) Sac ama ri' wax boodid u baahan noqosho.
+
 orgood m.f.l eeg orgoo.
-651orgoodqab
-orgoodqab f.mg1 (-bay, -btay) Sac ama ri'
-wax la booday noqosho.
+
+orgoodqab f.mg1 (-bay, -btay) Sac ama ri' wax la booday noqosho.
+
 orgoodqabid m.f.dh eeg orgoodqab.
+
 orgootay m.l ld orgootow.
-orgootow m.l (-ooyin, m.l) Neef dheddig oo
-marar badan inta orgootay aan rimin. ld
-orgootay.
-ori f.mg2 (-iyay, -isay) 1. Kor u dhawaaqid.
-2. Cod dheer ku heesid. ld orri.
+
+orgootow m.l (-ooyin, m.l) Neef dheddig oo marar badan inta orgootay aan rimin. ld orgootay.
+
+ori f.mg2 (-iyay, -isay) 1. Kor u dhawaaqid. 2. Cod dheer ku heesid. ld orri.
+
 orin m.f.dh eeg ori. ld oris, orrin, orris.
+
 oris m.l ld orin.
+
 ormayn m.f.dh eeg ormee.
-ormaysii f.g2 (-iiyay, -iisay) Wax meel isugu
-soo uruurin.
+
+ormaysii f.g2 (-iiyay, -iisay) Wax meel isugu soo uruurin.
+
 ormaysiin m.f.dh eeg ormaysii.
-ormee f.mg2 (-meeyay, -maysay) Ormo
-sameyn.
+
+ormee f.mg2 (-meeyay, -maysay) Ormo sameyn.
+
 ormo m.dh (-ooyin, m.l) Koox. ld hormo.
-orod¹ m.l Lugaha oo si degdeg ah oo socodka
-ka dhaqso badan kana fudud loo qaado;
-roor.
-orod² f.mg1 (-rday, -rodday; -rdi) Lugaha si
-degdeg ah oo socodka ka dhaqso badan kana
-fudud u qaadid; roorid.
-orodsii f.g2 (-iiyay, -iisay) Wax inuu ordo ku
-kellifid. ld ordisii.
-orodsiin m.f.dh eeg orodsii. ld ordisiin,
-ordisiis, orodsiis.
+
+orod¹ m.l Lugaha oo si degdeg ah oo socodka ka dhaqso badan kana fudud loo qaado; roor.
+
+orod² f.mg1 (-rday, -rodday; -rdi) Lugaha si degdeg ah oo socodka ka dhaqso badan kana fudud u qaadid; roorid.
+
+orodsii f.g2 (-iiyay, -iisay) Wax inuu ordo ku kellifid. ld ordisii.
+
+orodsiin m.f.dh eeg orodsii. ld ordisiin, ordisiis, orodsiis.
+
 orodsiis m.l ld orodsiin.
+
 oroh m.dh ld oraah.
-oroob¹ m.l Socdaal dheer oo herinta meel fog
-u ugaarsi tageyso, iyadoo awr raranaysa
-sahayna qaadanaysa, oo maqnaanaysa bil
-ama laba.
-652
-oroob² m.dh Socdaal dheer oo ay dumarku
-meel fog ugu caws doontaan iyagoo badan,
-qaatana awr iyo sahay, kuna qaadata muddo
-aan ka yareyn bil.
+
+oroob¹ m.l Socdaal dheer oo herinta meel fog u ugaarsi tageyso, iyadoo awr raranaysa sahayna qaadanaysa, oo maqnaanaysa bil ama laba.
+
+oroob² m.dh Socdaal dheer oo ay dumarku meel fog ugu caws doontaan iyagoo badan, qaatana awr iyo sahay, kuna qaadata muddo aan ka yareyn bil.
+
 orrax m.dh ld qorrax.
+
 orraxayn m.dh ld qorraxayn.
+
 orraxaysad m.l ld qorraxaysasho.
-orraxaysan f.mg4 (-naa, -nayd) ld
-qorraxaysan.
+
+orraxaysan f.mg4 (-naa, -nayd) ld qorraxaysan.
+
 orraxaysi m.l ld qorraxaysasho.
+
 orraxaysnaan m.dh ld qorraxaysnaan.
+
 orraxaysnaansho m.l/dh ld qorraxaysnaan.
+
 orraxayso f.mg3 (-stay, -satay) ld qorraxayso.
+
 orraxee f.g2 (-xeeyay, -xeysay) ld qorraxee.
+
 orri f.mg2 (-iyay, -isay) ld ori.
+
 orrin m.dh ld orin.
+
 orris m.l ld orin.
+
 ortamid m.f.dh eeg ortan².
-ortan¹ m.l Hadal cod dheer ah oo la
-isdhaafsado.
-ortan² f.mg1 (-tamay, -tantay) Hadal cod
-dheer ah is dhaafsasho.
-oslan f.mg4 (-naa, -nayd) Lax wax sifid u
-baahan ahaansho.
+
+ortan¹ m.l Hadal cod dheer ah oo la isdhaafsado.
+
+ortan² f.mg1 (-tamay, -tantay) Hadal cod dheer ah is dhaafsasho.
+
+oslan f.mg4 (-naa, -nayd) Lax wax sifid u baahan ahaansho.
+
 oslanaan m.f.dh eeg oslan. ld oslanaansho.
+
 oslanaansho m.l/dh ld oslanaan.
+
 oslid m.f.dh eeg osol². ld asool¹, asoolid, osol¹.
+
 osol¹ m.l ld asoolid.
+
 osol² f.mg1 (-slay, -soshay; -sli) ld asool².
-otomaatig m.l (-gyo, m.dh) Matoor keligiisa is
-wada.
-owlaan m.dh (muus.) Reeme laga yaqaan
-degaanka u dhexeeye labada webi.
+
+otomaatig m.l (-gyo, m.dh) Matoor keligiisa is wada.
+
+owlaan m.dh (muus.) Reeme laga yaqaan degaanka u dhexeeye labada webi.
+
+
