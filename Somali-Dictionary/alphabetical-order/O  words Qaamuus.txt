@@ -265,72 +265,71 @@ oodmid m.f.dh eeg oodan³.
 oodnaan m.f.dh eeg oodan4. ld oodnaansho.
 
 oodnaansho m.l/dh ld oodnaan.
-oodo f.g3 (-ootay, -oodatay) Xero iwm ood
-ku wareegsasho.
+
+oodo f.g3 (-ootay, -oodatay) Xero iwm ood ku wareegsasho.
+
 oodqaad¹ m.l ld geedqaad¹
+
 oodqaad² f.g1 (-day, -dday) ld geedqaad².
+
 oodqaadid m.f.dh ld geedqaadid.
-oodrogasho m.f.dh eeg oodrogo. ld
-oodgeddisasho.
-oodrogo f.g3 (-gtay, -gatay) Meel degalowday
-meel u dhow uga guurid. ld oodgeddiso.
-649oof
-oof m.dh 1. Saableyda dadka labadeeda dhinac
-midkood. 2. Xanuun daran oo saableyda ku
-dhaca.
+
+oodrogasho m.f.dh eeg oodrogo. ld oodgeddisasho.
+
+oodrogo f.g3 (-gtay, -gatay) Meel degalowday meel u dhow uga guurid. ld oodgeddiso.
+
+oof m.dh 1. Saableyda dadka labadeeda dhinac midkood. 2. Xanuun daran oo saableyda ku dhaca.
+
 oofasho m.f.dh eeg oofo.
-oofato m.dh.u Dad yar oo hubeysan oo wax
-dhaca, waxna laaya.
+
+oofato m.dh.u Dad yar oo hubeysan oo wax dhaca, waxna laaya.
+
 oofayn m.f.dh eeg oofee.
-oofaysan f.mg4 (-snaa, -snayd) Qof oofi hayso
-ahaansho.
-oofaysnaan m.f.dh eeg oofaysan. ld
-oofaysnaansho
+
+oofaysan f.mg4 (-snaa, -snayd) Qof oofi hayso ahaansho.
+
+oofaysnaan m.f.dh eeg oofaysan. ld oofaysnaansho
+
 oofaysnaansho m.l/dh ld oofaysnaan.
+
 oofee f.g2 (-feeyay, -feysay) Cid oof ku ridid.
+
 oofi f.g2 (-iyay, -isay) Ballan, arrin iwm fulin.
+
 oofin m.f.dh eeg oofi.
-oofo f.mg3 (-ftay, -fatay) Wax rimid u baahan
-noqosho (sac).
+
+oofo f.mg3 (-ftay, -fatay) Wax rimid u baahan noqosho (sac).
+
 oofsasho m.f.dh eeg oofso.
+
 oofso f.g3 (-saday, -satay) Arrin fushasho.
-oofwareen m.l (-nno, m.dh) Cudur qufac iyo
-xummad leh oo saableyda dadka ku dhaca.
-oog¹ m.l Iftiinka ugu horreeya ee tilmaama
-waaberiga.
-oog² m.dh (-go, m.l) 1. Subaxnimo. 2. Dab
-weyn oo sida badan loo shido in la isaga digo
-colaad. 3. Calaamad cad oo ay lo'da
-qaarkeed wejiga ku yeelato.
-oog³ f.g1 (-gay, -gtay) 1. Dab weyn shidid.
-2. Dacwo, rabsho iwm abaabulid. 3. Salaad
-waajibaadkeeda si wanaagsan u fulin.
-oogan¹ f.mg1 (-gmay, -gantay; -gmi) 1. Dab
-wax la oogay noqosho. 2. Dacwo, rabsho
-iwm wax la oogay noqosho.
-oogan² f.mg4 (-gnaa, -gnayd) 1. Dab wax la
-oogay ahaansho. 2. Wax si wanaagsan loo
-fuliyey ahaansho (salaad). 3. Dacwo, rabsho
-iwm wax la oogay ahaansho.
+
+oofwareen m.l (-nno, m.dh) Cudur qufac iyo xummad leh oo saableyda dadka ku dhaca.
+
+oog¹ m.l Iftiinka ugu horreeya ee tilmaama waaberiga.
+
+oog² m.dh (-go, m.l) 1. Subaxnimo. 2. Dab weyn oo sida badan loo shido in la isaga digo colaad. 3. Calaamad cad oo ay lo'da qaarkeed wejiga ku yeelato.
+
+oog³ f.g1 (-gay, -gtay) 1. Dab weyn shidid. 2. Dacwo, rabsho iwm abaabulid. 3. Salaad waajibaadkeeda si wanaagsan u fulin.
+
+oogan¹ f.mg1 (-gmay, -gantay; -gmi) 1. Dab wax la oogay noqosho. 2. Dacwo, rabsho iwm wax la oogay noqosho.
+
+oogan² f.mg4 (-gnaa, -gnayd) 1. Dab wax la oogay ahaansho. 2. Wax si wanaagsan loo fuliyey ahaansho (salaad). 3. Dacwo, rabsho iwm wax la oogay ahaansho.
+
 oogid m.f.dh eeg oog³.
+
 oogmid m.f.dh eeg oogan¹.
+
 oognaan m.f.dh eeg oogan². ld oognaansho.
+
 oognaansho m.l/dh ld oognaan.
-oogo m.dh (-ooyin, m.l) 1. Jirka sare ee
-nafleyda. 2. Dhulka meeshiisa aan cadduun
-iyo dooxo ahayn. 3. Wax dushood sare. Tus.
-“Buurta oogadeeda”.
-oogo-dhul m.dh (-ooyin-dhul, m.l) 1. (jool.)
-Qaybta adag ee qolofta dhulka, taas oo ku
-kala fidsan gun gaaraysa ilaa iyo 65 Km. (40
-mayl) ka hos dhulka dushiisa. 2. (jool.)
-Qaybta u serraysa dhulka ee ka sarraysa
-xarriiga moho, garadeeduna waa 8 ilaa 40
-km. badanaa waxay ka koobantahay
-dhadhaabo shiileed.
-oohi f.mg2 (-iyay, -isay) Ka o.: cid oohin ka
-keenid. ld boohi, ooy.
-650
+
+oogo m.dh (-ooyin, m.l) 1. Jirka sare ee nafleyda. 2. Dhulka meeshiisa aan cadduun iyo dooxo ahayn. 3. Wax dushood sare. Tus. “Buurta oogadeeda”.
+
+oogo-dhul m.dh (-ooyin-dhul, m.l) 1. (jool.) Qaybta adag ee qolofta dhulka, taas oo ku kala fidsan gun gaaraysa ilaa iyo 65 Km. (40 mayl) ka hos dhulka dushiisa. 2. (jool.) Qaybta u serraysa dhulka ee ka sarraysa xarriiga moho, garadeeduna waa 8 ilaa 40km. badanaa waxay ka koobantahay dhadhaabo shiileed.
+
+oohi f.mg2 (-iyay, -isay) Ka o.: cid oohin ka keenid. ld boohi, ooy.
+
 oohin¹ m.f.dh eeg oohi. ld boohin.
 oohin² m.dh Dareen qofka ilmo ka keena.
 oojiniisis m.l (baay.) Soo saarista iyo korista
