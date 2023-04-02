@@ -4977,6 +4977,7 @@ hugis m.l H. ah: maro, busto iwm oo dusha la iska saaro.
 hugmid m.f.dh eeg hugan¹.
 
 hugnaan m.dh ld hugsanaan.
+
 hugnaansho m.l/dh ld hugsanaan.
 
 hugo f.g3 (-gtay, -gatay) Maro, buste iwm dusha iska saarid ld hugso.
@@ -4986,511 +4987,572 @@ hugsan f.mg4 (-naa, -nayd) Maro, raar iwm wax dusha laga saaray ahaansho. ld hug
 hugsanaan m.f.dh eeg hugsan. ld hugnaan, hugnaansho, hugsanaansho.
 
 hugsanaansho m.l/dh ld hugsanaan.
+
 hugsasho m.f.dh ld hugasho.
+
 hugso f.g3 (-saday, -satay) ld hugo.
-huguf m.l Dabayl firo leh oo ay wax soconayaa
-kacshaan.
-hugun m.l (-nno/-ummo, m.dh) Shanqar
-xoog leh.
-hujuum m.l Weerar cid lagu qaado. ld
-hujuun¹.
+
+huguf m.l Dabayl firo leh oo ay wax soconayaa kacshaan.
+
+hugun m.l (-nno/-ummo, m.dh) Shanqar xoog leh.
+
+hujuum m.l Weerar cid lagu qaado. ld hujuun¹.
+
 hujuumid m.f.dh eeg hujuun².
+
 hujuun¹ m.l ld hujuum.
-hujuun² f.g1 (-umay, -untay; -umi) Cid
-weerar ku qaadid.
+
+hujuun² f.g1 (-umay, -untay; -umi) Cid weerar ku qaadid.
+
 hul¹ m.l (-lal, m.l) God yar oo ciriiri ah.
-hul² f.g1 (-ulay, -ushay) Meel qodid ama
-daloolin.
-hulaan m.l/dh Hul dheer oon salkiisu muuqan,
-bahalladuna galaan.
-hulaaq¹ m.l Gaaridda dab qoryo ama dhuxul la
-shiday wada gaaro. ld hulaaqid.
+
+hul² f.g1 (-ulay, -ushay) Meel qodid ama daloolin.
+
+hulaan m.l/dh Hul dheer oon salkiisu muuqan, bahalladuna galaan.
+
+hulaaq¹ m.l Gaaridda dab qoryo ama dhuxul la shiday wada gaaro. ld hulaaqid.
+
 hulaaq² f.mg1 (-qay, -qday) Dab shidmid.
+
 hulaaqid m.f.dh eeg hulaaq². ld hulaaq¹.
-hulan f.mg4 (-lnaa, -lnayd) God si hul ah loo
-qoday ahaansho.
-hulbi f.g2 (-iyay, -isay) 1. Ari cayrin. 2. Wax
-dedejin.
+
+hulan f.mg4 (-lnaa, -lnayd) God si hul ah loo qoday ahaansho.
+
+hulbi f.g2 (-iyay, -isay) 1. Ari cayrin. 2. Wax dedejin.
+
 hulbin m.f.dh eeg hulbi.
+
 hule m.l Cudur qanjirrada gala oo baabi'iya.
+
 huleel¹ m.l ld huleelid.
-huleel² f.mg1 (-eelay, -eeshay) Ka h.: Wax la
-rabay oo laga quustay iyada oo la cagajiidayo
-ka tegid.
-huleeli f.g2 (-iyay, -isay) Ka h.: cid wax ay
-lahayd ka dhaqaajin iyadoo xoog lagu
-muquuninayo.
+
+huleel² f.mg1 (-eelay, -eeshay) Ka h.: Wax la rabay oo laga quustay iyada oo la cagajiidayo ka tegid.
+
+huleeli f.g2 (-iyay, -isay) Ka h.: cid wax ay lahayd ka dhaqaajin iyadoo xoog lagu muquuninayo.
+
 huleelid m.f.dh eeg huleel². ld huleel¹.
+
 huleelin m.f.dh eeg huleeli. ld huleelis.
+
 huleelis m.l ld huleelin.
-hulgan f.mg4 (-naa, -nayd) Wax aan wax u
-dhammeystirnayn ahaansho.
-hulganaan m.f.dh eeg hulgan. ld hulganaan-
-sho
+
+hulgan f.mg4 (-naa, -nayd) Wax aan wax u dhammeystirnayn ahaansho.
+
+hulganaan m.f.dh eeg hulgan. ld hulganaan-sho
+
 hulganaansho m.l/dh ld hulganaan.
+
 hulge m.l.kh H. ah: qof wax matare ah.
+
 hulid m.f.dh eeg hul².
+
 hulkamid m.f.dh eeg hulkan². ld hulkan¹.
+
 hulkan¹ m.l ld hulkamid.
-hulkan² f.mg1 (-amay, -antay; -ami) Dab olol
-bixin.
-hulkujir m.dh (-rro, m.l) Feer yarada geelu
-meesha ay ka haysato lafdhabarka hilibka ku
-yaal. ld dhuumato, hulkujire.
+
+hulkan² f.mg1 (-amay, -antay; -ami) Dab olol bixin.
+
+hulkujir m.dh (-rro, m.l) Feer yarada geelu meesha ay ka haysato lafdhabarka hilibka ku yaal. ld dhuumato, hulkujire.
+
 hulkujire m.dh ld hulkujir.hundo
-hullaab m.dh 1. Qaabka marada qaarka sare
-looga huwado. 2. Marada qaarka sare laga
-qaato inteeda madaxa lagu dedo. 3. ld
-hullaabid.
+
+hullaab m.dh 1. Qaabka marada qaarka sare looga huwado. 2. Marada qaarka sare laga qaato inteeda madaxa lagu dedo. 3. ld hullaabid.
+
 hullaabad m.l ld hullaabasho.
-hullaabasho m.f.dh eeg hullaabo. ld hillaabad,
-hillaabasho, hullaabad.
-hullaabid m.f.dh eeg hullow. ld hillaab,
-hillaabid, hillaab¹ (3).
-hullaabo f.g3 (-btay, -batay) Maro qaarka sare
-ku dedasho. ld hillaabo.
+
+hullaabasho m.f.dh eeg hullaabo. ld hillaabad, hillaabasho, hullaabad.
+
+hullaabid m.f.dh eeg hullow. ld hillaab, hillaabid, hillaab¹ (3).
+
+hullaabo f.g3 (-btay, -batay) Maro qaarka sare ku dedasho. ld hillaabo.
+
 hullasho m.f.dh eeg hullo.
-hullo f.mg3 (-laday, -latay) Ugu h.: cid wax
-ugu gambasho.
-hullow f.g1 (-oobay, -owday; -oobi) Wax ku
-hilid. ld hillow.
+
+hullo f.mg3 (-laday, -latay) Ugu h.: cid wax ugu gambasho.
+
+hullow f.g1 (-oobay, -owday; -oobi) Wax ku hilid. ld hillow.
+
 hulnaan m.f.dh eeg hulan. ld hulnaansho.
+
 hulnaansho m.l/dh ld hulnaan.
+
 hulqe m.l (-qayaal, m.l/dh) Waxmatare; liid.
-hululuf m.dh 1. Maro weyn oo dumarku
-qaataan; saddexqayd. 2. (sh.r) Cod lagu
-muujiyo shanqar maro ah.
+
+hululuf m.dh 1. Maro weyn oo dumarku qaataan; saddexqayd. 2. (sh.r) Cod lagu muujiyo shanqar maro ah.
+
 huluul m.dh ld xuluul.
+
 huluulad m.l ld xuluulasho.
+
 huluulasho m.dh ld xuluulasho.
-huluulo f.g/mg3 (-uushay, -uulatay) ld
-xaluulo.
-huluuq¹ m.l 1. Qaab loo tolo dharka la
-xiranayo. 2. ld huluuqid.
-huluuq² f.g1 (-qay, -qday) Si debacsan oo kala
-fog-fog dhar u tolid.
-huluuqan f.mg4 (-qnaa, -qnayd) Dhar si
-debacsan oo kala fog-fog loo tolay ahaansho.
+
+huluulo f.g/mg3 (-uushay, -uulatay) ld xaluulo.
+
+huluuq¹ m.l 1. Qaab loo tolo dharka la xiranayo. 2. ld huluuqid.
+
+huluuq² f.g1 (-qay, -qday) Si debacsan oo kala fog-fog dhar u tolid.
+
+huluuqan f.mg4 (-qnaa, -qnayd) Dhar si debacsan oo kala fog-fog loo tolay ahaansho.
+
 huluuqid m.f.dh eeg huluuq². ld huluuq¹ (2).
-huluuqnaan m.f.dh eeg huluuqan. ld
-huluuqnaansho.
+
+huluuqnaan m.f.dh eeg huluuqan. ld huluuqnaansho.
+
 huluuqnaansho m.l/dh ld huluuqnaan.
+
 humasho m.f.dh eeg humo.
-humbaalle m.l 1. Qaab orod ama socod ah oo
-qof wax cabsiinaya sameeyo. 2. ld
-humbaalleyn.
-humbaallee f.mg2 (-leeyay, -leysay) Hum-
-baalle samayn.
-humbaalleyn m.f.dh eeg humbaallee. ld
-humbaalle (2).
-humbul¹ m.l (-llo, m.dh) 1. (u) Geed isku
-cufan oo hoos wanaagsan iyo miro macaan
-iwm. 2. H. ah: wax isku cufan.
-humbul² f.g1 (-ulay, -ushay) Wax, wax ku
-hilid.
-humbulan f.mg4 (-lnaa, -lnayd) Wax qaab
-humbul ah leh ahaansho.
+
+humbaalle m.l 1. Qaab orod ama socod ah oo qof wax cabsiinaya sameeyo. 2. ld humbaalleyn.
+
+humbaallee f.mg2 (-leeyay, -leysay) Hum-baalle samayn.
+
+humbaalleyn m.f.dh eeg humbaallee. ld humbaalle (2).
+
+humbul¹ m.l (-llo, m.dh) 1. (u) Geed isku cufan oo hoos wanaagsan iyo miro macaan iwm. 2. H. ah: wax isku cufan.
+
+humbul² f.g1 (-ulay, -ushay) Wax, wax ku hilid.
+
+humbulan f.mg4 (-lnaa, -lnayd) Wax qaab humbul ah leh ahaansho.
+
 humbulid m.f.dh eeg humbul².
-humbulnaan m.f.dh eeg humbulan. ld
-humbulnaansho.
+
+humbulnaan m.f.dh eeg humbulan. ld humbulnaansho.
+
 humbulnaansho m.l/dh ld humbulnaan.
-humbuluuluq¹ m.l Meel oogada ka mid ah oo
-gubatay dabadeed biyo gashatay. ld
-hambalaalaq¹ (2).
-humbuluuluq² f.mg1 (-qay, -qday) Meel
-gubatay biyo gashasho. ld hambalaalaq².
-humbuluuluqid m.f.dh eeg humbuluuluq². ld
-hambalaalaqid.
-humbuqo m.dh Laalaabka tolmada xumi
-maryaha u yeesho; canyayuub.
-humburuq m.dh (-qyo, m.l) Nooc qoolleyda
-ka mid ah oo yaryar.
+
+humbuluuluq¹ m.l Meel oogada ka mid ah oo gubatay dabadeed biyo gashatay. ld hambalaalaq¹ (2).
+
+humbuluuluq² f.mg1 (-qay, -qday) Meel gubatay biyo gashasho. ld hambalaalaq².
+
+humbuluuluqid m.f.dh eeg humbuluuluq². ld hambalaalaqid.
+
+humbuqo m.dh Laalaabka tolmada xumi maryaha u yeesho; canyayuub.
+
+humburuq m.dh (-qyo, m.l) Nooc qoolleyda ka mid ah oo yaryar.
+
 humhumasho m.f.dh eeg humhumo.
-humhumo f.g3 (-saday, -satay) Maro duug ah
-toltolasho.
+
+humhumo f.g3 (-saday, -satay) Maro duug ah toltolasho.
+
 humid m.f.dh eeg hun².
-hummaag m.l (-gyo, m.dh) Muuqaal aan si
-fiican loo arag.
+
+hummaag m.l (-gyo, m.dh) Muuqaal aan si fiican loo arag.
+
 hummaagsad m.l ld hummaagsasho.
-hummaagsasho m.f.dh eeg hummaagso. ld
-hummaagsad, hummaagsi.
+
+hummaagsasho m.f.dh eeg hummaagso. ld hummaagsad, hummaagsi.
+
 hummaagsi m.l ld hummaagsasho.
-hummaagso f.mg3 (-saday, -satay) Wax aan si
-fiican u muuqan eegid.
-hummaaji f.g2 (-iyay, -isay) Wax cid u baacin
-si loo cabsi geliyo.
-hummaajin m.f.dh eeg hummaaji. ld
-hummaajis.
+
+hummaagso f.mg3 (-saday, -satay) Wax aan si fiican u muuqan eegid.
+
+hummaaji f.g2 (-iyay, -isay) Wax cid u baacin si loo cabsi geliyo.
+
+hummaajin m.f.dh eeg hummaaji. ld hummaajis.
+
 hummajis m.l ld hummajin.
-humo f.g3 (-untay, -umatay) Maro duug ah
-tolasho.
+
+humo f.g3 (-untay, -umatay) Maro duug ah tolasho.
+
 hun¹ m.l Maro aad duug u ah.
-hun² f.g1 (-umay, -untay; -umi) Maro duug
-ah tolid.
+
+hun² f.g1 (-umay, -untay; -umi) Maro duug ah tolid.
+
 hundho m.l Gobaha qoriga ka samaysan.
-hundhur¹ m.l Madax foorarinta qof madaxa
-hoos u foorariyo murugo ama ciil dartiis.
-hundhur² f.mg1 (-ray, -rtay) Qof madaxa
-hoos u foorarin ciil ama murugo dartiis.
+
+hundhur¹ m.l Madax foorarinta qof madaxa hoos u foorariyo murugo ama ciil dartiis.
+
+hundhur² f.mg1 (-ray, -rtay) Qof madaxa hoos u foorarin ciil ama murugo dartiis.
+
 hundhurid m.f.dh eeg hundhur².
+
 hundhursad m.l ld hundhursasho.
-hundhursan f.mg4 (-naa, -nayd) Wax
-hundhura ahaansho (qof).
-hundhursanaan m.f.dh eeg hundhursan. ld
-hundhursanaansho.
-hundhursanaansho m.l/dh ld hundhur-
-sanaan.
-hundhursasho m.f.dh eeg hundhurso. ld
-hundhursad, hundhursi.
+
+hundhursan f.mg4 (-naa, -nayd) Wax hundhura ahaansho (qof).
+
+hundhursanaan m.f.dh eeg hundhursan. ld hundhursanaansho.
+
+hundhursanaansho m.l/dh ld hundhur-sanaan.
+
+hundhursasho m.f.dh eeg hundhurso. ld hundhursad, hundhursi.
+
 hundhursi m.l ld hundhursasho.
-hundhurso f.mg3 (-saday, -satay) Ciil murugo
-darteed madaxa hoos u foorarin (qof).
-hundo m.dh Dhul carrasan ah, hawd ahayn,
-leh bannaanno, kuro, togag, biyaqabatinno,
-iwm.
-421hundud
-hundud f.mg1 (-day, -dday) Cid hoos u
-foorarid. ld rundud.
+
+hundhurso f.mg3 (-saday, -satay) Ciil murugo darteed madaxa hoos u foorarin (qof).
+
+hundo m.dh Dhul carrasan ah, hawd ahayn, leh bannaanno, kuro, togag, biyaqabatinno, iwm.
+
+hundud f.mg1 (-day, -dday) Cid hoos u foorarid. ld rundud.
+
 hundudid m.f.dh eeg hundud. ld rundudid.
-hunfey m.dh (-yo, m.l) Nooc shimbiraha ka
-mid ah oo hilibka iwm dafta; dafo.
-hungee f.g2 (-geeyay, -geysay) Cid hungo
-badid.
+
+hunfey m.dh (-yo, m.l) Nooc shimbiraha ka mid ah oo hilibka iwm dafta; dafo.
+
+hungee f.g2 (-geeyay, -geysay) Cid hungo badid.
+
 hungeyn m.f.dh eeg hungee.
+
 hungid m.dh ld hongid.
-hungo m.dh 1. Meel aan waxba oollayn. 2. ld
-hingo¹.
+
+hungo m.dh 1. Meel aan waxba oollayn. 2. ld hingo¹.
+
 hungod m.dh ld hongod.
+
 hungoobid m.f.dh eeg hungow.
-hungow f.mg1 (-oobay, -owday; -oobi) Cid
-wax seegid.
-hunguri¹ m.l 1. (-iyo, m.dh) Dhuunta afka,
-sanka iyo caloosha nafleyda isu haysa oo
-cuntadu marto. 2. ld hunguri-cad. 2. Cun-
-to.
-hunguri² m.l (-iyo, m.l) (c.nafl.) Qaybta
-dheefmareenka ee u dhaxayso dalqada iyo
-caloosha. Waa dhuun muruqaysan oo
-shaqadeedu tahay inay cuntada u gudbiso
-caloosha. Habka isku soo ururka ee ay
-cuntada u gudbisana waxa loo yaqaan
-dubaaxis. 2. ld hungiri-cad.
-hunguricad¹ m.l 1. Xubin dhuunta ka mid ah
-oo neeftu marto. 2. ld hunguri.
-hunguricad² m.l (-dyo, m.dh) (c.nafl.) Dhuun
-haweedka lafdhabarleyda neefta qaadataa:
-waa dhuun hawada ka soo qaadda hunguri
-cadka una gudbisa farac hunguri cadka, waxa
-adkeeya maraaryo qaybo ah oo carjaw ka
-samaysan.
-hungurijuqjuq m.l Rabitaan dheeraad ah oo
-cid ku dhaliya in ay cuntada sugi weydo.
-hunguriweyn f.mg4 (-naa, -nayd) Qof
-dhuuni ah ahaansho.
-hunguriweynaan m.f.dh eeg guriweyn. ld
-hunguriweynaansho, hunguriweyni.
-hunguriweynaansho m.l/dh ld hunguri-
-weynaan.
-hunguriweyne m.l (-nayaal, m.l/dh) Qof
-dhuuni ah.
+
+hungow f.mg1 (-oobay, -owday; -oobi) Cid wax seegid.
+
+hunguri¹ m.l 1. (-iyo, m.dh) Dhuunta afka, sanka iyo caloosha nafleyda isu haysa oo cuntadu marto. 2. ld hunguri-cad. 2. Cun-to.
+
+hunguri² m.l (-iyo, m.l) (c.nafl.) Qaybta dheefmareenka ee u dhaxayso dalqada iyo caloosha. Waa dhuun muruqaysan oo shaqadeedu tahay inay cuntada u gudbiso caloosha. Habka isku soo ururka ee ay cuntada u gudbisana waxa loo yaqaan dubaaxis. 2. ld hungiri-cad.
+
+hunguricad¹ m.l 1. Xubin dhuunta ka mid ah oo neeftu marto. 2. ld hunguri.
+
+hunguricad² m.l (-dyo, m.dh) (c.nafl.) Dhuun haweedka lafdhabarleyda neefta qaadataa: waa dhuun hawada ka soo qaadda hunguri cadka una gudbisa farac hunguri cadka, waxa adkeeya maraaryo qaybo ah oo carjaw ka samaysan.
+
+hungurijuqjuq m.l Rabitaan dheeraad ah oo cid ku dhaliya in ay cuntada sugi weydo.
+
+hunguriweyn f.mg4 (-naa, -nayd) Qof dhuuni ah ahaansho.
+
+hunguriweynaan m.f.dh eeg guriweyn. ld hunguriweynaansho, hunguriweyni.
+
+hunguriweynaansho m.l/dh ld hunguri-weynaan.
+
+hunguriweyne m.l (-nayaal, m.l/dh) Qof dhuuni ah.
+
 hunguriweyni m.dh ld hunguriweynaan.
-hungurixume m.l (-mayaal, m.l/dh) Qof
-dhuuni ah.
+
+hungurixume m.l (-mayaal, m.l/dh) Qof dhuuni ah.
+
 hungurixumo m.dh Si xun oo wax loo doono.
-hunguriyee f.g2 (-yeeyay, -yeysay) Wax
-damcid.
+
+hunguriyee f.g2 (-yeeyay, -yeysay) Wax damcid.
+
 hunguriyeyn m.f.dh eeg hunguriyee.
-hunguriyoo f.mg3 (-ooday, -ootay) U h.: wax
-damcid (qof).
+
+hunguriyoo f.mg3 (-ooday, -ootay) U h.: wax damcid (qof).
+
 hunguriyood m.f.l eeg hunguriyoo.
-422
-hunnati m.l (-iyo, m.dh) 1. Sun qatar ah.
-2. Waxmatare.
-hunnuhunnu m.dh 1. Hadal hoos loo yiri oo
-aan si wacan loo maqlayn. 2. War aan la
-hubin.
+
+hunnati m.l (-iyo, m.dh) 1. Sun qatar ah. 2. Waxmatare.
+
+hunnuhunnu m.dh 1. Hadal hoos loo yiri oo aan si wacan loo maqlayn. 2. War aan la hubin.
+
 hunqaac f.mg1 (-cay, -cday) Mantagid.
+
 hunqaaci f.g2 (-iyay, -isay) Qof mantajin.
+
 hunqaacid m.f.dh eeg hunqaac.
+
 hunqaacin m.f.dh eeg hunqaaci.
+
 hunqaaco m.dh Matag.
+
 hunri m.l Kulayl badan ee qorraxeed.
+
 hunug f.mg1 (-ngay, -nugtay) ld honog².
+
 hunyuc¹ m.l ld huyuc¹.
+
 hunyuc² f.mg1 (-cay, -cday) ld huyuc².
+
 hunyucsad m.l ld hunyucsasho.
+
 hunyucsan f.mg4 (-naa, -nayd) ld huyucsan.
+
 hunyucsanaan m.dh ld huyucsanaan.
+
 hunyucsanaansho m.l/dh ld huyucsanaan.
-hunyucsasho m.f.dh eeg hunyucso. ld
-hunyucsad, hunyucsi
+
+hunyucsasho m.f.dh eeg hunyucso. ld hunyucsad, hunyucsi
+
 hunyucsi m.l ld hunyucsasho.
-hunyucso f.g3 (-saday, -satay) Wax meel ku
-huursasho.
-huq m.dh 1. Dareen xooggan oo murugo leh.
-2. Uurkutaallo.
-hur f.g/mg1 (-ray, -rtay) 1. (f.g) U h.: cid wax
-u hibayn. 2. (f.mg) Dab bixid.
-huraanhuriye m.l Nooc ka mid ah mariidka
-oo neefka ku rida neeftuur badan, sidii
-isagoo orod aad u dheer soo galay neefta ku
-xiranta dabadeedna wuu dhintaa.
-huran f.mg4 (-rnaa, -rnayd) Wax lagu
-khasbanyahay ahaansho. ld hurran.
+
+hunyucso f.g3 (-saday, -satay) Wax meel ku huursasho.
+
+huq m.dh 1. Dareen xooggan oo murugo leh. 2. Uurkutaallo.
+
+hur f.g/mg1 (-ray, -rtay) 1. (f.g) U h.: cid wax u hibayn. 2. (f.mg) Dab bixid.
+
+huraanhuriye m.l Nooc ka mid ah mariidka oo neefka ku rida neeftuur badan, sidii isagoo orod aad u dheer soo galay neefta ku xiranta dabadeedna wuu dhintaa.
+
+huran f.mg4 (-rnaa, -rnayd) Wax lagu khasbanyahay ahaansho. ld hurran.
+
 hurdamid m.f.dh eeg hurdan².
-hurdan¹ m.l Ciyaar gaar ah oo haraati ama
-laad dadban la isladhaco.
-hurdan² f.mg1 (-amay, -antay; -ami) Hurdan
-ciyaarid.
-hurdansii f.g2 (-iiyay, -iisay) Laba wiil hurdan
-ciyaarsiin.
+
+hurdan¹ m.l Ciyaar gaar ah oo haraati ama laad dadban la isladhaco.
+
+hurdan² f.mg1 (-amay, -antay; -ami) Hurdan ciyaarid.
+
+hurdansii f.g2 (-iiyay, -iisay) Laba wiil hurdan ciyaarsiin.
+
 hurdansiin m.f.dh eeg hurdansii.
-hurdeysan f.mg4 (-snaa, -snayd) Cid hurdo
-hayso ahaansho.
-hurdeysii f.g2 (-iiyay, -iisay) Cid seexin. ld
-hurdisii.
+
+hurdeysan f.mg4 (-snaa, -snayd) Cid hurdo hayso ahaansho.
+
+hurdeysii f.g2 (-iiyay, -iisay) Cid seexin. ld hurdisii.
+
 hurdeysiin m.f.dh eeg hurdeysii. ld hurdisiin.
-hurdeysnaan m.f.dh eeg hurdeysan. ld
-hurdeysnaansho.
+
+hurdeysnaan m.f.dh eeg hurdeysan. ld hurdeysnaansho.
+
 hurdeysnaansho m.l/dh ld hurdeysnaan.
-hurdi¹ m.l Midab u dhexeeya midabka
-cagaarka iyo kan liinta una eg midabka
-sacfaraanka.
+
+hurdi¹ m.l Midab u dhexeeya midabka cagaarka iyo kan liinta una eg midabka sacfaraanka.
+
 hurdi² f.g2 (-iyay, -isay) Seexin.
+
 hurdid m.f.dh eeg hurud.
+
 hurdin m.f.dh eeg hurdin.huruusho
+
 hurdisii f.g2 (-iiyay, -iisay) ld hurdeysii.
+
 hurdisiin m.dh ld hurdeysiin.
-hurdo m.dh Xaalad xubnaha jirka nafleydu
-nasasho ku jiraan, indhaha la isku hayo oo
-aan garaadka iyo maankuba shaqaynayn.
-hurdo diid m.l Nooc ka mid ah ciyaaraha la
-raacsiiyo muusikada shareero, waxaana
-ciyaara beeraleyda ku sugan degaanka webiga
-Shabeelle.
-hurdoo f.mg3 (-ooday, -ootay) Cid hurdo
-dareemid.
+
+hurdo m.dh Xaalad xubnaha jirka nafleydu nasasho ku jiraan, indhaha la isku hayo oo aan garaadka iyo maankuba shaqaynayn. 
+
+hurdo-diid m.l Nooc ka mid ah ciyaaraha la raacsiiyo muusikada shareero, waxaana ciyaara beeraleyda ku sugan degaanka webiga Shabeelle.
+
+hurdoo f.mg3 (-ooday, -ootay) Cid hurdo dareemid.
+
 hurdood m.f.l eeg hurdoo.
-hurdoqar m.l Hurdo weyn oo aan qofka la
-kicin karayn.
-hurdoyari m.dh (daaw.) Hurdo imaasho la'aan
-ama seexasho la'aan muddo caadi ah, taas oo
-keenta daal joogto ah.
-hurguf¹ m.l Jafidda habaas, biyo iwm wax laga
-jafo. ld hurgufid.
-hurguf² f.g1 (-fay, -ftay) Habaas, biyo iwm
-wax ka daadin.
-hurgufan f.mg4 (-fnaa, -fnayd) Wax la jafay
-ahaansho.
+
+hurdoqar m.l Hurdo weyn oo aan qofka la kicin karayn.
+
+hurdoyari m.dh (daaw.) Hurdo imaasho la'aan ama seexasho la'aan muddo caadi ah, taas oo keenta daal joogto ah.
+
+hurguf¹ m.l Jafidda habaas, biyo iwm wax laga jafo. ld hurgufid.
+
+hurguf² f.g1 (-fay, -ftay) Habaas, biyo iwm wax ka daadin.
+
+hurgufan f.mg4 (-fnaa, -fnayd) Wax la jafay ahaansho.
+
 hurgufasho m.f.dh eeg hurgufo.
+
 hurgufid m.f.dh eeg hurguf². ld hurguf¹.
-hurgufnaan m.f.dh eeg hurgufan. ld
-hurgufnaansho.
+
+hurgufnaan m.f.dh eeg hurgufan. ld hurgufnaansho.
+
 hurgufnaansho m.l/dh ld hurgufnaan.
-hurgufo f.g3 (-ftay, -fatay) Maro, derin iwm
-habaas, biyo iwm ka jafasho.
+
+hurgufo f.g3 (-ftay, -fatay) Maro, derin iwm habaas, biyo iwm ka jafasho.
+
 hurgumasho m.f.dh eeg hurgumo.
-hurgumeysan f.mg4 (-snaa, -snayd) Wax
-hurgumo ku jirto ahaansho. ld hurgunsan.
-hurgumeysnaan m.f.dh eeg hurgumeysan. ld
-hurgumeysnaansho,
-hurgunsanaan,
-hurgunsanaansho.
-hurgumeysnaansho m.l/dh ld hurgumeys-
-naan.
-hurgumi f.g2 (-iyay, -isay) Meel hore oo
-bugtay caallir ku ridid.
+
+hurgumeysan f.mg4 (-snaa, -snayd) Wax hurgumo ku jirto ahaansho. ld hurgunsan.
+
+hurgumeysnaan m.f.dh eeg hurgumeysan. ld hurgumeysnaansho, hurgunsanaan, hurgunsanaansho.
+
+hurgumeysnaansho m.l/dh ld hurgumeys- naan.
+
+hurgumi f.g2 (-iyay, -isay) Meel hore oo bugtay caallir ku ridid.
+
 hurgumid m.f.dh eeg hurgun².
+
 hurgumin m.f.dh eeg hurgumi.
+
 hurgumo¹ m.dh ld hurgun¹.
-hurgumo² f.mg3 (-untay, -umatay) Aroor
-hore socod gelid.
-hurgun¹ m.l Caalirka iyo fasaska ku dhaca
-meel hore u jirranayd. ld hurgumo¹.
-hurgun² m.l (daaw.) Dhiig ku uruursamid
-xubin dhexdeed. Waxaana keena cadaadiska
-ku soo noqda xididdada dhiigga cabburidda
-sambabada iyo beerka waxay dhacdaa markii
-uu wadnuhu hawl gabo.
-hurgun³ f.mg1 (-umay, -untay; -umi) Meel
-hore u bugtay hoos ka caalirid.
-hurgunsan f.mg4 (-naa, -nayd) ld
-hurgumeysan.
+
+hurgumo² f.mg3 (-untay, -umatay) Aroor hore socod gelid.
+
+hurgun¹ m.l Caalirka iyo fasaska ku dhaca meel hore u jirranayd. ld hurgumo¹.
+
+hurgun² m.l (daaw.) Dhiig ku uruursamid xubin dhexdeed. Waxaana keena cadaadiska ku soo noqda xididdada dhiigga cabburidda sambabada iyo beerka waxay dhacdaa markii uu wadnuhu hawl gabo.
+
+hurgun³ f.mg1 (-umay, -untay; -umi) Meel hore u bugtay hoos ka caalirid.
+
+hurgunsan f.mg4 (-naa, -nayd) ld hurgumeysan.
+
 hurgunsanaan m.dh ld hurgumaysnaan.
+
 hurgunsanaansho m.l/dh ld hurgumeys-naan.
-huri f.g2 (-iyay, -isay) 1. Dab shididdiisa
-bilaabid. 2. Dab ololin.
+
+huri f.g2 (-iyay, -isay) 1. Dab shididdiisa bilaabid. 2. Dab ololin.
+
 hurid m.f.dh eeg hur². ld huris².
+
 hurin m.f.dh eeg huri. ld huris¹.
+
 huris¹ m.l ld hurin.
+
 huris² m.dh ld hurid.
-huriwaa m.l.kh H. ah: wax lagu qasbanyahay
-oo meel kale oo laga maro aysan jirin. ld
-huriweyto.
+
+huriwaa m.l.kh H. ah: wax lagu qasbanyahay oo meel kale oo laga maro aysan jirin. ld huriweyto.
+
 huriweyto m.dh.kh ld huriwaa.
-huriye m.l (-yayaal, m.l/dh) 1. (dii.) Qof
-kaniisad ka heesa. 2. (riw.) Qof ka mid ah
-koox heesta.
-hurmadow m.l 1. Maduulka ay yeeshaan
-weelasha dabka la saaro. 2. Qoryo dab lagu
-shiday oo qaar ka mid ahi gubtay. ld
-hormadow.
-hurnaan m.f.dh eeg huran. ld hurnaansho,
-hurranaan, hurranaansho.
+
+huriye m.l (-yayaal, m.l/dh) 1. (dii.) Qof kaniisad ka heesa. 2. (riw.) Qof ka mid ah koox heesta.
+
+hurmadow m.l 1. Maduulka ay yeeshaan weelasha dabka la saaro. 2. Qoryo dab lagu shiday oo qaar ka mid ahi gubtay. ld hormadow.
+
+hurnaan m.f.dh eeg huran. ld hurnaansho, hurranaan, hurranaansho.
+
 hurnaansho m.l/dh ld hurnaan.
+
 hurran f.mg4 (-naa, -nayd) ld huran.
+
 hurranaan m.dh ld hurnaan.
+
 hurranaansho m.l/dh ld hurnaan.
+
 hurre m.l Midab madow-dhalaal ah.
+
 hurrun m.l (-nno, m.dh) Meel dhir badan; jiq.
-hursan f.mg4 (-naa, -nayd) Wax la huriyey
-ahaansho (dab).
-hursanaan m.f.dh eeg hursan. ld hursa-
-naansho.
+
+hursan f.mg4 (-naa, -nayd) Wax la huriyey ahaansho (dab).
+
+hursanaan m.f.dh eeg hursan. ld hursa-naansho.
+
 hursanaansho m.l/dh ld hursanaan.
-hurud f.mg1 (-rday, -rudday; -rdi) Hurdo
-dhex gelid.
-huruud m.dh 1. Sacfaraan. 2. Budo hurdi ah
-oo haweenku wejiga, gacmaha iyo lugaha ku
-qurxistaan.
+
+hurud f.mg1 (-rday, -rudday; -rdi) Hurdo dhex gelid.
+
+huruud m.dh 1. Sacfaraan. 2. Budo hurdi ah oo haweenku wejiga, gacmaha iyo lugaha ku qurxistaan.
+
 huruudsad m.l ld huruudsasho.
-huruudsasho m.f.dh eeg huruudso. ld
-huruudsad.
-huruudso f.mg3 (-saday, -satay) Huruud
-marsasho.
-huruuf¹ m.l 1. Astaan wejiga laga muujiyo oo
-cid colaad loogu muujinayo. 2. ld huruufid.
-huruuf² f.g1 (-fay, -ftay) Cid colaad wejiga
-uga muujin.
-huruufid m.f.dh eeg huruuf². ld haruuf¹,
-haruufid, huruuf¹ (2).
-huruushad f.mg1 (-day, -dday) Dhuxul
-noqosho (wax).
+
+huruudsasho m.f.dh eeg huruudso. ld huruudsad.
+
+huruudso f.mg3 (-saday, -satay) Huruud marsasho.
+
+huruuf¹ m.l 1. Astaan wejiga laga muujiyo oo cid colaad loogu muujinayo. 2. ld huruufid.
+
+huruuf² f.g1 (-fay, -ftay) Cid colaad wejiga uga muujin.
+
+huruufid m.f.dh eeg huruuf². ld haruuf¹, haruufid, huruuf¹ (2).
+
+huruushad f.mg1 (-day, -dday) Dhuxul noqosho (wax).
+
 huruushadid m.f.dh eeg huruushad.
-huruusho m.dh (-ooyin, m.l) Wax dhuxul
-noqday.
-423huruushoo
-huruushoo f.mg3 (-ooday, -ootay) Dhuxul
-noqosho (wax dab ku gubtay).
+
+huruusho m.dh (-ooyin, m.l) Wax dhuxul noqday.
+
+huruushoo f.mg3 (-ooday, -ootay) Dhuxul noqosho (wax dab ku gubtay).
+
 huruushood m.f.l eeg huruushoo.
-huryo m.dh (-ooyin, m.) 1. Dawacada keeda
-dheddigga ah. 2. Shimbir yar oo ganfuur cas
-oo geela garbaha ka cunta; jirri.
+
+huryo m.dh (-ooyin, m.) 1. Dawacada keeda dheddigga ah. 2. Shimbir yar oo ganfuur cas oo geela garbaha ka cunta; jirri.
+
 hus e.d Aammus!; shib dheh!; us!
-huubo m.dh (-ooyin, m.l) 1. Meel qatar ah.
-2. God aan si fiican loo arki karin oo lagu
-dhici karo. 3. Gufarka weel salkiis ku hara.
+
+huubo m.dh (-ooyin, m.l) 1. Meel qatar ah. 2. God aan si fiican loo arki karin oo lagu dhici karo. 3. Gufarka weel salkiis ku hara.
+
 huuf¹ m.l ld hiif¹.
+
 huuf² f.g1 (-fay, -ftay) ld hiif².
-huufid m.dh 1. ld hiifid. 2. Qof soo orday neef
-gurid.
-huufsan f.mg4 (-naa, -nayd) Wax soo orday
-oo neeftuuraaya ahaansho.
-huufsanaan m.f.dh eeg huufsan. ld
-huufsanaansho.
+
+huufid m.dh 1. ld hiifid. 2. Qof soo orday neef gurid.
+
+huufsan f.mg4 (-naa, -nayd) Wax soo orday oo neeftuuraaya ahaansho.
+
+huufsanaan m.f.dh eeg huufsan. ld huufsanaansho.
+
 huufsanaansho m.l/dh ld huufsanaan.
+
 huugaan m.dh (-aamo, m.dh) Daruur.
+
 huumammow m.l ld hiimammow.
+
 huumammowsad m.l ld hiimammowsasho.
-huumammowsasho
-m.dh
-ld
-hiimammowsasho.
+
+huumammowsasho m.dh ld hiimammowsasho.
+
 huumammowsi m.l ld hiimammowsasho.
-huumammowso f.mg3 (-stay, -satay) ld
-hiimammowso.
+
+huumammowso f.mg3 (-stay, -satay) ld hiimammowso.
+
 huunfey m.dh Haad hilib cun ah oo wax dafa.
-huunyo m.dh.u Deris ku nool yaryar oo
-digaagga gasha.
-huuq m.dh Nagaar aan caleen lahayn
-laamihiisu qodax leeyihiin, wada buruq ah,
-oo arigu aad u jecelyahay.
+
+huunyo m.dh.u Deris ku nool yaryar oo digaagga gasha.
+
+huuq m.dh Nagaar aan caleen lahayn laamihiisu qodax leeyihiin, wada buruq ah, oo arigu aad u jecelyahay.
+
 huur¹ m.l Kulayl hawo la'aani keentay.
-huur² m.l (fiis.) Xaaladda gibilka marka la eego
-uumi biyoodka ku jira hawada.
-huur³ f.mg1 (-ray, -rtay) Nafley kulayl
-dareemid.
-huur-beeg m.l (-ooyin, m.l) (fiis.) Qalab loo
-sameeyay in lagu cabbiro huur u eegidda
-(huurka la isu eegayo hawada inta ku jirta
-uumi biyood iyo inta ay qaadi karto) gibilka.
-huuri¹ m.l (-iyaal, m.l/dh/-iyo, m.dh) Gaadiid
-badeed yar, bedenka ka yar oo lagu
-kalluumaysto.
-huuri² f.g2 (-iyay, -isay) 1. Wax meel aan
-dabayl lahayn dhigid. 2. Cid xabbisid.
+
+huur² m.l (fiis.) Xaaladda gibilka marka la eego uumi biyoodka ku jira hawada.
+
+huur³ f.mg1 (-ray, -rtay) Nafley kulayl dareemid.
+
+huur-beeg m.l (-ooyin, m.l) (fiis.) Qalab loo sameeyay in lagu cabbiro huur u eegidda (huurka la isu eegayo hawada inta ku jirta uumi biyood iyo inta ay qaadi karto) gibilka.
+
+huuri¹ m.l (-iyaal, m.l/dh/-iyo, m.dh) Gaadiid badeed yar, bedenka ka yar oo lagu kalluumaysto.
+
+huuri² f.g2 (-iyay, -isay) 1. Wax meel aan dabayl lahayn dhigid. 2. Cid xabbisid.
+
 huurid m.f.dh eeg huur².
+
 huurin m.f.dh eeg huuri³.
+
 huuro m.dh Wasaq ilkuhu yeeshaan.
+
 huursad m.l ld huursasho.
-huursan f.mg4 (-naa, -nayd) 1. Wax meel
-kulul la geliyey ahaansho. 2. Wax xabbis la
-geliyey ahaansho (qof).
-424
-huursanaan m.f.dh eeg huursan. ld
-huursanaansho.
-huursasho m.f.dh eeg huurso. ld huursad,
-huursi
+
+huursan f.mg4 (-naa, -nayd) 1. Wax meel kulul la geliyey ahaansho. 2. Wax xabbis la geliyey ahaansho (qof).
+
+huursanaan m.f.dh eeg huursan. ld huursanaansho.
+
+huursasho m.f.dh eeg huurso. ld huursad, huursi.
+
 huursi m.l ld huursasho.
-huurso f.g3 (-saday, -satay) Wax meel huur ah
-gashasho.
-huur-tuse m.l (-sayaal, m.l/dh) (fiis.) Qalab
-tusinaya isbeddellada huurka hawada, habka
-tusinta wuxuu u adeegsadaa isbeddellada ku
-dhaca muuqaalka iyo addimada walax.
-huur-u-eegid m.dh (fiis.) Saamiga u dhexeeya
-xaddiga dhabta ah ee uumibiyooodka ku jira
-mug lagu siiyay ee hawada ah iyo xaddiga ku
-jiri lahaa iyadoo heerkulku isku midyahay,
-badanaa waxaa lagu tibaaxaa boqolley.
+
+huurso f.g3 (-saday, -satay) Wax meel huur ah gashasho.
+
+huur-tuse m.l (-sayaal, m.l/dh) (fiis.) Qalab tusinaya isbeddellada huurka hawada, habka tusinta wuxuu u adeegsadaa isbeddellada ku dhaca muuqaalka iyo addimada walax.
+
+huur-u-eegid m.dh (fiis.) Saamiga u dhexeeya xaddiga dhabta ah ee uumibiyooodka ku jira mug lagu siiyay ee hawada ah iyo xaddiga ku jiri lahaa iyadoo heerkulku isku midyahay, badanaa waxaa lagu tibaaxaa boqolley.
+
 huutaan m.l.kh H. ah: nafley aad caato u ah.
+
 huwad m.l ld huwasho.
-huwan¹ m.dh (-nno, m.dh) Dad dano gaar ah
-heshiis ku ah.
-huwan² f.mg4 (-naa, -nayd) Cid wax ku
-daboolan ahaansho. ld hugan² (2).
-huwanaan m.f.dh eeg huwan². ld huwa-
-naansho.
+
+huwan¹ m.dh (-nno, m.dh) Dad dano gaar ah heshiis ku ah.
+
+huwan² f.mg4 (-naa, -nayd) Cid wax ku daboolan ahaansho. ld hugan² (2).
+
+huwanaan m.f.dh eeg huwan². ld huwa- naansho.
+
 huwanaansho m.l/dh ld huwanaan.
+
 huwasho m.f.dh eeg huwo. ld huwad.
-huwi f.lg2 (-iyay, -isay) Cid wax ku daboolid.
-ld huwisii.
+
+huwi f.lg2 (-iyay, -isay) Cid wax ku daboolid. ld huwisii.
+
 huwin m.f.dh eeg huwi. ld huwis, huwisiin.
-huwis m.l 1. (-syo, m.dh) Go' weyn oo tol leh
-oo la siiyo ugaasyada. 2. ld huwin.
+
+huwis m.l 1. (-syo, m.dh) Go' weyn oo tol leh oo la siiyo ugaasyada. 2. ld huwin.
+
 huwisii lg2 (-iiyay, -iisay) ld huwi.
+
 huwisiin m.dh ld huwin.
-huwo f.g3 (-waday, -watay) Wax dusha isaga
-daboolid (maro, buste iwm.).
-huy m.l Nooc ciyaaraha biyaha korkooda lagu
-ciyaaro ka mid ah oo lugaha la isla dhaco;
-shaambo.
-huyuc¹ m.l Isbeddelidda wax huuray urkoodu
-isbeddelo. ld hunyuc¹.
-huyuc² f.mg1 (-cay, -cday) Wax la huurshay
-urkooda isbeddelid. ld hunyuc².
+
+huwo f.g3 (-waday, -watay) Wax dusha isaga daboolid (maro, buste iwm.).
+
+huy m.l Nooc ciyaaraha biyaha korkooda lagu ciyaaro ka mid ah oo lugaha la isla dhaco; shaambo.
+
+huyuc¹ m.l Isbeddelidda wax huuray urkoodu isbeddelo. ld hunyuc¹.
+
+huyuc² f.mg1 (-cay, -cday) Wax la huurshay urkooda isbeddelid. ld hunyuc².
+
 huyucid m.f.dh eeg huyuc².
+
 huyucsad m.l ld huyucsasho.
-huyucsan f.mg4 (-naa, -nayd) Wax qaab xun
-oo aan kala baxsanayn leh ahaansho. ld
-hunyucsan.
-huyucsanaan m.f.dh eeg huyucsan. ld
-hunyucsanaan, hunyucsanaansho, hu-
-yucsanaansho
+
+huyucsan f.mg4 (-naa, -nayd) Wax qaab xun oo aan kala baxsanayn leh ahaansho. ld hunyucsan.
+
+huyucsanaan m.f.dh eeg huyucsan. ld hunyucsanaan, hunyucsanaansho, hu-yucsanaansho
+
 huyucsanaansho m.l ld huyucsanaan.
-huyucsasho m.f.dh eeg huyucso. ld huyucsad,
-huyucsi
-huyucsi m.l ld huyucsasho.huyucso f.mg3 (-saday, -satay) Si qaab xun
-tabar darri ku jirto u socosho.
-huyun m.l (huyun/-nno, m.dh) Geed dheer
-oo aan qodax lahayn, xabag la cunana leh, oo
-qoryihiisa weelasha siddo looga sameeyo.
-huyuumas m.l (baay.) Maatar kiimiko ahaan
-burburay ama qayb ka mid ah burburtay
-kana mid noqday carrada, kaasoo asal ahaan
-ka yimid dhir ama xayawaan. Dhulka aan
-beernayn huyumasku waxuu uga yimaadaa
+
+huyucsasho m.f.dh eeg huyucso. ld huyucsad, huyucsi
+
+huyucsi m.l ld huyucsasho.huyucso f.mg3 (-saday, -satay) Si qaab xun tabar darri ku jirto u socosho.
+
+huyun m.l (huyun/-nno, m.dh) Geed dheer oo aan qodax lahayn, xabag la cunana leh, oo qoryihiisa weelasha siddo looga sameeyo.
+
+huyuumas m.l (baay.) Maatar kiimiko ahaan burburay ama qayb ka mid ah burburtay kana mid noqday carrada, kaasoo asal ahaan
+ka yimid dhir ama xayawaan. Dhulka aan beernayn huyumasku waxuu uga yimaadaa
 dhir hore oo si dabiici ah u quruntay; dhulka
-qodan ee la beeray huyumaska wuxuu ka
-helaa digada xoolaha lagu bacrimiyo.
+qodan ee la beeray huyumaska wuxuu ka helaa digada xoolaha lagu bacrimiyo.
+
 huyuumiso m.dh ld hayaamiso (2).
