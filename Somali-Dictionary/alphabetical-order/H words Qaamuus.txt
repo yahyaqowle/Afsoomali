@@ -1754,8 +1754,6 @@ hangalleys m.l ld hangalleyn.
 
 hangaraarac m.l Cayayaan yaryar oo lugo badan leh, oogadiisuna leedahay girgiro, midabkiisuna yahay madow. ld hanqaraarac.
 
-
-
 hangaralle m.l (-layaal, m.l/dh) Harraan, dibqallooc, hanraar.
 
 hangool m.l (-llo, m.dh) Qalab qori oh oo labo gantood iyo gar soo godan leh oo reermiyigu xoolaha ku ootaan. ld hankool.
@@ -5554,6 +5552,5 @@ huyuumas m.l (baay.) Maatar kiimiko ahaan burburay ama qayb ka mid ah burburtay 
 
 huyuumiso m.dh ld hayaamiso (2).
 
-finished and completed H words
 
 
