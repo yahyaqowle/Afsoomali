@@ -711,132 +711,117 @@ uunsan f.mg4 (-naa, -nayd) 1. Wax uunsi lagu shiday ahaansho. 2. Wax la uumiyey 
 uunsanaan m.f.dh eeg uunsan. ld unsanaansho.
 
 uunsanaansho m.l/dh ld uunsanaan.
+
 uunsasho m.f.dh eeg uunso.
-uunsi m.l Walxo laysku dardaray oo laysku
-kariyey, udgoon oo loo qiijiyo in lagu carfiyo
-jir, dhar ama meel; khumkhum. ld
-uunsasho.
+
+uunsi m.l Walxo laysku dardaray oo laysku kariyey, udgoon oo loo qiijiyo in lagu carfiyo jir, dhar ama meel; khumkhum. ld uunsasho.
+
 uunso f.mg3 (-saday, -satay) Uunsi shidasho.
-uur m.l 1. Inta u dhaxaysa bogga miskaha iyo
-laba kelliyood waxa ku jira: beerka, caloosha,
-xiidmaha iwm. 2. Ilma galeenka cunuggu ku
-jira kolka uu dusha ka muuqdo oo calool
-weyn u ekaado. 3. Laabta.
+
+uur m.l 1. Inta u dhaxaysa bogga miskaha iyo laba kelliyood waxa ku jira: beerka, caloosha, xiidmaha iwm. 2. Ilma galeenka cunuggu ku jira kolka uu dusha ka muuqdo oo calool weyn u ekaado. 3. Laabta.
+
 uurayn m.f.dh eeg uuree.
+
 uuraysasho m.f.dh eeg uurayso.
+
 uurayso f.mg3 (-stay, -satay) Uur yeelasho.
-uurbays m.dh (-syo, m.l) Xirmo qaad ah oo ka
-kooban dhawr laamood.
-uurdhagax m.l Qare adag oo aan la jebin
-karin.
+
+uurbays m.dh (-syo, m.l) Xirmo qaad ah oo ka kooban dhawr laamood.
+
+uurdhagax m.l Qare adag oo aan la jebin karin.
+
 uurdhagaxoobid m.f.dh eeg uurdhagaxow.
-uurdhagaxow f.mg1 (-xoobay, -xowday)
-Uurdhagax noqosho (qare).
-uurdoox m.l Cunugga aan sida caadiga ah u
-dhalane bogga hooyadiisa laga soo saaray;
-bogdoox.
-uuree f.g/mg2 (-reeyay, -raysay) 1. Uur u
-yeelid (siiba naag aan la qabin). 2. Uuro
-kicin.
-uurgubyoo f.mg3 (-ooday, -ootay) Tiiraanyo
-aad ah dareemid.
+
+uurdhagaxow f.mg1 (-xoobay, -xowday) Uurdhagax noqosho (qare).
+
+uurdoox m.l Cunugga aan sida caadiga ah u dhalane bogga hooyadiisa laga soo saaray; bogdoox.
+
+uuree f.g/mg2 (-reeyay, -raysay) 1. Uur u yeelid (siiba naag aan la qabin). 2. Uuro kicin.
+
+uurgubyoo f.mg3 (-ooday, -ootay) Tiiraanyo aad ah dareemid.
+
 uurgubyood m.f.l eeg uurgubyoo.
-827uurjiif¹
-uurjiif¹ m.l (-fyo, m.dh) Ilmaha weli uurka ku
-jira.
-uurjiif² m.l (-fyo, m.dh) (baay.) Heerka ugu
-horreeya ee koritaanka xayawaanka, laga soo
-bilaabo marka ugxanta bacrintay ay bilowdo
-inay qaybsanto, iyada oo ku jirta organnada
-taranka ee hooyada ilaa ay ka dillaacayso ama
-ka dhalanayso.
-uurkoole m.l Magac ay caan ku yihiin herinta
-ugaarsatada ah, wuxuuna tilmaamayaa in ay
-yihiin isku uur oo aanay wax kala qarsan.
-uurkubaalle m.l.kh (-layaal, m.l/dh) 1. Qof
-hibo loo siyey in uu ogaado waxa dhici
-doona. 2. Faras ama nin aad u dheereeya.
-uurkucirroole m.l (-layaal, m.l/dh) Nin
-xaakiim ah ama waayoaragnimo dheeraad ah
-leh.
-uurkuhar m.l.kh Ilmo aabihiis dhintay iyagoo
-uurka ku jira.
-uurkujir m.dh Inta uurka ku jirta, sida: beerka,
-kelyaha, caloosha iwm; uusley.
-uurkummaanle m.l (-layaal, m.l/dh) Qof
-waxgaradnimo iyo caqli badan leh oo la
-moodo in uu la socdo waxa qofka la
-hadlayaa ku fekerayo.
-uurkuqaad m.l Illaabi waayidda la illaabi
-waayo wax lays yeelay. ld uurkusiddo.
+
+uurjiif¹ m.l (-fyo, m.dh) Ilmaha weli uurka ku jira.
+
+uurjiif² m.l (-fyo, m.dh) (baay.) Heerka ugu horreeya ee koritaanka xayawaanka, laga soo bilaabo marka ugxanta bacrintay ay bilowdo inay qaybsanto, iyada oo ku jirta organnada taranka ee hooyada ilaa ay ka dillaacayso ama ka dhalanayso.
+
+uurkoole m.l Magac ay caan ku yihiin herinta ugaarsatada ah, wuxuuna tilmaamayaa in ay yihiin isku uur oo aanay wax kala qarsan.
+
+uurkubaalle m.l.kh (-layaal, m.l/dh) 1. Qof hibo loo siyey in uu ogaado waxa dhici doona. 2. Faras ama nin aad u dheereeya.
+
+uurkucirroole m.l (-layaal, m.l/dh) Nin xaakiim ah ama waayoaragnimo dheeraad ah leh.
+
+uurkuhar m.l.kh Ilmo aabihiis dhintay iyagoo uurka ku jira.
+
+uurkujir m.dh Inta uurka ku jirta, sida: beerka, kelyaha, caloosha iwm; uusley.
+
+uurkummaanle m.l (-layaal, m.l/dh) Qof waxgaradnimo iyo caqli badan leh oo la moodo in uu la socdo waxa qofka la hadlayaa ku fekerayo.
+
+uurkuqaad m.l Illaabi waayidda la illaabi waayo wax lays yeelay. ld uurkusiddo.
+
 uurkusiddo m.dh Utun iyo ciil uurka ku raaga.
-uurkutaallaysan f.mg4 (-snaa, -snayd) Wax
-uurkutaallo hayso ahaansho.
-uurkutaallaysnaan m.f.dh eeg uurkutaallaysan.
-ld uurkutaallaysnaansho.
-uurkutaallaysnaansho
-m.l/dh
-ld
-uurkutaallaysnaan.
-uurkutaallo m.dh Dareen iyo uurxumo
-gocasho ku dheehan tahay leh.
-uurkutaalloo f.mg3 (-ooday, -ootay)
-Uurkutaallo dareemid.
+
+uurkutaallaysan f.mg4 (-snaa, -snayd) Wax uurkutaallo hayso ahaansho.
+
+uurkutaallaysnaan m.f.dh eeg uurkutaallaysan. ld uurkutaallaysnaansho.
+
+uurkutaallaysnaansho m.l/dh ld uurkutaallaysnaan.
+
+uurkutaallo m.dh Dareen iyo uurxumo gocasho ku dheehan tahay leh.
+
+uurkutaalloo f.mg3 (-ooday, -ootay) Uurkutaallo dareemid.
+
 uurkutaallood m.f.l eeg uurkutaalloo.
-uurmaran m.dh Naasley aan uurkeeda ilmo ku
-jirin.
-uuro m.dh 1. Boor ama qiiq madow oo kacsan.
-2. Biyo dhoobo ku qasantahay oo aad u
-calawsan. 3. Midab xooluhu yeeshaan oo
-madow, guduud iyo cawl isugu dhafan.
+
+uurmaran m.dh Naasley aan uurkeeda ilmo ku jirin.
+
+uuro m.dh 1. Boor ama qiiq madow oo kacsan. 2. Biyo dhoobo ku qasantahay oo aad u calawsan. 3. Midab xooluhu yeeshaan oo madow, guduud iyo cawl isugu dhafan.
+
 uuroobid m.f.dh eeg uurow.
-uuroowid m.l (baay.) Xaalad uurqaadid, marka
-shahwada labku bacrimiso ukunta dheddigga
-dhuunta falloobiyo dhexdeda.
-uurow f.mg1 (-oobay, -owday; -oobi) Uur
-qaadid ama yeelasho.
-uurqaad m.l.kh U. ah: gaaridda neef dheddig
-uu gaaro da'uu ku rimi karo; awrqaad. ld
-awrqaad.
-828
-uurrays m.l 1. Dabaggaalle. 2. Ubad geel ama
-dad oo diifeysan ama korriimmadii ka
-xumaatay.
-uursamaan m.f.dh eeg uursan. ld uursa-
-maansho.
+
+uuroowid m.l (baay.) Xaalad uurqaadid, marka shahwada labku bacrimiso ukunta dheddigga dhuunta falloobiyo dhexdeda.
+
+uurow f.mg1 (-oobay, -owday; -oobi) Uur qaadid ama yeelasho.
+
+uurqaad m.l.kh U. ah: gaaridda neef dheddig uu gaaro da'uu ku rimi karo; awrqaad. ld awrqaad.
+
+uurrays m.l 1. Dabaggaalle. 2. Ubad geel ama dad oo diifeysan ama korriimmadii ka xumaatay.
+
+uursamaan m.f.dh eeg uursan. ld uursa-maansho.
+
 uursamaansho m.l/dh ld uursamaan.
-uursami m.dh Dabci wanaagsan oo qof
-leeyahay oo u diida in uu xumaan uurka ku
-hayo.
-uursan f.mg4 (-amaa, -amayd) Qof uurfiyow
-ahaansho.
-uurweynaad m.l Cudur dadka ku dhaca oo
-beeryarada barariya, uurkana weyneeya. ld
-caloolweynad.
-uurxaad m.l Geednagaar dooxooyinka ka baxa
-oo xooluhu daaqaan.
-uurxaaran f.mg4 (-rnaa, -rnayd) Qof aan
-cidna xumaan qalbiga ugu hayn ahaansho.
-uurxaarnaan m.f.dh eeg uurxaaran. ld uur-
-xaarnaansho.
+
+uursami m.dh Dabci wanaagsan oo qof leeyahay oo u diida in uu xumaan uurka ku hayo.
+
+uursan f.mg4 (-amaa, -amayd) Qof uurfiyow ahaansho.
+
+uurweynaad m.l Cudur dadka ku dhaca oo beeryarada barariya, uurkana weyneeya. ld caloolweynad.
+
+uurxaad m.l Geednagaar dooxooyinka ka baxa oo xooluhu daaqaan.
+
+uurxaaran f.mg4 (-rnaa, -rnayd) Qof aan cidna xumaan qalbiga ugu hayn ahaansho.
+
+uurxaarnaan m.f.dh eeg uurxaaran. ld uur-xaarnaansho.
+
 uurxaarnaansho m.l/dh ld uurxaarnaan.
-uurxumaan m.f.dh eeg uurxun. ld uur-
-xumaansho.
+
+uurxumaan m.f.dh eeg uurxun. ld uur-xumaansho.
+
 uurxumaansho m.l/dh ld uurxumaan.
+
 uurxumi m.dh ld uurxumo.
-uurxumo m.dh Dabci aan wanaagsanayn oo
-qof leeyahay oo u diida in uu illaabo waxa
-loo geysto. ld uurxumi.
-uurxun f.mg4 (-xumaa, -xumayd) Qof aan
-cidna sama ka filaneyn ahaansho.
-uuryaal m.l (-llo, m.dh) 1. Xanuunka ay
-ummushu dareento marka ilmasidaheedu
-isku soo uruurayo. 2. (-llo, m.dh) Uurjiif.
-3. Wax indhuhu aanay qaban karin.
-uuryaro m.dh Uur aan caloosha ka muuqan
-wallacna dhaafay; bilayaro.
-uus m.l Cunnada nafaqada laga baxay oo ku
-jirta caloosha iyo xiidmaha (xoolaha daaqa).
+
+uurxumo m.dh Dabci aan wanaagsanayn oo qof leeyahay oo u diida in uu illaabo waxa loo geysto. ld uurxumi.
+
+uurxun f.mg4 (-xumaa, -xumayd) Qof aan cidna sama ka filaneyn ahaansho.
+
+uuryaal m.l (-llo, m.dh) 1. Xanuunka ay ummushu dareento marka ilmasidaheedu isku soo uruurayo. 2. (-llo, m.dh) Uurjiif. 3. Wax indhuhu aanay qaban karin.
+
+uuryaro m.dh Uur aan caloosha ka muuqan wallacna dhaafay; bilayaro.
+
+uus m.l Cunnada nafaqada laga baxay oo ku jirta caloosha iyo xiidmaha (xoolaha daaqa).
+
 uuslaho m.dh ld uusley.
 uusley m.dh Caloosha xoolo daaqa; uuskujir. ld
 uuslaho.
