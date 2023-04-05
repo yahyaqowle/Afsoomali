@@ -1330,120 +1330,96 @@ magaad m.l Budo cad, dhadhan qaraar leh oo tubaakada lagu cuno, siyaabo kalena l
 
 magaag¹ m.l 1. Jirro dadka ku dhacda oo ka timaaddo nafaqo xoolaad la'aan. 2. M. ah: faras aan la jarabarin. 3. ld magaagid.
 
-magaag² f.mg1 (-gay, -gtay) 1. Nafaqo xoolaad la'aan darteed la jirrasho. 2. Iska m.:
-laf feenasho.
+magaag² f.mg1 (-gay, -gtay) 1. Nafaqo xoolaad la'aan darteed la jirrasho. 2. Iska m.: laf feenasho.
+
 magaagid m.f.dh eeg magaag². ld magaag¹ (3).
-magaalammadax
-m.dh
-(-xyo,
-m.dh)
-Caasimad.
-magaalaqaran m.dh Qaran hal magaalo ka
-kooban.
-magaalee f.g2 (-leeyay, -leysay) Meel magaalo
-ka dhigid.
+
+magaalammadax m.dh (-xyo, m.dh) Caasimad.
+
+magaalaqaran m.dh Qaran hal magaalo ka kooban.
+
+magaalee f.g2 (-leeyay, -leysay) Meel magaalo ka dhigid.
+
 magaaleyn m.f.dh eeg magaalee.
+
 magaaleysad m.l ld magaalaysasho.
-magaaleysasho m.f.dh eeg magaaleyso. ld
-magaaleysad, magaaleysi.
+
+magaaleysasho m.f.dh eeg magaaleyso. ld magaaleysad, magaaleysi.
+
 magaaleysi m.l ld magaaleysasho.
-magaaleyso f.mg3 (-stay, -satay) Miyi ama
-tuulo magaalo ka aadid.
-magaalo m.dh (-ooyin, m.l) Meel dad badani
-wada degganyahay oo leh guryo badan,
-waddooyin, dukaamo, dugsiyo, isbitaallo
-iwm; beled.
+
+magaaleyso f.mg3 (-stay, -satay) Miyi ama tuulo magaalo ka aadid.
+
+magaalo m.dh (-ooyin, m.l) Meel dad badani wada degganyahay oo leh guryo badan, waddooyin, dukaamo, dugsiyo, isbitaallo iwm; beled.
+
 magaaloobid m.f.dh eeg magaalow.
-magaalow f.mg1 (-oobay, -owday; -oobi)
-Meel magaalo noqosho.
+
+magaalow f.mg1 (-oobay, -owday; -oobi) Meel magaalo noqosho.
+
 magaan¹ m.l Faras aan orod badan lahayn.
+
 magaan² m.dh Hal caano yar; baaqimo.
-magaay m.l Jecleysashada uu qof jecleysto
-cunto aan markaa la hayn. Cali magaaygu
-wuu ka bi'i lahaa hadduu timir helo.
-magac¹ m.l (-cyo, m.dh) 1. Erey qof, meel ama
-wax gaar ahaan loo yaqaan oo loogu yeero.
-2. M. leh: qof sharaf, wanaag iyo geesinnimo
-lagu yaqaan.
-magac² m.l (-cyo, m.dh) (nax.) Qaybaha
-hadalka mid ka mid ah, oo tilmaama wax
-nool (gabar, faras iwm), wax aan noolayn
-(bir, loox iwm) iyo waxyaabo kale. M.
-caadyaal: wuxuu tilmaama waxyaabo la
-taaban karo (buug, qalin iwm); m. cillaneed:
-wuxuu tilmaama shay leh tayo aanay
-dareemi karin shanta dareemayaal (jacayl,
-fikrad, run iwm); m. gaar: magac si gaar ah u
-565magacaabid
-tilmaama noole ama shay (Maandeeq,
-Xamar, Cali, Jubba iwm); m. guud: magac si
-guud ah u tilmaama qof, xayawaan ama shay
-(gabar, lo', magaalo iwm); m. urur: magac
-tilmaama koox noole ama shay (xayn, geel,
-dad iwm).
-magacaabid m.f.dh eeg magacow². ld
-magacow¹ (3).
-magacdar f.mg1 (-ray, -rtay) Ugu m.: qof, qof
-kale kala magac dhigid.
+
+magaay m.l Jecleysashada uu qof jecleysto cunto aan markaa la hayn. Cali magaaygu wuu ka bi'i lahaa hadduu timir helo.
+
+magac¹ m.l (-cyo, m.dh) 1. Erey qof, meel ama wax gaar ahaan loo yaqaan oo loogu yeero. 2. M. leh: qof sharaf, wanaag iyo geesinnimo lagu yaqaan.
+
+magac² m.l (-cyo, m.dh) (nax.) Qaybaha hadalka mid ka mid ah, oo tilmaama wax nool (gabar, faras iwm), wax aan noolayn (bir, loox iwm) iyo waxyaabo kale. M. caadyaal: wuxuu tilmaama waxyaabo la taaban karo (buug, qalin iwm); m. cillaneed: wuxuu tilmaama shay leh tayo aanay dareemi karin shanta dareemayaal (jacayl, fikrad, run iwm); m. gaar: magac si gaar ah u tilmaama noole ama shay (Maandeeq, Xamar, Cali, Jubba iwm); m. guud: magac si guud ah u tilmaama qof, xayawaan ama shay (gabar, lo', magaalo iwm); m. urur: magac tilmaama koox noole ama shay (xayn, geel, dad iwm).
+
+magacaabid m.f.dh eeg magacow². ld magacow¹ (3).
+
+magacdar f.mg1 (-ray, -rtay) Ugu m.: qof, qofkale kala magac dhigid.
+
 magacdarid m.f.dh eeg magacdar.
-magacdarree f.g2 (-reeyay, -reysay) Cid
-sumcaddeeda xumeyn.
-magacdarreyn m.f.dh eeg magacdarree. ld
-magacdarreys.
+
+magacdarree f.g2 (-reeyay, -reysay) Cid sumcaddeeda xumeyn.
+
+magacdarreyn m.f.dh eeg magacdarree. ld magacdarreys.
+
 magacdarreys m.l ld magacdarreyn.
+
 magacdarri m.dh ld magacdarro.
-magacdarro m.dh Sumcad xumo qof la soo
-gudboonaato. ld magacdarri.
-magacdheer f.mg4 (-raa, -rayd) Wax caan ah
-ahaansho (qof ama meel).
-magacdheeraan m.f.dh eeg magacdheer. ld
-magacdheeraansho, magacdheeri.
-magacdheeraansho m.l/dh eeg magacdheerow.
-ld magacdheeraan.
+
+magacdarro m.dh Sumcad xumo qof la soo gudboonaato. ld magacdarri.
+
+magacdheer f.mg4 (-raa, -rayd) Wax caan ah ahaansho (qof ama meel).
+
+magacdheeraan m.f.dh eeg magacdheer. ld magacdheeraansho, magacdheeri.
+
+magacdheeraansho m.l/dh eeg magacdheerow. ld magacdheeraan.
+
 magacdheeri m.dh ld magacdheeraan.
-magacdheerow f.mg3 (-raaday, -raatay) Wax
-caan ah noqosho (qof ama meel).
-magacow¹ m.l 1. Qof magiciisa oo loogu
-yeero. 2. Qof darajo iyo madaxnimo lagu
-meeleeyo. 3. ld magacaabid.
-magacow² f.g/mg1 (-caabay,-cawday; -caabi)
-1. (f.g) Nafley u yeerid. 2. (f.mg) U m. cid
-wax mas'uuliyaddooda u dhiibid.
-magacsiin m.dh Magac u bixinta nafley magac
-loo baxsho.
-magacuyaal m.l (-llo, m.dh) (nax.) Qayb
-hadalka ka mid ah oo magac baddesha
-waxayna kala yihiin; m. ebyoon oo ah kuwa
-keligooda istaaga oo qodob yeelan kara
-(aniga, adiga iwm), iyo kuwo aan abyoonayn
-ama dhammayn, qodobna qaadan karin (i,
-na, ku, idin).
+
+magacdheerow f.mg3 (-raaday, -raatay) Wax caan ah noqosho (qof ama meel).
+
+magacow¹ m.l 1. Qof magiciisa oo loogu yeero. 2. Qof darajo iyo madaxnimo lagu meeleeyo. 3. ld magacaabid.
+
+magacow² f.g/mg1 (-caabay,-cawday; -caabi) 1. (f.g) Nafley u yeerid. 2. (f.mg) U m. cid wax mas'uuliyaddooda u dhiibid. 
+
+magacsiin m.dh Magac u bixinta nafley magac loo baxsho.
+
+magacuyaal m.l (-llo, m.dh) (nax.) Qayb hadalka ka mid ah oo magac baddesha waxayna kala yihiin; m. ebyoon oo ah kuwa keligooda istaaga oo qodob yeelan kara (aniga, adiga iwm), iyo kuwo aan abyoonayn ama dhammayn, qodobna qaadan karin (i, na, ku, idin).
+
 magad m.dh ld meged.
-magaggooye m.l (c.nafl.) Cayayaan jiraca u eg,
-kase weyn oo kolkii la cariyo ur aad u
-qurmuun sii daaya; noole ura. ld
-magangooye (2).
-magallooti m.l (-iyo, m.dh) 1. Muuqaal meel
-fog ka muuqda oo aan si wanaagsan u
-qeexnayn. 2. Dhis qaab dad leh oo inta
-waxyaabo shanqara loo sameeyo beeraha
-xeryaha xoolaha iwm la dhextaago si ay
-dugaagga iwm uga baqaan. 3. ld maalooti
-(1). Qof aan karti lahayn.
-566
-magan m.dh 1. Badbaadinta la siiyo cid tabar
-darran. 2. Qof tabar darran oo qof kale ku
-tiirsan si uu badbaado u helo.
+
+magaggooye m.l (c.nafl.) Cayayaan jiraca u eg, kase weyn oo kolkii la cariyo ur aad u qurmuun sii daaya; noole ura. ld magangooye (2).
+
+magallooti m.l (-iyo, m.dh) 1. Muuqaal meel fog ka muuqda oo aan si wanaagsan u qeexnayn. 2. Dhis qaab dad leh oo inta waxyaabo shanqara loo sameeyo beeraha xeryaha xoolaha iwm la dhextaago si ay dugaagga iwm uga baqaan. 3. ld maalooti (1). Qof aan karti lahayn.
+
+magan m.dh 1. Badbaadinta la siiyo cid tabar darran. 2. Qof tabar darran oo qof kale ku tiirsan si uu badbaado u helo.
+
 magangal¹ m.l ld magangelid.
-magangal² f.g/mg. 1 (-alay, -ashay; -geli) Cid
-magan u noqosho (qof).
-magangeli f.g2 (-iyay, -isay) Qof magangelyo
-siin.
-magangelid m.f.dh eeg magangal². ld
-magangal¹.
-magangelin m.f.dh eeg magangeli. ld
-magangelis.
+
+magangal² f.g/mg. 1 (-alay, -ashay; -geli) Cid magan u noqosho (qof).
+
+magangeli f.g2 (-iyay, -isay) Qof magangelyo siin.
+
+magangelid m.f.dh eeg magangal². ld magangal¹.
+
+magangelin m.f.dh eeg magangeli. ld magangelis.
+
 magangelis m.l ld magangelin.
+
 magangelyo m.dh Qof cid ka soo cararay oo la
 daba joogo badbaadinta iyo xannaaneynta
 cidda uu u tago ay siiso.
