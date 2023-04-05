@@ -1420,478 +1420,509 @@ magangelin m.f.dh eeg magangeli. ld magangelis.
 
 magangelis m.l ld magangelin.
 
-magangelyo m.dh Qof cid ka soo cararay oo la
-daba joogo badbaadinta iyo xannaaneynta
-cidda uu u tago ay siiso.
-magangooye m.l (-yayaal, m.l/dh) 1. Qof
-magangelyada gooyo. 2. ld magaggooye.
-magangooyo m.dh Cid magan laga ballan
-qaaday u gooynteeda. ld magangoyn.
+magangelyo m.dh Qof cid ka soo cararay oo la daba joogo badbaadinta iyo xannaaneynta cidda uu u tago ay siiso.
+
+magangooye m.l (-yayaal, m.l/dh) 1. Qof magangelyada gooyo. 2. ld magaggooye.
+
+magangooyo m.dh Cid magan laga ballan qaaday u gooynteeda. ld magangoyn.
+
 magangoyn m.dh ld magangooyo.
+
 magasho m.f.dh eeg mago.
-magay m.l (magay, m.dh) God biyuhu galaan
-oo ka sameysmaan dhulka caadda ah.
+
+magay m.l (magay, m.dh) God biyuhu galaan oo ka sameysmaan dhulka caadda ah.
+
 magdee f.g2 (-deeyay, -deysay) ld megdee.
+
 magdeyn m.dh ld megdeyn.
+
 magdeys m.l ld megdeyn.
+
 magdeysad m.l ld megdeysasho.
-magdeysan f.mg4 (-snaa, -snayd) ld
-megdeysan.
+
+magdeysan f.mg4 (-snaa, -snayd) ld megdeysan.
+
 magdeysasho m.dh ld megdeysasho.
+
 magdeysi m.l ld megdeysasho.
+
 magdeysnaan m.dh ld megdeysnaan.
+
 magdeysnaansho m.l/dh ld megdeysnaan.
+
 magdeyso f.g3 (-stay, -satay) ld megdeyso.
+
 magdhabad m.l ld magdhabasho.
-magdhabasho m.f.dh eeg magdhabo. ld
-magdhabad.
+
+magdhabasho m.f.dh eeg magdhabo. ld magdhabad.
+
 magdhabid m.f.dh eeg magdhaw².
-magdhabo f.mg3 (-btay, -batay) Qof khasaare
-uu geystay qiimaheeda ka qaadid.
-magdhaw¹ m.l Qiimaha looga qaato qof
-khasaaraha uu geystay.
-magdhaw² f.mg1 (-dhabay, -dhawday) U m.:
-qof khasaare uu geystay qiimaheeda bixin.
-maggaabi f.lg2 (-iyay, -isay) Hoore aad loo
-cantuugo siin (qof).
+
+magdhabo f.mg3 (-btay, -batay) Qof khasaare uu geystay qiimaheeda ka qaadid.
+
+magdhaw¹ m.l Qiimaha looga qaato qof khasaaraha uu geystay.
+
+magdhaw² f.mg1 (-dhabay, -dhawday) U m.: qof khasaare uu geystay qiimaheeda bixin.
+
+maggaabi f.lg2 (-iyay, -isay) Hoore aad loo cantuugo siin (qof).
+
 maggaabid m.f.dh eeg maggow². ld maggow¹.
+
 maggaabin m.f.dh eeg maggaabi.
-maggaabo m.dh (-ooyin, m.l) Cantuugo
-weyn.
-maggaraaso m.dh Nooc libaax badeedka ka
-mid ah.
-maggarafoon m.l (-nno, m.dh) Qalab xoojiya
-codadka yaryar oo hirarka jabaqda u beddelamahad
-tamardanabeed, kaasoo loo sii beddeli karo
-jaqab marka lagu qaado silig ama silig
-la'aanba. ld maggaroofan.
+
+maggaabo m.dh (-ooyin, m.l) Cantuugo weyn.
+
+maggaraaso m.dh Nooc libaax badeedka ka mid ah.
+
+maggarafoon m.l (-nno, m.dh) Qalab xoojiya codadka yaryar oo hirarka jabaqda u beddelamahad tamardanabeed, kaasoo loo sii beddeli karo jaqab marka lagu qaado silig ama silig la'aanba. ld maggaroofan.
+
 maggaroofan m.l ld maggarafoon.
-maggeyno m.dh Sac ama hal aad u caano
-badan.
-maggow¹ m.l 1. Marka ibaha candhada
-xoolaha caanuhu ku soo istaagaan. 2. ld
-maggaabid.
-maggow² f.g1 (-gaabay,-bowday; -gaabi)
-Hoore aad u cantuugid.
+
+maggeyno m.dh Sac ama hal aad u caano badan.
+
+maggow¹ m.l 1. Marka ibaha candhada xoolaha caanuhu ku soo istaagaan. 2. ld maggaabid.
+
+maggow² f.g1 (-gaabay,-bowday; -gaabi) Hoore aad u cantuugid.
+
 maggowsad m.l ld maggowsasho.
-maggowsasho m.f.dh eeg maggowso. ld
-maggowsad, maggowsi.
+
+maggowsasho m.f.dh eeg maggowso. ld maggowsad, maggowsi.
+
 maggowsi m.l ld maggowsasho.
-maggowsii f.lg2 (-iiyay, -iisay) Qof, hoore hal
-mar afka uga buuxin.
+
+maggowsii f.lg2 (-iiyay, -iisay) Qof, hoore hal mar afka uga buuxin.
+
 maggowsiin m.f.dh eeg maggowsii.
-maggowso f.g3 (-stay, -satay) Hoore aad u
-cantuugid (qof).
-magguur m.dh (-ro, m.l) 1. Xabaal; qabri.
-2. Dhis, qof jabay oo dhaqdhaqaaqa loo
-diidayo lagu fariisiyo ama lagu xiro.
-magguuraan m.l 1. M. ah: astaan ama wax
-kale oo jiritaankooda aanu tirmin.
-2. Hantida aan socon karin sida beeraha,
-guryaha iwm. ld magguure.
-magguure m.l (-rayaal, m.l/dh) Wax aan
-tirmin.
-magguurto m.dh 1. Hanti m. ah: hanti aan
-guurguurin oo deynta lagu qaadan karo, sida
-beeraha guryaha iwm. 2. Dad si joogto ah
-meel u deggan oo xoolo dhaqato iyo beeraley
-isugu jira.
+
+maggowso f.g3 (-stay, -satay) Hoore aad u cantuugid (qof).
+
+magguur m.dh (-ro, m.l) 1. Xabaal; qabri. 2. Dhis, qof jabay oo dhaqdhaqaaqa loo diidayo lagu fariisiyo ama lagu xiro.
+
+magguuraan m.l 1. M. ah: astaan ama wax kale oo jiritaankooda aanu tirmin. 2. Hantida aan socon karin sida beeraha, guryaha iwm. ld magguure.
+
+magguure m.l (-rayaal, m.l/dh) Wax aan tirmin.
+
+magguurto m.dh 1. Hanti m. ah: hanti aan guurguurin oo deynta lagu qaadan karo, sida beeraha guryaha iwm. 2. Dad si joogto ah meel u deggan oo xoolo dhaqato iyo beeraley isugu jira.
+
 magid m.f.dh eeg mag².
+
 magli m.l (-iyo/magli, m.dh) Billaawe.
-magmaag f.g1 (-gay, -gtay) Dab si uusan u
-baqtin dambas ku duugid.
-magmaagan f.mg4 (-gnaa, -gnayd) Wax
-dambas lagu duugay ahaansho (dab).
+
+magmaag f.g1 (-gay, -gtay) Dab si uusan u baqtin dambas ku duugid.
+
+magmaagan f.mg4 (-gnaa, -gnayd) Wax dambas lagu duugay ahaansho (dab).
+
 magmaagasho m.f.dh eeg magmaago.
+
 magmaagid m.f.dh eeg magmaag.
-magmaagnaan m.f.dh eeg magmaagan. ld
-magmaagnaansho.
+
+magmaagnaan m.f.dh eeg magmaagan. ldmagmaagnaansho.
+
 magmaagnaansho m.l/dh ld magmaagnaan.
-magmaago f.mg3 (-gtay, -gatay) Dhuxul nool
-dambas ku duugasho si aysan u demin.
-magmag f.g1 (-gay, -gtay) Ku m.: wax meel
-daloosha oo ciriiri ah ku riixid.
+
+magmaago f.mg3 (-gtay, -gatay) Dhuxul nool dambas ku duugasho si aysan u demin.
+
+magmag f.g1 (-gay, -gtay) Ku m.: wax meel daloosha oo ciriiri ah ku riixid.
+
 magmagid m.f.dh eeg magmaag.
+
 magmakayn m.f.dh eeg magmakee.
-magmakee f.g2 (-keeyay, -kaysay) Ku m.: wax
-meel daloosha oo ciriiri ah si xoog leh ugu
-riixid.
-magniisiyam m.l (-mo, m.dh) (kiim.)
-Summad Mg. Curiye fudud oo bir ah;
-curiyaha labaad ee ururka II ee tusaha
-kalgalka curiyayaasha (biro dhul alkaliin). M.
-waa curiye muhim u ah warshadaha sababta
-oo ah waxay xubin weyn ka tahay
-birdhafyada fudud (marka lagu daro
-aluumiiniyam iyo sink).
-mago f.g3 (-gtay, -gatay) Cid mag ka
-gudasho.
-magoog¹ m.l 1. Tacabka beeraha. 2. M. ah:
-geed har weyn leh geed-saar ka dulbaxay.
-3. Qof aan waxtar lahayn. 4. ld magoogid.
-magoog² f.g1 (-gay, -gtay) Daash, geed iwm
-har u yeelid.
-magoogid m.f.dh eeg magoog². ld magoog¹
-(4).
+
+magmakee f.g2 (-keeyay, -kaysay) Ku m.: wax meel daloosha oo ciriiri ah si xoog leh ugu riixid.
+
+magniisiyam m.l (-mo, m.dh) (kiim.) Summad Mg. Curiye fudud oo bir ah; curiyaha labaad ee ururka II ee tusaha kalgalka curiyayaasha (biro dhul alkaliin). M. waa curiye muhim u ah warshadaha sababta oo ah waxay xubin weyn ka tahay birdhafyada fudud (marka lagu daro aluumiiniyam iyo sink).
+
+mago f.g3 (-gtay, -gatay) Cid mag ka gudasho.
+
+magoog¹ m.l 1. Tacabka beeraha. 2. M. ah: geed har weyn leh geed-saar ka dulbaxay. 3. Qof aan waxtar lahayn. 4. ld magoogid.
+
+magoog² f.g1 (-gay, -gtay) Daash, geed iwm har u yeelid.
+
+magoogid m.f.dh eeg magoog². ld magoog¹ (4).
+
 magool¹ m.l.u ld magoolayaal.
-magool² f.mg1 (-oolay, -ooshay) Geedo
-caleen bixin xilli aan roob jirin; fufid. ld
-magooli.
-magoolayaal m.dh.u (bot.) Dhir gu'yaal jire ah
-oo daadiya caleenta xilli gaar ah, dabadeed
-muddo caleen la'aada, ka dibna magoola.
-Tus. “Galool”. ld magool¹.
+
+magool² f.mg1 (-oolay, -ooshay) Geedo caleen bixin xilli aan roob jirin; fufid. ld magooli.
+
+magoolayaal m.dh.u (bot.) Dhir gu'yaal jire ah oo daadiya caleenta xilli gaar ah, dabadeed muddo caleen la'aada, ka dibna magoola. Tus. “Galool”. ld magool¹.
+
 magooli f.mg2 (-iyay, -isay) ld magool².
+
 magoolid m.f.dh eeg magool². ld magoolin.
+
 magoolin m.dh ld magoolid.
-magubte m.l (-tayaal, m.l/dh) Walax ka
-samysan maaddo aan dhaqso dabku u karin.
-magudbe¹ m.l (-bayaal, m.l/dh) Qof imtixaan
-ku dhacay.
-magudbe² m.l (-bayaal, m.l/dh) (nax.) Fal aan
-lahayn layeele.
-magungi m.l Nooc mallaayga ka mid ah lahna
-qaab mas, oo aan la cunin.
-maguug m.dh 1. Huummaag (qof meel fog
-jooga). 2. M. ah: xoolo xul ah.
-maguuji f.g2 (-iyay, -isay) Wax tuuryo meel
-ku gaarsiin.
+
+magubte m.l (-tayaal, m.l/dh) Walax ka samysan maaddo aan dhaqso dabku u karin.
+
+magudbe¹ m.l (-bayaal, m.l/dh) Qof imtixaan ku dhacay.
+
+magudbe² m.l (-bayaal, m.l/dh) (nax.) Fal aan lahayn layeele.
+
+magungi m.l Nooc mallaayga ka mid ah lahna qaab mas, oo aan la cunin.
+
+maguug m.dh 1. Huummaag (qof meel fog jooga). 2. M. ah: xoolo xul ah.
+
+maguuji f.g2 (-iyay, -isay) Wax tuuryo meel ku gaarsiin.
+
 maguujin m.f.dh eeg maguuji.
+
 magwadaag¹ m.l ld magwadaagid.
-magwadaag² m.dh Dad, xeer ahaan, diyada isla
-bixiya wada qaatana.
+
+magwadaag² m.dh Dad, xeer ahaan, diyada isla bixiya wada qaatana.
+
 magwadaagid m.dh ld magwadaag¹.
-mahabe¹ m.l (-bayaal, m.l/dh) 1. Weel aan
-biyaha ka dusaynin. 2. Ciid aan si fudud
-biyaha u dhuuqayn.
-mahabe² m.l (jool.) Dhadhaabaha aan
-shirqadaha lahayn oo aan biyaha gudbin:
-tusaale ahaan dhadhaabahaasi biyaha roobka
-uma oggolaanayaan inay dhex galaan oo ay
-ka dusaan.
-mahad m.dh Wanaag qof cid kale u hayo oo ka
-dhasha abaal loo galay.
-567mahadceli
-mahadceli f.g2 (-iyay, -isay) U m.: cid abaal
-gashay u mahadnaqid.
+
+mahabe¹ m.l (-bayaal, m.l/dh) 1. Weel aan biyaha ka dusaynin. 2. Ciid aan si fudud biyaha u dhuuqayn.
+
+mahabe² m.l (jool.) Dhadhaabaha aan shirqadaha lahayn oo aan biyaha gudbin: tusaale ahaan dhadhaabahaasi biyaha roobka uma oggolaanayaan inay dhex galaan oo ay ka dusaan.
+
+mahad m.dh Wanaag qof cid kale u hayo oo ka dhasha abaal loo galay.
+
+mahadceli f.g2 (-iyay, -isay) U m.: cid abaal gashay u mahadnaqid.
+
 mahadcelin m.f.dh eeg mahadceli.
-mahadho m.dh (-ooyin, m.l) 1. Dhacdo
-saamays weyn leh oo aan la illaawi karin.
-2. Sheeko.
-mahadi f.g2 (-iyay, -isay) Cid abaal ay gashay
-u shugriyid.
+
+mahadho m.dh (-ooyin, m.l) 1. Dhacdo saamays weyn leh oo aan la illaawi karin. 2. Sheeko.
+
+mahadi f.g2 (-iyay, -isay) Cid abaal ay gashay u shugriyid.
+
 mahadin m.f.dh eeg mahadi. ld mahadis.
+
 mahadis m.l ld mahadin.
-mahadnaq¹ m.l 1. Ereyo xushmad iyo
-qaddarin loo jeediyo cid samafashay. 2. ld
-mahadniqid.
-mahadnaq² f.mg1 (-qay, -qday; -niqi/naaqi)
-U/ku m.: cid samafashay ereyo xushmad iyo
-qaddarin leh u jeedin.
+
+mahadnaq¹ m.l 1. Ereyo xushmad iyo qaddarin loo jeediyo cid samafashay. 2. ld mahadniqid.
+
+mahadnaq² f.mg1 (-qay, -qday; -niqi/naaqi) U/ku m.: cid samafashay ereyo xushmad iyo qaddarin leh u jeedin.
+
 mahadnaqid m.dh ld mahadniqid.
-mahadniqid m.f.dh eeg mahadnaq². ld
-mahadnaq¹ (2), mahdnaqid.
-mahadsan f.mg4 (-naa, -nayd) Wax la
-mahadiyey ahaansho.
-mahadsanaan m.f.dh eeg mahadsan. ld
-mahadsanaansho.
+
+mahadniqid m.f.dh eeg mahadnaq². ld mahadnaq¹ (2), mahdnaqid.
+
+mahadsan f.mg4 (-naa, -nayd) Wax la mahadiyey ahaansho.
+
+mahadsanaan m.f.dh eeg mahadsan. ld mahadsanaansho.
+
 mahadsanaansho m.l/dh ld mahadsanaan.
-mahadsanid e.d Erey qofkii wax wanaagsan
-sameeya lagu yiraahdo, isaguna uu kolkaas
-yiraahdo: “Adaa mudan!”.
+
+mahadsanid e.d Erey qofkii wax wanaagsan sameeya lagu yiraahdo, isaguna uu kolkaas yiraahdo: “Adaa mudan!”.
+
 mahar m.l ld meher.
+
 mahari f.g2 (-iyay, -isay) ld meheri.
+
 maharin m.dh ld meherin.
+
 maharsad m.l ld mehersasho.
+
 maharsan f.mg4 (-naa, -nayd) ld mehersan.
+
 maharsanaan m.dh ld mehersanaan.
+
 maharsanaansho m.l/dh ld mehersanaan.
+
 maharsasho m.dh ld mehersasho.
+
 maharso f.g3 (-saday, -satay) ld meherso.
+
 mahasho m.dh ld muhasho.
-mahayammoog m.l Dhallaan aan weli garaad
-yeelaan; sebi. ld mahayammooge.
+
+mahayammoog m.l Dhallaan aan weli garaad yeelaan; sebi. ld mahayammooge.
+
 mahayammooge m.l ld mahayammoog.
-mahaysato m.dh.u Dad aan hanti ku filan
-haysan; sabool. ld maxaysato.
+
+mahaysato m.dh.u Dad aan hanti ku filan haysan; sabool. ld maxaysato.
+
 mahdab m.dh ld mad-hab.
+
 mahdar m.l (-rro, m.dh) Musqul; suuli.
-mahdi m.l 1. Nin diinta Islaamku sheegtay
-inuu aakhiru-sabaanka imaan doono.
-2. Barwaaqo.
+
+mahdi m.l 1. Nin diinta Islaamku sheegtay inuu aakhiru-sabaanka imaan doono. 2. Barwaaqo.
+
 mahersi m.l ld mehersasho.
+
 mahiib¹ m.l ld mihiibid.
+
 mahiib² f.g1 (-bay, -btay) ld mihiib².
+
 mahiibi m.dh ld mihiibi.
+
 mahiibid m.dh ld mihiibid.
+
 mahiibin m.dh ld mihiibin.
+
 mahiibsasho m.dh ld mihiibsasho.
+
 mahiibsii f.g2 (-iiyay, -iisay) ld mihiibsi.
-568
+
 mahiibsiin m.dh ld mihiibsiin.
+
 mahiibso f.g3 (-saday, -satay) ld mihiibso.
-mahiigaan m.l.kh M. ah: wax tiradoodu aad u
-badantahay (roob iyo col). ld mahiiggaan,
-mihiigaan, mihiiggaan.
-mahiigaannimo m.dh Wax tiradoodu
-badantahay ahaansho (col, roob). ld
-mahiiggaannimo,
-mihiigaanimo,
-mihiiggaannimo.
+
+mahiigaan m.l.kh M. ah: wax tiradoodu aad u badantahay (roob iyo col). ld mahiiggaan, mihiigaan, mihiiggaan.
+
+mahiigaannimo m.dh Wax tiradoodu badantahay ahaansho (col, roob). ld mahiiggaannimo, mihiigaanimo, mihiiggaannimo.
+
 mahiiggaan m.l ld mahiigaan.
+
 mahiiggaannimo m.dh ld mahiigaannimo.
+
 maho f.mg3 (-hday, -hatay) ld muho.
-mahrajaan m.l (-nno, m.dh) 1. Bannaanbax
-weyn oo lagu soo bandhigo cayaaro
-dhaqanno, sawirro iwm. 2. Magac xiddig.
-mahuraan m.l.kh M. ah: wax aan laga fursan
-karin, lama huraan, lagamammaarmaan.
-majaajilee f.mg2 (-leeyay, -leysay) ld
-majaajillee.
+
+mahrajaan m.l (-nno, m.dh) 1. Bannaanbax weyn oo lagu soo bandhigo cayaaro dhaqanno, sawirro iwm. 2. Magac xiddig.
+
+mahuraan m.l.kh M. ah: wax aan laga fursan karin, lama huraan, lagamammaarmaan.
+
+majaajilee f.mg2 (-leeyay, -leysay) ld majaajillee.
+
 majaajileyn m.dh ld majaajilleyn.
-majaajillee f.mg2 (-leeyay, -leysay) Majaajillo
-samayn. ld majaajilee.
-majaajilleyn m.f.dh eeg majaajillee. ld
-majaajileyn.
-majaajillo m.dh (riw.) Ereyo iyo falal loogu
-talaggalay in dad looga qosliyo. ld majaajilo.
-majaajilloo f.mg3 (-ooday, -ootay) (riw.)
-Majaajillo samayn. ld majaajiloo.
-majaajillood m.f.l eeg majaajilloo. ld
-majaajillood.
+
+majaajillee f.mg2 (-leeyay, -leysay) Majaajillo samayn. ld majaajilee.
+
+majaajilleyn m.f.dh eeg majaajillee. ld majaajileyn.
+
+majaajillo m.dh (riw.) Ereyo iyo falal loogu talaggalay in dad looga qosliyo. ld majaajilo.
+
+majaajilloo f.mg3 (-ooday, -ootay) (riw.) Majaajillo samayn. ld majaajiloo.
+
+majaajillood m.f.l eeg majaajilloo. ld majaajillood.
+
 majaajilo m.dh ld majaajillo.
-majaajiloo f.mg3 (-ooday, -ootay) ld
-majaajilloo.
+
+majaajiloo f.mg3 (-ooday, -ootay) ld majaajilloo.
+
 majaajilood m.l ld majaajillood.
+
 majaalis m.dh.w eeg majilis.
+
 majaaniin m.dh.w eeg majnuun.
+
 majabbaxsad m.l ld manjabbaxsasho.
+
 majabbaxsasho m.dh ld manjabbaxsasho.
+
 majabbaxsi m.l ld manjabbaxsasho.
-majabbaxso f.mg3 (-saday, -satay) ld
-manjabbaxso.
+
+majabbaxso f.mg3 (-saday, -satay) ld manjabbaxso.
+
 majabbixsasho m.dh ld manjabbaxsasho.
-majabe m.dh 1. Nagaar aan qodax lahayn oo
-dusha xaad ku leh; wuxuu leeyahay caleemo
-yaryar, dhirta dawadana waa ka mid. 2. M.
-ah: aan jabin; aad u adag.
+
+majabe m.dh 1. Nagaar aan qodax lahayn oo dusha xaad ku leh; wuxuu leeyahay caleemo yaryar, dhirta dawadana waa ka mid. 2. M. ah: aan jabin; aad u adag.
+
 majagoror¹ m.l ld manjagororid.
-majagoror²
-f.mg1 (-ray,
--rtay)
-ld
-manjagoror².
+
+majagoror² f.mg1 (-ray, -rtay) ld manjagoror².
+
 majagorori f.g2 (-iyay, -isay) ld manjagorori.
+
 majagororid m.dh ld manjagororid.
+
 majagororin m.dh ld manjagorin.
-majagororsan f.mg4 (-naa, -nayd) ld
-manjagororsan.
-majagororsanaan m.dh ld manjagororsanaan.majuusi
-majagororsanaansho
-m.l/dh
-ld
-manjagororsanaan.
-majallad m.dh (-do, m.l) Wargeys ka kooban
-baalal badan oo aan maalin walba soo bixin.
-majaqaris m.l M. ah: biyo meel fadhiya oo aan
-jilibka soo gaarin.
+
+majagororsan f.mg4 (-naa, -nayd) ld manjagororsan.
+
+majagororsanaan m.dh ld manjagororsanaan.
+
+majagororsanaansho m.l/dh ld manjagororsanaan.
+
+majallad m.dh (-do, m.l) Wargeys ka kooban baalal badan oo aan maalin walba soo bixin.
+
+majaqaris m.l M. ah: biyo meel fadhiya oo aan jilibka soo gaarin.
+
 majaraaf m.dh ld masharaaf.
-majarafad m.dh (-do, m.l) Qalab ka kooban
-bir af ballaaran iyo daab dheer oo qori ah oo
-sida badan loo adeegsado ciid qaadidda ama
-qufidda; badiil.
-majarahaye m.l (-yayaal, m.l/dh) Qof, wax
-hoggaamintiisa loo xil saara.
-majare m.l (-rayaal, m.l/dh) 1. Dhabbe ama
-xariiq maraakiibta ama dayuuradaha lagu
-wado. 2. Waddo la maro. 3. 32 xariiqood ee
-ku yaal diiradda dusheeda middood.
+
+majarafad m.dh (-do, m.l) Qalab ka kooban bir af ballaaran iyo daab dheer oo qori ah oosida badan loo adeegsado ciid qaadidda ama qufidda; badiil.
+
+majarahaye m.l (-yayaal, m.l/dh) Qof, wax hoggaamintiisa loo xil saara.
+
+majare m.l (-rayaal, m.l/dh) 1. Dhabbe ama xariiq maraakiibta ama dayuuradaha lagu wado. 2. Waddo la maro. 3. 32 xariiqood ee ku yaal diiradda dusheeda middood.
+
 majarroggasho m.dh ld manjarrogasho.
-majarrogo f.mg3 (-gtay, -gatay) ld
-manjarrogo.
+
+majarrogo f.mg3 (-gtay, -gatay) ld manjarrogo.
+
 majarroor¹ m.l ld manjarroorid.
-majarroor²
-f.mg1
-(-ray,
--rtay)
-ld
-manjarroor².
+
+majarroor² f.mg1 (-ray, -rtay) ld manjarroor².
+
 majarroori f.g2 (-iyay, -isay) ld manjarroori.
+
 majarroorid m.dh ld manjarroorid.
+
 majarroorin m.dh ld manjarroorin.
-majarroorsan f.mg4 (-naa, -nayd) ld
-manjarroorsan.
+
+majarroorsan f.mg4 (-naa, -nayd) ld manjarroorsan.
+
 majarroorsanaan m.dh ld manjarroorsanaan.
-majarroorsanaansho
-m.l/dh
-ld
-manjarroorsanaan.
+
+majarroorsanaansho m.l/dh ld manjarroorsanaan.
+
 majasaar¹ m.l ld manjasaar¹.
+
 majasaar² f.g1 (-ray, -rtay) ld manjasaar².
+
 majasaarid m.dh ld manjasaarid.
+
 majasuux¹ m.l ld manjasuux¹.
-majasuux² f.mg1 (-xay,
--xday)
-ld
-manjasuux².
+
+majasuux² f.mg1 (-xay, -xday) ld manjasuux².
+
 majasuuxi f.g2 (-iyay, -isay) ld manjasuuxi.
+
 majasuuxid m.dh ld manjasuuxid.
+
 majasuuxin m.dh ld manjasuuxin.
-majasuuxsan f.mg4 (-naa, -nayd) ld
-manjasuuxsan.
-majasuuxsanaansho
-m.l/dh
-ld
-manjasuuxanaan.
+
+majasuuxsan f.mg4 (-naa, -nayd) ld manjasuuxsan.
+
+majasuuxsanaansho m.l/dh ld manjasuuxanaan.
+
 majaxaabi f.g2 (-iyay, -isay) ld manjaxaabi.
+
 majaxaabin m.dh ld manjaxaabin.
+
 majaxaabis m.l ld manjaxaabin.
+
 majaxaabo m.dh ld manjaxaabin.
+
 majeerad m.l ld majeerasho.
+
 majeerasho m.f.dh eeg majeero. ld majeerad.
-majeero f.g3 (-rtay, -ratay) 1. Wax si aad ah u
-jeclaansho; jammasho. 2. Wax ku dhaygagid.
+
+majeero f.g3 (-rtay, -ratay) 1. Wax si aad ah u jeclaansho; jammasho. 2. Wax ku dhaygagid.
+
 majiir¹ m.l ld majiirid.
-majiir² m.l (-rro, m.dh) 1. Dib u celinta wax
-ama arrin soconayey gadaal loo celiyo. 2. (-
-rro, dh.) Suunka dhanka hoose ee kooraha ka
-lusha oo caloosha faraska looga xiro.
-majiir³ f.g1 (-ray, -rtay) 1. Wax jahada uu u
-socday ka weecin. 2. Maro qoyan majuujin si
-biyuhu ugu daataan. 3. Is m.: wax socda
-dhankii uu ka yimid isla markiiba ku
-noqosho. 4. Isku m.: meel ciriiri ah xoog ku
-dhexmarid.
+
+majiir² m.l (-rro, m.dh) 1. Dib u celinta wax ama arrin soconayey gadaal loo celiyo. 2. (-rro, dh.) Suunka dhanka hoose ee kooraha ka lusha oo caloosha faraska looga xiro.
+
+majiir³ f.g1 (-ray, -rtay) 1. Wax jahada uu u socday ka weecin. 2. Maro qoyan majuujin si biyuhu ugu daataan. 3. Is m.: wax socda dhankii uu ka yimid isla markiiba ku noqosho. 4. Isku m.: meel ciriiri ah xoog ku dhexmarid.
+
 majiirad m.l ld majiirasho.
-majiirasho m.f.dh eeg majiiro. ld majiirad.
-majiire-dayaxeed durugsan m.l (-yaal ...,
-m.l/dh) (c.fal.) Barta ugu fog ee uu maro
-meere (gaar ahaan dayaxa) marka loo eego
-dhulka.
-majiire-qorraxeed durugsan m.l (-yaal ...,
-m.l/dh) (c.fal.) Barta ugu fog ee uu maro
-meere marka loo eego qorraxda. Marka uu
-dhulka ugu fogyahay wuxuu qorraxda u jiraa
-94.5 milyan oo mayl.
+
+majiirasho m.f.dh eeg majiiro. ld majiirad. 
+
+majiire-dayaxeed durugsan m.l (-yaal ..., m.l/dh) (c.fal.) Barta ugu fog ee uu maro meere (gaar ahaan dayaxa) marka loo eego dhulka.
+
+majiire-qorraxeed durugsan m.l (-yaal ..., m.l/dh) (c.fal.) Barta ugu fog ee uu maro meere marka loo eego qorraxda. Marka uu dhulka ugu fogyahay wuxuu qorraxda u jiraa 94.5 milyan oo mayl.
+
 majiirid m.f.dh eeg majiir³. ld majiir¹.
-majiiro f.g3 (-rtay, -ratay) Calool xanuun
-dartii la rogrogmasho. Tus. “Caloosha baa i
-majiiranaysa”.
-majiirsii f.g2 (-iiyay, -iisay) Wax meel ciriiri
-ah xoog ku dhex marsiin.
+
+majiiro f.g3 (-rtay, -ratay) Calool xanuun dartii la rogrogmasho. Tus. “Caloosha baa i majiiranaysa”.
+
+majiirsii f.g2 (-iiyay, -iisay) Wax meel ciriiri ah xoog ku dhex marsiin.
+
 majiirsiin m.f.dh eeg majiirsii.
+
 majimow m.l ld majin¹.
-majin¹ m.l Xanuun cunaha ku dhaca oo qof
-liqitaanka ku dhiba cunahana barariya
-mararka qaarkood. ld majinow, majimow.
-majin² m.dh (-jamo/-jo/-anjo, m.l) 1. Xubin
-ka mid ah addimada xoolaha oo u dhexeysa
-jilibka iyo qoobka. 2. Xirmooyin yaryar oo
-loo qeybshay marduuf qaad ah middood.
-3. Xiddig naafaha ka mid ah oo u dhexeysa
-afqaysta iyo koxdinta. ld mijin.
+
+majin¹ m.l Xanuun cunaha ku dhaca oo qof liqitaanka ku dhiba cunahana barariya mararka qaarkood. ld majinow, majimow.
+
+majin² m.dh (-jamo/-jo/-anjo, m.l) 1. Xubin ka mid ah addimada xoolaha oo u dhexeysa jilibka iyo qoobka. 2. Xirmooyin yaryar oo loo qeybshay marduuf qaad ah middood. 3. Xiddig naafaha ka mid ah oo u dhexeysa afqaysta iyo koxdinta. ld mijin.
+
 majinow m.l ld majin¹.
-majlis m.l (-syo/-jaalis, m.dh) 1. Meel fadhi
-wanaagsan leh oo la iskugu yimaado. 2. Shir
-wax lagu go'aaniyo.
+
+majlis m.l (-syo/-jaalis, m.dh) 1. Meel fadhi wanaagsan leh oo la iskugu yimaado. 2. Shir wax lagu go'aaniyo.
+
 majnuun m.l (-jaaniin, m.dh) Qof waalan.
+
 majoqaris m.l Biyo aan qof liqi karin.
-majuuji f.g2 (-iyay, -isay) Maro qoyan, liin
-iwm xoog u maroojin si hooraha ku jiro
-looga saaro.
-majuujin m.f.dh eeg majuuji. ld majuujis,
-majuujo.
+
+majuuji f.g2 (-iyay, -isay) Maro qoyan, liin iwm xoog u maroojin si hooraha ku jiro looga saaro.
+
+majuujin m.f.dh eeg majuuji. ld majuujis, majuujo.
+
 majuujis m.l ld majuujin.
+
 majuujisasho m.f.dh eeg majuujiso.
-majuujiso f.mg3 (-stay, -satay) Maro iwm oo
-qoyan maroojin si biyaha looga saaro.
+
+majuujiso f.mg3 (-stay, -satay) Maro iwm oo qoyan maroojin si biyaha looga saaro.
+
 majuujo m.dh ld majuujin.
+
 majuusi m.l (dii.) Dadka dabka caabuda.
-569makaab¹
-makaab¹ m.l (-byo, m.dh) Qoryo ama tiirar
-afka laga saaro ceelasha, si ay u sahlanaato
-shubiddooda; xakab.
-makaab² f.g1 (-bay, -btay) Ceel makaab afka
-ka saarid.
-makaaban f.mg4 (-bnaa, -bnayd) Wax
-makaab afka laga saray ahaansho (ceel).
-makaabi f.g2 (-iyay, -isay) Ceel makaab u
-yeelid.
+
+makaab¹ m.l (-byo, m.dh) Qoryo ama tiirar afka laga saaro ceelasha, si ay u sahlanaato shubiddooda; xakab.
+
+makaab² f.g1 (-bay, -btay) Ceel makaab afka ka saarid.
+
+makaaban f.mg4 (-bnaa, -bnayd) Wax makaab afka laga saray ahaansho (ceel).
+
+makaabi f.g2 (-iyay, -isay) Ceel makaab u yeelid.
+
 makaabid m.f.dh eeg makaab².
+
 makaabin m.f.dh eeg makaabi. ld makaabis.
+
 makaabis m.l ld makaabin.
-makaabnaan m.f.dh eeg makaaban. ld
-makaabnaansho.
+
+makaabnaan m.f.dh eeg makaaban. ld makaabnaansho.
+
 makaabnaansho m.l/dh ld makaabnaan.
-makaan m.l (-nno, m.dh) 1. Hooy; guri.
-2. Ilmagaleenka haweenka.
-makaanig m.l.kh M. ah: qof yaqaan
-farsameynta matoorrada.
-makaawi m.l Kuul waaweyn oo gadgaduudan
-oo dumarku ku xarragoon jireen.
-makaay-aaramow m.l Ciyaar dhaqameed laga
-yaqaan Xamar iyo degaanka Jowhar.
+
+makaan m.l (-nno, m.dh) 1. Hooy; guri. 2. Ilmagaleenka haweenka.
+
+makaanig m.l.kh M. ah: qof yaqaan farsameynta matoorrada.
+
+makaawi m.l Kuul waaweyn oo gadgaduudan oo dumarku ku xarragoon jireen.
+
+makaay-aaramow m.l Ciyaar dhaqameed laga yaqaan Xamar iyo degaanka Jowhar.
+
 makal¹ m.l (-llo, m.dh) Khatar weyn.
-makal² f.g1 (-alay, -ashay) Nafley waxyeelo
-weyn gaarsiin.
-makalaalax¹ m.l.kh M. ah: Qof hurdo laga
-kiciyay oo aan weli baraarugin.
-makalaalax² f.mg1 (-xay, -xday) Qof hurdo ka
-kicid isagoon weli bogan.
-makalaalaxsan f.mg4 (-naa, -nayd) Wax
-makalaalaxay ahaansho (qof).
-makalaalaxsanaan m.f.dh eeg makalaalaxsan. ld
-makalaalaxsanaansho.
-makalaalaxsanaansho
-m.l/dh
-ld
-makalaalaxsanaan.
+
+makal² f.g1 (-alay, -ashay) Nafley waxyeelo weyn gaarsiin.
+
+makalaalax¹ m.l.kh M. ah: Qof hurdo laga kiciyay oo aan weli baraarugin.
+
+makalaalax² f.mg1 (-xay, -xday) Qof hurdo ka kicid isagoon weli bogan.
+
+makalaalaxsan f.mg4 (-naa, -nayd) Wax makalaalaxay ahaansho (qof).
+
+makalaalaxsanaan m.f.dh eeg makalaalaxsan. ld makalaalaxsanaansho.
+
+makalaalaxsanaansho m.l/dh ld makalaalaxsanaan.
+
 makalaalixid m.f.dh eeg makalaalax².
-makalan f.mg4 (-lnaa, -lnayd) Wax waxyeelo
-weyn la gaarsiiyey ahaansho (nafley).
+
+makalan f.mg4 (-lnaa, -lnayd) Wax waxyeelo weyn la gaarsiiyey ahaansho (nafley).
+
 makalid m.f.dh eeg makal².
-makalnaan m.f.dh eeg makalan. ld
-makalnaansho.
+
+makalnaan m.f.dh eeg makalan. ld makalnaansho.
+
 makalnaansho m.l/dh ld makalnaan.
-makaraan m.l (-nno/makaraan, m.dh)
-1. Cadad, qori ah oo dhir gaar ah laga soo
-jaray, oo harag ku jallaadan oo
-caadaqaatayaashii hore, kolka wiilasha
-dhashay wax laga siiyo ay u xiri jireen.
-2. Qardhaas; xirsi.
+
+makaraan m.l (-nno/makaraan, m.dh) 1. Cadad, qori ah oo dhir gaar ah laga soo jaray, oo harag ku jallaadan oo caadaqaatayaashii hore, kolka wiilasha dhashay wax laga siiyo ay u xiri jireen. 2. Qardhaas; xirsi.
+
 makaroofi m.l Qof dhib badan oo dhega-adag.
-makas m.dh.u 1. Dadka inta garashadoodu
-gaabantahay; maangaab; caamo. 2. Ilmo aan
-weli caqli fiican yeelan. ld makasto.
+
+makas m.dh.u 1. Dadka inta garashadoodu gaabantahay; maangaab; caamo. 2. Ilmo aan weli caqli fiican yeelan. ld makasto.
+
 makasto m.dh.u ld makas.
-570
-makeekee f.mg2 (-keeyay, -keysay) Cid wax
-ka qarin.
+
+makeekee f.mg2 (-keeyay, -keysay) Cid wax ka qarin.
+
 makeeko m.dh (-ooyin, m.l) Gogol.
-makhaane m.l (-nayaal, m.l/dh) Suun dun ka
-samaysan oo fardaha madaxa loogu xiro. ld
-maqaame.
+
+makhaane m.l (-nayaal, m.l/dh) Suun dun ka samaysan oo fardaha madaxa loogu xiro. ld maqaame.
+
 makhaasiin m.l ld maqaasiin.
-makhaayaadle m.l (-ley, m.dh) Qof
-makhaayad leh. ld maqaayadle.
-makhaayad m.dh (-do, m.l) Meel cunto karsan
-lagu iibsado oo leh kuraas iyo miisas cuntada
-lagu cuno iyo shaqaale cuntada keena. ld
-makhaayo, maqaayad, maqaayo.
+
+makhaayaadle m.l (-ley, m.dh) Qof makhaayad leh. ld maqaayadle.
+
+makhaayad m.dh (-do, m.l) Meel cunto karsan lagu iibsado oo leh kuraas iyo miisas cuntada lagu cuno iyo shaqaale cuntada keena. ld makhaayo, maqaayad, maqaayo.
+
 makhaayo m.dh ld makhaayad.
-makhabbiyad m.dh (-do, m.l) Qof dumar ah
-oo gurigeeda ku dhowrsan oo aan loo
-oggoleen in ay dibadda u soo baxdo. ld
-makhabbiyo.
+
+makhabbiyad m.dh (-do, m.l) Qof dumar ah oo gurigeeda ku dhowrsan oo aan loo oggoleen in ay dibadda u soo baxdo. ld makhabbiyo.
+
 makhabbiyo m.l ld makhabbiyad.
-makharje m.l M. ah: harar lagu naqshay
-midabbo kala duwan oo aan kala soocnayn.
-makhluuq m.l (-qyo, m.dh) 1. Nafleyda Eebbe
-abbuuray oo dhan; uun. 2. Dad.
-makhmal m.l Maro xariir ah oo ay haweenkii
-hore qaadan jireen.
-makhmarad m.dh (-do, m.l) Weel khamrada
-laga gato laguna cabbo.
+
+makharje m.l M. ah: harar lagu naqshay midabbo kala duwan oo aan kala soocnayn.
+
+makhluuq m.l (-qyo, m.dh) 1. Nafleyda Eebbe abbuuray oo dhan; uun. 2. Dad.
+
+makhmal m.l Maro xariir ah oo ay haweenkii hore qaadan jireen.
+
+makhmarad m.dh (-do, m.l) Weel khamrada laga gato laguna cabbo.
 makhnaatad m.dh Hadal ama dhaqan aad u
 xun. ld makhnaato.
 makhnaato m.dh ld makhnaatad.
