@@ -1275,77 +1275,62 @@ madoobaad m.l Midab madow oo shay ama wax yeeshaan.
 madoobaan m.f.dh eeg madow². ld madoobaansho.
 
 madoobaansho m.l/dh eeg madoobow. ld madoobaan.
-madoobee f.g/mg2 (-beeyay, -beysay) 1. (f.g)
-Wax midab madow u yeelid. 2. (f.mg) Ka
-m.: cilmi, garaad iwm oo cid maskaxdeeda
-ku jira ka tirtirid.
+
+madoobee f.g/mg2 (-beeyay, -beysay) 1. (f.g) Wax midab madow u yeelid. 2. (f.mg) Ka m.: cilmi, garaad iwm oo cid maskaxdeeda ku jira ka tirtirid.
+
 madoobeyn m.f.dh eeg madoobee.
-madoobeysan f.mg4 (-snaa, -snayd) Wax
-midab madow loo yeelay ahaansho.
+
+madoobeysan f.mg4 (-snaa, -snayd) Wax midab madow loo yeelay ahaansho.
+
 madoobeysasho m.f.dh eeg madoobeyso.
-madoobeysnaan m.f.dh eeg madoobeysan. ld
-madoobeysnaansho.
-madoobeysnaansho
-m.l/dh
-ld
-madoobeysnaan.
-madoobeyso f.mg3 (-stay, -satay) Wax midib
-madow u yeelasho.
-madoobow f.mg3 (-baaday, -baatay) 1. Wax
-midib madow leh noqosho. 2. Uurkutaallo
-darteed midab madow yeelasho.
-madoorsoomaha kala-furanka m.l (kiim.)
-Madoorsoomaha dheelitiran ee falgal
-noociisu yahay kala furanka.
-madoorsoomayaal-fisikaad ee salka ah m.l/dh
-(fiis.) Qiyaaso fisikaad oo aan isbeddelin
-meel kasta ama xilli kasta oo la joogo.
-madoorsoome m.l (-mayaal, m.l/dh) 1. (xis.)
-nambar aan isbeddelin. 2. (fiis.) xiriirka ka
-dhexeeya laba xaddi ama ka badan tiro go'an
-oo aan isbeddelin ka soo baxdo isu
-qaybintooda ama isku dhufashadooda
-(X=c=4=4x2) b 2 2x2.
-madoorsoome-neef m.l (-mayaal ..., m.l/dh)
-(fiis.) Madoorsoomaha ku jira isle'egta neefta
-caalamiga ah (eeg heerarka neefta). Waxa uu
-leeyahay qiimaha 8.31434 JK -1 mol -1.
+
+madoobeysnaan m.f.dh eeg madoobeysan. ld madoobeysnaansho.
+
+madoobeysnaansho m.l/dh ld madoobeysnaan.
+
+madoobeyso f.mg3 (-stay, -satay) Wax midib madow u yeelasho.
+
+madoobow f.mg3 (-baaday, -baatay) 1. Wax midib madow leh noqosho. 2. Uurkutaallo darteed midab madow yeelasho.
+
+madoorsoomaha-kala-furanka m.l (kiim.) Madoorsoomaha dheelitiran ee falgal noociisu yahay kala furanka.
+
+madoorsoomayaal-fisikaad-ee-salka-ah m.l/dh (fiis.) Qiyaaso fisikaad oo aan isbeddelin meel kasta ama xilli kasta oo la joogo.
+
+madoorsoome m.l (-mayaal, m.l/dh) 1. (xis.) nambar aan isbeddelin. 2. (fiis.) xiriirka ka dhexeeya laba xaddi ama ka badan tiro go'an oo aan isbeddelin ka soo baxdo isu qaybintooda ama isku dhufashadooda (X=c=4=4x2) b 2 2x2.
+
+madoorsoome-neef m.l (-mayaal ..., m.l/dh) (fiis.) Madoorsoomaha ku jira isle'egta neefta caalamiga ah (eeg heerarka neefta). Waxa uu leeyahay qiimaha 8.31434 JK -1 mol -1.
+
 madoow¹ m.l ld madow¹.
-madoow² f.mg4 (-oobaa, -oobayd) ld
-madow².
-madow¹ m.l 1. Midibka dhuxusha. 2. Mugdi,
-gudcur. ld madoow¹.
-madow²
-f.mg4
-(-oobaa,
--oobayd;
-madmadow) 1. Wax midibka dhuxusha oo
-kale leh ahaansho. 2. Wax mugdi ah
-ahaansho (meel). 3. Qof uurkutaaleysan
-ahaansho. ld madoow².
-madow-hadh m.l (-wyo ..., m.dh) (c.fal.)
-Hadh dhexaadka dhan ee dhulka ama
-dayaxa ee madoobaada.
-madrasad m.dh (-do, m.l) 1. Dhismo ardada
-cilmi lagu baro; dugsi. 2. Dugsi ay
-maaddooyinka lagu dhigto carabi ku baxaan.
-ld madraso.
+
+madoow² f.mg4 (-oobaa, -oobayd) ld madow².
+
+madow¹ m.l 1. Midibka dhuxusha. 2. Mugdi, gudcur. ld madoow¹.
+
+madow² f.mg4 (-oobaa, -oobayd; madmadow) 1. Wax midibka dhuxusha oo kale leh ahaansho. 2. Wax mugdi ah ahaansho (meel). 3. Qof uurkutaaleysan ahaansho. ld madoow².
+
+madow-hadh m.l (-wyo ..., m.dh) (c.fal.) Hadh dhexaadka dhan ee dhulka ama dayaxa ee madoobaada.
+
+madrasad m.dh (-do, m.l) 1. Dhismo ardada cilmi lagu baro; dugsi. 2. Dugsi ay maaddooyinka lagu dhigto carabi ku baxaan. ld madraso.
+
 madraso m.dh ld madrasad.
+
 maduul m.l ld madduul.
+
 mafaatiix m.dh.w eeg muftaax.
+
 mafafaay m.l Babbaay.
+
 mafiiq m.dh (-qo, m.l) Xaaqin. ld minfiiq.
+
 mag¹ m.dh (-go, m.l) Diyo.
-mag² f.g1 (-gay, -gtay) Khasaaro cid loo
-geystay qiimaheeda bixin. 2. Diyo bixin.
-magaad m.l Budo cad, dhadhan qaraar leh oo
-tubaakada lagu cuno, siyaabo kalena loo
-isticmaalo.
-magaag¹ m.l 1. Jirro dadka ku dhacda oo ka
-timaaddo nafaqo xoolaad la'aan. 2. M. ah:
-faras aan la jarabarin. 3. ld magaagid.
-magaag² f.mg1 (-gay, -gtay) 1. Nafaqo
-xoolaad la'aan darteed la jirrasho. 2. Iska m.:
+
+mag² f.g1 (-gay, -gtay) Khasaaro cid loo geystay qiimaheeda bixin. 2. Diyo bixin.
+
+magaad m.l Budo cad, dhadhan qaraar leh oo tubaakada lagu cuno, siyaabo kalena loo isticmaalo.
+
+magaag¹ m.l 1. Jirro dadka ku dhacda oo ka timaaddo nafaqo xoolaad la'aan. 2. M. ah: faras aan la jarabarin. 3. ld magaagid.
+
+magaag² f.mg1 (-gay, -gtay) 1. Nafaqo xoolaad la'aan darteed la jirrasho. 2. Iska m.:
 laf feenasho.
 magaagid m.f.dh eeg magaag². ld magaag¹ (3).
 magaalammadax
