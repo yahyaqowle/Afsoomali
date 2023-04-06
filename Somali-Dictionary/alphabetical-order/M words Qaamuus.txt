@@ -2812,44 +2812,47 @@ maragsanaansho m.l/dh ld maragsanaan.
 
 maragsasho m.dh ld maragsiin.
 
-maragsii f.g2 (-iiyay, -iisay) Cid marag ka
-dhigasho. ld maragso.
+maragsii f.g2 (-iiyay, -iisay) Cid marag ka dhigasho. ld maragso.
+
 maragsiin m.f.dh eeg maragsii. ld maragsasho.
+
 maragso f.g3 (-saday, -satay) ld maragsii.
-marakaneeco m.dh Dhar khafiif ah, dulduleel
-yaryar ah leh oo inta hab gaar ah loo tolomardaaddin
-sariiraha korkooda lagu dedo, kaneecadana
-laga galo; sinsinyeeri.
-marakudheg m.dh Nooc cawska ka mid ah oo
-mirihiisu dharka ku dhegaan.
-maran f.mg4 (-rnaa, -rnayd) 1. Weel wax aan
-wax ku jirin ahaansho, neef irmaan wax
-candhada laga maray ahaansho. 2. Qof wax
-maskaxda laga galay ahaansho.
-maranti m.dh (-iyo, m.l/-iyaal, m.l/dh) Oori;
-afo.
-maraq¹ m.l (-rqo, m.l) 1. Meyrax la jilciyay oo
-geela naasaha looga maro si aan loo nuujin.
-2. Fuud.
-maraq² f.g1 (-rqay, -raqday) Hal irmaan
-afarteeda naas oo dhan ama qaar ka mid ah
-marid, si aan loo nuugin, ama loo lisin.
+
+marakaneeco m.dh Dhar khafiif ah, dulduleel yaryar ah leh oo inta hab gaar ah loo tolomardaaddin sariiraha korkooda lagu dedo, kaneecadana laga galo; sinsinyeeri.
+
+marakudheg m.dh Nooc cawska ka mid ah oo mirihiisu dharka ku dhegaan.
+
+maran f.mg4 (-rnaa, -rnayd) 1. Weel wax aan wax ku jirin ahaansho, neef irmaan wax candhada laga maray ahaansho. 2. Qof wax maskaxda laga galay ahaansho.
+
+maranti m.dh (-iyo, m.l/-iyaal, m.l/dh) Oori; afo.
+
+maraq¹ m.l (-rqo, m.l) 1. Meyrax la jilciyay oo geela naasaha looga maro si aan loo nuujin. 2. Fuud.
+
+maraq² f.g1 (-rqay, -raqday) Hal irmaan afarteeda naas oo dhan ama qaar ka mid ah marid, si aan loo nuugin, ama loo lisin.
+
 maraqoobid m.f.dh eeg maraqow.
-maraqow f.mg1 (-oobay, -owday; -oobi)
-Hilib karis ka batay awgiis maraq noqosho.
+
+maraqow f.mg1 (-oobay, -owday; -oobi) Hilib karis ka batay awgiis maraq noqosho.
+
 maraqsaar m.l Miskaha geela korkooda.
+
 maraqsad m.l ld marqasho.
+
 maraqsan f.mg4 (-naa, -nayd) ld marqan.
+
 maraqsanaan m.dh ld marqanaan.
+
 maraqsanaansho m.l/dh ld marqanaan.
+
 maraqsasho m.dh ld marqasho.
+
 maraqso f.g3 (-saday, -satay) ld marqo.
-mararroobid m.f.dh eeg mararrow². ld
-mararrow¹.
-mararrow¹ m.l 1. Wax waqtilumis ah. 2. ld
-mararroobid.
-mararrow² f.mg1 (-oobay, -owday; -oobi)
-Waqti lumin.
+
+mararroobid m.f.dh eeg mararrow². ld mararrow¹.
+
+mararrow¹ m.l 1. Wax waqtilumis ah. 2. ld mararroobid.
+
+mararrow² f.mg1 (-oobay, -owday; -oobi) Waqti lumin.
 marashee f.g2 (-sheeyay, -sheysay) ld
 marashiyee.
 marasheyn m.dh ld marashiyayn.
