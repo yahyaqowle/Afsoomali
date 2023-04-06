@@ -3589,137 +3589,123 @@ masalle m.l (-layaal, m.l/dh) Salli maqaar ka samaysan oo qaabab kala duwan leh.
 masalo m.dh (-ooyin, m.l) 1. Arrin la yaab leh. 2. Xisaab leh siin oo la raadinayo natiijadeedii iyadoo la adeegsanayo jidad iyo xeerar u gaar ah. 3. Su'aal cilmi kudhisan. ld mas'alo.
 
 mas'alo m.dh ld masalo.
+
 masalugaley m.dh ld masacagaley.
+
 masalugooley m.dh ld masacagaley.
-masar m.l (-rro, m.dh) 1. Maro yar midabbo
-leh, jilicsan oo haweenku gambaystaan;
-fasaleeti. 2. Gabal maro ah, oo loogu
-talagalay dhididka, diifka iwm in la isaga
-tiro.
-masarafad m.dh (-do, m.l) Dhawraarin yar oo
-caws ka samaysan, oo cunnada gogosha laga
-xijiyo.
-masawir¹ m.l (-rro, m.dh) 1. Aaladda wax
-sawirta. 2. Muuqaal ka taagan wax oo lagu
-daabacay warqad. loox, derbbi iwm iyada,oo
-la adeegsanayo gacan ama qalab kale.
-3. Shaxan, jaantus. ld taswiir.
-masawir² f.g1 (-ray, -rtay) 1. Muuqaalka ka
-taagan wax laftiisa warqad, loox derbi, iwm
-ku daabicid iyada oo la adeegsanayo gacan
-ama qalab kale. 2. Shaxan ama jaantus
-sawirid.
+
+masar m.l (-rro, m.dh) 1. Maro yar midabbo leh, jilicsan oo haweenku gambaystaan; fasaleeti. 2. Gabal maro ah, oo loogu talagalay dhididka, diifka iwm in la isaga tiro.
+
+masarafad m.dh (-do, m.l) Dhawraarin yar oo caws ka samaysan, oo cunnada gogosha laga xijiyo.
+
+masawir¹ m.l (-rro, m.dh) 1. Aaladda wax sawirta. 2. Muuqaal ka taagan wax oo lagu daabacay warqad. loox, derbbi iwm iyada, oo la adeegsanayo gacan ama qalab kale. 3. Shaxan, jaantus. ld taswiir.
+
+masawir² f.g1 (-ray, -rtay) 1. Muuqaalka ka taagan wax laftiisa warqad, loox derbi, iwm ku daabicid iyada oo la adeegsanayo gacan ama qalab kale. 2. Shaxan ama jaantus sawirid.
+
 masawirid m.f.dh eeg masawir².
+
 masax¹ m.l ld masixid.
-masax² f.g1 (-xay, -xday; -sixi) 1. Maro,
-xaashi iwm wax ku tirtirid. 2. Ku m.:dufan,
-dhoobo iwm meel ku dhoobod. 3. Ku
-m.:wax si xoog ah wax kale ugu dhufasho.
-masaxad m.dh (-do, m.l) Maro, xaashi iwm oo
-wax lagu tirtiro; catir. ld masaxo¹.
-masaxan f.mg4 (-xnaa, -xnayd) Wax la
-masaxay ahaansho (sabuurad, jir miis iwm).
-masaxnaan m.f.dh eeg masaxan. ld
-masaxnaansho.
+
+masax² f.g1 (-xay, -xday; -sixi) 1. Maro, xaashi iwm wax ku tirtirid. 2. Ku m.:dufan, dhoobo iwm meel ku dhoobod. 3. Ku m.:wax si xoog ah wax kale ugu dhufasho.
+
+masaxad m.dh (-do, m.l) Maro, xaashi iwm oo wax lagu tirtiro; catir. ld masaxo¹.
+
+masaxan f.mg4 (-xnaa, -xnayd) Wax la masaxay ahaansho (sabuurad, jir miis iwm).
+
+masaxnaan m.f.dh eeg masaxan. ld masaxnaansho.
+
 masaxnaansho m.l/dh ld masaxnaan.
-masaxo¹ m.dh Maro yar oo wax lagu tirtiro. ld
-masaxad.
-masaxo² f.g3 (-xday, -xatay) Wasakh, boor
-iwm meel ka tirtirasho.
-masay m.dh Cutub caws ah oo dusha looga
-maro geeddi (xarig yar), marka la samaynayo
-raar, raarkuna kuwaas oo badan uu ka
-koobmo.
-586
-masayr¹ m.l 1. Cuqdo qof qaado marka uu
-ogaado qof uu jeclaa inuu qof kale xiriir la
-leeyahay. 2. U quuriwaayidda qof kale oo
-wax uu haysto loo quuri wayo.
-masayr² f.mg1 (-ray, -rtay) 1. Qof masayr ku
-beermid. 2. Qof wax haysto u quuriwaayid.
-masayri f.g/mg2 (-iyay, -isay) M./ka m.: cid
-masayr ku beerid. ld masayrsii.
+
+masaxo¹ m.dh Maro yar oo wax lagu tirtiro. ld masaxad.
+
+masaxo² f.g3 (-xday, -xatay) Wasakh, boor iwm meel ka tirtirasho.
+
+masay m.dh Cutub caws ah oo dusha looga maro geeddi (xarig yar), marka la samaynayo raar, raarkuna kuwaas oo badan uu ka koobmo.
+
+masayr¹ m.l 1. Cuqdo qof qaado marka uu ogaado qof uu jeclaa inuu qof kale xiriir la leeyahay. 2. U quuriwaayidda qof kale oo wax uu haysto loo quuri wayo.
+
+masayr² f.mg1 (-ray, -rtay) 1. Qof masayr ku beermid. 2. Qof wax haysto u quuriwaayid.
+
+masayri f.g/mg2 (-iyay, -isay) M./ka m.: cid masayr ku beerid. ld masayrsii.
+
 masayrid m.f.dh eeg masayr².
+
 masayrin m.f.dh eeg masayri. ld masayrsiin.
-masayrrey m.dh (-reeyo, m.dh) Naag masayr
-badan.
-masayrrow m.l (-wyo, m.l/dh) Nin masayr
-badan.
-masayrsan f.mg4 (-naa, -nayd) Cid masayr
-hayo ahaansho.
-masayrsanaan m.f.dh eeg masayrsan. ld
-masayrsanaansho.
-masayrsanaansho m.l/dh 1. eeg masayrsanow.
-2. ld masayrsanaan.
-masayrsanow f.mg3 (-naaday, -naatay) Cid
-wax masayr hayo noqosho.
+
+masayrrey m.dh (-reeyo, m.dh) Naag masayr badan.
+
+masayrrow m.l (-wyo, m.l/dh) Nin masayr badan.
+
+masayrsan f.mg4 (-naa, -nayd) Cid masayr hayo ahaansho.
+
+masayrsanaan m.f.dh eeg masayrsan. ld masayrsanaansho.
+
+masayrsanaansho m.l/dh 1. eeg masayrsanow. 2. ld masayrsanaan.
+
+masayrsanow f.mg3 (-naaday, -naatay) Cid wax masayr hayo noqosho.
+
 masayrsii f.g/mg2 (-iiyay, -iisay) ld masayri.
+
 masayrsiin m.f.dh ld masayrin.
-masayrtir¹ m.l Hanti la siiyo naag masayrsan si
-loo raalliggeliyo.
-masayrtir² f.g/mg1 (-ray, -rtay) Haweenay
-masayrsan hanti siin si loo raalliggeliyo.
+
+masayrtir¹ m.l Hanti la siiyo naag masayrsan si loo raalliggeliyo.
+
+masayrtir² f.g/mg1 (-ray, -rtay) Haweenay masayrsan hanti siin si loo raalliggeliyo.
+
 masayrtirid m.f.dh eeg masayrtir².
-mascaanood m.l (c.nafl.) Mas dheer oo
-midabkiisu casaan xigeenyahay oo aan dadka
-qaniinin.
-mascadde m.l (c.nafl) Nooc masaska ka mid ah
-oo midab cad leh.
-masciideed m.l (c.nafl) Nooc masaska halista
-ah ka mid ah oo leh midab dhiin ah oo
-badanaa jooga dhulka cadduunka ah.
-masdar m.l (-rro/-saadir, m.dh) (nax.) Magac-
-faleedka falka, yacni waa qaab faleed aan ku
-dhicin isrogrog la xariira tirada, caynta iyo
-amminkaba; badanaa waxaa la raaciyaa fal ka
-kaaliya xagga nadooca. Tus. “Axmed wuu
-akhrin karaa”, “Wiilasha way akhrin karaan”.
-ld mesder.
-masdarad m.dh (-do, m.l) Qori xalleefsan oo
-qaybo isle'eg qaybsan, oo wax lagu cabbiro,
-ama xarriiqaha lagu sadriyo. ld masdaro,
-mastarad, mastaro.
+
+mascaanood m.l (c.nafl.) Mas dheer oo midabkiisu casaan xigeenyahay oo aan dadka qaniinin.
+
+mascadde m.l (c.nafl) Nooc masaska ka mid ah oo midab cad leh.
+
+masciideed m.l (c.nafl) Nooc masaska halista ah ka mid ah oo leh midab dhiin ah oo badanaa jooga dhulka cadduunka ah.
+
+masdar m.l (-rro/-saadir, m.dh) (nax.) Magac-faleedka falka, yacni waa qaab faleed aan ku dhicin isrogrog la xariira tirada, caynta iyo amminkaba; badanaa waxaa la raaciyaa fal ka kaaliya xagga nadooca. Tus. “Axmed wuu akhrin karaa”, “Wiilasha way akhrin karaan”. ld mesder.
+
+masdarad m.dh (-do, m.l) Qori xalleefsan oo qaybo isle'eg qaybsan, oo wax lagu cabbiro, ama xarriiqaha lagu sadriyo. ld masdaro, mastarad, mastaro.
+
 masdaro m.dh ld masdarad.
-mase¹ m.l 1. ld mise 1. Laba wax ama ka
-badan oo isku mid ah ama isu dhigma.
-2. Sinnaan.
-mase² xi.we (nax.) Eray lagu xiriiriyo labada
-dhinac ee weyddiinta. Tus. “Ma midigtamasixid
-mase waa bidixda?”, “Cali mase Faarax?”. ld
-mise².
+
+mase¹ m.l 1. ld mise 1. Laba wax ama ka badan oo isku mid ah ama isu dhigma. 2. Sinnaan.
+
+mase² xi.we (nax.) Eray lagu xiriiriyo labada dhinac ee weyddiinta. Tus. “Ma midigtamasixid mase waa bidixda?”, “Cali mase Faarax?”. ld mise².
+
 masee f.g2 (-seeyay, -seysay) ld misee.
+
 maseyn m.f.dh ld miseyn.
+
 masgeesaale m.l Gungume.
+
 mashaa'ikh m.dh.w eeg shiikh.
+
 mashaakil m.dh.w eeg mushkilad.
+
 mashaariic m.dh.w eeg mashruuc.
+
 mashaqayn m.f.dh eeg mashaqee.
-mashaqaysan f.mg4 (-snaa, -snayd) Wax
-mashaqo hayso ahaansho.
-mashaqaysnaan m.f.dh eeg mashaqaysan. ld
-mashaqaysnaansho.
+
+mashaqaysan f.mg4 (-snaa, -snayd) Wax mashaqo hayso ahaansho.
+
+mashaqaysnaan m.f.dh eeg mashaqaysan. ld mashaqaysnaansho.
+
 mashaqaysnaansho m.l/dh ld mashaqaysnaan.
-mashaqayste m.l (-tayaal, m.l/dh) Qof shaqa
-la'aanta jecel oo cajislow ah.
-mashaqee f.g2 (-qeeyay, -qaysay) Wax
-mashaqo ku abuurid.
-mashaqo¹ m.dh (-ooyin, ml.) Dhibaato;
-shiddo; mixno; mushkulad.
-mashaqo² m.dh (fiis.) Cabbirka xaddiga walaxi
-qaab doorsoontay, marka la saaro xoog qaab-
-dooriye ah. Qaab doorintu marka ay tahay
-dherer, mashaqadu waxa ay le'egtahay
-saamiga isbeddel dhererka iyo dhererka salka
-ah.
+
+mashaqayste m.l (-tayaal, m.l/dh) Qof shaqa la'aanta jecel oo cajislow ah.
+
+mashaqee f.g2 (-qeeyay, -qaysay) Wax mashaqo ku abuurid.
+
+mashaqo¹ m.dh (-ooyin, ml.) Dhibaato; shiddo; mixno; mushkulad.
+
+mashaqo² m.dh (fiis.) Cabbirka xaddiga walaxi qaab doorsoontay, marka la saaro xoog qaab-dooriye ah. Qaab doorintu marka ay tahay dherer, mashaqadu waxa ay le'egtahay saamiga isbeddel dhererka iyo dhererka salka ah.
+
 mashaqoobid m.f.dh eeg mashaqow.
-mashaqow f.mg1 (-oobay, -owday; -oobi)
-Mashaqo haleelid.
-masharaaf m.l (-fo, m.l) Tuubbo dheer oo
-macdan ama balaastig ah, guryaha dushooda
-ka soo dejisa biyaha roobka oo keenta dhulka
-si aan biyuhu guriga wax u yeelin; maracaad;
-manjarrar. ld masharafad.
+
+mashaqow f.mg1 (-oobay, -owday; -oobi) Mashaqo haleelid.
+
+masharaaf m.l (-fo, m.l) Tuubbo dheer oo macdan ama balaastig ah, guryaha dushooda ka soo dejisa biyaha roobka oo keenta dhulka si aan biyuhu guriga wax u yeelin; maracaad; manjarrar. ld masharafad.
+
 masharafad m.dh ld masharaaf.
+
 mashashuur¹ m.l ld mashashuurid.
 mashashuur² f.g1 (-ray, -rtay) Is m.: xishood
 badan oo ismacnayni ku jirto yeelasho. ld
