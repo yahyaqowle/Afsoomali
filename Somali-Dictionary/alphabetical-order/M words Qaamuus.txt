@@ -2919,39 +2919,45 @@ marbuuc m.l ld marbooc.
 marcurad m.l Neef xoola ah oo hal mar keliya wax dhalay.
 
 marcuradnimo m.dh Marcurad ahaansho.
-marcurasho m.dh Dhalidda marka ugu
-horreeysa ay wax dhalaan dheddigoodka.
-mardaaddi¹ m.l Xarragada dhar qurxoon lagu
-xarragoodo.
-mardaaddi² f.mg1/2 (-iyay, -iday/-isay) Dhar
-qurxoon xirasho.
+
+marcurasho m.dh Dhalidda marka ugu horreeysa ay wax dhalaan dheddigoodka.
+
+mardaaddi¹ m.l Xarragada dhar qurxoon lagu xarragoodo.
+
+mardaaddi² f.mg1/2 (-iyay, -iday/-isay) Dhar qurxoon xirasho.
+
 mardaaddin m.dh ld mardaaddiyid.
-579mardaaddiyid
-mardaaddiyid m.f.dh eeg mardaaddi². ld
-mardaaddin.
+
+mardaaddiyid m.f.dh eeg mardaaddi². ld mardaaddin.
+
 mardaaf m.l Qumbe curdun ah.
-mardabaan m.l (-nno, m.dh) Aanshuun adag
-oo dhoobo ka sameeysan; jalxad.
+
+mardabaan m.l (-nno, m.dh) Aanshuun adag oo dhoobo ka sameeysan; jalxad.
+
 mardabayn m.f.dh eeg mardabee.
-mardabee f.g2 (-beeyay, -baysay) Cid
-khiyaamid si loo luggooyo.
-mardabo m.dh (-ooyin, m.l) Khiyaamo waqti
-lumin iyo luggooyo ku jirto; dhagar. ld
-mardaddabaan, mardaddabo.
+
+mardabee f.g2 (-beeyay, -baysay) Cid khiyaamid si loo luggooyo.
+
+mardabo m.dh (-ooyin, m.l) Khiyaamo waqti lumin iyo luggooyo ku jirto; dhagar. ld mardaddabaan, mardaddabo.
+
 mardaddabaan m.l ld mardabo.
-mardaddabaanley m.dh (-yo, m.dh) Naag
-mardadabo taqaan.
-mardaddabaanlow m.l (-wyo, m.l/dh) Nin
-mardaddabo yaqaan.
+
+mardaddabaanley m.dh (-yo, m.dh) Naag mardadabo taqaan.
+
+mardaddabaanlow m.l (-wyo, m.l/dh) Nin mardaddabo yaqaan.
+
 mardaddabo m.dh ld mardabo.
+
 mardar m.l (-rro, m.dh) Waran weyn.
-mardee f.g2 (-deeyay, -deysay) Wax mardo u
-yeelid.
+
+mardee f.g2 (-deeyay, -deysay) Wax mardo u yeelid.
+
 mardeyn m.f.dh eeg mardee.
-mardhoof m.l (-fyo, m.dh) Qof hal mar
-dhoofay oo faan iyo been badan.
-mardimee f.g2 (-meeyay, -meysay) Wax
-mardimo u yeelid.
+
+mardhoof m.l (-fyo, m.dh) Qof hal mar dhoofay oo faan iyo been badan.
+
+mardimee f.g2 (-meeyay, -meysay) Wax mardimo u yeelid.
+
 mardimeyn m.f.dh eeg mardimee.
 mardin m.dh (-nno/-imo, m.l) 1. Daliig; liid.
 2. Naqshado diillimo ah oo caw, ama caws
