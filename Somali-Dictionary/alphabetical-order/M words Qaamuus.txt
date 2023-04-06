@@ -2710,80 +2710,68 @@ maquus² f.g1 (-say, -stay) ld muquus².
 
 maquusid m.dh ld muquusid.
 
-mar¹ m.l 1. (-rar, m.l) Waqti la yaqaan oo bilow iyo dhammaad leh; goor, kol.
-2. M.kayga, m.kaaga iwm: kolkayga,
-kolkaaga iwm. 3. M.kiiba: isla waqtigiiba,
-durba. 4. ld marid.
-mar² m.dh (-ro, m.l) 1. Wax walba ee
-dumarku dhexda ku xirtaan. 2. Qiimaha
-naagnimo.
-577mar³
-mar³ xi. 1. (nax.) Isla m.ka ama isla m.kii:
-oraah lagu xiriiriyo weer waqtiley ah oo
-tilmaamaysa fal dhacay isla waqtigii midka
-weerta xorta ahi uu bilaabmayo. Tus. “Isla
-markii uu yimid shaqo ayuu bilaabay”.
-2. (nax.) M.ka ama m.kii: oraah lagu xiriiriyo
-weer waqtiley ah. Tus. “Markii uu Warsame
-dhoofay ayaan gegida dayuuradaha ka soo
-noqday”.
-mar4 f.g1 (-ray, -rtay) 1. Meel gudbid.
-2. Dhaarasho. 3. Wax, wax ku duubid.
-4. Wax baabuur iwm dardarid. 5. Nafley
-dabayl jin iwm ku dhicid. 6. Isku m.: wax
-xoog isku duubid. 7. Isu m.: laba meel oo
-kala jaho ah socod gaadiid iwm ku wada
-gaarid.
-maraa m.l (maraa, m.dh) Geed qodax leh oo
-laf adag. ld maraay.
-maraabayn m.f.dh eeg maraabee. ld
-maraamayn.
+mar¹ m.l 1. (-rar, m.l) Waqti la yaqaan oo bilow iyo dhammaad leh; goor, kol. 2. M.kayga, m.kaaga iwm: kolkayga, kolkaaga iwm. 3. M.kiiba: isla waqtigiiba, durba. 4. ld marid.
+
+mar² m.dh (-ro, m.l) 1. Wax walba ee dumarku dhexda ku xirtaan. 2. Qiimaha naagnimo.
+
+mar³ xi. 1. (nax.) Isla m.ka ama isla m.kii: oraah lagu xiriiriyo weer waqtiley ah oo tilmaamaysa fal dhacay isla waqtigii midka weerta xorta ahi uu bilaabmayo. Tus. “Isla markii uu yimid shaqo ayuu bilaabay”. 2. (nax.) M.ka ama m.kii: oraah lagu xiriiriyo weer waqtiley ah. Tus. “Markii uu Warsame dhoofay ayaan gegida dayuuradaha ka soo noqday”.
+
+mar4 f.g1 (-ray, -rtay) 1. Meel gudbid. 2. Dhaarasho. 3. Wax, wax ku duubid. 4. Wax baabuur iwm dardarid. 5. Nafley dabayl jin iwm ku dhicid. 6. Isku m.: wax xoog isku duubid. 7. Isu m.: laba meel oo kala jaho ah socod gaadiid iwm ku wada gaarid.
+
+maraa m.l (maraa, m.dh) Geed qodax leh oo laf adag. ld maraay.
+
+maraabayn m.f.dh eeg maraabee. ld maraamayn.
+
 maraabe m.l ld maraabo.
-maraabee f.mg2 (-beeyay, -baysay) Doon,
-markab iwm hadba dhan u iilasho. ld
-maraamee.
-maraabo m.dh Dheeldheelliga uu sameeyo
-markab doon iwm oo badsaaran. ld
-maraabe, maraame, maraamo.
-maraaci¹ m.l 1. Salaaxidda haweeney la
-salaaxo. 2. ld maraaciyid.
-maraaci² f.mg1 (-iyay, -iday) Haweeney
-salaaxid.
+
+maraabee f.mg2 (-beeyay, -baysay) Doon, markab iwm hadba dhan u iilasho. ld maraamee.
+
+maraabo m.dh Dheeldheelliga uu sameeyo markab doon iwm oo badsaaran. ld maraabe, maraame, maraamo.
+
+maraaci¹ m.l 1. Salaaxidda haweeney la salaaxo. 2. ld maraaciyid.
+
+maraaci² f.mg1 (-iyay, -iday) Haweeney salaaxid.
+
 maraaciyid m.f.dh eeg maraaci². ld maraaci¹.
-maraado m.dh (-ooyin, m.l) Qof gef sameeyay
-neef ganaax ahaan looga qalo.
+
+maraado m.dh (-ooyin, m.l) Qof gef sameeyay neef ganaax ahaan looga qalo.
+
 maraajic m.dh.w eeg marjac.
+
 maraakiib m.dh.w eeg markab.
+
 maraamayn m.dh ld maraabayn.
+
 maraame m.l ld maraabo.
-maraamee f.mg2 (-meeyay, -meysay) ld
-maraabee.
-maraamiir m.l (c.nafl.) Nooc mallaayga
-gadiirka u eg oo badda soomaaliyeed ku
-badan.
+
+maraamee f.mg2 (-meeyay, -meysay) ld maraabee.
+
+maraamiir m.l (c.nafl.) Nooc mallaayga gadiirka u eg oo badda soomaaliyeed ku badan.
+
 maraamo m.dh ld maraabo.
-maraar m.dh (-ro, m.l) Qalqalooc ama xarar
-wax la qorayo loo yeelo.
-maraarnimo m.dh (daaw.) Xaalad cudureed oo
-ka timaada ayadoo lagu dhasho shaqi yari
-qanjirdhiiqa taayroyd. Astaamaha ahaan:
-gaabni, caqli dhimanaan, muuqaalka wajiga
-oo gaar ah.
+
+maraar m.dh (-ro, m.l) Qalqalooc ama xarar wax la qorayo loo yeelo.
+
+maraarnimo m.dh (daaw.) Xaalad cudureed oo ka timaada ayadoo lagu dhasho shaqi yari qanjirdhiiqa taayroyd. Astaamaha ahaan: gaabni, caqli dhimanaan, muuqaalka wajiga oo gaar ah.
+
 maraay m.l ld maraa.
-marabbi m.dh Neef rabbaayad ah oo aan
-dadka ka cararin. ld murabbi.
-578
-marabboob m.dh (bot.) Ubax la mood qodxo
-yaryar ah oo ka baxa nooc cawska ka mid ah
-oo dharka ku dhega.
+
+marabbi m.dh Neef rabbaayad ah oo aan dadka ka cararin. ld murabbi.
+
+marabboob m.dh (bot.) Ubax la mood qodxo yaryar ah oo ka baxa nooc cawska ka mid ah oo dharka ku dhega.
+
 marad m.l ld marasho².
-maradhaami f.g2 (-iyay, -isay) Cid maaweelo
-nayaayiro leh u jeedin.
+
+maradhaami f.g2 (-iyay, -isay) Cid maaweelo nayaayiro leh u jeedin.
+
 maradhaamin m.f.dh eeg maradhaami.
+
 maradhaamo m.dh Maaweelo nayaayiro leh.
+
 maradhaarayn m.dh ld maradhaarin.
-maradhaaree f.g2 (-reeyay, -reysay) ld
-maradhaari.
+
+maradhaaree f.g2 (-reeyay, -reysay) ld maradhaari.
+
 maradhaari f.g2 (-iyay, -isay) Wax
 dhaqaalayn. ld maradhaaree.
 maradhaarin m.f.dh eeg maradhaari. ld
