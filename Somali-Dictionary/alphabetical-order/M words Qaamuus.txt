@@ -2811,6 +2811,7 @@ maragsanaan m.f.dh eeg maragsan. ld maragsanaansho, meregsanaan, meregsanaansho.
 maragsanaansho m.l/dh ld maragsanaan.
 
 maragsasho m.dh ld maragsiin.
+
 maragsii f.g2 (-iiyay, -iisay) Cid marag ka
 dhigasho. ld maragso.
 maragsiin m.f.dh eeg maragsii. ld maragsasho.
