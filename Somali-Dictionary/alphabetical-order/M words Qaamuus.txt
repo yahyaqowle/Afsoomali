@@ -2853,79 +2853,71 @@ mararroobid m.f.dh eeg mararrow². ld mararrow¹.
 mararrow¹ m.l 1. Wax waqtilumis ah. 2. ld mararroobid.
 
 mararrow² f.mg1 (-oobay, -owday; -oobi) Waqti lumin.
-marashee f.g2 (-sheeyay, -sheysay) ld
-marashiyee.
+
+marashee f.g2 (-sheeyay, -sheysay) ld marashiyee.
+
 marasheyn m.dh ld marashiyayn.
-marasheysan f.mg4 (-snaa, -snayd) ld
-marashiyeysan.
+
+marasheysan f.mg4 (-snaa, -snayd) ld marashiyeysan.
+
 marasheysnaan m.dh ld marashiyeysnaan.
-marasheysnaansho
-m.l/dh
-ld
-marashiyeysanaan.
-marashi m.dh 1. ld marasho 1. Dharka ninku
-siiyo naagta uu qabo. 2. (-iyo, m.dh/-iyaal,
-m.l./dh) Harqoodka qaybtiisa birta ah ee
-dhulka gasha.
-marashiyayn m.f.dh eeg marashiyee. ld
-marashayn.
-marashiyee f.g2 (-yeeyay, -yaysay) Haween la
-qabo marashi siin. ld marashee.
-marashiyeysan f.mg4 (-naa, -nayd) Qof
-haween ah wax arratiran ahaansho. ld
-marashaysan.
-marashiyeysnaan m.f.dh eeg marashiyeysan. ld
-marasheysnaan,
-marasheysnaansho,
-marashiyeysnaansh
-marashiyeysnaansho
-m.l/dh
-ld
-marashiyeysnaan.
-marasho¹ m.dh Dhar ninku siiyo naagta uu
-qabo. ld marashi (1).
+
+marasheysnaansho m.l/dh ld marashiyeysanaan.
+
+marashi m.dh 1. ld marasho 1. Dharka ninku siiyo naagta uu qabo. 2. (-iyo, m.dh/-iyaal, m.l./dh) Harqoodka qaybtiisa birta ah ee dhulka gasha.
+
+marashiyayn m.f.dh eeg marashiyee. ld marashayn.
+
+marashiyee f.g2 (-yeeyay, -yaysay) Haween la qabo marashi siin. ld marashee.
+
+marashiyeysan f.mg4 (-naa, -nayd) Qof haween ah wax arratiran ahaansho. ld marashaysan.
+
+marashiyeysnaan m.f.dh eeg marashiyeysan. ld marasheysnaan, marasheysnaansho, marashiyeysnaansho.
+
+marashiyeysnaansho m.l/dh ld marashiyeysnaan.
+
+marasho¹ m.dh Dhar ninku siiyo naagta uu qabo. ld marashi (1).
+
 marasho² m.f.dh eeg maro. ld marad.
+
 maratoon m.l Orod dheer oo lagu tartamo.
-marawaxad m.dh (-do, m.l) 1. Qalab bir, caag
-iwm ah oo koronto ku shaqeeya, wareegsado
-oo guriyaha la suro ama meel la saaro oo
-neecaaw qabow keena. 2. Babbis. 3. Qufac
-isdabajoog ah; riiraxiyo. ld marawaxo,
-marwaxad, marwaxo.
-marawaxadi f.g2 (-iyay, -isay) 1. Wax babbin.
-2. Marwaxad wax ku qaboojin. ld
-marwaxadi.
-marawaxadin m.f.dh eeg marawaxadi. ld
-marwaxadin.
+
+marawaxad m.dh (-do, m.l) 1. Qalab bir, caag iwm ah oo koronto ku shaqeeya, wareegsado oo guriyaha la suro ama meel la saaro oo neecaaw qabow keena. 2. Babbis. 3. Qufac isdabajoog ah; riiraxiyo. ld marawaxo, marwaxad, marwaxo.
+
+marawaxadi f.g2 (-iyay, -isay) 1. Wax babbin. 2. Marwaxad wax ku qaboojin. ld marwaxadi.
+
+marawaxadin m.f.dh eeg marawaxadi. ld marwaxadin.
+
 marawaxo m.dh ld marawaxad.
-maraweyn m.dh Dad inta maalqabeenka iyo
-madaxda ah.
-marax¹ m.l 1. Wax la kaydsado; dhaqaale.
-2. Hilib muddo yiil oo aan isbeddelin. 3. Ur
-suyac ah.
-marax² f.mg1 (-rxay, -raxday; -rxi) 1. Hilib
-wax isbeddeley noqosho. 2. Wax suyacay
-noqosho (Caano, biyo iwm).
+
+maraweyn m.dh Dad inta maalqabeenka iyo madaxda ah.
+
+marax¹ m.l 1. Wax la kaydsado; dhaqaale. 2. Hilib muddo yiil oo aan isbeddelin. 3. Ur suyac ah.
+
+marax² f.mg1 (-rxay, -raxday; -rxi) 1. Hilib wax isbeddeley noqosho. 2. Wax suyacay noqosho (Caano, biyo iwm).
+
 maraxsad m.l ld maraxsasho.
-maraxsan f.mg4 (-naa, -nayd) 1. Wax la
-dhaqaaleyey ahaansho. 2. Hilib wax suyacay
-ahaansho.
-maraxsanaan m.f.dh eeg maraxsan. ld
-maraxsanaansho.
+
+maraxsan f.mg4 (-naa, -nayd) 1. Wax la dhaqaaleyey ahaansho. 2. Hilib wax suyacay ahaansho.
+
+maraxsanaan m.f.dh eeg maraxsan. ld maraxsanaansho.
+
 maraxsanaansho m.l/dh ld maraxsanaan.
-maraxsasho m.f.dh eeg maraxso. ld maraxsad,
-maraxsi.
+
+maraxsasho m.f.dh eeg maraxso. ld maraxsad, maraxsi.
+
 maraxsi m.l ld maraxsasho.
-maraxso f.g3 (-saday, -satay) Wax
-dhaqaalaysasho.
-maraykaan m.dh Dhar cad, suuf ah, adag oo
-reer miyigu qaataan.
-marbooc m.l Dhar midab cad leh oo baftada
-ka jurmi weyn kana adag. ld marbuuc,
-murbooc.
+
+maraxso f.g3 (-saday, -satay) Wax dhaqaalaysasho.
+
+maraykaan m.dh Dhar cad, suuf ah, adag oo reer miyigu qaataan.
+
+marbooc m.l Dhar midab cad leh oo baftada ka jurmi weyn kana adag. ld marbuuc, murbooc.
+
 marbuuc m.l ld marbooc.
-marcurad m.l Neef xoola ah oo hal mar keliya
-wax dhalay.
+
+marcurad m.l Neef xoola ah oo hal mar keliya wax dhalay.
+
 marcuradnimo m.dh Marcurad ahaansho.
 marcurasho m.dh Dhalidda marka ugu
 horreeysa ay wax dhalaan dheddigoodka.
