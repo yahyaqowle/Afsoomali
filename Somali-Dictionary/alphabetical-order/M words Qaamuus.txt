@@ -3101,379 +3101,357 @@ markis m.l ld markin.
 marko f.mg3 (-kaday, -katay) Dhibaato la kulmid (qof).
 
 marmaarri¹ m.l 1. Dhaqdhaqaajinta wax meel la gelinayo aayar loo dhaqdhaqaajiyo. 2. ld marmaarriyid.
-marmaarri² f.g1 (-iyay, -iday; -iyi) 1. Ku m.:
-wax meel daloosha ku khasbid. 2. Awr koron
-ah aad u cayilin.
-marmaarriyid m.f.dh eeg marmaarri². ld
-marmaarri¹ (2).
-marmar¹ m.l 1. Murqaha luqunta, tun.
-2. Dhagax midabbo badan leh oo derbiyada
-ama sibirka guryaha lagu qurxisto. 3. ld
-marmarid.
+
+marmaarri² f.g1 (-iyay, -iday; -iyi) 1. Ku m.: wax meel daloosha ku khasbid. 2. Awr koron ah aad u cayilin.
+
+marmaarriyid m.f.dh eeg marmaarri². ld marmaarri¹ (2).
+
+marmar¹ m.l 1. Murqaha luqunta, tun. 2. Dhagax midabbo badan leh oo derbiyada ama sibirka guryaha lagu qurxisto. 3. ld marmarid.
+
 marmar² m.l.fk Kolkol. ld mar¹.
-marmar³ f.g/mg1 (-ray, -rtay) 1. (f.g) Il wax ku
-dhaceen farta ku rugid. 2. (f.mg) Meel hore
-iyo gadaal ugu socosho.
+
+marmar³ f.g/mg1 (-ray, -rtay) 1. (f.g) Il wax ku dhaceen farta ku rugid. 2. (f.mg) Meel hore iyo gadaal ugu socosho.
+
 marmarasho m.f.dh eeg marmaro.
+
 marmarhays m.dh Karreysaha geela.
-marmarid m.f.dh eeg marmar³. ld marmar¹
-(3).
-marmaro f.g3 (-rtay, -ratay) Indha farta ku
-rugasho (qof).
+
+marmarid m.f.dh eeg marmar³. ld marmar¹(3).
+
+marmaro f.g3 (-rtay, -ratay) Indha farta ku rugasho (qof).
+
 marmarsiino m.dh ld marmarsiinyo.
-marmarsiinyo m.dh Sabab lagu caddeynayo
-wax dhacay; cudurdaar. ld marmarsiino.
-marmarsiinyoo f.mg3 (-ooday, -ootay)
-1. Marmarsiiyo sheegid. 2. Ku m.: wax
-marmarsiinyo ka dhigasho. ld marmarsoo.
-marmarsiinyood m.f.dh eeg marmarsiinyoo. ld
-marmarsood.
-marmarsoo f.mg3 (-ooday, -ootay) ld
-marmarsiinyoo.
+
+marmarsiinyo m.dh Sabab lagu caddeynayo wax dhacay; cudurdaar. ld marmarsiino.
+
+marmarsiinyoo f.mg3 (-ooday, -ootay) 1. Marmarsiiyo sheegid. 2. Ku m.: wax marmarsiinyo ka dhigasho. ld marmarsoo.
+
+marmarsiinyood m.f.dh eeg marmarsiinyoo. ld marmarsood.
+
+marmarsoo f.mg3 (-ooday, -ootay) ld marmarsiinyoo.
+
 marmarsood m.l ld marmarsiinyood.
+
 marnaan m.f.dh eeg maran. ld marnaansho.
+
 marnaansho m.l/dh eeg marnow. ld marnaan.
-marnow f.mg3 (-naaday, -naatay) 1. Weel aan
-wax ku jirin noqosho. 2. Naas geel wax
-maraq lagu maray noqosho. 3. Qof jinni
-madaxa ka maray noqosho. 4. Gacan m.: qof
-cayr noqosho.
+
+marnow f.mg3 (-naaday, -naatay) 1. Weel aan wax ku jirin noqosho. 2. Naas geel wax maraq lagu maray noqosho. 3. Qof jinni madaxa ka maray noqosho. 4. Gacan m.: qof cayr noqosho.
+
 maro¹ m.dh (-ooyin/-ryo, m.l) Gabal dhar ah.
-maro² f.g/mg3 (-rtay, -ratay) 1. (f.g) Naas geel
-maraq ku marasho. 2. (f.mg) Weel wax aan
-wax ku jirin noqosho. 3. (f.mg) Ku m.: dhar,
-xarig iwm meel ku duubasho.
-581maro-masaar
-maro-masaar m.l 1. Wiil, gabadh dabakeen ah
-ku mataansan oo la aaminsanyahay in uu
-falxad yahay. 2. Wan ama waxar dabakeen
-ku mataansan.
-maroodi m.l (-iyo, m.l) (c.nafl.) Naasleyda
-berriga ku nool midka ugu weyn oo leh
-gacan dheer oo uu ka neefsado, waxna ku
-laayo, labo-ilig waaweyn dhaadheer, qaali ah
-oo ka soo baxsan goomankiisa, iyo cago
-balballaaran oo aan faro lahayn oo ku nool
-Afrika iyo Hindiya.
-maroodiyow m.l (daaw.) Cudur xun, luga
-barariya oo dadka iyo xoolaha ku dhaca;
-abeesow.
-maroog m.l Xarig la tirjinayo si xoog leh oo la
-isugu duubo.
+
+maro² f.g/mg3 (-rtay, -ratay) 1. (f.g) Naas geel maraq ku marasho. 2. (f.mg) Weel wax aan wax ku jirin noqosho. 3. (f.mg) Ku m.: dhar, xarig iwm meel ku duubasho.
+
+maro-masaar m.l 1. Wiil, gabadh dabakeen ah ku mataansan oo la aaminsanyahay in uu falxad yahay. 2. Wan ama waxar dabakeen ku mataansan.
+
+maroodi m.l (-iyo, m.l) (c.nafl.) Naasleyda berriga ku nool midka ugu weyn oo leh gacan dheer oo uu ka neefsado, waxna ku laayo, labo-ilig waaweyn dhaadheer, qaali ah oo ka soo baxsan goomankiisa, iyo cago balballaaran oo aan faro lahayn oo ku nool Afrika iyo Hindiya.
+
+maroodiyow m.l (daaw.) Cudur xun, luga barariya oo dadka iyo xoolaha ku dhaca; abeesow.
+
+maroog m.l Xarig la tirjinayo si xoog leh oo la isugu duubo.
+
 maroogsad m.l ld marooqsasho.
-maroogsan f.mg4 (-naa, -nayd) ld
-marooqsan.
+
+maroogsan f.mg4 (-naa, -nayd) ld marooqsan.
+
 maroogsanaan m.dh ld marooqsanaan.
+
 maroogsanaansho m.l/dh ld marooqsanaan.
+
 maroogsasho m.dh ld marooqsasho.
+
 maroogsi m.l ld marooqsasho.
-maroogsin m.dh (-imo/-inno, m.l) Dambiil
-weyn.
+
+maroogsin m.dh (-imo/-inno, m.l) Dambiil weyn.
+
 maroogso f.g3 (-saday, -satay) ld marooqso.
-marooji f.g2 (-iyay, -isay) 1. Si maroor ah wax
-u wareejin. 2. Maro qoyan isku duubid si ay
-biyuhu uga daataan.
+
+marooji f.g2 (-iyay, -isay) 1. Si maroor ah wax u wareejin. 2. Maro qoyan isku duubid si ay biyuhu uga daataan.
+
 maroojin m.f.dh eeg marooji. ld maroojis.
+
 maroojis m.l ld maroojin.
-maroojis-laba-cirifle m.l (-ayaal, m.l/dh)
-(kiim.) Taranta soo baxda marka la isku
-dhufto saldanabka togan (ama midka taban
-ee saxar) iyo fogaanta u dhaxaysa labada
-saldanab.
-marooq m.l 1. Xarig, maro, iwm oo la
-maroojiyey meesha ay iskaga guntamaan.
-2. Qallooc.
+
+maroojis-laba-cirifle m.l (-ayaal, m.l/dh)(kiim.) Taranta soo baxda marka la isku dhufto saldanabka togan (ama midka taban ee saxar) iyo fogaanta u dhaxaysa labada saldanab.
+
+marooq m.l 1. Xarig, maro, iwm oo la maroojiyey meesha ay iskaga guntamaan. 2. Qallooc.
+
 marooqsad m.l ld marooqsasho.
-marooqsan f.mg4 (-naa, -nayd) 1. Wax
-marooq yeeshay ahaansho (xarig, maro
-iwm). 2. Wax marooq yeeshay ahaansho
-(gees, qori iwm). ld maroogsan.
-marooqsanaan m.f.dh eeg marooqsan. ld
-maroogsanaan,
-maroogsanaansho,
-marooqsanaansho.
+
+marooqsan f.mg4 (-naa, -nayd) 1. Wax marooq yeeshay ahaansho (xarig, maro iwm). 2. Wax marooq yeeshay ahaansho (gees, qori iwm). ld maroogsan.
+
+marooqsanaan m.f.dh eeg marooqsan. ld maroogsanaan, maroogsanaansho, marooqsanaansho.
+
 marooqsanaansho m.l/dh ld marooqsanaan.
-marooqsasho m.f.dh eeg marooqso. ld
-maroogsad, maroogsasho, maroogsi,
-marooqsad, maroo
+
+marooqsasho m.f.dh eeg marooqso. ld maroogsad, maroogsasho, maroogsi, marooqsad.
+
 marooqsi m.l ld marooqsasho.
-marooqso f.g3 (-saday, -satay) Cid wax
-gacanteeda ku jira xoog kaga qaadasho. ld
-maroogso, maroorso.
-582
+
+marooqso f.g3 (-saday, -satay) Cid wax gacanteeda ku jira xoog kaga qaadasho. ld maroogso, maroorso.
+
 maroor¹ m.l Meesha nafleydu ka saxarooto.
-maroor² f.mg1 (-ray, -rtay) Xarig, maro, iwm
-marooq yeelasho.
+
+maroor² f.mg1 (-ray, -rtay) Xarig, maro, iwm marooq yeelasho.
+
 marooradillaac¹ m.l ld muraaradillaac¹.
-marooradillaac² f.mg1 (-cay, -cday) ld
-muraaradillaac².
-marooradillaaci f.g2 (-iyay, -isay) ld
-muraaradillaaci.
+
+marooradillaac² f.mg1 (-cay, -cday) ld muraaradillaac².
+
+marooradillaaci f.g2 (-iyay, -isay) ld muraaradillaaci.
+
 marooradillaacid m.dh ld muraaradillaacid.
+
 marooradillaacin m.dh ld muraaradillaacin.
-maroori f.g2 (-iyay, -isay) Si maroor ah wax u
-wareejin.
+
+maroori f.g2 (-iyay, -isay) Si maroor ah wax u wareejin.
+
 maroorid m.f.dh eeg maroor².
+
 maroorin m.f.dh eeg maroori.
-marooro m.dh (bot.) Geed-saar ka kooban
-laamo jilicsan oo la cuno, oo dhadhankiisu
-dhanaanyahay.
+
+marooro m.dh (bot.) Geed-saar ka kooban laamo jilicsan oo la cuno, oo dhadhankiisu dhanaanyahay.
+
 maroorsamid m.f.dh eeg maroorsan¹.
-maroorsan¹ f.mg1 (-amay, -antay; -ami) Wax
-maroor leh noqosho (xarig, maro iwm).
-maroorsan² f.mg4 (-naa, -nayd) Wax maroor
-leh ahaansho (xarig, maro iwm).
-maroorsanaan m.f.dh eeg maroorsan². ld
-maroorsanaansho.
-maroorsanaansho m.l/dh eeg maroorsanow. ld
-maroorsanaan.
-maroorsanow f.mg3 (-naaday, -naatay) Wax
-marooq yeeshay noqosho (xarig, maro iwm).
+
+maroorsan¹ f.mg1 (-amay, -antay; -ami) Wax maroor leh noqosho (xarig, maro iwm).
+
+maroorsan² f.mg4 (-naa, -nayd) Wax maroor leh ahaansho (xarig, maro iwm).
+
+maroorsanaan m.f.dh eeg maroorsan². ld maroorsanaansho.
+
+maroorsanaansho m.l/dh eeg maroorsanow. ld maroorsanaan.
+
+maroorsanow f.mg3 (-naaday, -naatay) Wax marooq yeeshay noqosho (xarig, maro iwm).
+
 maroorsasho m.dh ld marooqsasho.
+
 maroorso f.g3 (-saday, -satay) ld marooqso.
-marqaami f.g2 (-iyay, -isay) Marqaan
-gayeysiin (qof). ld marqaansii, murqaami.
-marqaamid m.f.dh eeg marqaan². ld
-murqaamid.
-marqaamin m.f.dh eeg marqaami. ld
-marqaansiin, marqaansiis, murqaamin.
-marqaan¹ m.l 1. Farxad iyo firifircooni laga
-helo cunida qaadka. 2. M. ah: qof ay ka
-muuqato farxad iyo firfircoon qaad uu cunay
-dartii. ld murqaan.
-marqaan² f.mg1 (-aamay, -aantay; -aami)
-Qaad cuniddiisa farxad iyo firfircooni ka
-helid (qof). ld murqaan².
-marqaansan f.mg4 (-naa, -nayd) Wax
-marqaamay ahaansho (qof). ld murqaansan.
-marqaansanaan m.f.dh eeg marqaansan. ld
-marqaansanaansho,
-murqaansanaan,
-murqaansanaansho.
-marqaansanaansho m.l/dh eeg marqaansanow.
-ld marqaansanaan.
-marqaansanow f.mg3 (-naaday, -naatay) Wax
-marqaamay
-noqosho
-(qof).
-ld
-murqaansanow.
+
+marqaami f.g2 (-iyay, -isay) Marqaan gayeysiin (qof). ld marqaansii, murqaami.
+
+marqaamid m.f.dh eeg marqaan². ld murqaamid.
+
+marqaamin m.f.dh eeg marqaami. ld marqaansiin, marqaansiis, murqaamin.
+
+marqaan¹ m.l 1. Farxad iyo firifircooni laga helo cunida qaadka. 2. M. ah: qof ay ka muuqato farxad iyo firfircoon qaad uu cunay dartii. ld murqaan.
+
+marqaan² f.mg1 (-aamay, -aantay; -aami) Qaad cuniddiisa farxad iyo firfircooni ka helid (qof). ld murqaan².
+
+marqaansan f.mg4 (-naa, -nayd) Wax marqaamay ahaansho (qof). ld murqaansan.
+
+marqaansanaan m.f.dh eeg marqaansan. ld marqaansanaansho, murqaansanaan, murqaansanaansho.
+
+marqaansanaansho m.l/dh eeg marqaansanow. ld marqaansanaan.
+
+marqaansanow f.mg3 (-naaday, -naatay) Wax marqaamay noqosho (qof). ld murqaansanow.
+
 marqaansii f.g2 (-iiyay, -iisay) ld marqaami.
+
 marqaansiin m.dh ld marqaamin.martiqaad²
+
 marqaansiis m.l ld marqaamin.
+
 marqaati m.l ld markhaati.
-marqafur m.l Geed-saar geelu aad u jecelyahay,
-marqammayr. ld marqammayr.
+
+marqafur m.l Geed-saar geelu aad u jecelyahay, marqammayr. ld marqammayr.
+
 marqammayr m.l ld marqafur.
-marqan f.mg1 (-amay, -antay) Wax maraq
-naasaheeda ku xiran yahay ahaansho
-(halirmaan). ld maraqsan.
-marqanaan
-m.f.dh eeg marqan. ld
-maraqsanaan,
-maraqsanaansho,
-marqanaansho.
+
+marqan f.mg1 (-amay, -antay) Wax maraq naasaheeda ku xiran yahay ahaansho (halirmaan). ld maraqsan.
+
+marqanaan m.f.dh eeg marqan. ld maraqsanaan, maraqsanaansho, marqanaansho.
+
 marqanaansho m.l/dh ld marqanaan.
-marqasho m.f.dh eeg marqo. ld maraqsad,
-maraqsasho.
-marqi f.g2 (-iyay, -isay) 1. Hal naasaha ka
-marid. 2. Hilib maraq u yeelid.
+
+marqasho m.f.dh eeg marqo. ld maraqsad, maraqsasho.
+
+marqi f.g2 (-iyay, -isay) 1. Hal naasaha ka marid. 2. Hilib maraq u yeelid.
+
 marqid m.f.dh eeg maraq².
+
 marqin m.f.dh eeg marqi. ld marqis.
+
 marqis m.l ld marqin.
-marqo f.g3 (-qaday, -qatay) Hal irmaan
-afarteeda naas oo dhan ama qaar ka mid ah
-marasho, si aan loo nuugini ama loo lisin. ld
-maraqso.
+
+marqo f.g3 (-qaday, -qatay) Hal irmaan afarteeda naas oo dhan ama qaar ka mid ah marasho, si aan loo nuugini ama loo lisin. ld maraqso.
+
 marra fk. ld mar¹.
-marras m.dh.u Dadka intiisa jilicsan sida
-carruurta, odayada iyo masaakiinta.
-marre m.l (dii.) Qur'aanka caddaddiisa (114)
-oo hal mar la akhriyo. ld marro (2).
-marriimid m.f.dh eeg marriin². ld marriin¹
-(4).
-marriin¹ m.l 1. Dharka haweenka. 2. Daliig
-midab leh oo maro marsan. 3. Qalab
-haweenku isku qurxin darteed u gashadaan.
-4. ld mariimid.
-marriin² f.g1 (-iimay, -iintay; -iimi) 1. Qof
-haween ah dhar ay xirato u gadid. 2. Maro
-daliig midab leh ku qurxin. 3. Maro, darin
-iwm midabbo u yeelid.
-marro m.l (-ooyin, m.l) 1. Jilib qabiilo. 2. ld
-marre.
+
+marras m.dh.u Dadka intiisa jilicsan sida carruurta, odayada iyo masaakiinta.
+
+marre m.l (dii.) Qur'aanka caddaddiisa (114) oo hal mar la akhriyo. ld marro (2).
+
+marriimid m.f.dh eeg marriin². ld marriin¹ (4).
+
+marriin¹ m.l 1. Dharka haweenka. 2. Daliig midab leh oo maro marsan. 3. Qalab haweenku isku qurxin darteed u gashadaan. 4. ld mariimid.
+
+marriin² f.g1 (-iimay, -iintay; -iimi) 1. Qof haween ah dhar ay xirato u gadid. 2. Maro daliig midab leh ku qurxin. 3. Maro, darin iwm midabbo u yeelid.
+
+marro m.l (-ooyin, m.l) 1. Jilib qabiilo. 2. ld marre.
+
 marsad m.l ld marasasho.
-marsan f.g/mg4 (-naa, -nayd) 1. (f.g)
-Haweenay maro ay xirantahay wax dhexda
-ka xiran ahaansho. 2. (f.mg) Wax midab,
-dufan iwm meel laga mariyey ahaansho.
-3. (f.mg) Maro, darin iwm oo liid midabo ah
-lagu qurxiyey ahaansho.
-marsanaan
-m.f.dh
-eeg
-marsan.
-ld
-marsanaansho.
+
+marsan f.g/mg4 (-naa, -nayd) 1. (f.g) Haweenay maro ay xirantahay wax dhexda ka xiran ahaansho. 2. (f.mg) Wax midab, dufan iwm meel laga mariyey ahaansho. 3. (f.mg) Maro, darin iwm oo liid midabo ah lagu qurxiyey ahaansho.
+
+marsanaan m.f.dh eeg marsan. ld marsanaansho.
+
 marsanaansho m.l/dh ld marsanaan.
+
 marsasho m.f.dh eeg marso². ld marsad.
-marshee f.mg2 (-sheeyay, -sheysay) Marsho
-gelin.
+
+marshee f.mg2 (-sheeyay, -sheysay) Marsho gelin.
+
 marsheyn m.f.dh eeg maashee.
-marsho m.dh (-ooyin, m.l) 1. Birta geerarka
-baabuurka bedbeddesha. 2. Makiinadda
-geerarka baaburka. 3. Socod dheer oo
-ciidanku sameeyaan.
-marsii f.lg2 (-iiyay, -iisay) 1. Cid arrin si
-khasab ah ku oggoleysiin. 2. Wax kale dul
-marin (wax). 3. Wax meel ku dul socodsiin.
-4. Arrin cid kale ogaysiin (gob). 5. Arrin,
-warqad iwm meel geyn si ay meeshaasi u sii
-gudbiso (qof).
+
+marsho m.dh (-ooyin, m.l) 1. Birta geerarka baabuurka bedbeddesha. 2. Makiinadda geerarka baaburka. 3. Socod dheer oo ciidanku sameeyaan.
+
+marsii f.lg2 (-iiyay, -iisay) 1. Cid arrin si khasab ah ku oggoleysiin. 2. Wax kale dul marin (wax). 3. Wax meel ku dul socodsiin. 4. Arrin cid kale ogaysiin (gob). 5. Arrin, warqad iwm meel geyn si ay meeshaasi u sii gudbiso (qof).
+
 marsiin m.f.dh eeg marsii.
-marsiino m.dh (-ooyin, m.l) Maro weyn oo
-dumarku xirtaan oo boqor dhexda lagaga
-xiro.
-marso¹ m.dh (-ooyin, m.l) 1. Dhismo xeebaha
-badaha laga dhiso oo doonayaha iyo
-maraakiibta ku xirato. 2. Diilliin madow oo
-iduhu dhexda ku yeeshaan.
-marso² f.g3 (-saday, -satay) 1. Cunto, lacag
-iwm dhammaysasho. 2. Wax meel ka
-gudbisasho. 3. Dufan, rinji iwm ku
-dhaashasho. 4. Cashar cid ula tegid si loogu
-akhriyo (qof). 5. Marada ay xirantahay
-dhexda ka xirasho (haween). 6. Arrin meel
-gole ah ka caddeysasho.
-marsoobbax m.l (-xyo, m.dh) Nooc halaqa ka
-mid ah, waabaayo halis ah leh oo dhif iyo
-naadir loo arko; wed-lasoobax; abris.
-marsubaaliya m.dh (-yayaal, ml./m.dh)
-(c.nafl.) Dir hoosaad ka tirsan naasleyda,
-hababka kala soocidda qaarkood dir
-hoosaadkan waxa loo yaqaanaa mataseria,
-marsubaaliyana waxay noqonaysaa duul ka
-tirsan dir hoosaadkan. Xubnaha dir
-hoosaadkan
-degaankoodu
-wuu
-xaddidanyahay, badankoodana waxaa laga
-helaa Ustaraaliya iyo koonfur Ameerika. Tus.
-“Kaanguruu”.
-marsuubiyaal m.l (-lo, m.dh) Xubin ka tirsan
-dir hoosaadka marsubaaliya.
-martabad m.dh (-do, m.l) 1. Jago sare oo la
-gaaro. 2. Meherad.
-marti¹ m.l (marti, m.dh) Qof laga soo
-dhaweeyey guri aanu lahayn.
-marti² m.dh.u Dad laga soo dhaweeyey guri
-aanu lahayn.
-marti³ f.g/mg1 (-iyay, -iday; -iyi) M./u m.: cid
-marti u noqosho.
-martiggeli f.g2 (-iyay, -isay) Qof marti ahaan
-u soo dhaweyn.
+
+marsiino m.dh (-ooyin, m.l) Maro weyn oo dumarku xirtaan oo boqor dhexda lagaga xiro.
+
+marso¹ m.dh (-ooyin, m.l) 1. Dhismo xeebaha badaha laga dhiso oo doonayaha iyo maraakiibta ku xirato. 2. Diilliin madow oo iduhu dhexda ku yeeshaan.
+
+marso² f.g3 (-saday, -satay) 1. Cunto, lacag iwm dhammaysasho. 2. Wax meel ka gudbisasho. 3. Dufan, rinji iwm ku dhaashasho. 4. Cashar cid ula tegid si loogu akhriyo (qof). 5. Marada ay xirantahay dhexda ka xirasho (haween). 6. Arrin meel gole ah ka caddeysasho.
+
+marsoobbax m.l (-xyo, m.dh) Nooc halaqa ka mid ah, waabaayo halis ah leh oo dhif iyo naadir loo arko; wed-lasoobax; abris.
+
+marsubaaliya m.dh (-yayaal, ml./m.dh) (c.nafl.) Dir hoosaad ka tirsan naasleyda, hababka kala soocidda qaarkood dir hoosaadkan waxa loo yaqaanaa mataseria, marsubaaliyana waxay noqonaysaa duul ka tirsan dir hoosaadkan. Xubnaha dir hoosaadkan degaankoodu wuu xaddidanyahay, badankoodana waxaa laga helaa Ustaraaliya iyo koonfur Ameerika. Tus. “Kaanguruu”.
+
+marsuubiyaal m.l (-lo, m.dh) Xubin ka tirsan dir hoosaadka marsubaaliya.
+
+martabad m.dh (-do, m.l) 1. Jago sare oo la gaaro. 2. Meherad.
+
+marti¹ m.l (marti, m.dh) Qof laga soo dhaweeyey guri aanu lahayn.
+
+marti² m.dh.u Dad laga soo dhaweeyey guri aanu lahayn.
+
+marti³ f.g/mg1 (-iyay, -iday; -iyi) M./u m.: cid marti u noqosho.
+
+martiggeli f.g2 (-iyay, -isay) Qof marti ahaan u soo dhaweyn.
+
 martiggelin m.f.dh eeg martiggelin.
-martiqaad¹ m.l 1. Sooryo qof marti ah la siiyo.
-2. ld martiqaadid.
-martiqaad² f.g1 (-day, -dday) Cid marti ah
-soorid.
-583martiqaadid
-martiqaadid m.f.dh eeg martiqaad². ld
-martqaad¹ (2).
-martiqadin m.dh Martiggelindarro. ld
-martiqadis (2).
-martiqadis m.l 1. Qof aan martisoore ahayn.
-2. ld martiqadin.
+
+martiqaad¹ m.l 1. Sooryo qof marti ah la siiyo. 2. ld martiqaadid.
+
+martiqaad² f.g1 (-day, -dday) Cid marti ah soorid.
+
+martiqaadid m.f.dh eeg martiqaad². ld martqaad¹ (2).
+
+martiqadin m.dh Martiggelindarro. ld martiqadis (2).
+
+martiqadis m.l 1. Qof aan martisoore ahayn. 2. ld martiqadin.
+
 martisoor¹ m.l ld martisoorid.
-martisoor² f.g1 (-ray, -rtay) Cid marti ah
-soorid.
-martisoore m.l (-rayaal, m.l/dh) Qof martida
-soo dhaweeya.
-martisoorid m.f.dh eeg martisoor². ld
-martisoor¹.
-martiyee f.mg2 (-yeeyay, -yeysay) Cid marti u
-noqosho.
+
+martisoor² f.g1 (-ray, -rtay) Cid marti ah soorid.
+
+martisoore m.l (-rayaal, m.l/dh) Qof martida soo dhaweeya.
+
+martisoorid m.f.dh eeg martisoor². ld martisoor¹.
+
+martiyee f.mg2 (-yeeyay, -yeysay) Cid marti u noqosho.
+
 martiyeyn m.f.dh eeg martiyee.
+
 martiyid m.f.dh eeg marti³.
+
 marwalleys m.dh.fk Markastaba.
+
 marwaxad m.dh ld marawaxad.
-marwaxad neefeed m.dh (-dyo ..., m.dh)
-(tegno.) Neef ka timid cadaadis motoor oo
-loo adeegsado motoor wax wareejiya.
+
+marwaxad-neefeed m.dh (-dyo ..., m.dh) (tegno.) Neef ka timid cadaadis motoor oo loo adeegsado motoor wax wareejiya.
+
 marwaxadi f.g2 (-iyay, -isay) ld marawaxadi.
+
 marwaxadin m.dh ld marawaxadin.
+
 marwaxo m.dh ld marawaxad.
+
 marwee f.g2 (-weeyay, -weysay) ld murwee.
+
 marweyn m.dh ld murweyn.
-marweysan f.mg4 (-naa, -nayd) ld
-murweysan.
+
+marweysan f.mg4 (-naa, -nayd) ld murweysan.
+
 marweysnaan m.dh ld murweysnaan.
+
 marweysnaansho m.l/dh ld murweysnaan.
-marwo m.dh 1. Haweeney la qabo oo sumcad
-fiican ku leh dadka dhexdiisa; gaari.
-2. Haweenay. 3. ld murwo (2).
+
+marwo m.dh 1. Haweeney la qabo oo sumcad fiican ku leh dadka dhexdiisa; gaari. 2. Haweenay. 3. ld murwo (2).
+
 marxabba fk. 1. Waa yahay!. 2. Soo dhowow!
-marxabbaysii f.g2 (-iiyay, -iisay) ld
-marxabbee.
-marxabbee f.g2 (-beeyay, -beysay) U m.: qof
-si wanaagsan u soo dhoweyn. ld
-marxabbeysii.
-marxabbeyn m.f.dh eeg marxabbee. ld
-marxabbeysiin.
+
+marxabbaysii f.g2 (-iiyay, -iisay) ld marxabbee.
+
+marxabbee f.g2 (-beeyay, -beysay) U m.: qof si wanaagsan u soo dhoweyn. ld marxabbeysii.
+
+marxabbeyn m.f.dh eeg marxabbee. ld marxabbeysiin.
+
 marxabbeysiin m.f.dh ld marxabbeyn.
-marxal m.l (-llo, m.dh) 1. ld marxalad (3).
-Fogaan maalin socod dhan. 2. Gar; daw; jid.
-marxalad m.dh (-do, m.l) 1. Sida wax
-xaaladdii ku sugantahay. 2. Muddo dhawr
-waqti loo qeybiyey mid ka mid ah. 3. ld
-marxal (1).
-marxi f.g2 (-iyay, -isay) 1. Wax tashiilid.
-2. Hilib marax ka dhigid.
+
+marxal m.l (-llo, m.dh) 1. ld marxalad (3). Fogaan maalin socod dhan. 2. Gar; daw; jid.
+
+marxalad m.dh (-do, m.l) 1. Sida wax xaaladdii ku sugantahay. 2. Muddo dhawr waqti loo qeybiyey mid ka mid ah. 3. ld marxal (1).
+
+marxi f.g2 (-iyay, -isay) 1. Wax tashiilid. 2. Hilib marax ka dhigid.
+
 marxid m.f.dh eeg marax².
+
 marxin m.f.dh eeg marxi. ld marxis.
+
 marxis m.l ld marxin.
-584
-marxuum m.l (-mo, m.dh) Qof mar hore
-dhintay.
+
+marxuum m.l (-mo, m.dh) Qof mar hore dhintay.
+
 maryaad¹ m.l ld maryaadid.
-maryaad² f.mg1 (-day, -dday) Nafley aad u
-silcid. ld meryaad², miryaad².
-maryaadi f.g2 (-iyay, -isay) Nafley aad uu
-silcin. ld meryaadi, miryaadi.
-maryaadid m.f.dh eeg maryaad². ld maryaad¹,
-meryaad¹, meryaadid, miryaad¹.
-maryaadin m.f.dh eeg maryaadi. ld maryaadis,
-meryaadin, meryaadis, miryaadin.
+
+maryaad² f.mg1 (-day, -dday) Nafley aad u silcid. ld meryaad², miryaad².
+
+maryaadi f.g2 (-iyay, -isay) Nafley aad uu silcin. ld meryaadi, miryaadi.
+
+maryaadid m.f.dh eeg maryaad². ld maryaad¹, meryaad¹, meryaadid, miryaad¹.
+
+maryaadin m.f.dh eeg maryaadi. ld maryaadis, meryaadin, meryaadis, miryaadin.
+
 maryaadis m.l ld maryaadin.
+
 maryamayn m.f.dh eeg maryamee.
-maryamee f.mg2 (-meeyay, -maysay) Kuul ka
-faalin, wax dhici doona wax ka sheegid.
-mas m.l (-sas, ml.) 1. Xammaarato aan lugo
-lahayn, dheereysa, nafleyda qaniinta, sun
-halis ahna leh. 2. Koombo yar oo miraha
-dalagga lagu cabbiri, u dhiganta nus madaal.
+
+maryamee f.mg2 (-meeyay, -maysay) Kuul ka faalin, wax dhici doona wax ka sheegid.
+
+mas m.l (-sas, ml.) 1. Xammaarato aan lugo lahayn, dheereysa, nafleyda qaniinta, sun halis ahna leh. 2. Koombo yar oo miraha dalagga lagu cabbiri, u dhiganta nus madaal.
+
 masaabax¹ m.l ld masaamixid.
+
 masaabax² f.g1 (-xay, -xday) ld masaamax².
-masaabaxan f.mg4 (-xnaa, -xnayd) ld
-masaamaxan.
+
+masaabaxan f.mg4 (-xnaa, -xnayd) ld masaamaxan.
+
 masaabaxnaan m.dh ld masaamaxnaan.
+
 masaabaxnaansho m.l/dh ld masaamaxnaan.
-masaabaxnow f.mg3 (-naaday, -naatay) ld
-masaamaxnow.
+
+masaabaxnow f.mg3 (-naaday, -naatay) ld masaamaxnow.
+
 masaabixid m.dh ld masaamixid.
+
 masaadir m.dh.w eeg masdar.
-masaafee f.g2 (-feeyay, -feysay) Naag la
-doonayo in la mehriyo weligeeda (waalid;
-walaal iwm) ka fogeyn.
+
+masaafee f.g2 (-feeyay, -feysay) Naag la doonayo in la mehriyo weligeeda (waalid; walaal iwm) ka fogeyn.
+
 masaafeyn m.f.dh eeg masaafee.
+
 masaafeysasho m.f.dh eeg masaafeyso.
-masaafeyso f.g3 (-stay, -satay) Naag la
-doonayo in la mehriyo weligeeda (waalid,
-walaal iwm) ka fogeysasho.
-masaafir¹ m.l (-rro/-riin, m.dh) Qof safar ah.
-ld masaafur¹, musaafur¹.
-masaafir² f.mg1 (-ray, -rtay) Qof meel joogay
-ka dhoofid. ld masaafur², musaafur².
+
+masaafeyso f.g3 (-stay, -satay) Naag la doonayo in la mehriyo weligeeda (waalid, walaal iwm) ka fogeysasho.
+
+masaafir¹ m.l (-rro/-riin, m.dh) Qof safar ah. ld masaafur¹, musaafur¹.
+
+masaafir² f.mg1 (-ray, -rtay) Qof meel joogay ka dhoofid. ld masaafur², musaafur².
+
 masaafiri f.g2 (-iyay, -isay) Dalkiisa ama
 degaankiisa khasab kaga dhoofin (qof). ld
 masaafuri, musaafiri.
