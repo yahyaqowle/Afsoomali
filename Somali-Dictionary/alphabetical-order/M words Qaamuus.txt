@@ -2772,43 +2772,44 @@ maradhaarayn m.dh ld maradhaarin.
 
 maradhaaree f.g2 (-reeyay, -reysay) ld maradhaari.
 
-maradhaari f.g2 (-iyay, -isay) Wax
-dhaqaalayn. ld maradhaaree.
-maradhaarin m.f.dh eeg maradhaari. ld
-maradhaarayn, maradhaaris, maradhaaro.
+maradhaari f.g2 (-iyay, -isay) Wax dhaqaalayn. ld maradhaaree.
+
+maradhaarin m.f.dh eeg maradhaari. ld maradhaarayn, maradhaaris, maradhaaro.
+
 maradhaaris m.l ld maradhaarin.
-maradhaaro m.dh Tashiilidda wax la tashiilo.
-ld maraadharin.
+
+maradhaaro m.dh Tashiilidda wax la tashiilo. ld maraadharin.
+
 maradhaarsasho m.f.dh eeg maradhaarso.
-maradhaarso f.mg3 (-saday, -satay) Wax
-tashiilasho.
-marafur m.dh Geedgaab aan qodax lahayn oo
-leh laamo dhuudhuuban oo wax lagu dhisto,
-waxna lagu daaweeyo.
-marag m.l (-gyo, m.l/dh; -gyaal, m.l/dh)
-1. Qof wax dhacay goobjoog u ahaa;
-markhaati. 2. Arrin ama raad caddaynayo
-wax dhacay.
+
+maradhaarso f.mg3 (-saday, -satay) Wax tashiilasho.
+
+marafur m.dh Geedgaab aan qodax lahayn oo leh laamo dhuudhuuban oo wax lagu dhisto, waxna lagu daaweeyo.
+
+marag m.l (-gyo, m.l/dh; -gyaal, m.l/dh) 1. Qof wax dhacay goobjoog u ahaa; markhaati. 2. Arrin ama raad caddaynayo wax dhacay.
+
 mąrag m.l Ceego. ld mereg.
-maragfur¹ m.l Sheegidda wax dhacay oo
-goobjoog loo ahaa la sheego. ld maragfurid.
-maragfur² f.mg1 (-ray, -rtay) Wax dhacay oo
-goobjoog loo ahaa sheegid.
+
+maragfur¹ m.l Sheegidda wax dhacay oo goobjoog loo ahaa la sheego. ld maragfurid.
+
+maragfur² f.mg1 (-ray, -rtay) Wax dhacay oo goobjoog loo ahaa sheegid.
+
 maragfurid m.f.dh eeg maragfur². ld maragfur¹
+
 maragkac¹ m.l ld maragkicid.
-maragkac² f.mg1 (-cay, -cday; -kici) Wax
-dhacay oo goobjoog loo ahaa sheegid.
-maragkicid m.f.dh eeg maragkac². ld
-maragkac¹.
-maragmaddoonto m.dh.kh M. ah: dhacdo cad
-oo aan markhaati u baahnayn.
-maragsan f.mg4 (-naa, -nayd) Nafleey wax la
-merjiyay ahaansho. ld meregsan.
-maragsanaan m.f.dh eeg maragsan. ld
-maragsanaansho,
-meregsanaan,
-meregsanaansho.
+
+maragkac² f.mg1 (-cay, -cday; -kici) Wax dhacay oo goobjoog loo ahaa sheegid.
+
+maragkicid m.f.dh eeg maragkac². ld maragkac¹.
+
+maragmaddoonto m.dh.kh M. ah: dhacdo cad oo aan markhaati u baahnayn.
+
+maragsan f.mg4 (-naa, -nayd) Nafleey wax la merjiyay ahaansho. ld meregsan.
+
+maragsanaan m.f.dh eeg maragsan. ld maragsanaansho, meregsanaan, meregsanaansho.
+
 maragsanaansho m.l/dh ld maragsanaan.
+
 maragsasho m.dh ld maragsiin.
 maragsii f.g2 (-iiyay, -iisay) Cid marag ka
 dhigasho. ld maragso.
