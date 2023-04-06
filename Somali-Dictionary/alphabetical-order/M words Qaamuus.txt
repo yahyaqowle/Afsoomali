@@ -2959,163 +2959,148 @@ mardhoof m.l (-fyo, m.dh) Qof hal mar dhoofay oo faan iyo been badan.
 mardimee f.g2 (-meeyay, -meysay) Wax mardimo u yeelid.
 
 mardimeyn m.f.dh eeg mardimee.
-mardin m.dh (-nno/-imo, m.l) 1. Daliig; liid.
-2. Naqshado diillimo ah oo caw, ama caws
-ah oo ka dhex muuqda derin ama raar
-samaysan midkood.
-mardo m.dh (-ooyin, m.l) Xirmo dhis ah oo
-carshaanta, muddullada iwm lagu wareejiyo
-iyaga oo isku xiraya dhista gurigu ka
-sameysanyahay.
-marduuf m.l (-fyo, m.l/dh) 1. Maro cad, culus
-oo loo isticmaalo shiraaca doonayaha.
-2. Xirmo qaad ah oo ka kooban toban
-majood. 3. Xarig labaraab ah.
-mareeg m.dh 1. Qoolasha maqasha qoorta loo
-geliyo. 2. Summad geela qoorta looga dhigo,
-oo ah goobaabin qoorta ku wareegsan.
-mareegadheer m.dh 1. Xiddig kuwa dayaxa
-ugu dhow ka mid ah oo soo baxa xilliga
-dayrta. 2. Qof haween ah oo dhalatay 14-
-naadka dayaxeed oo dadku aaminsanyihiin
-inay ayaandhalad tahay.
-mareeg-daabacan m.dh (fiis.) Mareeg
-elektarooniko oo ka samaysan gudbiye, kuna
-daaban oogada xaashi-sallax ma gudbiye ah.
-Mareegaha noocani waxa beryahan aad
-loogu isticmaalaa qalabka elektaroonikada.
-mareer m.l 1. Geed qodax lahayn, miro cas oo
-macaan, oo la cuno caleemo yaryar iyo ulo
-toosan leh oo geelu aad u jecelyahay.
-2. Miraha geedka mareerka.
-580
+
+mardin m.dh (-nno/-imo, m.l) 1. Daliig; liid. 2. Naqshado diillimo ah oo caw, ama caws ah oo ka dhex muuqda derin ama raar samaysan midkood.
+
+mardo m.dh (-ooyin, m.l) Xirmo dhis ah oo carshaanta, muddullada iwm lagu wareejiyo iyaga oo isku xiraya dhista gurigu ka sameysanyahay.
+
+marduuf m.l (-fyo, m.l/dh) 1. Maro cad, culus oo loo isticmaalo shiraaca doonayaha. 2. Xirmo qaad ah oo ka kooban toban majood. 3. Xarig labaraab ah.
+
+mareeg m.dh 1. Qoolasha maqasha qoorta loo geliyo. 2. Summad geela qoorta looga dhigo, oo ah goobaabin qoorta ku wareegsan.
+
+mareegadheer m.dh 1. Xiddig kuwa dayaxa ugu dhow ka mid ah oo soo baxa xilliga dayrta. 2. Qof haween ah oo dhalatay 14-naadka dayaxeed oo dadku aaminsanyihiin inay ayaandhalad tahay.
+
+mareeg-daabacan m.dh (fiis.) Mareeg elektarooniko oo ka samaysan gudbiye, kuna daaban oogada xaashi-sallax ma gudbiye ah. Mareegaha noocani waxa beryahan aad loogu isticmaalaa qalabka elektaroonikada.
+
+mareer m.l 1. Geed qodax lahayn, miro cas oo macaan, oo la cuno caleemo yaryar iyo ulo toosan leh oo geelu aad u jecelyahay. 2. Miraha geedka mareerka.
+
 margaag¹ m.l ld cargaag¹.
+
 margaag² f.mg1 (-gay, -gtay) ld cargaag².
+
 margaagid m.dh ld cargaagid.
-margan f.mg4 (-naa, -nayd) Wax margaday
-ahaansho (nafley). ld mergan.
-marganaan
-m.f.dh
-eeg
-margan. ld
-marganaansho,
-merganaan,
-merganaansho.
+
+margan f.mg4 (-naa, -nayd) Wax margaday ahaansho (nafley). ld mergan.
+
+marganaan m.f.dh eeg margan. ld marganaansho, merganaan, merganaansho.
+
 marganaansho m.l/dh ld marganaan.
+
 margasho m.f.dh eeg margo². ld mergasho.
-margaysan f.mg4 (-snaa, -snayd) Wax
-margaday ahaansho (nafley). ld mergaysan.
-margaysnaan m.f.dh eeg margaysan. ld
-margaysnaansho,
-mergaysnaan,
-mergaysnaan.
+
+margaysan f.mg4 (-snaa, -snayd) Wax margaday ahaansho (nafley). ld mergaysan.
+
+margaysnaan m.f.dh eeg margaysan. ld margaysnaansho, mergaysnaan, mergaysnaan.
+
 margaysnaansho m.l/dh ld margaysnaan.
-margeelee f.mg2 (-leeyay, -leysay) Xilligii uu
-dhalay xilligiisa kale rimid (sac).
-margeeleyn m.f.dh eeg margeelee. ld
-margeeleys.
+
+margeelee f.mg2 (-leeyay, -leysay) Xilligii uu dhalay xilligiisa kale rimid (sac).
+
+margeeleyn m.f.dh eeg margeelee. ld margeeleys.
+
 margeeleys m.l ld margeeleyn.
+
 margi f.g2 (-iyay, -isay) ld merji.
+
 margin m.dh ld merjin.
+
 margis m.l ld merjin.
-margo¹ m.dh Qabashada nafley cunaha la
-qabto iyadoo neefta lagu celinayo ceego. ld
-mergo¹.
-margo² f.mg3 (-gaday, -gatay) Wax
-cunaheeda cunto aan mari karin isku taagtay
-noqosho (nafley). ld mergo².
-mari¹ m.dh Lax saddex jeer ama ka badan
-dhashay.
-mari² f.g2 (-iyay, -isay) 1. Xarig xooggan
-soohid. 2. Wadaan ceel biyo uga dhurid.
-3. Dufan ama midab wax ku malaasid. 4. U
-m.: qof wax u akhriyid. 5. U m.: gabay cid u
-tirsin. 6. Cid rasaas ku layn. 7. Wax goob ku
-socodsiin.
+
+margo¹ m.dh Qabashada nafley cunaha la qabto iyadoo neefta lagu celinayo ceego. ld mergo¹.
+
+margo² f.mg3 (-gaday, -gatay) Wax cunaheeda cunto aan mari karin isku taagtay noqosho (nafley). ld mergo².
+
+mari¹ m.dh Lax saddex jeer ama ka badan dhashay.
+
+mari² f.g2 (-iyay, -isay) 1. Xarig xooggan soohid. 2. Wadaan ceel biyo uga dhurid. 3. Dufan ama midab wax ku malaasid. 4. U m.: qof wax u akhriyid. 5. U m.: gabay cid u tirsin. 6. Cid rasaas ku layn. 7. Wax goob ku socodsiin.
+
 marid m.f.dh eeg mar³. ld mar¹ (4), maris².
-mariid m.l 1. Waabaayo la mariyo fallaaraha,
-warmaha, iwm. 2. Geed mariidka laga liso.
-ld maliid, meriid.
-mariikh m.l (c.fal.) Meerayaasha mid ka mid
-ah oo u dhexeeya dhulka iyo mushtarka;
-cirjeex; farraarre.
+
+mariid m.l 1. Waabaayo la mariyo fallaaraha, warmaha, iwm. 2. Geed mariidka laga liso. ld maliid, meriid.
+
+mariikh m.l (c.fal.) Meerayaasha mid ka mid ah oo u dhexeeya dhulka iyo mushtarka; cirjeex; farraarre.
+
 mariil¹ m.l ld maliil1. ld maliilid.
+
 mariil² f.mg1 (-iilay, -iishay) ld maliil².
+
 mariili f.g2 (-iyay, -isay) ld maliili.
+
 mariilid m.dh ld maliilid.
+
 mariilin m.dh ld maliilin.
+
 mariishan f.mg4 (-naa, -nayd) ld maliishan.
+
 mariishanaan m.dh ld maliishanaan.
+
 mariishanaansho m.l/dh ld maliishanaan.
-marimba m.dh Ciyaar dhaqameed laga yaqaan
-Xamar.maro²
-marin¹ m.l (-nno, m.dh) 1. Jid; waddo.
-2. Gar; sharci.
+
+marimba m.dh Ciyaar dhaqameed laga yaqaan Xamar.
+
+marin¹ m.l (-nno, m.dh) 1. Jid; waddo. 2. Gar; sharci.
+
 marin² m.f.dh eeg mari². ld maris¹ (3).
-marin-cidhiidhi m.l (-nno ..., m.dh) (juqr.)
-Luuq badeed isku xidha laba badood oo
-waaweyn, waxa laga yaabaa inuu sameeyey
-dillaac-qoori gudbani, ama bad daafaha
-mareysey oo hoos u degtey ama carro guur.
-marin-ganacsi m.l (-nno ..., m.dh) (juqr.)
-Marin, waddo dhul, bad, ama hawo, oo
-ganacsigu maro.
-maris¹ m.l 1. Saabuun m. ah: saabuun adag oo
-dharka lagu dhaqdo. 2. Shimbir yar oo
-mucjisad leh; waxay si layaab leh ugu
-hoggaamisaa ninka herinka ah oo keliya,
-ugaar, habar dugaag, halaqa qaar ka mid ah,
-malabka shinnida iwm. Waris, buli, shimbir
-malab. 3. ld marin².
+
+marin-cidhiidhi m.l (-nno ..., m.dh) (juqr.) Luuq badeed isku xidha laba badood oo waaweyn, waxa laga yaabaa inuu sameeyey dillaac-qoori gudbani, ama bad daafaha mareysey oo hoos u degtey ama carro guur.
+
+marin-ganacsi m.l (-nno ..., m.dh) (juqr.) Marin, waddo dhul, bad, ama hawo, oo ganacsigu maro.
+
+maris¹ m.l 1. Saabuun m. ah: saabuun adag oo dharka lagu dhaqdo. 2. Shimbir yar oo mucjisad leh; waxay si layaab leh ugu hoggaamisaa ninka herinka ah oo keliya, ugaar, habar dugaag, halaqa qaar ka mid ah, malabka shinnida iwm. Waris, buli, shimbir malab. 3. ld marin².
+
 maris² m.dh ld marid.
+
 marjaan m.dh ld murjaan².
-marjac m.l (-cyo,/-raajic, m.dh) Buug cilmi
-badan ku qoranyahay oo wixii loo baahdo
-laga helo.
+
+marjac m.l (-cyo,/-raajic, m.dh) Buug cilmi badan ku qoranyahay oo wixii loo baahdo laga helo.
+
 marji f.g2 (-iyay, -isay) ld merji.
-marjiid¹ m.l 1. ld maljiid 1. Wax dheer oo
-toosan. 2. ld marjiidid. ld maljiid¹.
-marjiid² f.g1 (-day, -dday) Wax kala jiidid. ld
-maljiid².
-marjiidan f.mg4 (-dnaa, -dnayd) 1. Wax la
-kala jiiday oo la dheereeyey ahaansho.
-2. Wax dheer oo toosan ahaansho. ld
-maljiidan.
-marjiidid m.f.dh eeg marjiid². ld maljiid¹,
-maljiidid, marjiid¹ (2).
-marjiidnaan m.f.dh eeg marjiidan. ld
-maljiidnaan,
-maljiidnaansho,
-marjiidnaansho.
+
+marjiid¹ m.l 1. ld maljiid 1. Wax dheer oo toosan. 2. ld marjiidid. ld maljiid¹.
+
+marjiid² f.g1 (-day, -dday) Wax kala jiidid. ld maljiid².
+
+marjiidan f.mg4 (-dnaa, -dnayd) 1. Wax la kala jiiday oo la dheereeyey ahaansho. 2. Wax dheer oo toosan ahaansho. ld maljiidan.
+
+marjiidid m.f.dh eeg marjiid². ld maljiid¹, maljiidid, marjiid¹ (2).
+
+marjiidnaan m.f.dh eeg marjiidan. ld maljiidnaan, maljiidnaansho, marjiidnaansho.
+
 marjiidnaansho m.l/dh ld marjiidnaan.
+
 marjin m.dh ld merjin.
+
 marjis m.l ld merjin.
+
 marka xi. eeg mar³.
-markab m.l (-byo, m.l/dh/-raakiib, m.dh)
-Gaadiid badeed weyn oo u kala baxa qaar
-lagu dagaallamo iyo xamuulka qaada.
+
+markab m.l (-byo, m.l/dh/-raakiib, m.dh) Gaadiid badeed weyn oo u kala baxa qaar lagu dagaallamo iyo xamuulka qaada.
+
 markable m.l Nin maraakiib badan leh.
+
 markasho m.f.dh eeg marko.
+
 markhaanti m.l ld markhaati.
-markhaati m.l (-iyo, m.dh) 1. Qofka fura
-dhacdo uu goobjoog ka ahaa. 2. Goobjoog.
-ld markhaanti, marqaati.
-markhaatifur¹ m.l 1. Wax caddeeya dhacdo.
-2. ld markhaatifurid.
-markhaatifur² f.mg1 (-ray, -rtay) Qof dhacdo
-uu goobjoog ka ahaa sheegid.
-markhaatifurid m.f.dh eeg markhaatifur². ld
-markhaatifur¹ (2).
-marki f.g2 (-iyay, -isay) Dhibaato gayeysiin
-(nafley).
+
+markhaati m.l (-iyo, m.dh) 1. Qofka fura dhacdo uu goobjoog ka ahaa. 2. Goobjoog. ld markhaanti, marqaati.
+
+markhaatifur¹ m.l 1. Wax caddeeya dhacdo. 2. ld markhaatifurid.
+
+markhaatifur² f.mg1 (-ray, -rtay) Qof dhacdo uu goobjoog ka ahaa sheegid.
+
+markhaatifurid m.f.dh eeg markhaatifur². ld markhaatifur¹ (2).
+
+marki f.g2 (-iyay, -isay) Dhibaato gayeysiin (nafley).
+
 markii xi. eeg mar³.
+
 markin m.f.dh eeg marki. ld markis.
+
 markis m.l ld markin.
-marko f.mg3 (-kaday, -katay) Dhibaato la
-kulmid (qof).
-marmaarri¹ m.l 1. Dhaqdhaqaajinta wax meel
-la gelinayo aayar loo dhaqdhaqaajiyo. 2. ld
-marmaarriyid.
+
+marko f.mg3 (-kaday, -katay) Dhibaato la kulmid (qof).
+
+marmaarri¹ m.l 1. Dhaqdhaqaajinta wax meel la gelinayo aayar loo dhaqdhaqaajiyo. 2. ld marmaarriyid.
 marmaarri² f.g1 (-iyay, -iday; -iyi) 1. Ku m.:
 wax meel daloosha ku khasbid. 2. Awr koron
 ah aad u cayilin.
