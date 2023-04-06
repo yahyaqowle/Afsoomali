@@ -3542,62 +3542,52 @@ masabbidasho m.f.dh eeg masabbido.
 
 masabbidid m.f.dh eeg masabbid².
 
-masabbidnaan m.f.dh eeg masabbidan. ld
-masabbidnaansho.
+masabbidnaan m.f.dh eeg masabbidan. ld masabbidnaansho.
+
 masabbidnaansho m.l/dh ld masabbidnaan.
-masabbido f.g3 (-itay, -idatay) Cid fal aanay
-samayn ku nabid.
-masacagaley m.dh (c.nafl.) Masalugaley
-xammaarato weyn caws ku nool ah, oo
-socodka yaxaaska uga eg, oo leh maqaar
-adag, iyo afar addin oo aan nafleyda qaniin,
-sunna
-lahayn.
-ld
-mansacagaley,
-mansalugaley, mansalugooley.
-masaf¹ m.l (-fyo, m.dh) Weel leh af ballaaran
-iyo dabo dhuuban oo daloosha oo
-hoorayaasha ku shuba weelasha afka
-dhuuban; dublad.
-masaf² m.dh (-fo, m.l) Saxan weyn oo caw,
-qabo iwm laga tolay, oo badarka la tumay
-lagu hufo; xaarin.
-masafo m.dh (-ooyin, m.l) Nooc ka mid ah
-maansada oo wadaaddada khaas u ah.
+
+masabbido f.g3 (-itay, -idatay) Cid fal aanay samayn ku nabid.
+
+masacagaley m.dh (c.nafl.) Masalugaley xammaarato weyn caws ku nool ah, oo socodka yaxaaska uga eg, oo leh maqaar adag, iyo afar addin oo aan nafleyda qaniin, sunna lahayn. ld mansacagaley, mansalugaley, mansalugooley.
+
+masaf¹ m.l (-fyo, m.dh) Weel leh af ballaaran iyo dabo dhuuban oo daloosha oo hoorayaasha ku shuba weelasha afka dhuuban; dublad.
+
+masaf² m.dh (-fo, m.l) Saxan weyn oo caw, qabo iwm laga tolay, oo badarka la tumay lagu hufo; xaarin.
+
+masafo m.dh (-ooyin, m.l) Nooc ka mid ah maansada oo wadaaddada khaas u ah.
+
 masaggo m.dh ld meseggo.
-masal¹ m.l (-llo, m.dh) 1. Tusaale. 2. M.kayga,
-m.kaaga iwm: wax, wax kale kala mid ah
-xagga dhaqanka, jimirka, dhererka iwm. ld
-masil¹, matal¹, matil¹, mesel¹, metel¹.
-masal² f.g1 (-alay, -ashay) 1. (riw.) Filim,
-riwaayad iwm jilid. 2. Cid wakiil ka
-noqosho. 3. Ku m.: wax, wax kale ku
-qiyaasid. ld masil², matal², matil², mesel²,
-metel².
-masalaggaab m.l.kh M. ah: nin aan cilmi
-badan lahayn.
-masalan fk. Tusaale ahaan, misaal ahaan. ld
-matalan.
-masalid m.f.dh eeg masal². ld masilid, matalid,
-matilid, meselid, metelid.
+
+masal¹ m.l (-llo, m.dh) 1. Tusaale. 2. M.kayga, m.kaaga iwm: wax, wax kale kala mid ah xagga dhaqanka, jimirka, dhererka iwm. ld masil¹, matal¹, matil¹, mesel¹, metel¹.
+
+masal² f.g1 (-alay, -ashay) 1. (riw.) Filim, riwaayad iwm jilid. 2. Cid wakiil ka noqosho. 3. Ku m.: wax, wax kale ku qiyaasid. ld masil², matal², matil², mesel², metel².
+
+masalaggaab m.l.kh M. ah: nin aan cilmi badan lahayn.
+
+masalan fk. Tusaale ahaan, misaal ahaan. ld matalan.
+
+masalid m.f.dh eeg masal². ld masilid, matalid, matilid, meselid, metelid.
+
 masallaf¹ m.l ld musallif¹.
+
 masallaf² f.mg1 (-fay, -fday) ld musallif².
+
 masallafi f.g2 (-iyay, -isay) ld musallifi.
+
 masallafid m.dh ld musallifid.
-585masallafin
+
 masallafin m.dh ld musallifin.
-masallafsan f.mg4 (-naa, -nayd) ld
-musallifsan.
+
+masallafsan f.mg4 (-naa, -nayd) ld musallifsan.
+
 masallafsanaan m.dh ld musallifsanaan.
+
 masallafsanaansho m.l/dh ld musallifsanaan.
-masalle m.l (-layaal, m.l/dh) Salli maqaar ka
-samaysan oo qaabab kala duwan leh.
-masalo m.dh (-ooyin, m.l) 1. Arrin la yaab leh.
-2. Xisaab leh siin oo la raadinayo
-natiijadeedii iyadoo la adeegsanayo jidad iyo
-xeerar u gaar ah. 3. Su'aal cilmi kudhisan. ld
-mas'alo.
+
+masalle m.l (-layaal, m.l/dh) Salli maqaar ka samaysan oo qaabab kala duwan leh.
+
+masalo m.dh (-ooyin, m.l) 1. Arrin la yaab leh. 2. Xisaab leh siin oo la raadinayo natiijadeedii iyadoo la adeegsanayo jidad iyo xeerar u gaar ah. 3. Su'aal cilmi kudhisan. ld mas'alo.
+
 mas'alo m.dh ld masalo.
 masalugaley m.dh ld masacagaley.
 masalugooley m.dh ld masacagaley.
