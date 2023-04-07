@@ -1671,187 +1671,195 @@ shubmid m.f.dh eeg shuban³.
 shubnaan m.f.dh eeg shuban4. ld shub-naansho.
 
 shubnaansho m.l/dh ld shubnaan.
+
 shubniin m.l ld shubid.
-shubo f.g3 (-btay, -batay) 1. Hoore, badar
-iwm meel ku geddisasho. 2. Xoolo wa-
-raabsasho.
-shucaac¹ m.l 1. Iftiinka qorraxda. 2. Tamarta
-ka dhalata mataataxa ku dhaca walxaha
-qaarkood, sida yuraaniyanka iwm.
+
+shubo f.g3 (-btay, -batay) 1. Hoore, badar iwm meel ku geddisasho. 2. Xoolo wa-raabsasho.
+
+shucaac¹ m.l 1. Iftiinka qorraxda. 2. Tamarta ka dhalata mataataxa ku dhaca walxaha qaarkood, sida yuraaniyanka iwm.
+
 shucaac² f.mg1 (-cay, -cday) Shucaac muujin.
+
 shucaacid m.f.dh eeg shucaac².
-shucayb-sacaaf m.l (c.nafl.) Noolayaal yaryar
-oo dul sabbeeya biyaha badaha iyo
-harooyinka. Shucaybsacaafka waxa ka mid
-ah xayawaannada iyo dhirta ili ma-aragtayga
-ah, sida aljiga, borotosoowaha iwm.
+
+shucayb-sacaaf m.l (c.nafl.) Noolayaal yaryar oo dul sabbeeya biyaha badaha iyo harooyinka. Shucaybsacaafka waxa ka mid ah xayawaannada iyo dhirta ili ma-aragtayga ah, sida aljiga, borotosoowaha iwm.
+
 shucays m.l ld shacays¹.
-shucub m.l (-bbo, m.dh) 1. Dun, mayrax iwm
-oo wax lagu qurxiyo. 2. Cutub ubax ama
-miro ah oo isku meel ka soo baxay, sida
-miraha canabka. 3. Toorrey daabkeeda inta
-sare ee maartu ku jirto.
+
+shucub m.l (-bbo, m.dh) 1. Dun, mayrax iwm oo wax lagu qurxiyo. 2. Cutub ubax ama miro ah oo isku meel ka soo baxay, sida miraha canabka. 3. Toorrey daabkeeda inta sare ee maartu ku jirto.
+
 shucuur m.l/dh Dareen; qiiro.
-shufeer m.l (-rro, m.dh) Qof baabuur wada;
-wade.
-shuftanimo m.dh (taar.) Dagaalyahan ee
-dagaallamaaya oo ka mid ah ciidan aan rasmi
-ahayan, ee ka soo horjeeda ciidamada
-dawladda iyo booliska; jabhad.
+
+shufeer m.l (-rro, m.dh) Qof baabuur wada; wade.
+
+shuftanimo m.dh (taar.) Dagaalyahan ee dagaallamaaya oo ka mid ah ciidan aan rasmi ahayan, ee ka soo horjeeda ciidamada dawladda iyo booliska; jabhad.
+
 shuftayn m.f.dh eeg shuftee. ld shuftays.
+
 shuftays m.l ld shuftayn.
-shuftee f.mg2 (-teeyay, -taysay) Qof dhac iyo
-dil u banbixid.
-shufto m.dh (-ooyin, m.l) Dad u banbaxay
-dhac, dil iyo boob.
+
+shuftee f.mg2 (-teeyay, -taysay) Qof dhac iyo dil u banbixid.
+
+shufto m.dh (-ooyin, m.l) Dad u banbaxay dhac, dil iyo boob.
+
 shuftoobid m.f.dh eeg shuftow.
-shuftow f.mg1 (-oobay, -owday; -oobi)
-Shufto noqosho.
+
+shuftow f.mg1 (-oobay, -owday; -oobi) Shufto noqosho.
+
 shugri¹ m.l Mahadcelin.shummi
-shugri² f.mg1/2 (-iyay, -iday/-isay; -iyi) Ku
-sh.: cid u mahad celin.
+
+shugri² f.mg1/2 (-iyay, -iday/-isay; -iyi) Ku sh.: cid u mahad celin.
+
 shugrin m.dh ld shugriyid.
-shugrinaq² f.mg1 (-qay, -qday) U sh.: cid u
-mahad celin.
+
+shugrinaq² f.mg1 (-qay, -qday) U sh.: cid u mahad celin.
+
 shugrinaqid m.f.dh eeg shugrinaq².
-shugrinnaq m.l Mahadcelinta loo mahad-
-celiyo qof abaal galay.
+
+shugrinnaq m.l Mahadcelinta loo mahad-celiyo qof abaal galay.
+
 shugriyid m.f.dh eeg shugri². ld shugrin.
-shuhub m.l (c.fal) Gabal ka soo go'ay maatar
-adag oo soo galay gibilka qaybtiisa sare kana
-yimid dulalaati sare,lagana arko dhulka, ilays
-ka dhasha isxoqidda isaga iyo hawada uu soo
-dhexmarayo awgeed.
-shukaami f.g2 (-iyay, -isay) 1. Haweenay
-xodxodasho. 2. Qof qalqaalin. 3. Doon,
-markab iwm wadid.
-shukaamin m.f.dh eeg shukaami. ld shu-
-kaamis.
+
+shuhub m.l (c.fal) Gabal ka soo go'ay maatar adag oo soo galay gibilka qaybtiisa sare kana yimid dulalaati sare,lagana arko dhulka, ilays ka dhasha isxoqidda isaga iyo hawada uu soo dhexmarayo awgeed.
+
+shukaami f.g2 (-iyay, -isay) 1. Haweenay xodxodasho. 2. Qof qalqaalin. 3. Doon, markab iwm wadid.
+
+shukaamin m.f.dh eeg shukaami. ld shu-kaamis.
+
 shukaamis m.l ld shukaamin.
-shukaan m.dh (-mmo, m.l) 1. Meesha uu
-fariisto
-qofka
-wada
-baabuur,
-markab,dayuurad iwm. 2. Isku joog garangar
-ama wax u dhigma iyo xubno kale ka
-kooban oo gaadiidka badda, cirka iyo dhulka
-ninka wadaa uu adeegsado.
+
+shukaan m.dh (-mmo, m.l) 1. Meesha uu fariisto qofka wada baabuur, markab,dayuurad iwm. 2. Isku joog garangar ama wax u dhigma iyo xubno kale ka kooban oo gaadiidka badda, cirka iyo dhulka ninka wadaa uu adeegsado.
+
 shukaansad m.l ld shukaansasho.
-shukaansasho m.f.dh eeg shukaanso. ld
-shukaansasd, shukaansi.
+
+shukaansasho m.f.dh eeg shukaanso. ld shukaansasd, shukaansi.
+
 shukaansi m.l ld shukaansasho.
-shukaanso f.g3 (-saday, -satay) 1. Hawee-ney
-xodxodasho. 2. Cid qalqaalsasho.
+
+shukaanso f.g3 (-saday, -satay) 1. Hawee-ney xodxodasho. 2. Cid qalqaalsasho.
+
 shukaysad m.l ld shukaysasho.
-shukaysan f.mg4 (-snaa, -snayd) Naag wax
-shuko gashan ahaansho.
-shukaysasho m.f.dh eeg shukayso. ld shu-
-kaysad.
-shukaysnaan m.f.dh eeg shukaysan. ld shu-
-kaysnaansho.
+
+shukaysan f.mg4 (-snaa, -snayd) Naag wax shuko gashan ahaansho.
+
+shukaysasho m.f.dh eeg shukayso. ld shu-kaysad.
+
+shukaysnaan m.f.dh eeg shukaysan. ld shu-kaysnaansho.
+
 shukaysnaansho m.l/dh ld shukaysnaan.
-shukayso f.mg3 (-stay, -satay) Haweeney
-shuko xirasho.
-shuko m.dh (-ooyin, m.l) Maro badanaa
-midab madow leh oo dumarka muslinka ahi
-qaataan oo oogada dhan wada qarisa;
-shaadir.
-shukul¹ m.l (-llo, m.dh) Tumidda badar kal
-iyo mooye lagu tumo si isha looga bixiyo. ld
-sukul¹.
-shukul² f.g1 (-ulay, -uùshay) 1. Wax sukuliye
-ku tumid. 2. Badar si isha looga bixiyo aayar
-tumid. 3. Digir duban qob ka qaadid. ld
-sukul².
-shukulaato m.dh Nooc macmacaanka ka mid
-ah oo midab bunni ah leh lana cuno.
-shukulan¹ m.l Nooc maansada ka mid ah oo
-markii la qaadayo lacayaaro.
+
+shukayso f.mg3 (-stay, -satay) Haweeney shuko xirasho.
+
+shuko m.dh (-ooyin, m.l) Maro badanaa midab madow leh oo dumarka muslinka ahi qaataan oo oogada dhan wada qarisa; shaadir.
+
+shukul¹ m.l (-llo, m.dh) Tumidda badar kal iyo mooye lagu tumo si isha looga bixiyo. ld sukul¹.
+
+shukul² f.g1 (-ulay, -uùshay) 1. Wax sukuliye ku tumid. 2. Badar si isha looga bixiyo aayar tumid. 3. Digir duban qob ka qaadid. ld sukul².
+
+shukulaato m.dh Nooc macmacaanka ka mid ah oo midab bunni ah leh lana cuno.
+
+shukulan¹ m.l Nooc maansada ka mid ah oo markii la qaadayo lacayaaro.
+
 shukulan² f.mg4 (-lnaa, -lnayd) ld sukulan.
+
 shukulasho m.dh ld sukulasho.
+
 shukulid m.f.dh ld sukulid
+
 shukulnaan m.dh ld sukulnaan
+
 shukulnaansho m.l/dh ld sukulnaan.
+
 shukulo f.g3 (-ushay, -ulatay) ld sukulo.
-shukumaan m.l (-nno, m.dh) Maro duf leh oo
-badanaa suuf ka samaysan oo biyaha laysaga
-tirtiro.
-shukuxi f.g2 (-iyay, -isay) Digir tartiib u
-sukulid.
+
+shukumaan m.l (-nno, m.dh) Maro duf leh oo badanaa suuf ka samaysan oo biyaha laysaga tirtiro.
+
+shukuxi f.g2 (-iyay, -isay) Digir tartiib u sukulid.
+
 shukuxin m.f.dh eeg shukuxi. ld shukuxis.
+
 shukuxis m.l ld shukuxin.
-shukuxsan f.mg4 (-naa, -nayd) Digir wax la
-shukuxay ahaansho.
-shukuxsanaan m.f.dh eeg shukuxsan. ld
-shukuxsanaansho.
+
+shukuxsan f.mg4 (-naa, -nayd) Digir wax la shukuxay ahaansho.
+
+shukuxsanaan m.f.dh eeg shukuxsan. ld shukuxsanaansho.
+
 shukuxsanaansho m.l/dh ld shukuxsanaan.
-shulle m.l (-layaal, m.l/dh) 1. Fardaha
-canqawgooda hoose oo qoofalka lagu xiro.
-2. Cagta dadka iyo dhudhunka meesha ay
-iska galaan; canqaw. ld shullo.
+
+shulle m.l (-layaal, m.l/dh) 1. Fardaha canqawgooda hoose oo qoofalka lagu xiro. 2. Cagta dadka iyo dhudhunka meesha ay iska galaan; canqaw. ld shullo.
+
 shullo m.l ld shulle.
-shulshul¹ m.l (-llo, m.dh) 1. Laalaabka
-googaradaha haweenka, daahyada, darii-
-shadaha iyo albaabadu ay ku yeeshaan
-meesha dulaca laga geliyo. 2. Raamaha loo
-yeelo darfaha maryaha qaarkood ee lagu
-qurxiyo.
-shulshul² f.g1 (-ulay, -ushay) 1. Googarad,
-daah iwm laalaab u yeelid. 2. Maro darfaha
-faraq uga yeelid.
-shulshulan¹ f.mg1 (-lmay, -lantay; lmi) Wax
-shulshul yeeshay noqosho.
-shulshulan² f.mg4 (-lnaa, -lnayd) Maro wax
-shulshul loo yeelay ahaansho.
+
+shulshul¹ m.l (-llo, m.dh) 1. Laalaabka googaradaha haweenka, daahyada, darii-shadaha iyo albaabadu ay ku yeeshaan meesha dulaca laga geliyo. 2. Raamaha loo yeelo darfaha maryaha qaarkood ee lagu qurxiyo.
+
+shulshul² f.g1 (-ulay, -ushay) 1. Googarad, daah iwm laalaab u yeelid. 2. Maro darfaha faraq uga yeelid.
+
+shulshulan¹ f.mg1 (-lmay, -lantay; lmi) Wax shulshul yeeshay noqosho.
+
+shulshulan² f.mg4 (-lnaa, -lnayd) Maro wax shulshul loo yeelay ahaansho.
+
 shulshulid m.f.dh eeg shulshul².
+
 shulshulmid m.f.dh eeg shulshulan¹.
-shulshulnaan m.f.dh eeg shulshulan². ld
-shulshulnaansho.
+
+shulshulnaan m.f.dh eeg shulshulan². ld shulshulnaansho.
+
 shulshulnaansho m.l/dh ld shulshulnaan.
-shulug m.l (-gyo, m.dh) Shaati dheer oo ilaa
-shullaha gaara oo badanaa carabtu qaadato.
+
+shulug m.l (-gyo, m.dh) Shaati dheer oo ilaa shullaha gaara oo badanaa carabtu qaadato.
+
 shumac m.l ld shamac.
-shumbul m.l (-llo, m.dh) Orgi yar oo gaaray
-da'dii uu riyaha ku orgayn lahaa.
+
+shumbul m.l (-llo, m.dh) Orgi yar oo gaaray da'dii uu riyaha ku orgayn lahaa.
+
 shumbulnimo m.dh Shumbul ahaansho.
-shummayn m.f.dh eeg shummee. ld shum-
-min, shummis.
+
+shummayn m.f.dh eeg shummee. ld shum-min, shummis.
+
 shumme m.l ld shummo.
-shummee f.g2 (-meeyay, -maysay) Cid
-dhunkasho. ld shummi.
+
+shummee f.g2 (-meeyay, -maysay) Cid dhunkasho. ld shummi.
+
 shummi f.g2 (-iyay, -isay) ld shummee.
-765shummin
+
 shummin m.dh ld shummayn.
+
 shummis m.l ld shummayn.
-shummo m.dh (-ooyin, m.l) Calaamad dhibic
-ah; joogsi. ld shumme.
-shunuuf m.dh (-fo, m.l) Suuqadda dumarku
-quruxda u qaato waxyaalaha laga lulo oo lagu
-qurxiyo.
+
+shummo m.dh (-ooyin, m.l) Calaamad dhibic ah; joogsi. ld shumme.
+
+shunuuf m.dh (-fo, m.l) Suuqadda dumarku quruxda u qaato waxyaalaha laga lulo oo lagu qurxiyo.
+
 shuqayn m.f.dh eeg shuqee.
-shuqee f.g2 (-qeeyay, -qaysay) 1. Ul afkeed
-iwm wax ku mudmudid. 2. Badar si ishu uga
-baxdo aayar kal ku tumid.
-shuqlan f.mg4 (-naa, -nayd) Wax la shuqliyey
-ahaansho. ld shuqloon.
-shuqlanaan m.f.dh eeg shuqlan. ld
-shuqlanaansho, shuqloonaan, shuqloo-
-naansho.
+
+shuqee f.g2 (-qeeyay, -qaysay) 1. Ul afkeed iwm wax ku mudmudid. 2. Badar si ishu uga baxdo aayar kal ku tumid.
+
+shuqlan f.mg4 (-naa, -nayd) Wax la shuqliyey ahaansho. ld shuqloon.
+
+shuqlanaan m.f.dh eeg shuqlan. ld shuqlanaansho, shuqloonaan, shuqloo-naansho.
+
 shuqlanaansho m.l/dh ld shuqlanaan.
+
 shuqli f.g2 (-iyay, -isay) Cid hawl gelin.
+
 shuqlin m.f.dh eeg shuqli.
+
 shuqloon f.mg4 (-naa, -nayd) ld shuqlan.
+
 shuqloonaan m.dh ld shuqlanaan.
+
 shuqloonaansho m.l/dh ld shuqlanaan.
+
 shuqul m.l (-llo, m.dh) Shaqo; hawl.
+
 shuraako m.dh ld shiraako.
+
 shuraakoobid m.dh ld shiraakoobid.
-shuraakow f.mg1 (-oobay, -oowday; -oobi) ld
-shiraakow.
-shurbad m.dh Meseggo, qamadi iwm oo la
-budeeyey si biyo-biyo ahna loo kariyey oo
-badanaa soonka lagu afuro; mushaalli.
+
+shuraakow f.mg1 (-oobay, -oowday; -oobi) ld shiraakow.
+
+shurbad m.dh Meseggo, qamadi iwm oo la budeeyey si biyo-biyo ahna loo kariyey oo badanaa soonka lagu afuro; mushaalli.
+
 shurbadayn m.f.dh eeg shurbadee.
 shurbadee f.g2 (-deeyay, -daysay) Meseg-go,
 qamadi iwm shurbad ka dhigid.
