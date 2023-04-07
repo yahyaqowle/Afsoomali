@@ -1622,9 +1622,10 @@ shoolid m.f.dh eeg shool.
 
 shoolo m.dh Meel loogu dhakado neefka (ugaar) la rabo in la khatalo; shoomo.
 
-shoon m.dh (-nno, m.dh) Geedo badan oo
-isku meel ku urursan.
+shoon m.dh (-nno, m.dh) Geedo badan oo isku meel ku urursan.
+
 shootoli m.l ld sootoli.
+
 shoox m.l.u Kalluun yaryar oo cutub-cutub isu
 raaca.
 shooxaad m.l Nooc nibiriga ka mid ah.
