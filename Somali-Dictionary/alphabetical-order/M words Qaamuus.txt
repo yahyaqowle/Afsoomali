@@ -7770,7 +7770,9 @@ muuqo f.mg3 (-qday, -qatay) 1. Wax la arki karo noqosho. 2. U m.: wax dhab ahaan
 
 muuqsheeg m.l (-ooyin, m.l) (baay.) Astaamaha ka muuqan kara noolaha. Astaamahaasi waxay ku xidhanyihiin hiddo-sidihiisa, xidhiidhka shiiqsanaanta ee ka dhexeeya aliiladiisa, iyo laqabsiga hiddo-sidaha degaankiisa.
 
-muurrayn m.f.dh eeg muurree.muurree f.mg2 (-reeyay, -raysay) 1. Nafley tiro badan hal mar wada dhaqaaqid. 2. Keli socosho.
+muurrayn m.f.dh eeg muurree.
+
+muurree f.mg2 (-reeyay, -raysay) 1. Nafley tiro badan hal mar wada dhaqaaqid. 2. Keli socosho.
 
 muurri f.mg2 (-iyay, -isay) Nafley si ayaar ah u dhutin; heetin.
 
