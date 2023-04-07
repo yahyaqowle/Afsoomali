@@ -1511,101 +1511,117 @@ shirqool² f.g1 (-oolay, -ooshay) Cid shirqool u samayn.
 shirqoolan¹ f.mg1 (-lmay, -lantay, -lmi) Wax shirqool galay noqosho.
 
 shirqoolan² f.mg4 (-lnaa, -lnayd) Wax la shirqoolay ahaansho.
+
 shirqoolid m.f.dh eeg shirqool².
+
 shirqoolmid m.f.dh eeg shirqoolan¹.
+
 shirrab¹ m.l ld sharrib¹.
+
 shirrab² f.g1 (-bay, -btay) ld sharrib².
+
 shirrabaad m.dh ld sharribid.
-shirraban¹ f.mg1 (-bmay, -bantay; -bmi) ld
-sharriban¹.
-shirraban² f.mg4 (-bnaa, -bnayd) ld shar-
-riban².
+
+shirraban¹ f.mg1 (-bmay, -bantay; -bmi) ld sharriban¹.
+
+shirraban² f.mg4 (-bnaa, -bnayd) ld shar-riban².
+
 shirrabasho m.f.dh ld sharribasho.
+
 shirrabid m.dh ld sharribid.
+
 shirrabmid m.dh ld sharribmid.
+
 shirrabnaan m.f.dh ld sharrabnaan.
+
 shirrabnaansho m.l/dh ld sharrabnaan.
+
 shirrabo f.g3 (-btay, -batay) ld sharribo.
-shirsan f.mg4 (-naa, -nayd) Wax shir isugu
-yimid ahaansho.
-shirsanaan m.f.dh eeg shirsan. ld shirsa-
-naansho.
+
+shirsan f.mg4 (-naa, -nayd) Wax shir isugu yimid ahaansho.
+
+shirsanaan m.f.dh eeg shirsan. ld shirsa-naansho.
+
 shirsanaansho m.l/dh ld shirsanaan.
-shirweyne m.l (-nayaal, m.l/dh) Kulan wufuud
-badani issugu yimaadaan oo ka wada
-hadlaan arrimo muhiim ah oo wejiyo badan
-leh.
-shishac m.l Ood neefka la qalayo la kor saaro si
-aan hilibka ciiddu u gaarin; shillal.
-shishay s. Meel durugsan, meel aan dho-weyn.
-Tus. “Togga shishadiisa ayay deg-ganyihiin”.
-ld shishe.
+
+shirweyne m.l (-nayaal, m.l/dh) Kulan wufuud badani issugu yimaadaan oo ka wada hadlaan arrimo muhiim ah oo wejiyo badan leh.
+
+shishac m.l Ood neefka la qalayo la kor saaro si aan hilibka ciiddu u gaarin; shillal.
+
+shishay s. Meel durugsan, meel aan dho-weyn. Tus. “Togga shishadiisa ayay deg-ganyihiin”. ld shishe.
+
 shishayn m.f.dh eeg shishee.
+
 shishe s. Meel durugsan.
-shishee f.mg2 (-sheeyay, -shaysay) Wax
-durugsan noqosho.
-shisheeye m.l.kh 1. Qof aan xiriir sokeeye la
-lahayn qolo. 2. Qof jooga dal uusan u
-dhalan.
-shisheeye-naceyb m.l (c.naf) Cabsi, ama
-neceeb aad u qabtid dadka waddamada ka-le.
+
+shishee f.mg2 (-sheeyay, -shaysay) Wax durugsan noqosho.
+
+shisheeye m.l.kh 1. Qof aan xiriir sokeeye la lahayn qolo. 2. Qof jooga dal uusan u dhalan.
+
+shisheeye-naceyb m.l (c.naf) Cabsi, ama neceeb aad u qabtid dadka waddamada ka-le.
+
 shisheeynimo m.dh Shisheeye ahaansho.
+
 shishlaan m.dh ld shislaan.
+
 shishlaansho m.l/dh ld shislaan.
-shislaan m.f.dh eeg shilis². ld shishlaan,
-shishlaansho, shislaansho.
+
+shislaan m.f.dh eeg shilis². ld shishlaan, shishlaansho, shislaansho.
+
 shislaansho m.l/dh ld shislaan.
+
 shitaar¹ m.l ld shataar¹.
+
 shitaar² f.g1 (-ray, -rtay) ld shataar².
+
 shitaarad m.dh ld shataarad.
+
 shitaarid m.dh ld shataarid.
+
 shito m.dh (-ooyin, m.l) Siil.
+
 shixid m.dh ld shaxid.
-shixnad¹ m.dh (-do, m.l) Xamuul doon ama
-markab hal mar qaado.
-shixnad² f.g1 (-day, -dday) Markab, doon
-iwm xamuul ka buuxin.
-shixnadan f.mg4 (-dnaa, -dnayd) Markab,
-doon iwm wax shixnad la saaray ahaansho.
+
+shixnad¹ m.dh (-do, m.l) Xamuul doon ama markab hal mar qaado.
+
+shixnad² f.g1 (-day, -dday) Markab, doon iwm xamuul ka buuxin.
+
+shixnadan f.mg4 (-dnaa, -dnayd) Markab, doon iwm wax shixnad la saaray ahaansho.
+
 shixnadid m.f.dh eeg shixnad².
-shixnadnaan m.f.dh eeg shixnadan. ld shix-
-nadnaansho.
+
+shixnadnaan m.f.dh eeg shixnadan. ld shix-nadnaansho.
+
 shixnadnaansho m.l/dh ld shixnadnaan.
-shohor m.l (-rro, m.dh) Ur xun oo labka
-nafleydu leeyahay oo la dhibsado; shuruf.
-shoob¹ m.l 1. Xarrago; mardaadi. 2. Sh. ah:
-neef ari ah oo leh qoobab cascas.
+
+shohor m.l (-rro, m.dh) Ur xun oo labka nafleydu leeyahay oo la dhibsado; shuruf.
+
+shoob¹ m.l 1. Xarrago; mardaadi. 2. Sh. ah: neef ari ah oo leh qoobab cascas.
+
 shoob² f.mg1 (-bay, -btay) Cid mardaadiyid.
+
 shoobid m.f.dh eeg shoob².
-shood m.dh (-do, m.l) Weel bir ka samaysan
-oo badarka iwm lagu beegto, una dhiganta
-suus barkii (banaadir).
-shoofanisam m.l Caadifad muujinayso in
-qofku uu si daran u aaminsan yahay in
-dalkiisa iyo dadkiisina ay ka muhiim san-
-yihiin ama ka fiicanyihiin dadyowga kale.
-shoog m.l (daaw.) Xaalad cudureed la socota
-marka cadaadiska dhiigwareegga uu aad hoos
-ugu dhaco oo uu dhiiggu gaari waayo
-soohyada.
-763shookad
-shookad m.dh 1. Bar yar, cad oo isha
-dhexdeeda (birteeda) ku samaysanta. 2. ld
-shooko (2).
+
+shood m.dh (-do, m.l) Weel bir ka samaysan oo badarka iwm lagu beegto, una dhiganta suus barkii (banaadir).
+
+shoofanisam m.l Caadifad muujinayso in qofku uu si daran u aaminsan yahay in dalkiisa iyo dadkiisina ay ka muhiim san-yihiin ama ka fiicanyihiin dadyowga kale.
+
+shoog m.l (daaw.) Xaalad cudureed la socota marka cadaadiska dhiigwareegga uu aad hoos ugu dhaco oo uu dhiiggu gaari waayo soohyada.
+
+shookad m.dh 1. Bar yar, cad oo isha dhexdeeda (birteeda) ku samaysanta. 2. ld shooko (2).
+
 shooki m.l (-iyo, m.dh) Saldhig boolis.
-shooko m.dh (-ooyin, m.l) 1. Qalab bir ah oo
-af godan leh, yaambadana u eg oo geedaha
-lagu qoro. 2. ld shookad. Yaambo yar oo
-xooggan oo dhulka adag lagu falo.
+
+shooko m.dh (-ooyin, m.l) 1. Qalab bir ah oo af godan leh, yaambadana u eg oo geedaha lagu qoro. 2. ld shookad. Yaambo yar oo xooggan oo dhulka adag lagu falo.
+
 shool f.mg1 (-oolay, -ooshay) Faanid (cid).
-shoolad m.dh (-do, m.l) 1. Markabka meesha
-qiiqu ka baxo. 2. Dhuun kasta oo dheer
-korna u taagan oo qiiqa kor u saarta.
-3. Qalab bir ka samaysan, gaas ku shaqeeya
-oo wax lagu karsado.
+
+shoolad m.dh (-do, m.l) 1. Markabka meesha qiiqu ka baxo. 2. Dhuun kasta oo dheer korna u taagan oo qiiqa kor u saarta. 3. Qalab bir ka samaysan, gaas ku shaqeeya oo wax lagu karsado.
+
 shoolid m.f.dh eeg shool.
-shoolo m.dh Meel loogu dhakado neefka
-(ugaar) la rabo in la khatalo; shoomo.
+
+shoolo m.dh Meel loogu dhakado neefka (ugaar) la rabo in la khatalo; shoomo.
+
 shoon m.dh (-nno, m.dh) Geedo badan oo
 isku meel ku urursan.
 shootoli m.l ld sootoli.
