@@ -7763,68 +7763,65 @@ muuqaalcelin m.f.dh eeg muuqaalceli.
 muuqad m.l ld muuqasho.
 
 muuqasho m.f.dh eeg muuqo. ld muuqad.
-muuq-doori f.g2 (-iyay, -isay) (riw.) Dad wax
-matilaya haaneedin, qurxin; turukeyn.
-muuqo f.mg3 (-qday, -qatay) 1. Wax la arki
-karo noqosho. 2. U m.: wax dhab ahaantiisa
-mooyaane si kale u arkid ama u fahmid.
-muuqsheeg m.l (-ooyin, m.l) (baay.)
-Astaamaha ka muuqan kara noolaha.
-Astaamahaasi waxay ku xidhanyihiin hiddo-
-sidihiisa, xidhiidhka shiiqsanaanta ee ka
-dhexeeya aliiladiisa, iyo laqabsiga hiddo-
-sidaha degaankiisa.
-muurrayn m.f.dh eeg muurree.muurree f.mg2 (-reeyay, -raysay) 1. Nafley
-tiro badan hal mar wada dhaqaaqid. 2. Keli
-socosho.
-muurri f.mg2 (-iyay, -isay) Nafley si ayaar ah
-u dhutin; heetin.
+
+muuq-doori f.g2 (-iyay, -isay) (riw.) Dad wax matilaya haaneedin, qurxin; turukeyn.
+
+muuqo f.mg3 (-qday, -qatay) 1. Wax la arki karo noqosho. 2. U m.: wax dhab ahaantiisa mooyaane si kale u arkid ama u fahmid.
+
+muuqsheeg m.l (-ooyin, m.l) (baay.) Astaamaha ka muuqan kara noolaha. Astaamahaasi waxay ku xidhanyihiin hiddo-sidihiisa, xidhiidhka shiiqsanaanta ee ka dhexeeya aliiladiisa, iyo laqabsiga hiddo-sidaha degaankiisa.
+
+muurrayn m.f.dh eeg muurree.muurree f.mg2 (-reeyay, -raysay) 1. Nafley tiro badan hal mar wada dhaqaaqid. 2. Keli socosho.
+
+muurri f.mg2 (-iyay, -isay) Nafley si ayaar ah u dhutin; heetin.
+
 muurrin m.f.dh eeg muurri.
+
 muursasho m.f.dh eeg muurso. ld muudsasho.
-muursii f.lg2 (-iiyay, -iisay) Qof afka wax u
-gelin si uu u muursado. ld muudsii.
+
+muursii f.lg2 (-iiyay, -iisay) Qof afka wax u gelin si uu u muursado. ld muudsii.
+
 muursiin m.f.dh eeg muursii. ld muudsiin.
-muurso f.g3 (-saday, -satay) Adke dhadhan
-leh oo afka ku dhex jira candhuuf iyo
-dhaqdhaqaaqa daamanka hoore la liqi karo
-ka dhigid. ld muudso.
-muus¹ m.l (-sas, m.l) 1. Mindiil daab leh, isku
-laabanta, oo lagu xiirto. 2. ld moos².
+
+muurso f.g3 (-saday, -satay) Adke dhadhan leh oo afka ku dhex jira candhuuf iyo dhaqdhaqaaqa daamanka hoore la liqi karo ka dhigid. ld muudso.
+
+muus¹ m.l (-sas, m.l) 1. Mindiil daab leh, isku laabanta, oo lagu xiirto. 2. ld moos².
+
 muus² f.mg1 (-say, -stay) Biyo hoos u gelid.
+
 muusaabid m.f.dh eeg muusaw. ld muusood.
+
 muusannaabid m.f.dh eeg muusannow².
-muusannow¹ m.l Qaylo badan oo qof cid u
-hiilisa ugu yeerto.
-muusannow² f.mg1 (-naabay, -nawday)
-Qaylo badan oo qof cid u hiilisa ugu yeerto
-samayn.
-muusaw f.mg1 (-saabay, -sawday; -saabi)
-Qosol yar oo dhooluhu muuqdaan sameyn.
-ld muusoo.
+
+muusannow¹ m.l Qaylo badan oo qof cid u hiilisa ugu yeerto.
+
+muusannow² f.mg1 (-naabay, -nawday) Qaylo badan oo qof cid u hiilisa ugu yeerto samayn.
+
+muusaw f.mg1 (-saabay, -sawday; -saabi) Qosol yar oo dhooluhu muuqdaan sameyn. ld muusoo.
+
 muusid¹ m.f.dh eeg muus².
-muusid² m.dh (jool.) Dusidda biyuhu ay ka
-dusayaan dulduleellada carrada iyo jeexjeexa
-dhadhaabaha iyagoo markaas dhulka hoos u
-sii gelaya.
-muusika m.dh 1. Dhawaaq dheguhu ku
-raaxaystaan dhabaq lahayn oo ka dhasha
-qalab ama wax ka badan oo la garaaco ama la
-yeeriyey. 2. Hees iyo qalab la tumayo oo
-wadajira. ld muusiqa.
+
+muusid² m.dh (jool.) Dusidda biyuhu ay ka dusayaan dulduleellada carrada iyo jeexjeexa dhadhaabaha iyagoo markaas dhulka hoos u sii gelaya.
+
+muusika m.dh 1. Dhawaaq dheguhu ku raaxaystaan dhabaq lahayn oo ka dhasha qalab ama wax ka badan oo la garaaco ama la yeeriyey. 2. Hees iyo qalab la tumayo oo wadajira. ld muusiqa.
+
 muusiqa m.dh ld muusika.
-muuso m.dh Qosol yar oo dhoolluhu
-muuqdaan.
+
+muuso m.dh Qosol yar oo dhoolluhu muuqdaan.
+
 muusoo f.mg3 (-ooday, -ootay) ld muusaw.
+
 muusood m.l ld muusaabid.
-muwaaddin m.l (-niin/-nno, m.dh) Qof ka
-mid ah dad waddan u dhashay.
-muwaafaqo m.dh (-ooyin, m.l) Heeshiis iyo
-samo lagu wada noolaado.
-muxaadarad m.dh (-do, m.l) Khudbad
-cilmiyeed oo meel fagaare ah laga jeediyo. ld
-muxaadaro.
-muxaadaro m.dh (-ooyin,
-m.l) ld
-muxaadarad.
+
+muwaaddin m.l (-niin/-nno, m.dh) Qof ka mid ah dad waddan u dhashay.
+
+muwaafaqo m.dh (-ooyin, m.l) Heeshiis iyo samo lagu wada noolaado.
+
+muxaadarad m.dh (-do, m.l) Khudbad cilmiyeed oo meel fagaare ah laga jeediyo. ld muxaadaro.
+
+muxaadaro m.dh (-ooyin, m.l) ld muxaadarad.
+
 muxtaaj m.l.kh M. ah: qof baahi wax u qaba.
+
 muxubbo m.dh ld maxabbo.
+
+
