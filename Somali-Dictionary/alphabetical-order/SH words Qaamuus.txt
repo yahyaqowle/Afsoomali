@@ -1961,43 +1961,51 @@ shuurin m.f.dh eeg shuuri. ld shuuris.
 shuuris m.l ld shuurin.
 
 shuurnaan m.f.dh eeg shuuran. ld shuur-naansho.
+
 shuurnaansho m.l/dh ld shuurnaan.
-shuuro m.dh Soor galley ama meseggo oo si
-gaar ah loo kariyey.
-shuush m.l 1. Cudur. 2. Xumaan uurka la
-isugu hayo; uurkutaallo.
-shuushaami f.g2 (-iyay, -isay) 1. Xoolo si gaar
-ah oo lexejeclo iyo turidi ku jirto u wadid.
-2. Wax si gaar u xannaanayn. ld shuushi.
-shuushaamin m.f.dh eeg shuushaami. ld
-shuushaamis, shuushin.
+
+shuuro m.dh Soor galley ama meseggo oo si gaar ah loo kariyey.
+
+shuush m.l 1. Cudur. 2. Xumaan uurka la isugu hayo; uurkutaallo.
+
+shuushaami f.g2 (-iyay, -isay) 1. Xoolo si gaar ah oo lexejeclo iyo turidi ku jirto u wadid. 2. Wax si gaar u xannaanayn. ld shuushi.
+
+shuushaamin m.f.dh eeg shuushaami. ldshuushaamis, shuushin.
+
 shuushaamis m.l ld shuushaamin.
+
 shuushi f.g2 (-iyay, -isay) ld shuushaami.
+
 shuushin m.dh ld shuushaamin.
-shuushuu m.dh Hadal cid gaar ah wax looga
-sheegayo oo hoos ahaan laysugu gudbiyo.
-shuushuule m.l Sh. ah: qof xan badan oo
-dadka hoos ka dicaayadeeya.
-shuushuulee f.mg1 (-leeyay, -leysay) Shuu-
-shuu fidin.
-shuushuuleyn m.f.dh eeg shuushuulee. ld
-shuushuuleys.
+
+shuushuu m.dh Hadal cid gaar ah wax looga sheegayo oo hoos ahaan laysugu gudbiyo.
+
+shuushuule m.l Sh. ah: qof xan badan oo dadka hoos ka dicaayadeeya.
+
+shuushuulee f.mg1 (-leeyay, -leysay) Shuu-shuu fidin.
+
+shuushuuleyn m.f.dh eeg shuushuulee. ld shuushuuleys.
+
 shuushuuleys m.l ld shuushuuleyn.
+
 shuushuunle m.l ld shuuqshuuq.
-shuux¹ m.l Roob aan tabar lahayn oo dhibco
-yaryar.
-shuux² f.mg1 (-xay, -xday) Roob aad u dhibco
-yaryar oo aan tabar lahayn di'id.
+
+shuux¹ m.l Roob aan tabar lahayn oo dhibco yaryar.
+
+shuux² f.mg1 (-xay, -xday) Roob aad u dhibco yaryar oo aan tabar lahayn di'id.
+
 shuuxid m.f.dh eeg shuux².
-shux¹ m.l Duxda ka baxda shay dufan leh
-marka qorraxda la dhigo.
+
+shux¹ m.l Duxda ka baxda shay dufan leh marka qorraxda la dhigo.
+
 shux² m.dh Socod xarrago yar ku jirto.
-shux³ f.mg1 (-xay, -xday) Laf iwm oo qorrax
-la dhigay dufan ka bixid.
+
+shux³ f.mg1 (-xay, -xday) Laf iwm oo qorrax la dhigay dufan ka bixid.
+
 shuxid m.f.dh eeg shux³.
-shuxlee f.mg2 (-leeyay, -leysay) Si xarrago ku
-jirto u socosho.
+
+shuxlee f.mg2 (-leeyay, -leysay) Si xarrago ku jirto u socosho.
+
 shuxleyn m.f.dh eeg shuxlee.
+
 shuyuuciyaad m.dh ld shuuciyad.
-
-
