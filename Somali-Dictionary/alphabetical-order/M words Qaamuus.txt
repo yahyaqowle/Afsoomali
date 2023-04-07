@@ -6338,101 +6338,74 @@ moos¹ m.l (-sas, m.l/-syo, m.dh) 1. Dhis dhoobo ama wax kale ah oo loogu talaga
 
 moos² m.l (-sas, m.l/-syo, m.l) 1. (bot.) Geed tallaal, caleemo balballaaran dhaadheer, oo waxyaabo badan laga wershedeeyo leh, oo miro macaan oo khudrad ahaan loo cuno leh. 2. (bot.) Miro dhaardheer oo dhumuc leh oo soo godgodan oo si qurux badan cuntub ugu baxa; midabkoodu, kolkay bisladaan, waa cawl dahabka u eg, aadna waa u macaanyihiin. ld muus¹ (2).
 
-moos³ f.g1 (-say, -stay) 1. Dhis ama dhoobo
-beer iwm biyo kaga celin. 2. Biyo daad ah
-weecin ama duwid.
-moosan f.mg4 (-snaa, -snayd) Wax la moosay
-ahaansho.
+moos³ f.g1 (-say, -stay) 1. Dhis ama dhoobo beer iwm biyo kaga celin. 2. Biyo daad ah weecin ama duwid.
+
+moosan f.mg4 (-snaa, -snayd) Wax la moosay ahaansho.
+
 moosasho m.f.dh eeg mooso.
-moos-bukeeni m.l Moos waaweyn oo marka la
-kariyo la cuno.
-moosdameeri m.l Nooc mooska ka mid ah oo
-waaweyn.
+
+moos-bukeeni m.l Moos waaweyn oo marka la kariyo la cuno.
+
+moosdameeri m.l Nooc mooska ka mid ah oo waaweyn.
+
 moosid m.f.dh eeg moos³.
-moosin m.l (-nno, m.dh) 1. Dabayl xilli ku
-socota oo ka dhacda badweynta Hindiya iyo
-Aasiyada koofureed. 2. Xilli; wakhti. 3. Nooc
-ka mid ah doonyaha.
-moosnaan
-m.f.dh
-eeg
-moosan.
-ld
-moosnaansho.
+
+moosin m.l (-nno, m.dh) 1. Dabayl xilli ku socota oo ka dhacda badweynta Hindiya iyo Aasiyada koofureed. 2. Xilli; wakhti. 3. Nooc ka mid ah doonyaha.
+
+moosnaan m.f.dh eeg moosan. ld moosnaansho.
+
 moosnaansho m.l/dh ld moosnaan.
+
 mooso f.g3 (-stay, -satay) Moos samaysasho.
-moos-wabiyeed m.l (-dyo, m.dh) (jool.) Dhul
-sare oo ka dhinac samaysma webi dhex
-maraya bannaan, markii uu sabab darteed
-webigu billaabo xoqid joog ah mar kale,
-sababtaas oo ay suurtoggal tahay iany tahay
-dhallinyarayn.
-mootan f.mg4 (-naa, -nayd) 1. Wax dhintay
-ahaansho. 2. Qoor aan dheddigoodka u
-kacsanayn ahaansho.
-mootanaan m.f.dh eeg mootan. ld
-mootanaansho.
+
+moos-wabiyeed m.l (-dyo, m.dh) (jool.) Dhul sare oo ka dhinac samaysma webi dhex maraya bannaan, markii uu sabab darteed webigu billaabo xoqid joog ah mar kale, sababtaas oo ay suurtoggal tahay iany tahay dhallinyarayn.
+
+mootan f.mg4 (-naa, -nayd) 1. Wax dhintay ahaansho. 2. Qoor aan dheddigoodka u kacsanayn ahaansho.
+
+mootanaan m.f.dh eeg mootan. ld mootanaansho.
+
 mootanaansho m.l/dh ld mootanaan.
-mooti f.g2 (-iyay, -isay) Wax meel dhaafin
-ama gudbin.
-mootin m.dh (fiis.) Astaanta ay walaxi ku
-oggolaato in kaah dhex maro, isaga oo aan la
-nuugin ama aanu weecan.
-mooto m.dh (-ooyin, m.l) Gaadiid laba
-lugood, matoor iyo laba meelood oo la
-qabsado leh oo la fuulo.
-mooy m.l 1. Nooc shimbiraha ka mid ah. 2. ld
-mooye (2). Neef xoolaad oo tood ah (tooji).
-mooyaane qr. Qurub macnihiisu yahay
-“haddii laga reebo”; ma ahee. Tus. “Adiga m.
-qof kale ma imaan”. ld maahane, mooyee,
-mooyiye.
-mooye m.l (-yayaal, m.l/dh) 1. ld moy. Weel
-qori ama bir ka samaysan oo ay tibi weheliso
-oo badarka iwm lagu tumo. 2. ld mooy (2)
-M. ah: neef lo' ah oo aan geeso lahayn.
-612
+
+mooti f.g2 (-iyay, -isay) Wax meel dhaafin ama gudbin.
+
+mootin m.dh (fiis.) Astaanta ay walaxi ku oggolaato in kaah dhex maro, isaga oo aan la nuugin ama aanu weecan.
+
+mooto m.dh (-ooyin, m.l) Gaadiid laba lugood, matoor iyo laba meelood oo la qabsado leh oo la fuulo.
+
+mooy m.l 1. Nooc shimbiraha ka mid ah. 2. ld mooye (2). Neef xoolaad oo tood ah (tooji).
+
+mooyaane qr. Qurub macnihiisu yahay “haddii laga reebo”; ma ahee. Tus. “Adiga m. qof kale ma imaan”. ld maahane, mooyee, mooyiye.
+
+mooye m.l (-yayaal, m.l/dh) 1. ld moy. Weel qori ama bir ka samaysan oo ay tibi weheliso oo badarka iwm lagu tumo. 2. ld mooy (2) M. ah: neef lo' ah oo aan geeso lahayn.
+
 mooyee qr. ld mooyaane.
+
 mooyiye qr. ld mooyaane.
-moqor m.l (-rro, m.dh) 1. Dalool yar oo
-jirridaha dhirta waaweyni yeelato oo kolkii
-biyaha roobku galaan dhuuno lagaga cabbo.
-2. Dululaati hulan oo ku dhex jira jidh adag.
-ld maqoor.
-moqor sambabeed m.l (-dyo, m.dh) Dhinaca
-naasleyda, qayb ka mid ah qaaxada (saabka)
-hore ee bogga, waxaana ku jira sambabada.
-moqorka kalka wadnaha m.l (c.nafl) Moqor
-uu ku yaallo wadnuhu. Dhinaca
-lafdhabarleyda waa qayb ka mid ah qaaxada
-oo ka soocan moqorka kalka ubucda.
-moqorof m.l (-fyo/moqorof, m.dh) Shay bir
-ka samaysan oo af xalleefsan leh oo ciidda
-iwm lagu qaado marka wax la dhisayo.
-moqorsasho m.f.dh eeg moqorso. ld
-maqoorasho.
-moqorso f.mg3 (-saday, -satay) 1. Neef dhali
-raabo minkiisa kalabbixid. 2. Welwel dhan
-waliba la eegid (neef foolanaya). ld maqooro.
-moqotin m.l (-nno, m.dh) Kooraha labadiisa
-dhinac ee qofku dhex fariisto midkood.
-moraal m.l Dareen ku taxalluqa dabeecadda
-aadanaha ee kala sooca saxa iyo khaladka.
-morayn m.dh (jool.) Bur-bur dhadhaabeed
-kasta oo ka hara dhaqaaqa dhadhaabta baraf
-weynuhu uu hoosta ku jiidayo.
-morfiin m.dh (-nno, m.dh) (daaw.) Dawo aad
-u xoog badan oo xanuunka bi'sa keentana
-hurdo, waxaa loo isticmaalaa in lagu yareeyo
-xanuun daran oo joogto ah.
-morfooloji m.l (Baay.) Barashada qaabka iyo
-dhismaha, noolayaasha, gaar ahaan
-qaababkooda dibadda.
-moroh m.l (moroh, m.dh) Jaad ka mid ah
-dhirta oo dhala beeyo udgoon.
-motoor m.l (-rro, m.dh) Qalab qaab tamareed
-sida, tamar danab u beddela tamar socod. ld
-matoor.
+
+moqor m.l (-rro, m.dh) 1. Dalool yar oo jirridaha dhirta waaweyni yeelato oo kolkii biyaha roobku galaan dhuuno lagaga cabbo. 2. Dululaati hulan oo ku dhex jira jidh adag. ld maqoor.
+moqor-sambabeed m.l (-dyo, m.dh) Dhinaca naasleyda, qayb ka mid ah qaaxada (saabka) hore ee bogga, waxaana ku jira sambabada.
+
+moqorka-kalka-wadnaha m.l (c.nafl) Moqor uu ku yaallo wadnuhu. Dhinaca lafdhabarleyda waa qayb ka mid ah qaaxada oo ka soocan moqorka kalka ubucda.
+
+moqorof m.l (-fyo/moqorof, m.dh) Shay bir ka samaysan oo af xalleefsan leh oo ciidda iwm lagu qaado marka wax la dhisayo.
+
+moqorsasho m.f.dh eeg moqorso. ld maqoorasho.
+
+moqorso f.mg3 (-saday, -satay) 1. Neef dhali raabo minkiisa kalabbixid. 2. Welwel dhan waliba la eegid (neef foolanaya). ld maqooro.
+
+moqotin m.l (-nno, m.dh) Kooraha labadiisa dhinac ee qofku dhex fariisto midkood.
+
+moraal m.l Dareen ku taxalluqa dabeecadda aadanaha ee kala sooca saxa iyo khaladka.
+
+morayn m.dh (jool.) Bur-bur dhadhaabeed kasta oo ka hara dhaqaaqa dhadhaabta baraf weynuhu uu hoosta ku jiidayo.
+
+morfiin m.dh (-nno, m.dh) (daaw.) Dawo aad u xoog badan oo xanuunka bi'sa keentana hurdo, waxaa loo isticmaalaa in lagu yareeyo xanuun daran oo joogto ah.
+
+morfooloji m.l (Baay.) Barashada qaabka iyo dhismaha, noolayaasha, gaar ahaan qaababkooda dibadda.
+
+moroh m.l (moroh, m.dh) Jaad ka mid ah dhirta oo dhala beeyo udgoon.
+
+motoor m.l (-rro, m.dh) Qalab qaab tamareed sida, tamar danab u beddela tamar socod. ld matoor.
 motooriste m.l (-tayaal, m.l/dh) Qof matoor
 ku shaqaya ama aqoon gaar ah u leh. ld
 matooriste.
