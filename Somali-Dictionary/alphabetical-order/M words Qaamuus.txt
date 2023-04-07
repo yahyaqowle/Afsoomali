@@ -6406,21 +6406,25 @@ morfooloji m.l (Baay.) Barashada qaabka iyo dhismaha, noolayaasha, gaar ahaan qa
 moroh m.l (moroh, m.dh) Jaad ka mid ah dhirta oo dhala beeyo udgoon.
 
 motoor m.l (-rro, m.dh) Qalab qaab tamareed sida, tamar danab u beddela tamar socod. ld matoor.
-motooriste m.l (-tayaal, m.l/dh) Qof matoor
-ku shaqaya ama aqoon gaar ah u leh. ld
-matooriste.
+
+motooriste m.l (-tayaal, m.l/dh) Qof matoor ku shaqaya ama aqoon gaar ah u leh. ld matooriste.
+
 motootax¹ m.l ld mataataxid.
+
 motootax² f.mg1 (-xay, -xday) ld mataatax².
-motootaxsan f.mg4 (-naa, -nayd) ld
-mataataxsan.
+
+motootaxsan f.mg4 (-naa, -nayd) ld mataataxsan.
+
 motootaxsanaan m.dh ld mataataxsanaan.
-motootaxsanaansho
-m.l/dh
-ld
-mataataxsanaan.
+
+motootaxsanaansho m.l/dh ld mataataxsanaan.
+
 motootixi f.g2 (-iyay, -isay) ld mataatixi.
+
 motootixid m.dh ld mataatixid.
+
 motootixin m.dh ld mataatixin.
+
 mowd m.l ld mawd.mųdasho
 mowhibo m.dh (dii.) Hibo waxgarasho oo
 Eebbe ku manaysto dadka qaarkiis.
