@@ -1626,58 +1626,50 @@ shoon m.dh (-nno, m.dh) Geedo badan oo isku meel ku urursan.
 
 shootoli m.l ld sootoli.
 
-shoox m.l.u Kalluun yaryar oo cutub-cutub isu
-raaca.
+shoox m.l.u Kalluun yaryar oo cutub-cutub isu raaca.
+
 shooxaad m.l Nooc nibiriga ka mid ah.
-shooxo m.dh (-ooyin, m.l) Balli yar oo meel
-xaani ah ku yaal.
+
+shooxo m.dh (-ooyin, m.l) Balli yar oo meel xaani ah ku yaal.
+
 shoqfol m.dh ld shaqfal.
+
 show fk.we ld sow.
-showmadoonto m.dh Nooc ka mid ah
-mariidka oo si deg-deg ah neefka u dila,
-baadigoobkiisana aan loo dheeraan.
+
+showmadoonto m.dh Nooc ka mid ah mariidka oo si deg-deg ah neefka u dila, baadigoobkiisana aan loo dheeraan.
+
 showr¹ m.l ld shawr¹.
+
 showr² f.mg1 (-ray, -rtay) ld shawr².
+
 showrid m.f.dh eeg shawrid.
-shub¹ m.l 1. Dhis ka samaysan bir, ciid,
-quruurux iyo shamiinto isku dhafan oo isku
-qallalay. 2. Cayaar ka mid ah cayaaraha
-hiddaha iyo dhaqanka soomaaliyeed, leh jiib
-iyo jaan oo ragga iyo dumarku wada
-dheelan. 3. ld shubid.
-shub² f.g1 (-bay, -btay) 1. Hoore meel ku
-geddin. 2. Xoolo waraabin. 3. Lacag bangi
-dhigid. 4. Quruurux, ciid, shamiinto iwm
-dhismo ka samayn. 5. Bir iwm dhalaalin.
+
+shub¹ m.l 1. Dhis ka samaysan bir, ciid, quruurux iyo shamiinto isku dhafan oo isku qallalay. 2. Cayaar ka mid ah cayaaraha hiddaha iyo dhaqanka soomaaliyeed, leh jiib iyo jaan oo ragga iyo dumarku wada dheelan. 3. ld shubid.
+
+shub² f.g1 (-bay, -btay) 1. Hoore meel ku geddin. 2. Xoolo waraabin. 3. Lacag bangi dhigid. 4. Quruurux, ciid, shamiinto iwm dhismo ka samayn. 5. Bir iwm dhalaalin.
+
 shubaako m.dh ld shabaako.
-shubaal m.dh 1. Laxooxda balballaaran nooc
-ka mid ah oo macaan. 2. Shubidda ceel la
-shubo. 3. ld shubid.
-shuban¹ m.l Saxaro badan, jilicsan oo nafleyda
-qaarkeed gadaal ka dhigto.
-shuban² m.l (daaw.) Saxaro jilicsan ama biyo
-ah oo la dhigo si is daba joog ah. Waxa sabab
-u noqon kara xiidmaha oo bukooda
-(infekshan, kolaytis, iyo cudurka “crohn”),
-dheefdhuuqa oo xumaata, xaaladaha
-acsaabtu kacsantahay iwm. Shubanku haddii
-764
-uu dheeraado ama si daran u socdo wuxu
-keeni karaa: biyo aad u badan,cusbooyin iyo
-nafaqo kale oo jirka ka baxa.
-shuban³ f.mg1 (-bmay, -bantay; -bmi)
-1. Nafley wax shuban ku dhacay noqosho.
-2. Hoore wax la shubay noqosho.
-shuban4 f.mg4 (-bnaa, -bnayd) 1. Hoore wax
-la shubay ahaansho. 2. Xoolo wax la
-waraabshay ahaansho.
+
+shubaal m.dh 1. Laxooxda balballaaran nooc ka mid ah oo macaan. 2. Shubidda ceel la shubo. 3. ld shubid.
+
+shuban¹ m.l Saxaro badan, jilicsan oo nafleyda qaarkeed gadaal ka dhigto.
+
+shuban² m.l (daaw.) Saxaro jilicsan ama biyo ah oo la dhigo si is daba joog ah. Waxa sabab u noqon kara xiidmaha oo bukooda (infekshan, kolaytis, iyo cudurka “crohn”), dheefdhuuqa oo xumaata, xaaladaha acsaabtu kacsantahay iwm. Shubanku haddii uu dheeraado ama si daran u socdo wuxu keeni karaa: biyo aad u badan, cusbooyin iyo nafaqo kale oo jirka ka baxa.
+
+shuban³ f.mg1 (-bmay, -bantay; -bmi) 1. Nafley wax shuban ku dhacay noqosho. 2. Hoore wax la shubay noqosho.
+
+shuban4 f.mg4 (-bnaa, -bnayd) 1. Hoore wax la shubay ahaansho. 2. Xoolo wax la waraabshay ahaansho.
+
 shubasho m.f.dh eeg shubo.
-shubid m.f.dh eeg shub². ld shub¹, shubaal,
-shubniin.
+
+shubid m.f.dh eeg shub². ld shub¹, shubaal, shubniin.
+
 shubme m.l (-mayaal, m.l/dh) Hoore.
+
 shubmid m.f.dh eeg shuban³.
-shubnaan m.f.dh eeg shuban4. ld shub-
-naansho.
+
+shubnaan m.f.dh eeg shuban4. ld shub-naansho.
+
 shubnaansho m.l/dh ld shubnaan.
 shubniin m.l ld shubid.
 shubo f.g3 (-btay, -batay) 1. Hoore, badar
