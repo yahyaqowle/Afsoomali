@@ -6383,6 +6383,7 @@ mooyee qr. ld mooyaane.
 mooyiye qr. ld mooyaane.
 
 moqor m.l (-rro, m.dh) 1. Dalool yar oo jirridaha dhirta waaweyni yeelato oo kolkii biyaha roobku galaan dhuuno lagaga cabbo. 2. Dululaati hulan oo ku dhex jira jidh adag. ld maqoor.
+
 moqor-sambabeed m.l (-dyo, m.dh) Dhinaca naasleyda, qayb ka mid ah qaaxada (saabka) hore ee bogga, waxaana ku jira sambabada.
 
 moqorka-kalka-wadnaha m.l (c.nafl) Moqor uu ku yaallo wadnuhu. Dhinaca lafdhabarleyda waa qayb ka mid ah qaaxada oo ka soocan moqorka kalka ubucda.
@@ -6426,61 +6427,71 @@ motootixid m.dh ld mataatixid.
 motootixin m.dh ld mataatixin.
 
 mowd m.l ld mawd.mųdasho
-mowhibo m.dh (dii.) Hibo waxgarasho oo
-Eebbe ku manaysto dadka qaarkiis.
+
+mowhibo m.dh (dii.) Hibo waxgarasho oo Eebbe ku manaysto dadka qaarkiis.
+
 mowjad m.dh ld mawjad.
-mowlac m.l (-cyo, m.dh) (dii.) Meel yar oo
-lagu cibaadaysto oo Eebbe lagu baryo. ld
-mawlac.
+
+mowlac m.l (-cyo, m.dh) (dii.) Meel yar oo lagu cibaadaysto oo Eebbe lagu baryo. ld mawlac.
+
 mowle m.l ld mawle.
+
 mowliid m.l ld mawliid.
+
 mowluud m.l ld mawliid.
+
 mowqif m.l ld mawqif.
+
 mowti m.dh.u ld meyti.
+
 mowto m.dh.u ld meyti.
-moxog m.l 1. Dhabarka dadka intiisa hoose.
-2. ld moxoggo.
-moxoggo m.dh 1. (bot.) Geed la beero oo
-xididdo buruq waaweyn oo dhulka ku
-xabaalan, dad iyo duunyaba way cunaan, bur
-wanaagsanna waa laga sameeyaa. 2. ld
-moxog (2).
-moxor m.l (moxor, m.dh) Geedaha xijiga jaad
-ka mid ah oo beeyada dhala.
-moxorcad m.l Jaad ka mid ah geedaha
-moxorka ee beeyada cad dhala. ld
-moxorcadde.
+
+moxog m.l 1. Dhabarka dadka intiisa hoose. 2. ld moxoggo.
+
+moxoggo m.dh 1. (bot.) Geed la beero oo xididdo buruq waaweyn oo dhulka ku xabaalan, dad iyo duunyaba way cunaan, bur wanaagsanna waa laga sameeyaa. 2. ld moxog (2).
+
+moxor m.l (moxor, m.dh) Geedaha xijiga jaad ka mid ah oo beeyada dhala.
+
+moxorcad m.l Jaad ka mid ah geedaha moxorka ee beeyada cad dhala. ld moxorcadde.
+
 moxorcadde m.l ld moxorcad.
-moxorlo' m.l Nooc ka mid ah geedka moxor
-oo beeyo dhala.
+
+moxorlo' m.l Nooc ka mid ah geedka moxor oo beeyo dhala.
+
 moxormadoobe m.l ld moxormadow.
-moxormadow m.l Nooc ka mid ah geedka
-moxorka oo beeyo madow dhala. ld
-moxormadoobe.
+
+moxormadow m.l Nooc ka mid ah geedka moxorka oo beeyo madow dhala. ld moxormadoobe.
+
 moy m.l ld mooye (1).
-mu'aammarad m.l (-do, m.l) Dibindaabyo
-qarsoodi ah oo cid lagu waxyeellaynayo.
-mu'addin m.l (-nno/-mmo, m.dh) (dii.)
-Ninka masaajidka ka addima.
-mu'allif m.l (-fiin, m.dh) (riw.) Qof riwaayad
-iwm curiya.
-mu'asas m.l (-syo/-siin, m.dh) Fikrad urur
-aasaasta (cid).
-mubaax m.l.kh M. ah: fal aan samayntiisu
-dembi lahayn.
+
+mu'aammarad m.l (-do, m.l) Dibindaabyo qarsoodi ah oo cid lagu waxyeellaynayo.
+
+mu'addin m.l (-nno/-mmo, m.dh) (dii.) Ninka masaajidka ka addima.
+
+mu'allif m.l (-fiin, m.dh) (riw.) Qof riwaayad iwm curiya.
+
+mu'asas m.l (-syo/-siin, m.dh) Fikrad urur aasaasta (cid).
+
+mubaax m.l.kh M. ah: fal aan samayntiisu dembi lahayn.
+
 muc m.dh 1. Xudun. 2. Hadalka muxurkiisa.
+
 mucaahido m.dh (-ooyin, m.l) ld micaahado.
-mucaarad m.l (-dyo/-diin, m.dh) Cid fikrad
-liddi ku ah.
+
+mucaarad m.l (-dyo/-diin, m.dh) Cid fikrad liddi ku ah.
+
 mucaaradnimo m.dh Mucaarad ahaansho.
+
 mucaawinad m.dh ld macaawino.
+
 mucaawino m.dh ld macaawino.
+
 mucatab m.l Garab qodo.
-mucayin m.l.kh M. ah: wax la isla yaqaan ama
-la wada ogyahay.
-mucjiso m.dh (-ooyin, m.l) 1. Dhacdo aan
-horey loo arkin faliddeeduna aadanaha ku
-adagtahay. 2. Wax aad loola yaabo.
+
+mucayin m.l.kh M. ah: wax la isla yaqaan ama la wada ogyahay.
+
+mucjiso m.dh (-ooyin, m.l) 1. Dhacdo aan horey loo arkin faliddeeduna aadanaha ku adagtahay. 2. Wax aad loola yaabo.
+
 mucurteysan f.mg4 (-snaa, -snayd) U m.:
 wax, wax baahi weyn u qaba ahaansho. ld
 mucurtiyeysan.
