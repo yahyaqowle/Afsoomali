@@ -1139,126 +1139,114 @@ sakeysi m.l ld sakeysasho.
 sakeyso f.mg3 (-stay, -satay) Seko urursa-sho. ld sekeyso.
 
 sakhraami f.g2 (-iyay, -isay) Cid sakhraan ka dhigid.
+
 sakhraamid m.f.dh eeg sakhraan².
-sakhraamin m.f.dh eeg sakhraami. ld
-sakhraamis.
+
+sakhraamin m.f.dh eeg sakhraami. ld sakhraamis.
+
 sakhraamis m.l ld sakhraamin.
-sakhraan¹ m.l (-aamiin, m.dh) Qof khamro ka
-dhergey oo sakhradi hayso oo aan ogayn
-waxa uu samaynayo. ld sarqaan.
-sakhraan² f.mg1 (-aamay, -aantay; -aami)
-Qof wax sakhradi hayso noqosho.
+
+sakhraan¹ m.l (-aamiin, m.dh) Qof khamro ka dhergey oo sakhradi hayso oo aan ogayn waxa uu samaynayo. ld sarqaan.
+
+sakhraan² f.mg1 (-aamay, -aantay; -aami) Qof wax sakhradi hayso noqosho.
+
 sakhraannimo m.dh Sakhraan ahaansho.
-sakhraansan f.mg4 (-naa, -nayd) Qof wax
-sakhradi hayso noqosho. ld sakhradeysan.
-sakhraansanaan m.f.dh eeg sakhraansaan. ld
-sakhraansanaansho, sakhradeysnaan.
-sakhraansanaansho m.l/dh ld sakhraan-
-sanaan.
-sakhrad m.dh (-do, m.l) Miyir la'aanta ku
-dhacda qof khamro ka dhergey.
-sakhradeysan f.mg4 (-snaa, -snayd) ld
-sakhraansan.
+
+sakhraansan f.mg4 (-naa, -nayd) Qof wax sakhradi hayso noqosho. ld sakhradeysan.
+
+sakhraansanaan m.f.dh eeg sakhraansaan. ld sakhraansanaansho, sakhradeysnaan.
+
+sakhraansanaansho m.l/dh ld sakhraan-sanaan.
+
+sakhrad m.dh (-do, m.l) Miyir la'aanta ku dhacda qof khamro ka dhergey.
+
+sakhradeysan f.mg4 (-snaa, -snayd) ld sakhraansan.
+
 sakhradeysnaan m.dh ld sakhraansanaan.
+
 sakhradeysnaansho m.l/dh ld sakhraas-naan.
-sakiin m.dh (-no, m.l) Bir yar oo xalleefsan
-labada dhinacna af ku leh oo timaha lagu
-xiiro. ld sikiin.
-sakiino m.dh Nooc ka mid ah siyaabaha
-turubka loo ciyaaro.
+
+sakiin m.dh (-no, m.l) Bir yar oo xalleefsan labada dhinacna af ku leh oo timaha lagu xiiro. ld sikiin.
+
+sakiino m.dh Nooc ka mid ah siyaabaha turubka loo ciyaaro.
+
 sakiir m.dh (-ro, m.dh) ld sakiiro.
-sakiiro m.l 1. Iin lugaha dadka gasha oo jilbaha
-isu soo dhoweysa. 2. Nabar ka dhasha shafka
-iyo jeeniga geelu markay is xoqaan. ld sakiir,
-sikiir, sikiiro.
-sako m.dh (-ooyin, m.l) 1. Saddaqo maalka
-iyo xoolaha ku waajibta oo sanad walba laga
-bixiyo. 2. Bilaha dayaxa oo muslinku tirsado,
-bisha ugu horreysa oo xoolaha saddaqo ku
-waajibta laga bixiyo dago. ld seko.
-sal habdhis tirooyin m.l Sal tiro.
-sal logardam m.l (-lal ..., m.l) Tirada
-jibbaarkeedu la midka yahay logardamka
-tirada. Haddii logardamka x ee sal b (loo
-qoro logb x) yahay y, marka; b y = x . Salka
-logardamka caadiga ah waa 10.
-sal¹ m.l (-lal, m.l) 1. Jirrid, gun. 2. Marka la
-fadhiyo meesha dhulka la dhigo, bari.
-sal² m.l (-lal, m.l) 1. (nax.) Qaybta ereyga ee
-aan laga sii yarayn karin, kaddib marka laga
-gooyo dibkabayaasha, dhammaadyada iwm
-waa qaybta xambaaarsan micnaha aasaasiga
-ah ee ereyga (tus.: cun, fur, bar). 2. (xis.)
-733sal³
-Dhinaca hoose ee shaxan sallax ah ama
-wejiga hoose ee shaxan adke ah.
-sal³ f.g1 (-alay, -ashay) 1. Hilib saafid. 2. Biyo
-ku oon beelid. ld sol.
-salaad m.dh 1. Subixii aroorta hore. 2. (-do,
-m.l) Baryo ka kooban wax afka laga akhriyo
-iyo addimada laga falo oo waqti la yaqaan
-muslinku oogaan; tukasho.
-salaaf¹ m.dh Dabeecad fudayd ku jiro oo
-badanaa keenta in la sameeyo falal aan laga
-fiirsan.
-salaaf² f.mg1 (-fay, -ftay) Neef xoolaad
-liidasho.
+
+sakiiro m.l 1. Iin lugaha dadka gasha oo jilbaha isu soo dhoweysa. 2. Nabar ka dhasha shafka iyo jeeniga geelu markay is xoqaan. ld sakiir, sikiir, sikiiro.
+
+sako m.dh (-ooyin, m.l) 1. Saddaqo maalka iyo xoolaha ku waajibta oo sanad walba laga bixiyo. 2. Bilaha dayaxa oo muslinku tirsado, bisha ugu horreysa oo xoolaha saddaqo ku waajibta laga bixiyo dago. ld seko.
+
+sal-habdhis-tirooyin m.l Sal tiro.
+
+sal-logardam m.l (-lal ..., m.l) Tirada jibbaarkeedu la midka yahay logardamka tirada. Haddii logardamka x ee sal b (loo qoro logb x) yahay y, marka; b y = x . Salka logardamka caadiga ah waa 10.
+
+sal¹ m.l (-lal, m.l) 1. Jirrid, gun. 2. Marka la fadhiyo meesha dhulka la dhigo, bari.
+
+sal² m.l (-lal, m.l) 1. (nax.) Qaybta ereyga ee aan laga sii yarayn karin, kaddib marka laga gooyo dibkabayaasha, dhammaadyada iwm waa qaybta xambaaarsan micnaha aasaasiga ah ee ereyga (tus.: cun, fur, bar). 2. (xis.) Dhinaca hoose ee shaxan sallax ah ama wejiga hoose ee shaxan adke ah.
+
+sal³ f.g1 (-alay, -ashay) 1. Hilib saafid. 2. Biyo ku oon beelid. ld sol.
+
+salaad m.dh 1. Subixii aroorta hore. 2. (-do, m.l) Baryo ka kooban wax afka laga akhriyo iyo addimada laga falo oo waqti la yaqaan muslinku oogaan; tukasho.
+
+salaaf¹ m.dh Dabeecad fudayd ku jiro oo badanaa keenta in la sameeyo falal aan laga fiirsan.
+
+salaaf² f.mg1 (-fay, -ftay) Neef xoolaad liidasho.
+
 salaafid m.f.dh eeg salaaf².
-salaama e.d Erey duco ah oo ka dhigan: “nabad
-gal!”; nabaaddiino. ld salaamad.
-salaamaco
-m.dh
-Geed
-dhererkiisu
-dhexdhexaad yahay oo laamo jiljilicsan oo
-aan jebin iyo qodax yaryar leh. ld saleelmac.
+
+salaama e.d Erey duco ah oo ka dhigan: “nabad gal!”; nabaaddiino. ld salaamad.
+
+salaamaco m.dh Geed dhererkiisu dhexdhexaad yahay oo laamo jiljilicsan oo aan jebin iyo qodax yaryar leh. ld saleelmac.
+
 salaamad e.d ld salaama.
+
 salaamid m.f.dh eeg salaan².
-salaan¹ m.dh 1. Ereyo laysu jeediyo ama
-gacanta oo si gaar ah laysugu taago marka
-laysu yimaad ama la kala tegayo, iyadoo
-laysu muujinayo kalgacal. 2. Bartanka wejiga
-fardaha, lo'da iwm.
-salaan² f.g1 (-aamay, -aantay; -aami) Cid
-salaan u jeedin.
+
+salaan¹ m.dh 1. Ereyo laysu jeediyo ama gacanta oo si gaar ah laysugu taago marka laysu yimaad ama la kala tegayo, iyadoo laysu muujinayo kalgacal. 2. Bartanka wejiga fardaha, lo'da iwm.
+
+salaan² f.g1 (-aamay, -aantay; -aami) Cid salaan u jeedin.
+
 salaasa m.dh ld talaado.
-salaatulqasri m.l Salaadda oo la soo gaabiyo
-waqtiyada lagu jiro safarrada dhaadheer oo
-aan la istaageyn. ld sallaatulqasri.
-salaax¹ m.l 1. Wax wanaagsan. 2. Sacabka oo si
-dabacsan wax loo kor mariyo. 3. Dhismo
-dhammaaday oo dusha laga simay. 4. S. ah:
-dhulbeereed aan geedo lahayn oo muddo la
-beerayey.
-salaax² f.g1 (-xay, -xday) 1. Wax xoo-daamin.
-2. Derbi la dhisay dusha ka simid.
-salaaxan f.mg4 (-xnaa, -xnayd) Wax la
-salaaxay ahaansho.
+
+salaatulqasri m.l Salaadda oo la soo gaabiyo waqtiyada lagu jiro safarrada dhaadheer oo aan la istaageyn. ld sallaatulqasri.
+
+salaax¹ m.l 1. Wax wanaagsan. 2. Sacabka oo si dabacsan wax loo kor mariyo. 3. Dhismo dhammaaday oo dusha laga simay. 4. S. ah: dhulbeereed aan geedo lahayn oo muddo la beerayey.
+
+salaax² f.g1 (-xay, -xday) 1. Wax xoo-daamin. 2. Derbi la dhisay dusha ka simid.
+
+salaaxan f.mg4 (-xnaa, -xnayd) Wax la salaaxay ahaansho.
+
 salaaxid m.f.dh eeg salaax².
-salaaxnaan m.f.dh eeg salaaxan. ld salaax-
-naansho.
+
+salaaxnaan m.f.dh eeg salaaxan. ld salaax-naansho.
+
 salaaxnaansho m.l/dh ld salaaxnaan.
+
 salab m.l.u Qalabka lagu dagaallamo; hub.
+
 salabayn m.f.dh eeg salabee.
-salabee f.g2 (-beeyay, -baysay) 1. Cid hubayn.
-2 Wax xaaqid. 3. Wax galayn.
-salabo m.dh (-ooyin, m.l) Nooc xaaqimada ka
-mid ah oo madaxiisu ulo dhuudhuuban ka
-samaysan yahay.
-salal¹ m.l Naxdin iyo argagax hurdada lagala
-soo boodo. ld selel¹.
-734
-salal² f.mg1 (-alay, -ashay) Naxdin iyo argagax
-hurdo kala soo boodid. ld selel².
-salali f.g2 (-iyay, -isay) Qof hurda selel ku
-ridid. ld seleli.
+
+salabee f.g2 (-beeyay, -baysay) 1. Cid hubayn. 2 Wax xaaqid. 3. Wax galayn.
+
+salabo m.dh (-ooyin, m.l) Nooc xaaqimada ka mid ah oo madaxiisu ulo dhuudhuuban ka samaysan yahay.
+
+salal¹ m.l Naxdin iyo argagax hurdada lagala soo boodo. ld selel¹.
+
+salal² f.mg1 (-alay, -ashay) Naxdin iyo argagax hurdo kala soo boodid. ld selel².
+
+salali f.g2 (-iyay, -isay) Qof hurda selel ku ridid. ld seleli.
+
 salalid m.f.dh eeg salal². ld selelid.
+
 salalin m.f.dh eeg salali. ld selelin.
+
 salalsan f.mg4 (-naa, -nayd) ld selelsan.
+
 salalsanaan m.dh ld selelsanaan.
+
 salalsanaansho m.l/dh ld selelsanaan.
-salammadle m.l (-layaal, m.l/dh) Shimbir
-Afrika ku nool oo aad u xoog badan, luqun
+
+salammadle m.l (-layaal, m.l/dh) Shimbir Afrika ku nool oo aad u xoog badan, luqun
 iyo lugo dhaadheerna leh oo dusha ka
 madow hoostana ka cad oo cunaha hoos-tisa
 ku leh kiish dheer oo uu cuntada ku
