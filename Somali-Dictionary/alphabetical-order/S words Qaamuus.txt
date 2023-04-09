@@ -238,53 +238,53 @@ saami³ f.g1 (-iyay, -iday; -iyi) Wax sida loo kala leeyahay u qaybin.
 
 saamiggal m.l (-llo, m.dh) (xis.) Isgarabdhigidda laba ama dhawr saami. Haddii, tusaale ahaan, a, b, c ay yihiin saddex tiro oo ay a:b:c = 2:3:5, warkaa a/2, b/3, c/5 waxa la yiraahdaa waxa ay saamiggal u yihiin 2, 3, 5, xiriirkuna waxa loo muujinkaraa a=b=c. Sidaa oo kale, waxa aan oran karna a:b = 2:3, b:c = 3:5, iyo a:c = 2:5.
 
-saamile m.l (-layaal, m.l/dh) Qof dad badan
-wax ka dhexeeya saami ku leh. ld sahmile.
-saamiley m.dh Naag wax dad badan ka
-dhexeeya saami ku leh.
-saamisuge m.l (-gayaal, m.l/dh) 1. Qof meel
-xoolo lagu saanyanayo yimid oo in wax la
-siiyo sugaya. 2. Qof mashaqayste ah oo mar
-walba in wax la taro sugaya.
+saamile m.l (-layaal, m.l/dh) Qof dad badan wax ka dhexeeya saami ku leh. ld sahmile.
+
+saamiley m.dh Naag wax dad badan ka dhexeeya saami ku leh.
+
+saamisuge m.l (-gayaal, m.l/dh) 1. Qof meel xoolo lagu saanyanayo yimid oo in wax la siiyo sugaya. 2. Qof mashaqayste ah oo mar walba in wax la taro sugaya.
+
 saamixid m.f.dh eeg saamax².
+
 saamiyid m.f.dh eeg saami². ld saanyid.
-saan m.dh (-aamo, m.l) 1. Harag xoolaad siiba
-kan geela iyo lo'da. 2. Tillaabo. 3. Raad.
-saanac m.l (-cyo/-ciin, m.dh) Qof farsamo
-yaqaan ah.
-saanad m.dh.u (-do, m.dh) Xabbadaha
-buntuqa laga rido oo lagu dagaalamo; ra-
-saas.
+
+saan m.dh (-aamo, m.l) 1. Harag xoolaad siiba kan geela iyo lo'da. 2. Tillaabo. 3. Raad.
+
+saanac m.l (-cyo/-ciin, m.dh) Qof farsamo yaqaan ah.
+
+saanad m.dh.u (-do, m.dh) Xabbadaha buntuqa laga rido oo lagu dagaalamo; ra-saas.
+
 saanahasho m.f.dh eeg saanaho.
-saanaho f.g3 (-hday, -hatay) 1. Qof balaayo
-dhaxalsiin. 2. Qof uurka cadaawad ugu
-hayn.
-saancad m.l/dh (-dyo, m.dh) ld saancaddaale;
-saancaddo.
-saancaddaale m.l (-layaal, m.l/dh) Qof nasiib
-xun (tag xun); bacaw. ld saancad (1).
+
+saanaho f.g3 (-hday, -hatay) 1. Qof balaayo dhaxalsiin. 2. Qof uurka cadaawad ugu hayn.
+
+saancad m.l/dh (-dyo, m.dh) ld saancaddaale; saancaddo.
+
+saancaddaale m.l (-layaal, m.l/dh) Qof nasiib xun (tag xun); bacaw. ld saancad (1).
+
 saancadde m.l 1. Qof cago cad. 2. Qumay.
-saancaddo m.dh Tagxumo; nasiibdarro. ld
-saancad (2).
+
+saancaddo m.dh Tagxumo; nasiibdarro. ld saancad (2).
+
 saandambayn m.f.dh eeg saandambee.
-saandambee f.mg2 (-beeyay, -baysey)
-1. Tallaabo gaabin. 2. Ka s.: cid lala socday
-in yar dib uga harid.
-saandambeedi f.mg2 (-iyay, -isay) Dib u
-harid.
+
+saandambee f.mg2 (-beeyay, -baysey) 1. Tallaabo gaabin. 2. Ka s.: cid lala socday in yar dib uga harid.
+
+saandambeedi f.mg2 (-iyay, -isay) Dib u harid.
+
 saandambeedin m.f.dh eeg saandambeedi.
-saangaman f.mg4 (-mnaa, -mnayd) ld
-saangan¹.
+
+saangaman f.mg4 (-mnaa, -mnayd) ld saangan¹.
+
 saangamid m.f.dh eeg saangan¹.
+
 saangamnaan m.f.dh ld saangannaan.
+
 saangamnaansho m.l/dh ld saangamnaan.
-saangan¹ f.g1 (-gamay, -gantay; -gmi) Qof
-sixir uu kaga cararo meel uu joogay ku
-samayn.
-725saangan²
-saangan² f.mg4 (-naa, -nayd) Wax sixir ka
-dheereeya meeshii uu joogay lagu sameeyey
-ahaansho.
+
+saangan¹ f.g1 (-gamay, -gantay; -gmi) Qof sixir uu kaga cararo meel uu joogay ku samayn.
+
+saangan² f.mg4 (-naa, -nayd) Wax sixir ka dheereeya meeshii uu joogay lagu sameeyey ahaansho.
 saangannaan m.f.dh eeg saangan². ld saan-
 gamnaan, saangaamnaansho, saangan-
 naansho.
