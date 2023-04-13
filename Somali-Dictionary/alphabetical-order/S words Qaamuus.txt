@@ -1591,10 +1591,11 @@ samboor³ f.mg1 (-ray, -rtay) Samboor qaadid.
 samboorid m.f.dh eeg samboor³.
 
 sambuuq¹ m.l (-qyo, m.dh) Doonta yar.
+
 sambuuq² m.dh (-qyo, m.dh) ld sambuuqo.
-737sambuuqo
-sambuuqo m.dh Sanka xoolaha intiisa hore oo
-jilicsan. ld sambuuq².
+
+sambuuqo m.dh Sanka xoolaha intiisa hore oo jilicsan. ld sambuuq².
+
 sambuus m.l ld sambuusi.
 sambuuse m.l ld sambuusi.
 sambuusi m.l 1. Bur saddex gees leh oo hilib
