@@ -1526,43 +1526,46 @@ saman m.l (-nno, m.dh) Wąa, jeer, goor. ld saben, semen.
 
 samar f.mg1 (-mray, -martay) ld sabar².
 
-samatabbax¹ m.l Ka nabad gelidda halis iyo
-cabsi laga nabad galo. ld sabatabbax¹.
-samatabbax² f.mg1 (-xay, -xday; -bixi)
-1. Wax halis ah ka nabad gelin. 2. Wax halis
-ah ka nabad gelid. ld sabatabbax².
-samatabbixi f.g2 (-iyay, -isay) Cid halis ah ka
-badbaadin. ld sabatabbixi.
-samatabbixid m.f.dh eeg samatabbax². ld
-sabatabbixid.
-samatabbixin m.f.dh eeg samatabbixi. ld
-sabatabixin.
-samawade m.l (-dayaal, m.l/dh) Qof wanaagga
-iyo samaanta jecel oo bulshada dhexdeeda ku
-baahiya.
+samatabbax¹ m.l Ka nabad gelidda halis iyo cabsi laga nabad galo. ld sabatabbax¹.
+
+samatabbax² f.mg1 (-xay, -xday; -bixi) 1. Wax halis ah ka nabad gelin. 2. Wax halis ah ka nabad gelid. ld sabatabbax².
+
+samatabbixi f.g2 (-iyay, -isay) Cid halis ah ka badbaadin. ld sabatabbixi.
+
+samatabbixid m.f.dh eeg samatabbax². ld sabatabbixid.
+
+samatabbixin m.f.dh eeg samatabbixi. ld sabatabixin.
+
+samawade m.l (-dayaal, m.l/dh) Qof wanaagga iyo samaanta jecel oo bulshada dhexdeeda ku baahiya.
+
 samay m.dh ld samayo.
+
 samayn¹ m.f.dh eeg samee. ld samays.
-samayn² m.dh (kiim.) Macmalid: diyaarinta
-iskudhisyo kiimikaad iyaga oo laga
-ambaqaadayo iskudhisyo fudud.
-samayo m.dh (-ooyin, ml.) 1. Usha waranka.
-2. Ul dheer oo toosan. ld samay.
-samays m.l (-syo, m.dh) 1. Nooc dermooyin-
-ka ka mid ah. 2. ld samayn¹.
+
+samayn² m.dh (kiim.) Macmalid: diyaarinta iskudhisyo kiimikaad iyaga oo laga ambaqaadayo iskudhisyo fudud.
+
+samayo m.dh (-ooyin, ml.) 1. Usha waranka. 2. Ul dheer oo toosan. ld samay.
+
+samays m.l (-syo, m.dh) 1. Nooc dermooyin-ka ka mid ah. 2. ld samayn¹.
+
 samaysad m.l ld samaysasho.
-samaysan¹ f.mg1 (-smay, -santay; -smi) Wax
-la sameeyey noqosho.
-samaysan² f.mg4 (-snaa, -snayd) Wax la
-sameeyey ahaansho.
-samaysanka dhiska jidhka m.l (baay.)
-Horumar ku yimaadda koritaanka ama
-saamiyeynta qaabka iyo dhismaha noolaha.
+
+samaysan¹ f.mg1 (-smay, -santay; -smi) Wax la sameeyey noqosho.
+
+samaysan² f.mg4 (-snaa, -snayd) Wax la sameeyey ahaansho.
+
+samaysanka-dhiska-jidhka m.l (baay.) Horumar ku yimaadda koritaanka ama saamiyeynta qaabka iyo dhismaha noolaha.
+
 samaysasho m.f.dh eeg samayso. ld samaysad.
+
 samaysmid m.f.dh eeg samaysan¹.
-samaysnaan m.f.dh eeg samaysan². ld samays-
-naansho.
+
+samaysnaan m.f.dh eeg samaysan². ld samays-naansho.
+
 samaysnaansho m.l/dh ld samaysnaan.
+
 samayso f.g3 (-stay, -satay) Wax hagaagsasho.
+
 sambab¹ m.l (-bbo, m.dh) 1. (-bbo, m.dh)
 Xubinta jirka ka mid ah oo neefta gesho
 kana soo baxdo. 2. Cudur xun oo
