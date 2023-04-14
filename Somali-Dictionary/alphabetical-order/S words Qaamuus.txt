@@ -2345,184 +2345,183 @@ sawir² f.g1 (-ray, -rtay) Gacan ama aalad wax suuraddooda ku muujin.
 sawiran¹ f.mg1 (-rmay, -rantay) Wax la sawiray noqosho.
 
 sawiran² f.mg4 (-rnaa, -rnayd) Wax la sawiray ahaansho.
+
 sawirid m.f.dh eeg sawir².
-sawirle m.l (-layaal, m.l/dh) Qof aaladda wax
-sawirta ku shaqeeya oo aqoon u leh.
+
+sawirle m.l (-layaal, m.l/dh) Qof aaladda wax sawirta ku shaqeeya oo aqoon u leh.
+
 sawirmid m.f.dh eeg sawiran¹.
-sawirnaan m.f.dh eeg sawiran². ld sawir-
-naansho.
+
+sawirnaan m.f.dh eeg sawiran². ld sawir-naansho.
+
 sawirnaansho m.l/dh ld sawirnaan.
+
 sawirnimo m.dh Sawir ahaansho.
-sawjar m.l (-rro, m.dh) Askeri caddaan ah oo
-aan derejo lahayn. ld sowjar.
-sawjarnimo m.dh Askeri ahaansho. ld
-sowjarnimo.
-744
-sawlac¹ m.l Heerka bislaanshaha miraha ee ka
-horreeya qallaylka.
-sawlac² f.mg1 (-cay, -cday) Heerka bislaan-
-shaha miraha ee qallaylka ka horreeya gaarid.
+
+sawjar m.l (-rro, m.dh) Askeri caddaan ah oo aan derejo lahayn. ld sowjar.
+
+sawjarnimo m.dh Askeri ahaansho. ld sowjarnimo.
+
+sawlac¹ m.l Heerka bislaanshaha miraha ee ka horreeya qallaylka.
+
+sawlac² f.mg1 (-cay, -cday) Heerka bislaan- shaha miraha ee qallaylka ka horreeya gaarid.
+
 sawlacid m.f.dh eeg sawlac².
-sawlacsan f.mg4 (-naa, -naayd) Wax sawlac
-gaaray ahaansho (miro).
-sawlacsanaan m.f.dh eeg sawlacsan. ld saw-
-lacsanaansho
+
+sawlacsan f.mg4 (-naa, -naayd) Wax sawlac gaaray ahaansho (miro).
+
+sawlacsanaan m.f.dh eeg sawlacsan. ld saw-lacsanaansho
+
 sawlacsanaansho m.l/dh ld sawlacsanaan
+
 sawlax¹ m.l Weyrax.
+
 sawlax² f.mg1 (-xay, -xday) Weyrixid.
+
 sawlaxid m.f.dh eeg sawlax².
-sawo m.dh.kh S. ah: isku mid ah oo aan wax is
-dheereyn.
-sawrac m.l.u (-cyo, m.dh) Meesha laga soo
-farcamay.
+
+sawo m.dh.kh S. ah: isku mid ah oo aan wax is dheereyn.
+
+sawrac m.l.u (-cyo, m.dh) Meesha laga soo farcamay.
+
 sax¹ m.l.kh S. ah: wax aan qalad ahayn.
+
 sax² f.g1 (-xay, -xday) Wax qalad ka bixin.
+
 saxaab m.l (-byo, m.dh) Daruur.
-saxaafad m.dh Habka, aqoonta iyo farsama-da
-loo isticmaalo war lagu baahinayo jara'-id.
-saxaarad m.dh (-do, m.l) Santuuq weyn oo
-alwaax ka samaysan oo wax lagu rito. ld
-seexaarad.
-saxaax m.l (-xyo, m.dh) Xubnaha taranka iyo
-meesha ay ku yaallaan.
+
+saxaafad m.dh Habka, aqoonta iyo farsama-da loo isticmaalo war lagu baahinayo jara'-id.
+
+saxaarad m.dh (-do, m.l) Santuuq weyn oo alwaax ka samaysan oo wax lagu rito. ld seexaarad.
+
+saxaax m.l (-xyo, m.dh) Xubnaha taranka iyo meesha ay ku yaallaan.
+
 saxad m.l ld saxasho.
-saxafi m.l Qof aqoon u leh cilmiga saxaafadda.
-ld suxufi.
-saxal m.l 1. Meeraha u dhexeeya dhulka iyo
-Mariiqa; raage.2. Waqti dhibaato badan oo
-qof mushkilaysanyahay. Tus. “Cali saxal baa
-haya”. 3. S. ah: qof nasiib daran oo la
-karahsado.
-saxan¹ m.l (-nno/suxuun, m.dh) 1. Weel
-dhoob ama macdan iwm ka samaysan oo
-yara godan cuntadana lagu cuno. 2. Shay
-yar, fidsan, wareegsan oo heeso iwm ku
-duubanyihiin. ld sixni.
-saxan² m.l (jool.) Bedka guud ee biyo shubka u
-ah webi iyo laagihiis.
-saxan³ f.mg4 (-xnaa, -xnayd) Wax la saxay
-ahaansho.
-saxansaxo m.dh Neecaw qabow, udgoon oo
-roob soo hooray ka soo hormarta.
-saxar m.l (-rro, m.dh) Cad qori, caws ama wax
-kale ka soo jabay, aad u yar oo dabayshu
-qaadi karto; firo.
-saxariir¹ m.dh Dhibaato aad u badan; silic;
-rafaad.
-saxariir² f.mg1 (-ray, -rtay) Dhibaato weyn la
-kulmid.
-saxariiri f.g2 (-iyay, -isay) Cid dhibaato weyn
-gaarsiin.saymo
+
+saxafi m.l Qof aqoon u leh cilmiga saxaafadda. ld suxufi.
+
+saxal m.l 1. Meeraha u dhexeeya dhulka iyo Mariiqa; raage.2. Waqti dhibaato badan oo qof mushkilaysanyahay. Tus. “Cali saxal baa haya”. 3. S. ah: qof nasiib daran oo la karahsado.
+
+saxan¹ m.l (-nno/suxuun, m.dh) 1. Weel dhoob ama macdan iwm ka samaysan oo yara godan cuntadana lagu cuno. 2. Shay yar, fidsan, wareegsan oo heeso iwm ku duubanyihiin. ld sixni.
+
+saxan² m.l (jool.) Bedka guud ee biyo shubka u ah webi iyo laagihiis.
+
+saxan³ f.mg4 (-xnaa, -xnayd) Wax la saxay ahaansho.
+
+saxansaxo m.dh Neecaw qabow, udgoon oo roob soo hooray ka soo hormarta.
+
+saxar m.l (-rro, m.dh) Cad qori, caws ama wax kale ka soo jabay, aad u yar oo dabayshu qaadi karto; firo.
+
+saxariir¹ m.dh Dhibaato aad u badan; silic; rafaad.
+
+saxariir² f.mg1 (-ray, -rtay) Dhibaato weyn la kulmid.
+
+saxariiri f.g2 (-iyay, -isay) Cid dhibaato weyn gaarsiin.
+
 saxariirid m.f.dh eeg saxariir².
+
 saxariirin m.f.dh eeg saxariiri.
-saxariirsan f.mg4 (-naa, -nayd) Nafley wax
-dhibaato hayso ahaansho.
-saxariirsanaan m.f.dh eeg saxariirsan. ld
-saxariirsanaansho.
+
+saxariirsan f.mg4 (-naa, -nayd) Nafley wax dhibaato hayso ahaansho.
+
+saxariirsanaan m.f.dh eeg saxariirsan. ld saxariirsanaansho.
+
 saxariirsanaansho m.l/dh ld saxariirsa-naan.
-saxarka Alfa m.l (-rada ..., m.dh) (kiim.)
-Bu'da heliyam oo ay bixisay bu' weyn oo uu
-ku dhaca mataatax kaahfaleed. S. a. ma laha
-tamar socod badan, waxaana markiiba
-nuugta hawada.
-saxaro m.dh Cuntada dadku cuno inteeda
-oogadu nacdo oo ka soo baxda futada; xaar.
+
+saxarka Alfa m.l (-rada ..., m.dh) (kiim.) Bu'da heliyam oo ay bixisay bu' weyn oo uu ku dhaca mataatax kaahfaleed. S. a. ma laha tamar socod badan, waxaana markiiba nuugta hawada.
+
+saxaro m.dh Cuntada dadku cuno inteeda oogadu nacdo oo ka soo baxda futada; xaar.
+
 saxaroo f.mg3 (-ooday, -ootay) Saxaro dhigid.
+
 saxarood m.f.l eeg saxaroo.
-saxar-qaad m.l (-dyo, m.dh) (c.cimi.) Duufaan
-bus fara badan ka buuxisa gibilka taas oo
-aragga si la taaban karo u yaraysa, mararka
-qaarkoodna waxaaba uu gaaraa araaggu ilaa
-iyo eber.
-saxar-saleed m.l (-dyo, m.dh) (c.fal) Magac
-guud oo ay wadaagaan dhammaan saxar-
-rada uu maatarku ka kooban yahay ee aan
-loo sii kala jabin saxarro ka sii yar.
+
+saxar-qaad m.l (-dyo, m.dh) (c.cimi.) Duufaan bus fara badan ka buuxisa gibilka taas oo aragga si la taaban karo u yaraysa, mararka qaarkoodna waxaaba uu gaaraa araaggu ilaa iyo eber.
+
+saxar-saleed m.l (-dyo, m.dh) (c.fal) Magac guud oo ay wadaagaan dhammaan saxar-rada uu maatarku ka kooban yahay ee aan loo sii kala jabin saxarro ka sii yar.
+
 saxartir f.g1 (-ray, -rtay) Wax aad u nadiifin.
+
 saxartirid m.f.dh eeg saxartir.
-saxasho m.f.dh eeg saxo. ld saxad, sixad,
-sixasho.
+
+saxasho m.f.dh eeg saxo. ld saxad, sixad, sixasho.
+
 saxid m.f.dh eeg sax². ld saxniin, sixid.
-saxiimad m.dh (-do, m.l) Badan weyn oo si
-gaar ah loo sameeyey, matoor lehoo
-maraakiibta wax loogu geeyo loogana soo
-qaado. ld sixiimad.
-saxiix¹ m.l (-xyo, m.dh) Qoraal la
-sharciyeynayo oo magac dhan ama la
-gaabiyey hoosta looga dhigo.
-saxiix² f.g1 (-xay, -xday) Qoraal la
-sharciyeynayo, magac dhan ama la soo
-gaabiyey hoosta uga qorid.
-saxiixan f.mg4 (-xnaa, -xnayd) Wax la saxiixay
-ahaansho.
+
+saxiimad m.dh (-do, m.l) Badan weyn oo si gaar ah loo sameeyey, matoor lehoo maraakiibta wax loogu geeyo loogana soo qaado. ld sixiimad.
+
+saxiix¹ m.l (-xyo, m.dh) Qoraal la sharciyeynayo oo magac dhan ama la gaabiyey hoosta looga dhigo.
+
+saxiix² f.g1 (-xay, -xday) Qoraal la sharciyeynayo, magac dhan ama la soo gaabiyey hoosta uga qorid.
+
+saxiixan f.mg4 (-xnaa, -xnayd) Wax la saxiixay ahaansho.
+
 saxiixasho m.f.dh eeg saxiixo.
+
 saxiixid m.f.dh eeg saxiix².
-saxiixnaan m.f.dh eeg saxiixan. ld saxiix-
-naansho.
+
+saxiixnaan m.f.dh eeg saxiixan. ld saxiix-naansho.
+
 saxiixnaansho m.l/dh ld saxiixnaan.
-saxiixo f.g3 (-xday, -xatay) Qoraal la
-sharciyeynayo, hoosta magac la gaabiyey ama
-kaamil ah uga qorasho.
+
+saxiixo f.g3 (-xday, -xatay) Qoraal la sharciyeynayo, hoosta magac la gaabiyey ama kaamil ah uga qorasho.
+
 saxnaan m.f.dh eeg saxan². ld saxnaansho.
+
 saxnaansho m.l/dh ld saxnaan.
+
 saxniin m.l ld saxid.
-saxo¹ m.dh Xaaladda uu ku sugan yahay jir aan
-cudur hayn. ld sixo¹.
-saxo² f.g/mg3 (-xday, -xatay) 1. (f.g) Wax sax
-ka dhigasho. 2. (f.mg) Wax la liqay oo
-hunguriga cad aaday ku qufacid. ld sixo².
-say¹ m.l (-yo, m.dh) Wax naag ninka qabaa u
-yahay.
+
+saxo¹ m.dh Xaaladda uu ku sugan yahay jir aan cudur hayn. ld sixo¹.
+
+saxo² f.g/mg3 (-xday, -xatay) 1. (f.g) Wax sax ka dhigasho. 2. (f.mg) Wax la liqay oo hunguriga cad aaday ku qufacid. ld sixo².
+
+say¹ m.l (-yo, m.dh) Wax naag ninka qabaa u yahay.
+
 say² f.g1 (-yay, -yday) Wax isku garab safid.
-sayaaq m.l (-qiin/-qyo, m.dh) Qof ka shaqeeya
-farsamaynta dahabka, qalinka iwm.
-sayanooko-baalamin m.dh (daaw.) Madoo-
-baashada maqaarka iyo xuubabka daboola
-daloolalada jirka: indhaha, afka, futada, siilka
-iwm. Waxaana keena oksijiinka oo ku
-yaraada dhiigga.
-sayax¹ m.l 1. Qoyaanka gabaddanadu keento;
-dharab. 2. ld sayaxid.
-sayax² m.l (-xyo, m.dh) (juqr.) Dhammaadka
-fud baraf, kolka herkulku kor uga kaco barta
-biyuhu ku fadhiistaan, barafkuna uu
-biyoobo. Loolalka sare sayaxu waa dhacdo
-sanadeed muhimad weyn leh, oo dhaca gu'
-walba, waxana ku xiga milmidda barafka iyo
-ado-barafeedka iyo wabiyada.
-sayax³ f.mg1 (-xay, -xday) Wax gabaddano ku
-qoyid.
-sayaxe m.l (-xayaal, m.l/dh) (fiis.) Walax ka
-nuugi karta biyaha atomosfiyeerka.
+
+sayaaq m.l (-qiin/-qyo, m.dh) Qof ka shaqeeya farsamaynta dahabka, qalinka iwm.
+
+sayanooko-baalamin m.dh (daaw.) Madoo-baashada maqaarka iyo xuubabka daboola daloolalada jirka: indhaha, afka, futada, siilka iwm. Waxaana keena oksijiinka oo ku yaraada dhiigga.
+
+sayax¹ m.l 1. Qoyaanka gabaddanadu keento; dharab. 2. ld sayaxid.
+
+sayax² m.l (-xyo, m.dh) (juqr.) Dhammaadka fud baraf, kolka herkulku kor uga kaco barta biyuhu ku fadhiistaan, barafkuna uu biyoobo. Loolalka sare sayaxu waa dhacdo sanadeed muhimad weyn leh, oo dhaca gu' walba, waxana ku xiga milmidda barafka iyo ado-barafeedka iyo wabiyada.
+
+sayax³ f.mg1 (-xay, -xday) Wax gabaddano ku qoyid.
+
+sayaxe m.l (-xayaal, m.l/dh) (fiis.) Walax ka nuugi karta biyaha atomosfiyeerka.
+
 sayaxid m.f.dh eeg sayax³. ld sayax¹.
-sayaxsan f.mg4 (-naa, -nayd) Wax gabaddano
-ku qoyey ahaansho.
-sayaxsanaan m.f.dh eeg sayaxsan. ld sayax-
-sanaansho.
+
+sayaxsan f.mg4 (-naa, -nayd) Wax gabaddano ku qoyey ahaansho.
+
+sayaxsanaan m.f.dh eeg sayaxsan. ld sayax-sanaansho.
+
 sayaxsanaansho m.l/dh ld sayaxsanaan.
+
 sayid¹ m.l Waayeel; madax; shariif.
-sayid² m.dh 1. eeg say². 2. Isbarbardhigid;
-sarcid (dun, liilammo iwm).
+
+sayid² m.dh 1. eeg say². 2. Isbarbardhigid; sarcid (dun, liilammo iwm).
+
 saylaamid m.f.dh eeg saylaan².
-saylaan¹ m.l 1. S. ah: saymaha roobka.
-2. Socod aan kala joogsi lahayn.
-saylaan² f.mg1 (-aamay, -aantay; -aami)
-Socod aan joogsi lahayn socosho.
+
+saylaan¹ m.l 1. S. ah: saymaha roobka. 2. Socod aan kala joogsi lahayn.
+
+saylaan² f.mg1 (-aamay, -aantay; -aami) Socod aan joogsi lahayn socosho.
+
 saylaandhabasho m.dh ld saylaandhaw.
-saylaandhaw m.l Qaylo iyo buuq dagaal
-wehliyo oo ay cidi samayso. ld saylaan-
-dhabasho.
-saylad m.dh (-do, m.l) 1. Meel laysugu
-yimaado oo alaabta iyo waxyaalaha ganac-
-siga ah lagu kala beddesho. 2. Suuq xoola-ha
-lagu kala iibsado. ld seylad, siilad.
-saylam m.l (-myo, m.dh) (bot.) Nudo u qaada
-biyaha iyo macaadinta nafaqada leh ee ku
-milan dhirta kelli.
-sayle m.l Ciyaar dhaqameed laga yaqaan
-degaanka webiyada.
+
+saylaandhaw m.l Qaylo iyo buuq dagaal wehliyo oo ay cidi samayso. ld saylaan-dhabasho.
+
+saylad m.dh (-do, m.l) 1. Meel laysugu yimaado oo alaabta iyo waxyaalaha ganac-siga ah lagu kala beddesho. 2. Suuq xoola-ha lagu kala iibsado. ld seylad, siilad.
+
+saylam m.l (-myo, m.dh) (bot.) Nudo u qaada biyaha iyo macaadinta nafaqada leh ee ku milan dhirta kelli.
+
+sayle m.l Ciyaar dhaqameed laga yaqaan degaanka webiyada.
+
 saymo m.dh 1. Belaayo, halis. 2. eeg sayn¹.
-745sayn¹
+
 sayn¹ m.l (-mo, m.dh) Addin roob ah oo aan
 ballaarayn oo meel ka hoora.
 sayn² m.dh Timo bul ah oo xayawaanka
