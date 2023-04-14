@@ -2285,55 +2285,66 @@ sasi f.g2 (-iyay, -isay) Si kedis ah cid uga nixin.
 sasid m.f.dh eeg sas².
 
 sasin m.f.dh eeg sasi,
-sataar m.l (-ryo, m.dh) 1. Mid ka mid ah
-magacyada Eebbe. 2. Daah.
-sati m.l (-iyo, m.dh) Weel laba qalbac isugu
-aabburan oo la dhexgeliyo quliyaasha laguna
-qaado.
-743satiyayn
+
+sataar m.l (-ryo, m.dh) 1. Mid ka mid ah magacyada Eebbe. 2. Daah.
+
+sati m.l (-iyo, m.dh) Weel laba qalbac isugu aabburan oo la dhexgeliyo quliyaasha laguna qaado.
+
 satiyayn m.f.dh eeg satiyee.
-satiyaysan f.mg4 (-snaa, -snayd) Wax la
-satiyeeyey ahaansho.
-satiyaysnaan m.f.dh eeg satiyaysan. ld
-satiyaysnaansho.
+
+satiyaysan f.mg4 (-snaa, -snayd) Wax la satiyeeyey ahaansho.
+
+satiyaysnaan m.f.dh eeg satiyaysan. ld satiyaysnaansho.
+
 satiyaysnaansho m.l/dh ld satiyaysnaan.
-satiyee f.g2 (-yeeyay, -yaysay) Baaquli sati u
-samayn.
+
+satiyee f.g2 (-yeeyay, -yaysay) Baaquli sati u samayn.
+
 saw fk.we ld sow.
+
 sawaab¹ m.l (-byo, m.dh) Dhaandhaan; nacas.
-sawaab² m.dh Abaalmarinta Ilaah qof wax
-fiican sameeyey abaalmariyo.
-sawaab³ f.g1 (-bay, -btay) Cid dhaan-
-dhaamid.
-sawaaban f.mg4 (-bnaa, -bnayd) Dhan-dhaan
-ahaansho.
-sawaabi f.mg2 (-iyay, -isay) Ka s.: cid
-dhimatay sadaqo la bixiyay Ilaah in uu ajar
-ka siiyo u baryid.
+
+sawaab² m.dh Abaalmarinta Ilaah qof wax fiican sameeyey abaalmariyo.
+
+sawaab³ f.g1 (-bay, -btay) Cid dhaan-dhaamid.
+
+sawaaban f.mg4 (-bnaa, -bnayd) Dhan-dhaan ahaansho.
+
+sawaabi f.mg2 (-iyay, -isay) Ka s.: cid dhimatay sadaqo la bixiyay Ilaah in uu ajar ka siiyo u baryid.
+
 sawaabid m.f.dh eeg sawaab³.
+
 sawaabin m.f.dh eeg sawaabi.
-sawaabnaan m.f.dh eeg sawaaban. ld sa-
-waabnaansho.
+
+sawaabnaan m.f.dh eeg sawaaban. ld sa-waabnaansho.
+
 sawaabnaansho m.l/dh ld sawaabnaan.
+
 sawaariikh m.dh.w eeg saryuukh.
+
 sawaaxil m.l Dhul xeebeed.
+
 sawax¹ m.l (-xyo, m.dh) Qaylo dheer.
+
 sawax² f.mg1 (-xay, -xday) Cid aad u qaylin.
+
 sawaxan m.l Buuq badan ama qaylo dheer.
+
 sawaxid m.f.dh eeg sawax².
+
 sawayn m.dh ld saawayn.
+
 sawd m.l (-dyo, m.dh) Cod; dhawaaq; luuq.
+
 sawee f.mg2 (-weeyay, -weysay) ld saawee.
-sawir¹ m.l (-rro, m.dh) 1. Muuqaal u eg nafley
-ama wax kale oo gacanta lagu masawiray
-ama aalad wax sawirta. 2. Qof aan caqli
-lahayn; nacas.
-sawir² f.g1 (-ray, -rtay) Gacan ama aalad wax
-suuraddooda ku muujin.
-sawiran¹ f.mg1 (-rmay, -rantay) Wax la
-sawiray noqosho.
-sawiran² f.mg4 (-rnaa, -rnayd) Wax la sawiray
-ahaansho.
+
+sawir¹ m.l (-rro, m.dh) 1. Muuqaal u eg nafley ama wax kale oo gacanta lagu masawiray ama aalad wax sawirta. 2. Qof aan caqli lahayn; nacas.
+
+sawir² f.g1 (-ray, -rtay) Gacan ama aalad wax suuraddooda ku muujin.
+
+sawiran¹ f.mg1 (-rmay, -rantay) Wax la sawiray noqosho.
+
+sawiran² f.mg4 (-rnaa, -rnayd) Wax la sawiray ahaansho.
 sawirid m.f.dh eeg sawir².
 sawirle m.l (-layaal, m.l/dh) Qof aaladda wax
 sawirta ku shaqeeya oo aqoon u leh.
