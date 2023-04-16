@@ -2536,26 +2536,28 @@ saynisyahan m.l (-nno, m.dh) Qof cilmiga sayniska aqoon u leh.
 
 saynisyahannimo m.dh Saynisyahan ahaan-sho.
 
-saynsaab¹ m.l (-byo, m.dh) 1. Wax, wax daboola kuna heeran. 2. Isugeynta aqoonta,
-siyaasadda, xiriirka bulshada, dhaqanka iwm
-oo u horseedaya dhaqaaluhu in uu kobco.
-saynsaab² f.g1 (-bay, -btay) 1. Wax daboolid.
-2. Wax dabid.
+saynsaab¹ m.l (-byo, m.dh) 1. Wax, wax daboola kuna heeran. 2. Isugeynta aqoonta, siyaasadda, xiriirka bulshada, dhaqanka iwm oo u horseedaya dhaqaaluhu in uu kobco.
+
+saynsaab² f.g1 (-bay, -btay) 1. Wax daboolid. 2. Wax dabid.
+
 saynsaabasho m.f.dh eeg saynsaabo.
+
 saynsaabid m.f.dh eeg saynsaab².
-saynsaabo f.g3 (-btay, -batay) Wax saynsaab u
-samaysasho.
-saynwaraari¹ m.l Dabaruxidda xoolo ugaar
-iwm sameeyaan.
-saynwaraari² f.g1/2 (-iyay, -iday/-isay; -iyi)
-Ugaar, xoolo iwm dabo ruxid samayn.
+
+saynsaabo f.g3 (-btay, -batay) Wax saynsaab u samaysasho.
+
+saynwaraari¹ m.l Dabaruxidda xoolo ugaar iwm sameeyaan.
+
+saynwaraari² f.g1/2 (-iyay, -iday/-isay; -iyi) Ugaar, xoolo iwm dabo ruxid samayn.
+
 saynwaraarin m.dh ld saynwaraaryid.
-saynwaraaryid m.f.dh eeg saynwaraari². ld
-saynwaraarin.
-sayr f.g1 (-ray, -rtay) Si xoog leh wax shubma
-meel tiigaal ah ugu daadin. ld sayri.
-sayran f.mg4 (-rnaa, -rnayd) Wax la sayray
-ahaansho.
+
+saynwaraaryid m.f.dh eeg saynwaraari². ld saynwaraarin.
+
+sayr f.g1 (-ray, -rtay) Si xoog leh wax shubma meel tiigaal ah ugu daadin. ld sayri.
+
+sayran f.mg4 (-rnaa, -rnayd) Wax la sayray ahaansho.
+
 sayras m.l (-syo, m.dh) (c.cimi.) Daruur
 maraysa joog sare oo waslad waslad ah, oo
 muuqaal ahaan jilicsan una eg baalal.
