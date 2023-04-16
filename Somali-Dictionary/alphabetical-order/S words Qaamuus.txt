@@ -2558,9 +2558,8 @@ sayr f.g1 (-ray, -rtay) Si xoog leh wax shubma meel tiigaal ah ugu daadin. ld sa
 
 sayran f.mg4 (-rnaa, -rnayd) Wax la sayray ahaansho.
 
-sayras m.l (-syo, m.dh) (c.cimi.) Daruur
-maraysa joog sare oo waslad waslad ah, oo
-muuqaal ahaan jilicsan una eg baalal.
+sayras m.l (-syo, m.dh) (c.cimi.) Daruur maraysa joog sare oo waslad waslad ah, oo muuqaal ahaan jilicsan una eg baalal.
+
 sayri f.g2 (-iyay, -isay) ld sayr.
 sayrid m.f.dh eeg sayr. ld sayrin.
 sayrin m.dh ld sayrid.
