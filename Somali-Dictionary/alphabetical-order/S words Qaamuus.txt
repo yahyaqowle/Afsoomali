@@ -5033,8 +5033,12 @@ suyuc¹ m.l Ur aan fiicnayn oo ka dhasha wax la huuriyey. ld suyac.
 suyuc² f.mg1 (-cay, -cday) Wax la huuriyey ur xun yeelasho.
 
 suyucid m.f.dh eeg suyuc².
-suyucsan f.mg4 (-naa, -nayd) Wax suyucay
-ahaansho.
-suyucsanaan m.f.dh eeg suyucsan. ld suyuc-
-sanaansho.
+
+suyucsan f.mg4 (-naa, -nayd) Wax suyucay ahaansho.
+
+suyucsanaan m.f.dh eeg suyucsan. ld suyuc-sanaansho.
+
 suyucsanaansho m.l/dh ld suyucsanaan.
+
+
+
