@@ -318,7 +318,7 @@ khariidad m.dh (-do, m.l) ld khariiddo.
 
 khariidad-borojakhsaneyd m.dh (juqr.) Muujisanaanta ay ku muujisantahay dhulka dushiisa oo dhan ama qayb ka mid ah dul fidsan korkeed, si loogu muujiyo muuqaallada dabeecadda, siyaasadeed, ama muuqaallo kale; bar kasta oo ku taal khariidadda dusheeda waxay u taagantahay ama xiriir la leedahay meel juqraafiyeed oo ka mid ah dhulka runta ah iyadoo la adeegsanayo qiyaas go'an ama borojek-shan.
 
-khariidad-kala-sarreynta m.dh (-o ..., m.l) (juqr.) Khariidad muujinaysa kala sarraynta meel.
+khariidad-kala-sarreynta m.dh (-o ...., m.l) (juqr.) Khariidad muujinaysa kala sarraynta meel.
 
 khariiddo m.dh (-ooyin, m.l) Naqshad warqad iwm lagu sameeyo oo muujineysa dhulka oo dhan ama qeyb ka mid ah. ld khariidad.
 
@@ -540,7 +540,7 @@ khibro m.dh ld khibrad.
 
 khiddad m.dh (-do, m.l) Qorshe loo sameeyo hawl, mashruuc iwm.
 
-khidmad m.dh ld khidmo.khuuris
+khidmad m.dh ld khidmo.
 
 khidmee f.g2 (-meeyay, -meysay) Qof la xurmaynayo hawl u qabasho.
 
@@ -665,5 +665,4 @@ khuurin m.f.dh eeg khuri². ld khuuris.
 khuuris m.l ld khuurin.
 
 khuuro m.dh Shanqar aan loo bogin oo kolka la hurdo neefsashada la socota oo afka ka timaadda.
-
 
