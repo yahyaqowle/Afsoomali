@@ -552,7 +552,7 @@ ilaal¹ m.l (-llo, m.dh) Askar degmooyinka, waagi hore laga qori jirey oo madaxd
 
 ilaal² f.mg1 (-aalay, -aashay) Ilmo dhashay neef loogu ducaynayo u qalid. 
 
-ilaalee f.g2 (-leeyay, -leysay) Wax indhaindheyn. 
+ilaalee f.g2 (-leeyay, -leysay) Wax indha-indheyn. 
 
 ilaaleyn m.f.dh eeg ilaalee. 
 
@@ -586,7 +586,7 @@ ilaaqtamid m.dh ld cilaaqtamid.
 
 ilaaqtan¹ m.l ld cilaaqtamid.
 
-ilaaqtan² f.mg1 (-amay, -antay) ld cilaaqtan².
+ilaaqtan² f.mg1 (-amay, -antay) ld cilaaqtan².
 
 il-adag f.mg4 (-dkaa, -dkayd) ld il-adayg². 
 
@@ -630,7 +630,7 @@ ilbalacleyn m.dh ld ilgalacleyn.
 
 ilbalacleys m.l ld ilgalacleyn. 
 
-ilbax¹ m.l.kh I. ah: qof aqoon iyo waayoaragnimo u leh nolosha magaalada. 
+ilbax¹ m.l.kh I. ah: qof aqoon iyo waayo aragnimo u leh nolosha magaalada. 
 
 ilbax² f.mg1 (-xay, -xday; -bixi) Nolol magaalo aqoon iyo waayo-aragnimo u yeelasho. 
 
@@ -768,7 +768,9 @@ ilindi m.dh Hanti badan.
 
 iljebi f.mg2 (-iyay, -isay) 1. Hal mar il isku qabasho. 2. U i.: qof isha ugu baaqid. 
 
-iljebin m.f.dh eeg iljebi. ld iljebis. iljebis m.l ld iljebin.
+iljebin m.f.dh eeg iljebi. ld iljebis. 
+
+iljebis m.l ld iljebin.
 
 ilka-adag m.dh Nooc kalluunka ka mid ah. 
 
@@ -906,7 +908,9 @@ ilmarooji f.mg2 (-iyay, -isay) U i.: qof u iljebin.
 
 ilmaroojin m.f.dh eeg ilmarooji. 
 
-ilmarrogad m.l ld ilmarrogasho. ilmarrogasho m.f.dh eeg ilmarrogo. ld ilmarrogad.
+ilmarrogad m.l ld ilmarrogasho. 
+
+ilmarrogasho m.f.dh eeg ilmarrogo. ld ilmarrogad.
 
 ilmarrogo f.mg3 (-gtay, -gatay) Minka gudihiisa isku gediyid (uurjiif). 
 
@@ -986,9 +990,10 @@ ilwaad m.dh Muuqaal quruxsan.
 
 ilwaadsad m.l ld ilwaadsasho.
 
-ilwaadsasho m.f.dh eeg ilwaadso. ld ilwaadsad, ilwaadsi.
+ilwaadsasho m.f.dh eeg ilwaadso. ld ilwaadsad, ilwaadsi.
 
 ilwaadsi m.l ld ilwaadsasho.
+
 ilwaadso f.mg3 (-saday, -satay) Wax qurxoon fiirsashadooda ku istareexid. 
 
 ilwalliije m.l (-jayaal, m.l/dh) Qof labadiisa indhood aysan isku meel hal mar wada eegi karin. 
@@ -1011,11 +1016,11 @@ ilxaydh m.l (-dhyo, m.dh) (c.nafl.) Lakabka sare ee adag ee isha lafdhabarleyda.
 
 ilxayr m.l Meesha godan oo isha iyo dhegta u dhexeeysa. 
 
-ilxir m.l (-rro, m.dh) 1. Maro, derin iwm oo aqal, qol, iwm lagu kala qoqobo. 2. Inta ka dambeysa ilxirka oo la seexdo (qolka). ld ilaxir.
+ilxir m.l (-rro, m.dh) 1. Maro, derin iwm oo aqal, qol, iwm lagu kala qoqobo. 2. Inta ka dambeysa ilxirka oo la seexdo (qolka). ld ilaxir.
 
 ilxoolaadi f.mg2 (-iyay, -isay) Wax baylah ka ilaalin iyada oo aan muhimad dheerraad ah la siinayn. 
 
-ilxoolaadin m.f.dh eeg ilxoolaadi. ld ilxoolaadis.
+ilxoolaadin m.f.dh eeg ilxoolaadi. ld ilxoolaadis.
 
 ilxoolaadis m.l ld ilxoolaadin.
 
@@ -1073,7 +1078,7 @@ imtixaan² f.g1 (-nay, -ntay) 1. Tijaabin heerka aqooneed ee qof. 2. Cid dulqaad
 
 imtixaanid m.dh ld intixaanid, itixaanid.
 
-imtixaannaan m.f.dh eeg imtixaaman. ld imtixaannaansho, intixaannaan, intixaannaansho.
+imtixaannaan m.f.dh eeg imtixaaman. ld imtixaannaansho, intixaannaan, intixaannaansho.
 
 imtixaannaansho m.l/dh ld imtixaannaan.
 
@@ -1125,9 +1130,13 @@ indhacagaarshe m.l (daaw.) Cudur dadka ku dhaca oo cagaar ka dhiga midabka indha
 
 indhacagaarshow m.l ld indhacagaarshe.
 
-indhacasaysad m.l ld indhagaduudsasho. indhacasaysasho m.f.dh ld indhagaduud- sasho.
+indhacasaysad m.l ld indhagaduudsasho. 
 
-indhacasaysi m.l ld indhagaduudsasho. indhacasayso f.mg3 (-stay, -satay) ld indhagaduudso.
+indhacasaysasho m.f.dh ld indhagaduud-sasho.
+
+indhacasaysi m.l ld indhagaduudsasho. 
+
+indhacasayso f.mg3 (-stay, -satay) ld indhagaduudso.
 
 indhacaseeye m.l (daaw.) Cudur dadka ku dhaca oo casaan ka dhiga midabka indhaha. 
 
@@ -1135,13 +1144,13 @@ indhacurdoon f.mg4 (-naa, -nayd) Wax si fican wax u arka ahaansho.
 
 indhacurdoonaan m.f.dh eeg indhacurdoon. ld indhacurdoonaansho.
 
-indhacurdoonaansho m.l/dh ld indhacurdoonaan.
+indhacurdoonaansho m.l/dh ld indhacurdoonaan.
 
 indhadaraandar¹ m.l 1. Wareeridda lagu wareero wax si aad u qurxoon. 2. Wax arki waayidda, iftiin xoog badan oo indhaha ku dhaca dartii wax lala arki waayo. ld indhadaraandarid.
 
 indhadaraandar² f.mg1 (-ray, -rtay) 1. Wax aad u qurxoon ku wareerid. 2. Iftiin xoog badan oo indhaha ku dhacay awgii wax la arki waayid. 
 
-indhadaraandarid m.f.dh eeg indhadaraandar². ld indhadaraandar¹.
+indhadaraandarid m.f.dh eeg indhadaraandar². ld indhadaraandar¹.
 
 indhaddaalis m.l (-byo, m.dh) 1. Marriin qurxoon oo lagu sameeyo rarada iwm.-2. Ujuuro la siiyo cid wax qortay ama wax akhriday. 
 
@@ -1155,7 +1164,7 @@ indhadduubid m.f.dh eeg indhadduub².
 
 indhadduubnaan m.f.dh eeg indhadduuban. ld indhadduubnaansho.
 
-indhadduubnaansho m.l/dh ld indhadduubnaan.
+indhadduubnaansho m.l/dh ld indhadduubnaan.
 
 indhadhaabo m.dh Dhibco yaryar oo dufan ah oo dul sabeeya fuudka, caanaha, iwm. 
 
@@ -1185,7 +1194,7 @@ indhafircoon f.mg4 (-naa, -nayd) ld indhafirqoon.
 
 indhafircoonaan m.dh ld indhafirqoonaan.
 
-indhafircoonaansho m.l/dh ld indhafirqoonaan.
+indhafircoonaansho m.l/dh ld indhafirqoonaan.
 
 indhafircooni m.dh ld indhafirqoonaan.
 
@@ -1207,7 +1216,7 @@ indhagaduudi m.l ld indhagaduudsasho.
 
 indhagaduudsad m.l ld indhagaduudsasho. 
 
-indhagaduudsasho m.f.dh eeg indhagaduudso. ld indhacasaysad, indhacasaysasho, indhacasasaysi.
+indhagaduudsasho m.f.dh eeg indhagaduudso. ld indhacasaysad, indhacasaysasho, indhacasasaysi.
 
 indhagaduudsi m.l ld indhagaduudsasho. 
 
@@ -1225,7 +1234,7 @@ indha-indhee f.g2 (-dheeyay, -dhaysay) Wax kormeerid.
 
 indhakugaraadle m.l Qof marba xaaladda uu ku joogo wax ku qaybsada oo aan eegin waxa soo socda. 
 
-indhakugaraadlennimo m.dh Wax indhakugaraadle ah ahaansho (qof). 
+indhakugaraadlennimo m.dh Wax indhakugaraadle ah ahaansho (qof). 
 
 indhakuul¹ m.dh Budo madow, dhowr jaad u kala baxda oo haweenku indhaha xirribahooda ku quruxsadaan. 
 
@@ -1241,7 +1250,7 @@ indhakuulid m.f.dh eeg indhakuul².
 
 indhakuulnaan m.f.dh eeg indhakuulan. ld indhakuulnaansho.
 
-indhakuulnaansho m.l/dh ld indhakuulnaan.
+indhakuulnaansho m.l/dh ld indhakuulnaan.
 
 indhakuulo f.mg3 (-uushay, -uulatay)indhakuul marsasho (cid). 
 
@@ -1281,9 +1290,9 @@ indhasarcaadis m.l ld indhasarcaadin.
 
 indhasarcaadsan f.mg4 (-naa, -nayd) Cid indhasarcaad ku dhacay ahaansho. 
 
-indhasarcaadsanaan m.f.dh eeg indhasarcaadsan. ld indhasarcaadsanaansho.
+indhasarcaadsanaan m.f.dh eeg indhasarcaadsan. ld indhasarcaadsanaansho.
 
-indhasarcaadsanaansho m.l ld indhasarcaadsanaan.
+indhasarcaadsanaansho m.l ld indhasarcaadsanaan.
 
 indhashareer m.l (-rro, m.dh) Masar ama duub kale oo maro ah oo wax laga arki karo oo ay dumarka muslimka ahi wejiga ku detaan. ld indhashareerad.
 
@@ -1295,7 +1304,7 @@ indhashareerasho m.f.dh eeg indhashareero. ld indhashareerad (2).
 
 indhashareernaan m.f.dh eeg indhasha-reeran. ld indhashareernaansho.
 
-indhashareernaansho m.l/dh ld indhashareernaan.
+indhashareernaansho m.l/dh ld indhashareernaan.
 
 indhashareero f.mg3 (-rtay, -ratay) 1. We-jiga wax qariya saarasho. 2. Indhasharo samaysasho. 
 
@@ -1321,9 +1330,11 @@ indifiiduwalism m.dh (bul.) Aragti bulshadeed oo tixgelinaysa ficil madax-banaan
 
 infuluwenso m.dh (daaw.) Nooc hargabka ka mid ah oo xumad badani iyo qufac leh. 
 
-in-gudbiye m.l (-yayaal, m.l/dh) (kiim.) Walax astaanteeda gudbineed ay u dhexeysa tan gudbiye (bir) iyo tan ma-gudbiye (caag). Marka loo eego gudbiyeyaasha, caabbiga ingudbiye waxa uu la sii yaraadaa korodhka heerkulka. In-gudbiyeyaasha waxa ka mid ah adkeyaasha wiriqlaha ah sida jeermaniyam iyo silikon. 
+in-gudbiye m.l (-yayaal, m.l/dh) (kiim.) Walax astaanteeda gudbineed ay u dhexeysa tan gudbiye (bir) iyo tan ma-gudbiye (caag). Marka loo eego gudbiyeyaasha, caabbiga in-gudbiye waxa uu la sii yaraadaa korodhka heerkulka. In-gudbiyeyaasha waxa ka mid ah adkeyaasha wiriqlaha ah sida jeermaniyam iyo silikon. 
 
-iniin m.dh (-no, m.l) Mirta ay dhirtu ka abuuranto. ld iniix.iniq m.dh ld ciniq.
+iniin m.dh (-no, m.l) Mirta ay dhirtu ka abuuranto. ld iniix.
+
+iniq m.dh ld ciniq.
 
 inistinkt m.l ld qariisad.
 
@@ -1453,11 +1464,11 @@ intikhaab m.l (-byo, m.dh) Doorasho dadku u codbixiyo qof loo wakiilanayo barla-
 
 intimooloji m.l Barashada cayayaanka. 
 
-intixaaman f.mg4 (-naa, -nayd) ld imtixaaman.
+intixaaman f.mg4 (-naa, -nayd) ld imtixaaman.
 
 intixaan¹ m.l ld imtixaan¹.
 
-intixaan² f.g1 (-aamay, -aantay) ld imtixaan².
+intixaan² f.g1 (-aamay, -aantay) ld imtixaan².
 
 intixaanid m.dh ld imtixaanid.
 
@@ -1491,7 +1502,7 @@ irbadee f.g2 (-deeyay, -daysay) Nafley daawo ku mudid. ld cirbadee.
 
 irbadeysan f.mg4 (-snaa, -snayd) Wax dawo lagu duray ahaaansho (nafley). ld cirbadeysan.
 
-irbadeysnaan m.f.dh eeg irbadeysan. ld cirbadeysnaan, cirbadeysnaansho, irbadeysnaansho.
+irbadeysnaan m.f.dh eeg irbadeysan. ld cirbadeysnaan, cirbadeysnaansho, irbadeysnaansho.
 
 irbadeysnaansho m.l ld cirbadeysnaan.
 
@@ -1533,7 +1544,7 @@ irkigid m.f.dh eeg irkig². ld argagid, erkegid.
 
 irkigsan f.mg4 (-naa, -nayd) Wax irkig hayo ahaansho. ld argagsan, erkegsan.
 
-irkigsanaan m.f.dh eeg irkigsan. ld argagsanaan, argagsanaansho, erkegsanaan, erkegsan
+irkigsanaan m.f.dh eeg irkigsan. ld argagsanaan, argagsanaansho, erkegsanaan, erkegsan
 
 irkigsanaansho m.l/dh ld irkigsanaan.
 
@@ -1541,13 +1552,11 @@ irko f.mg3 (-kaday, -katay) U i.: wax mar dambe u aayid.
 
 irmaan¹ m.l Xoola dheddig oo aan gurneyn oo caano leh.
 
-irmaan² m.l/dh Shaxda meesha mar walba inta 
-
-laga dhaco qofka kale shaxdiisa lagu jabsho. 
+irmaan² m.l/dh Shaxda meesha mar walba inta laga dhaco qofka kale shaxdiisa lagu jabsho. 
 
 irmaan³ f.mg4 (-naa, -nayd) Wax caano leh noqosho. 
 
-irmaanaan m.f.dh eeg irmaan³. ld irmaanaansho.
+irmaanaan m.f.dh eeg irmaan³. ld irmaanaansho.
 
 irmaanaansho m.l/dh ld irmaanaan.
 
@@ -1621,7 +1630,7 @@ isbahayso f.mg3 (-stay, -satay) Dad, ummado, dawlado, iwm xiriir isgaashaan-buur
 
 isbarbardhig 1 m.l Isu eegidda la isu eego laba shey waxa ay iskaga mid ka yihiin. 
 
-isbarbardhig² f.g1 (-gay, -gtay) ld barbardhig.
+isbarbardhig² f.g1 (-gay, -gtay) ld barbardhig.
 
 isbarbardhigid m.f.dh eeg isbarbardhig². 
 
@@ -1641,7 +1650,7 @@ isbig m.l Afarta jaad ee uu haadaadka turubku u kala baxo middood.
 
 isbitaal m.l (-llo, m.dh) Meesha dadka jirran lagu daaweeyo lana seexiyo. ld cisbitaal, cusbitaal.
 
-isboondheys m.l Miro la cuno. ld isbaandhays.
+isboondheys m.l Miro la cuno. ld isbaandhays.
 
 isboorti m.l Madaddaalo ciyaareed oo xeerar leh iyo qawaaniin oo lagu tartamo. 
 
@@ -1693,15 +1702,15 @@ isdabamari f.g2 (-iyay, -isay) Wax isku qaldid. ld isdabammari.
 
 isdabamarid m.f.dh eeg isdabamar². ld isdabammarid.
 
-isdabamarin m.f.dh eeg isdabamari. ld isdabamaris, isdabammarin, isdabammaris.
+isdabamarin m.f.dh eeg isdabamari. ld isdabamaris, isdabammarin, isdabam-maris.
 
 isdabamaris m.l ld isdabamarin.
 
 isdabammar¹ m.l ld isdabamar1.
 
-isdabammar² f.mg1 (-ray, -rtay) ld isdabamar².
+isdabammar² f.mg1 (-ray, -rtay) ld isdabamar².
 
-isdabammari f.g2 (-iyay, -isay) ld isdabamari.
+isdabammari f.g2 (-iyay, -isay) ld isdabamari.
 
 isdabammarid m.dh ld isdabamarid.
 
@@ -1721,9 +1730,9 @@ isdhaafdhaafid m.f.dh eeg isdhaafdhaaf².
 
 isdhaafdhaafsan f.mg4 (-naa, -nayd) Wax isdhaafdhaafay ahaansho (cid). 
 
-isdhaafdhaafsanaan m.f.dh eeg isdhaafdhaafsan. ld isdhaafdhaafsanaansho
+isdhaafdhaafsanaan m.f.dh eeg isdhaafdhaafsan. ld isdhaafdhaafsanaansho
 
-isdhaafdhaafsanaansho m.l/dh ld isdhaafdhaafsanaan.
+isdhaafdhaafsanaansho m.l/dh ld isdhaafdhaafsanaan.
 
 isdhaafi f.g2 (-iyay, -isay) 1. Laba wax oo jihooyin kala duwan u socda isweydaarin. 2. Wax khaldid. 3. Cid waalid. 4. Jirro qof haysay mid kale ku wareejin iyada oo sixir la adeegsanaayo. 
 
@@ -1783,7 +1792,7 @@ isfeel m.l Ciyaar lagu tartamo oo la tunto habeennada bisha Ramadaan, waxaana ku
 
 isfidhikhi f.mg2 (-iyay, -isay) Kibir iyo islaweyni muujin. 
 
-isfidhikhin m.f.dh eeg isfidhikhi. ld isfidhikhis.
+isfidhikhin m.f.dh eeg isfidhikhi. ld isfidhikhis.
 
 isfidhikhis m.l ld isfidhikhin.
 
@@ -1821,7 +1830,7 @@ isgoo f.g/mg2 (-ooyay, -ooysay) 1. (f.g) Qof jirkiisa meel ka mid ah wax af leh 
 
 isgoyn m.f.dh eeg isgoo. 
 
-isgoyska-dareenwadaha-aragtida m.dh(isgoysyo ..., m.dh) (daaw.) Labada dareenwade ee aragtida oo mid il ka yimid meesha ay isku gooyaan oo ku beegan xarriiqda maskaxda kala barta una dhow qanjirdhiiqa “bitwitariga” dareenwadayaasha ka yimaada xuubka aragtida (reetina) dhankiisa sanka xiga ee il walba waxay kudarsamaan dareenwadayaasha ka yimaada xuubka aragtida (reetina) dhankiisa dibedda xiga ee isha kale. Cadadka aragtida oo ka sameysma isku darsankaas kaddib waxay kala nadan qoqob maskaxeedka jeegada ee labada dhinac. 
+isgoyska-dareenwadaha-aragtida m.dh(isgoysyo ..., m.dh) (daaw.) Labada dareenwade ee aragtida oo mid il ka yimid meesha ay isku gooyaan oo ku beegan xarriiqda maskaxda kala barta una dhow qanjirdhiiqa “bitwitariga” dareenwadayaasha ka yimaada xuubka aragtida (reetina) dhankiisa sanka xiga ee il walba waxay kudarsamaan dareenwadayaasha ka yimaada xuubka aragtida (reetina) dhankiisa dibedda xiga ee isha kale. Cadadka aragtida oo ka sameysma isku darsankaas kaddib waxay kala nadan qoqob maskaxeedka jeegada ee labada dhinac. 
 
 ishaafalad m.l Waxa la falayo ama la qabo kolka lagu xiro hadba saha joogaa siduu yahay. 
 
@@ -1903,18 +1912,17 @@ iskhilaafid m.dh ld ikhtilaafid.
 
 iskool m.l (-llo, m.dh/-laad, m.l) Meel dhisan oo ardada tacliinta lagu baro; dugsi. ld iskuul.
 
-iskooris m.l (-syo, m.dh) Wiil yar oo aan helin xanaano waalid ama dad kale oo isagu nafnaftiisa isbarbaarshay. 
+iskooris m.l (-syo, m.dh) Wiil yar oo aan helin xanaano waalid ama dad kale oo isagu nafnaftiisa isbarbaarshay. 
 
 isku-aad¹ m.l Isku abbaaridda ay laba shay ama kooxood isku abbaarmaan. ld aad¹.
 
 isku-aad² f.mg1 (-day, -dday) Laba walxood iwm isku abbaarmid. 
 
-isku-aaddan f.mg4 (-naa, -nayd) Wax la isku 
-aaddiyay ahaansho. 
+isku-aaddan f.mg4 (-naa, -nayd) Wax la isku  aaddiyay ahaansho. 
 
 isku-aaddanaan m.f.dh eeg isku-aaddan. ld isku-aaddanaansho.
 
-isku-aaddanaansho m.l/dh ld isku-aaddanaan.
+isku-aaddanaansho m.l/dh ld isku-aaddanaan.
 
 isku-aaddi f.g2 (-iyay, -isay) Laba walxood ama ka badan isku abbaarid. 
 
@@ -1938,9 +1946,9 @@ iskuddubbadhac¹ m.l 1. I. ah: wax si nidaam leh oo aan kala go' layahan u socda
 
 iskuddubbadhac² f.mg1 (-cay, -cday) Wax si nidaam leh u socosho. 
 
-iskuddubbadhacmo m.dh ld iskuddubbadhac¹.
+iskuddubbadhacmo m.dh ld iskuddubbadhac¹.
 
-iskuddubbadhicid m.f.dh eeg iskuddubbadhac². 
+iskuddubbadhicid m.f.dh eeg iskuddubbadhac². 
 
 iskuddulnoolaad m.l Hab dhaqan-dhaqaale oo qof wax soo saarkiis ay cid kale ku nooshahay.
 
@@ -2064,9 +2072,7 @@ isle'eg-kiimikeed m.l (-gyo ..., m.dh) (xis.) Hab loo muujiyo falgalka kiimikaad
 
 isle'eg-kubbad m.dh (-gyo ..., m.dh) (xis.) Habdhiska kulannada kaartis ee isle'egta kubbad sansaankeedu waa: (x - a)2 + (y - b)2 + (z - c)2 = Y2 taas oo a, b iyo c ay yihiin kulannada xuddunta. Marka xudduntu tahay unugga isle'egtu waxa ay noqonaysa x2 + y2 + z2 = r2. 
 
-isle'eg-saabley m.dh (-gyo ..., m.dh) (xis.) 
-
-Isle'eg tibxaale oo jibbaarkeeda ugu sarreeya ee doorsoomaha uu yahay darajada labaad. Sansaanka guud ee isle'eg saabley ah ee dorsoomaha x waa: ax+ bx + c = 0, taas oo a, b iyo c ay yihiin madoorsoomeyaal. 
+isle'eg-saabley m.dh (-gyo ..., m.dh) (xis.) Isle'eg tibxaale oo jibbaarkeeda ugu sarreeya ee doorsoomaha uu yahay darajada labaad. Sansaanka guud ee isle'eg saabley ah ee dorsoomaha x waa: ax+ bx + c = 0, taas oo a, b iyo c ay yihiin madoorsoomeyaal. 
 
 isle'eg-saddexjibbaar m.dh (-gyo ..., m.dh)(xis.) Isle'eg tibxaale oo jibbaarka ugu sarreeya ee doorsoomaha isle'egtu yahay darajada saddexaad. Sansaanta guud ee isle'eg saddex-jibbaar waa: ax3 + bx2 + cx + d = 0, taas oo a, b, c, iyo d ay yihiin madoorsoomayaal. 
 
@@ -2108,7 +2114,7 @@ ismaalaakadeed¹ m.l Isku muujinta la isku muujiyo wax aan la ahayn iyadoo xaqii
 
 ismaalaakadeed² f.mg1 (-day, -dday) Hadba si isu muujin iyadoo runtii la qarinaayo. 
 
-ismaalaakadeedid m.f.dh eeg ismaakaakadeed². 
+ismaalaakadeedid m.f.dh eeg ismaakaakadeed². 
 
 ismaandhaaf¹ m.l Isfahmiwaayid laba qof ama ka badan ka dhex dhacda. 
 
@@ -2152,7 +2158,7 @@ ismashashuurid m.f.dh eeg ismashashuur². ld ismanshashuurid.
 
 ismoodsii f.g/mg2 (-iiyay, -iisay) 1. (f.g) Wax is gudbin. 2. (f.mg) Wax, wax kale maleyn. 
 
-ismoodsiin m.f.dh eeg ismoodsii. ld ismoodsiis.
+ismoodsiin m.f.dh eeg ismoodsii. ld ismoodsiis.
 
 ismoodsiis m.l ld ismoodsiin.
 
@@ -2160,7 +2166,7 @@ ismoogeysii f.g2 (-iiyay, -iisay) Wax la garanyo is-illowsiin.
 
 ismoogeysiin m.f.dh eeg ismoogeysii. ld ismogeysiis.
 
-ismoogeysiis m.l 1. Wariiri. 2. ld ismoogeysiin.
+ismoogeysiis m.l 1. Wariiri. 2. ld ismoogeysiin.
 
 ismutux f.mg1 (-xay, -xday) Meel fagaara ah, keli ahaan fikrad aan lagula qabin isla soo taagid. 
 
@@ -2210,7 +2216,9 @@ istaagid m.f.dh eeg istaag². ld istaag¹.
 
 istaagnaan m.f.dh eeg istaagan. ld istaag- naansho.
 
-istaagnaansho m.l ld istaagnaan. istaahil¹ m.l 1. Fal u dhigma xumaan ama wanaag la gaystey. 2. ld istaahilid.
+istaagnaansho m.l ld istaagnaan. 
+
+istaahil¹ m.l 1. Fal u dhigma xumaan ama wanaag la gaystey. 2. ld istaahilid.
 
 istaahil² f.g1 (-ilay, -ishay) Qof wanaag ama xumaan geystey fal u qalma ku abaal marin. 
 
@@ -2238,7 +2246,7 @@ istaaqfurulle m.l Duco Ilaah lagu wayddiisto dembi dhaaf. ld istaaqfurullahi.
 
 istaaqfurulleysad m.l ld istaaqfurulley-sasho.
 
-istaaqfurulleysasho m.f.dh eeg istaaqfurulleyso. ld istaaqfurulleysad, istaaqfurulleysi.
+istaaqfurulleysasho m.f.dh eeg istaaqfurulleyso. ld istaaqfurulleysad, istaaqfurulleysi.
 
 istaaqfurulleysi m.l ld istaaqfurulleysasho.
 
@@ -2272,7 +2280,7 @@ istareexsanaan m.f.dh eeg istareexsan. ld istareexsanaansho.
 
 istareexsanaansho m.l/dh ld istareex-sanaan.
 
-istebis m.l (-syo, m.dh) (juqr.) Dhulcawsaadka loolka dhexe, oo ka kooban heer, guud ahaan bannaanada aan dhirta lahayn ee yurayshiya, oo fidsan gobollada hoose ee Danuub, iyo jiid weyn oo ah koonfurta yurub ee midowga soofiyati iyo koonfurta galbeed ee Sayberiya. 
+istebis m.l (-syo, m.dh) (juqr.) Dhulcawsaadka loolka dhexe, oo ka kooban heer, guud ahaan bannaanada aan dhirta lahayn ee yurayshiya, oo fidsan gobollada hoose ee Danuub, iyo jiid weyn oo ah koonfurta yurub ee midowga soofiyati iyo koonfurta galbeed ee Sayberiya. 
 
 isteeg m.l (-gyo, m.dh) Xirmo ka kooban toban baakad oo sigaar ah. 
 
@@ -2348,7 +2356,7 @@ isudaran m.l (nax.) Labo curiye oo aan is qaban karin oo midba midka kale aan u 
 
 isudduwe m.l (-wayaal, m.l/dh) ld iskudduwe.
 
-isudhigan-kiimikeed m.l (-dyo, m.dh) culaysisudhigan. 
+isudhigan-kiimikeed m.l (-dyo, m.dh) culays-isudhigan. 
 
 isu'eg m.l (-gyo, m.dh) (xis.) Laba ama dhowr shaxan oo u kala duwan iskeel ahaan, hase yeeshee qaab ahaan aan u kala duwaneyn. Laba shaxan joometeri waa ay isu egyihiin haddii midkood uu yahay kan kale oo la weyneeyay. Geesooleyaasha isu'eg waxa ay leeyihiin xaglo gudboon oo isle'eg iyo dhinacyo isku aaddan oo saamiggal isu ah. 
 
@@ -2380,7 +2388,7 @@ isuqaybin m.dh (xis.) Astaanta :. Xisaabfalka labaale ee lagu helo qaybta laba x
 
 isutag m.l 1. Is raaca laba dawladood, laba ummadood ama ka badan ay is raacaan iyagoo hab siiyaasi wadaagaya. 2. Galmoodka dhex mara ragga iyo haweenka. 
 
-isutallow m.l (-wyo, m.dh) (baay.) Isku beddelka qaybo ka mid ah koromotaydhyada u dhexeeya. Koromosoomyo isku mid ah. 
+isutallow m.l (-wyo, m.dh) (baay.) Isku beddelka qaybo ka mid ah koromotaydhyada u dhexeeya. Koromosoomyo isku mid ah. 
 
 iswaafaqsanaan m.l (nax.) Curiyeyaal weerta oo isku waafaqa xagga caynta tirada iwm. Tus. “Inantu dawo ayay cabtay”, “Inanku dawo ayuu cabay”. 
 
@@ -2420,7 +2428,9 @@ itaalsad m.l ld itaalsasho.
 
 itaalsasho m.f.dh eeg itaalso. ld itaalsad, itaalsi.
 
-itaalsheegad m.l ld itaalsheegasho. itaalsheegasho m.f.dh eeg itaalsheego. ld itaalsheegad.
+itaalsheegad m.l ld itaalsheegasho. 
+
+itaalsheegasho m.f.dh eeg itaalsheego. ld itaalsheegad.
 
 itaalsheego f.mg3 (-gtay, -gatay) U i.: wax xoog ku maquunin. 
 
@@ -2446,9 +2456,9 @@ iter m.l (-rro, m.dh) (kiim.) Nooc iskudhis organig ah oo leh kooxda -O-. Iterya
 
 itifaaq m.l Heshiis la isku wada af-garto. 
 
-ititib m.l Xanaanaynta aad wax loo xunnaaneeyo. 
+ititib m.l Xanaanaynta aad wax loo xunnaaneeyo. 
 
-ititibi f.g2 (-iyay, -isay) Wax aad u xannaanayn. 
+ititibi f.g2 (-iyay, -isay) Wax aad u xannaanayn. 
 
 ititibin m.f.dh eeg ititibi. ld ititibis.
 
@@ -2456,13 +2466,13 @@ ititibis m.l ld ititibin.
 
 ititibsan f.mg4 (-naa, -nayd) Wax la ititibiyay ahaansho. 
 
-ititibsanaan m.f.dh eeg ititibsan. ld ititibsanaansho.
+ititibsanaan m.f.dh eeg ititibsan. ld ititibsanaansho.
 
 ititibsanaansho m.l/dh ld ititibsanaan.
 
 itixaad m.l Isutagga siyaasadeed, dhaqaale, iwm ee dhex mara laba dawlad iwm; midow. 
 
-itixaaman f.mg4 (-naa, -nayd) ld imtixaaman.
+itixaaman f.mg4 (-naa, -nayd) ld imtixaaman.
 
 itixaamid m.dh ld imtixaamid.
 
@@ -2495,17 +2505,5 @@ iyama mu.we Waa kuwee?
 iyana mu.eb 1. Magacuyaalka qofka saddexaad ee kelida ah oo ka kooban 'iya 1' iyo 'na 2'. 2. Magacuyaalka qofka saddexaad ee wadarta ah oo ka kooban 'iya 2' iyo 'na 2'. iyo xi. Eray lagu xiriiriyo magacyo ama tixo. Tus. “Hilib iyo bariis”, “Inuu yimid iyo in kale soo hubso”. 
 
 iyukaaryootig m.dh (-gyo, m.dh) (baay.) Noole ka kooban unugyo, ay ku jiraan walxaha hiddo-barasho oo leh bu' muuqata.
-
-
-
-
-Fininshed I Words
-
-
-
-
-
-
-
 
 
