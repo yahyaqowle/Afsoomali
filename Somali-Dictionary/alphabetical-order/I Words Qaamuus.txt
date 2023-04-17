@@ -16,7 +16,7 @@ ibagorayeysan f.mg4 (-naa, -nayd) Wax la ibagorayeeyey ahaansho (hal irmaan).
 
 ibagorayeysnaan m.f.dh eeg ibagorayeysan. ld ibagorayeysnaansho.
 
-ibagorayeysnaansho m.l/dh ld ibagorayeysnaan.
+ibagorayeysnaansho m.l/dh ld ibagorayeysnaan.
 
 ibagorayo m.dh Maridda hal irmaan si candhada ka bararisa loo maro. 
 
@@ -68,7 +68,7 @@ ibamarasho m.f.dh eeg ibamaro. ld ibamarad, ibamaryeysad, ibamaryey-sasho, ibama
 
 ibamarid m.f.dh eeg ibamar². ld ibamar-yeyn.
 
-ibamarnaan m.f.dh eeg ibamaran. ld ibamarnaansho, ibamayeysnaan, ibamaryeysnaansho.
+ibamarnaan m.f.dh eeg ibamaran. ld ibamarnaansho, ibamayeysnaan, ibamaryeysnaansho.
 
 ibamarnaansho m.l/dh ld ibamarnaan.
 
@@ -118,7 +118,7 @@ ibtileyn m.f.dh eeg ibtilee. ld ebtileyn.
 
 ibtileysan f.mg4 (-snaa, -snayd) Wax ibtilo ku dhacday ahaansho ld ebteleysan.
 
-ibtileysnaan m.f.dh eeg ibtileysan. ld ebteleysnaan, ebteleysnaansho, ibtileysnaansho.
+ibtileysnaan m.f.dh eeg ibtileysan. ld ebteleysnaan, ebteleysnaansho, ibtileysnaansho.
 
 ibtileysnaansho m.l/dh ld ibtileysnaan.
 
@@ -198,7 +198,7 @@ idanqaado f.mg3 (-aatay, -aadatay) Wax sameyntoodu fasax u qaadasho.
 
 idansan f.mg4 (-naa, -nayd) Qof wax samayntooda cid fasax lagu siiyay ahaansho. 
 
-idansanaan m.f.dh eeg idansan. ld idansanaansho.
+idansanaan m.f.dh eeg idansan. ld idansanaansho.
 
 idansanaansho m.l/dh ld idansanaan.
 
@@ -246,7 +246,7 @@ idlee f.g2 (-leeyay, -laysay) Wax dhammeyn.
 
 idman f.mg4 (-naa, -nayd) Wax hawl fulinteed u madax bannaan ahaansho (cid). 
 
-idmanaan m.f.dh eeg idman. ld idmanaansho.
+idmanaan m.f.dh eeg idman. ld idmanaansho.
 
 idmanaansho m.l/dh ld idmanaan.
 
@@ -298,7 +298,7 @@ iftiimis m.l ld ifin.
 
 iftiin¹ m.l (-nno, m.dh) 1. Kaah wax lagu arki karo. 2. Wakhti si fiican wax loo arki karo oo qorraxdu soo baxayso ama dhacayso. 
 
-iftiin² m.l (-nno, m.dh) (fiis.) Sii deynta kaaha ka imanaya walax saxarradeedu nuugeen tamar, iyagoo gaadhaya xaalad kacsan, kaddibna ku noqday xaalad tamar hooseysa markii ay sii daayeen kaaha birlabdanabowga. 
+iftiin² m.l (-nno, m.dh) (fiis.) Sii deynta kaaha ka imanaya walax saxarradeedu nuugeen tamar, iyagoo gaadhaya xaalad kacsan, kaddibna ku noqday xaalad tamar hooseysa markii ay sii daayeen kaaha birlabdanabowga. 
 
 iftiin³ f.mg1 (-imay, -intay; -imi) Wax kaah yeelasho. 
 
@@ -388,7 +388,7 @@ iidaaman f.mg4 (-mnaa, -mnayd) Wax iidaan loo yeelay ahaansho.
 
 iidaamid m.f.dh eeg iidaan². 
 
-iidaamnaan m.f.dh eeg iidaaman. ld iidaamnaansho, idaannaan, idaannaansho.
+iidaamnaan m.f.dh eeg iidaaman. ld iidaamnaansho, idaannaan, idaannaansho.
 
 iidaamnaansho m.l/dh ld iidaamnaan.
 
@@ -428,9 +428,7 @@ iimaandarro m.dh Qanaaco la'aanta. ld iimaanxumo.
 
 iimaansad m.l ld iimaansasho.
 
-iimaansasho m.f.dh eeg iimaanso. ld 
-
-iimaansad, iimaansi.
+iimaansasho m.f.dh eeg iimaanso. ld iimaansad, iimaansi.
 
 iimaansi m.l ld iimaansasho.
 
@@ -478,7 +476,9 @@ ijaarnaan m.f.dh eeg ijaaran. ld ijaarnaansho.
 
 ijaarnaansho m.l/dh ld ijaarnaan.
 
-ijaaro¹ m.dh ld ijaar¹. ijaaro² f.g3 (-rtay, -ratay) Guri, baabuur iwm ijaar ka qaadasho ka baxsasho. 
+ijaaro¹ m.dh ld ijaar¹. 
+
+ijaaro² f.g3 (-rtay, -ratay) Guri, baabuur iwm ijaar ka qaadasho ka baxsasho. 
 
 ijaaso m.dh (-ooyin, m.l) 1. Idan, fasax. 2. Aqoonsi diimeed ee uu sheekha dariiqadu siiyo xertiisa qaarkeed. 
 
@@ -488,9 +488,9 @@ ijbaarid m.f.dh eeg ijbaar.
 
 ijmaac m.l 1. Kulan fikradeed oo shuyuukh-da waaweyn ee madaahibta Islaanka isku raaceen. 2. Midka saddexaad ee afarta addilo oo diinta Islaanka loo cuskado. 
 
-ijtihaad¹ m.l (-dyo, m.dh) 1. Arrin sharci ah oo aan quraanka iyo xaddisku ka hadlin oo ra'yi qof mujtahid ahi leeyahay lagu meelmariyo. 2. Dadaal badan. 
+ijtihaad¹ m.l (-dyo, m.dh) 1. Arrin sharci ah oo aan quraanka iyo xaddisku ka hadlin oo ra'yi qof mujtahid ahi leeyahay lagu meelmariyo. 2. Dadaal badan. 
 
-ijtihaad² f.mg1 (-day, -dday) 1. Arrin sharci ah oo aan quraanka iyo xaddisku ka hadlin ra'yi qof mujtahid ahi leeyahay ku meelmarin. 2. Ku i.: dadaal badan muujin. 
+ijtihaad² f.mg1 (-day, -dday) 1. Arrin sharci ah oo aan quraanka iyo xaddisku ka hadlin ra'yi qof mujtahid ahi leeyahay ku meelmarin. 2. Ku i.: dadaal badan muujin. 
 
 ijtihaadid m.f.dh eeg ijtihaad². 
 
@@ -526,11 +526,11 @@ ikhyaarnimo m.dh Ikhyaar ahaansho. ld aqyaarnimo.
 
 ikooloji m.l Barashada xidhiidhada ka dhexeeya noolaha iyo degaankiisa dabeeciga ah, ha noolaado ama yaanu noolaan. Sababtaa awgeedi koolajiya-hannadu waxay bartaan noolayaasha marka laga eego dhinaca tirada dadka iyo beelaha, kuwaas oo ay isku kooxayn karaan iyo habdhisyada degaan ee ay ka qayb qaataan. 
 
-il-m.dh (-lo, m.l) 1. (indho, m.l) Xubinta aragga. 2. Meel biyo ka soo burqadaan. 3. Siriq. 4. Kartida ishu cid wax ku yeeli karto (senen); dhabato. 5. Dabool iniinaha badarka kor kaga dhegsan. 6. Dhul bannaan oo kaymo hareeraha ka xigaan. 
+il m.dh (-lo, m.l) 1. (indho, m.l) Xubinta aragga. 2. Meel biyo ka soo burqadaan. 3. Siriq. 4. Kartida ishu cid wax ku yeeli karto (senen); dhabato. 5. Dabool iniinaha badarka kor kaga dhegsan. 6. Dhul bannaan oo kaymo hareeraha ka xigaan. 
 
 il-aragtay m.l (c.cimi.) Fogaanta ugu dheer ee walax kaga arki karto “isha qaawan” ee fiirsade, oo lagu sheego mitirro (waarar) ama kiloomitirro (maylal). 
 
-ilaa h I. ama i. iyo inta: jeer laga gaaro; laga bilaabo; tan iyo. Tus. “I. (ama i. iyo intaa) aan soo noqonayo halkaan joog”. 
+ilaa h Ilaa(I.) ama ilaa iyo inta: jeer laga gaaro; laga bilaabo; tan iyo. Tus. “I. (ama i. iyo intaa) aan soo noqonayo halkaan joog”. 
 
 Ilaah m.l (dii.) Sarreeyaha awoodda leh oo wax kasta abuura oo weligiis jiray, jirina doona; Rabbi; Eebbe; Alle. 
 
