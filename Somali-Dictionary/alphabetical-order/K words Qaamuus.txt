@@ -216,74 +216,59 @@ kaalmo m.l/dh Gargaar ama caawimaad cid loo fidiyo.
 
 kaalo m.dh Nin guursaday xoolaha la siiyo.
 
-kaalori m.l (-iyaal, m.l/dh) (fiis.) K. halbeeg. Xaddiga kulka ee loogu baahdo in uu
-heerkulka 1 garaam oo biyo ah kor u qaado
-1° C (1° K). Halbeegga kaalori beryahan
-looma adeegsado xisaabinta fisikaad, waxana
-la qaataa Juul. 1 kaalori = 4.1868 juul.
-kaalsiyam m.dh (kiim.) Bir firfircoon oo
-jilicsan, heerkul hoosana ku dhalaasha. Waa
-curiyaha saddexaad ee ururka II ee tusaha
-kalgalka curiyayaasha. Waxay ku badantahay
-jeesada ama dhagaxa didibka iyada oo ah
-CaCO3, jibsimka iyada oo ah CaSO4 2H2
-485kaalsiyam haydarogsaydh O, jibsim ooman iyada oo ah CaSO4,faloorasbaar iyada oo ah CaF2 iyo abatayt iyada oo ah CaF2 Ca3 (PO4). Marka kaalsiyam lagu gubo meel hawo leh, waxa samaysma kaalsiyam ogsaydh (CaO) oo ah adke yooneed oo cad, waxase ka habboon in ogsaydhka laga diyaariyo kaarbooneytyada kaalsiyam kaas oo u kala baxa ilaa 800° C. Ogsaydhka iyo birta nafteeduba waxay sameeyaan haydarog-saydh (Ca(OH)2) marka ay la falgalaan biyaha.ù
+kaalori m.l (-iyaal, m.l/dh) (fiis.) K. halbeeg. Xaddiga kulka ee loogu baahdo in uu heerkulka 1 garaam oo biyo ah kor u qaado 1° C (1° K). Halbeegga kaalori beryahan looma adeegsado xisaabinta fisikaad, waxana la qaataa Juul. 1 kaalori = 4.1868 juul.
 
-kaalsiyam haydarogsaydh m.l eeg kaal-siyam.
-kaalsiyam kaarboneyt m.l eeg kaalsiyam.
-kaalsiyam salfeyt m.l eeg kaalsiyam.
-kaambe m.l (-bayaal, m.l/dh) Nafley bad ku
-nool ah oo leh jir qolof adag ku
-dahaarantahay iyo toban lugood, lana cuno.
-kaambi f.mg1 (-iyay, -iday; -iyi) Horay iyo
-gadaal si welwelsan ugu socosho.
+kaalsiyam m.dh (kiim.) Bir firfircoon oo jilicsan, heerkul hoosana ku dhalaasha. Waa curiyaha saddexaad ee ururka II ee tusaha kalgalka curiyayaasha. Waxay ku badantahay jeesada ama dhagaxa didibka iyada oo ah CaCO3, jibsimka iyada oo ah CaSO4 2H2O, jibsim ooman iyada oo ah CaSO4,faloorasbaar iyada oo ah CaF2 iyo abatayt iyada oo ah CaF2 Ca3 (PO4). Marka kaalsiyam lagu gubo meel hawo leh, waxa samaysma kaalsiyam ogsaydh (CaO) oo ah adke yooneed oo cad, waxase ka habboon in ogsaydhka laga diyaariyo kaarbooneytyada kaalsiyam kaas oo u kala baxa ilaa 800° C. Ogsaydhka iyo birta nafteeduba waxay sameeyaan haydarog-saydh (Ca(OH)2) marka ay la falgalaan biyaha.ù
+
+kaalsiyam-haydarogsaydh m.l eeg kaal-siyam.
+
+kaalsiyam-kaarboneyt m.l eeg kaalsiyam.
+
+kaalsiyam-salfeyt m.l eeg kaalsiyam.
+
+kaambe m.l (-bayaal, m.l/dh) Nafley bad ku nool ah oo leh jir qolof adag ku dahaarantahay iyo toban lugood, lana cuno.
+
+kaambi f.mg1 (-iyay, -iday; -iyi) Horay iyo gadaal si welwelsan ugu socosho.
+
 kaambiyid m.f.dh eeg kaambi.
+
 kaamil¹ m.l.kh K. ah: wax dhan.
-kaamil² f.g1 (-ilay, -ishay) Wax kala dhiman
-dhameystirid. ld kammil.
-kaamilan¹ f.mg1 (-lmay, -lantay; -lmi) Wax
-la kaamilay noqosho. ld kammilan¹.
-kaamilan² f.mg4 (-lnaa, -lnayd) Wax la
-kaamilay ahaansho. ld kammilan².
+
+kaamil² f.g1 (-ilay, -ishay) Wax kala dhiman dhameystirid. ld kammil.
+
+kaamilan¹ f.mg1 (-lmay, -lantay; -lmi) Wax la kaamilay noqosho. ld kammilan¹.
+
+kaamilan² f.mg4 (-lnaa, -lnayd) Wax la kaamilay ahaansho. ld kammilan².
+
 kaamilid m.f.dh eeg kaamil². ld kammilid.
-kaamilmid m.f.dh eeg kaamilan¹. ld kam-
-milmid.
+
+kaamilmid m.f.dh eeg kaamilan¹. ld kam-milmid.
+
 kaamilnaan m.f.dh eeg kaamilan². ld
-kaamilnaansho, kammilnaan, kammil-
-naansho.
+
+kaamilnaansho, kammilnaan, kammil-naansho.
+
 kaamilnaansho m.l/dh ld kaamilnaan.
-kaan m.l 1. (u) Daloola ku yaal doonida
-miilkeeda dambe iyo madaxa shukaanta.
-2. Kala k.: wax kala duwan.
-kaanad m.dh Qori dheer oo masaxiisa
-ballaaran oo daloola shukaanta afkeeda kore
-oo fiiqan la gesho, madaxiisa kalena
-shukaanhayuhu gacanta ku hayo oo doonida
-ku duduwo.
-kaankaansasho m.f.dh eeg kaankaanso. ld
-kaankaansi.
+
+kaan m.l 1. (u) Daloola ku yaal doonida miilkeeda dambe iyo madaxa shukaanta. 2. Kala k.: wax kala duwan.
+
+kaanad m.dh Qori dheer oo masaxiisa ballaaran oo daloola shukaanta afkeeda kore oo fiiqan la gesho, madaxiisa kalena shukaanhayuhu gacanta ku hayo oo doonida ku duduwo.
+
+kaankaansasho m.f.dh eeg kaankaanso. ld kaankaansi.
+
 kaankaansi m.l ld kaankaansasho.
-kaankaanso f.mg3 (-saday, -satay) U k.: wax
-fadhiya dhaqdhaqaaq yar sameyn.
-kaar¹ m.l 1. Xannuun sida holaca u kulul oo
-nabar ama meelbugtaa yeelato. 2. Waraaq
-yar oo afar gees ah oo wax lagu qorto. 3. ld
-kaarid.
-kaar² f.mg1 (-ray, -rtay) Xanuun laxow badan
-dareemid.
-kaarad m.dh (-do, m.l) Kiish timirta lagu guro,
-wareegsan oo qaada 20-25 kiilo.
-486
-kaarbogsilik-asiidh m.l (kiim.) Nooc ka tirsan
-iskudhisyada orgaanigga ee naanaystooda
-guudtahay COOH. Kaarbog-silik asiidho
-badan ayaa si dabiici ah ugu jira dhirta,
-duxda iyo saliiddana waxay ugu jiraan
-miistar ahaan. Sidaa awgeed kaarbogsilik
-asiidhada noocan ah waxa loo yaqaan asiidho
-duxeed.
-kaarboohaydrayt m.l (-tyo, m.dh) (kiim.) Mid
-ka mid ah koox iskudhisyo orgaanigga ah oo
+
+kaankaanso f.mg3 (-saday, -satay) U k.: wax fadhiya dhaqdhaqaaq yar sameyn.
+
+kaar¹ m.l 1. Xannuun sida holaca u kulul oo nabar ama meelbugtaa yeelato. 2. Waraaq yar oo afar gees ah oo wax lagu qorto. 3. ld kaarid.
+
+kaar² f.mg1 (-ray, -rtay) Xanuun laxow badan dareemid.
+
+kaarad m.dh (-do, m.l) Kiish timirta lagu guro, wareegsan oo qaada 20-25 kiilo.
+
+kaarbogsilik-asiidh m.l (kiim.) Nooc ka tirsan iskudhisyada orgaanigga ee naanaystooda guudtahay COOH. Kaarbog-silik asiidho badan ayaa si dabiici ah ugu jira dhirta, duxda iyo saliiddana waxay ugu jiraan miistar ahaan. Sidaa awgeed kaarbogsilik asiidhada noocan ah waxa loo yaqaan asiidho duxeed.
+
+kaarboohaydrayt m.l (-tyo, m.dh) (kiim.) Mid ka mid ah koox iskudhisyo orgaanigga ah oo
 ku salaysan astaanta guud ee cx (H2 O).
 Karbohaydraytyada ugu sahlani waxa weeye
 sonkorta (sakaraydhyo) oo ay ka mid yihiin
