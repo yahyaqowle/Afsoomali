@@ -268,126 +268,77 @@ kaarad m.dh (-do, m.l) Kiish timirta lagu guro, wareegsan oo qaada 20-25 kiilo.
 
 kaarbogsilik-asiidh m.l (kiim.) Nooc ka tirsan iskudhisyada orgaanigga ee naanaystooda guudtahay COOH. Kaarbog-silik asiidho badan ayaa si dabiici ah ugu jira dhirta, duxda iyo saliiddana waxay ugu jiraan miistar ahaan. Sidaa awgeed kaarbogsilik asiidhada noocan ah waxa loo yaqaan asiidho duxeed.
 
-kaarboohaydrayt m.l (-tyo, m.dh) (kiim.) Mid ka mid ah koox iskudhisyo orgaanigga ah oo
-ku salaysan astaanta guud ee cx (H2 O).
-Karbohaydraytyada ugu sahlani waxa weeye
-sonkorta (sakaraydhyo) oo ay ka mid yihiin
-gulukowsta iyo sukurowsta. Boolisa-
-karaydhyadu waa kaarboohaydraytyo culays
-molikiyuulladoodu weyn yahay oo kakan.
-Tusaale ahaan: istaarj, istaarj xayawaan iyo
-selilows.
-kaarboon m.l (kiim.) Curiyaha koowaad
-ururka IV ee tusaha kalgalka curiyeyaasha.
-Kaarboonku xubin caan ah ayuu kaga jiraa
-maatarka nool. Sidaa awgled, iskudhisyo
-kaarboon ah; sida kaarbooneytyada (jeeso iyo
-irdib) iyo shidaalada foosil (dhuxul-dhagax,
-saliid iyo neef) iyo shidaallada ayaa laga
-dheegaa walxaha ku aroora noole.
-kaarboon hal-ogsaydh m.l (kiim.) Neef sun
-ah, olosha, midablaawe ah oo samaysanta
-marka kaarboonka lagu gubo meel ogsijiintu
-ku yar tahay (gubasho dhiman). Warshad
-ahaan, waxa lagu diyaariyaa ogsidhaynta
-kaarboon ama neefta dabiiciga ah, ama
-falgalka lagu magacaabo biyo-neefeed. Waa
-neef ah yareeye laxaad badan laguna
-isticmaalo cilmi-bireedka.
-kaarboon laba-ogsaydh m.l (kiim.) Neef aan
-ololin, midablaawe ah; urna aan lahayn oo
-samaysanta marka kaarboonka lagu gubo
-meel ogsijiintu ku badantahay. Neef-
-qaadashaduna way soo saartaa neeftaasi.
-Kaarboon
-laba-ogsaydhka
-ku
-jira
-atmosfeerku waa 0.03 % mug ahaan,
-dhirtuna waxay u rogtaa kaarboo-
-haydareytyo
-marka
-footoosintasisku
-dhacayo.
-kaarbuuno m.dh (-ooyin, m.l) Aalad batari ku
-shaqaysa oo gacanta lagu qabsado waxna lagu
-iftiimiyo; toosh. ld karbuuno.
+kaarboohaydrayt m.l (-tyo, m.dh) (kiim.) Mid ka mid ah koox iskudhisyo orgaanigga ah oo ku salaysan astaanta guud ee cx (H2 O). Karbohaydraytyada ugu sahlani waxa weeye sonkorta (sakaraydhyo) oo ay ka mid yihiin gulukowsta iyo sukurowsta. Boolisa-karaydhyadu waa kaarboohaydraytyo culays molikiyuulladoodu weyn yahay oo kakan. Tusaale ahaan: istaarj, istaarj xayawaan iyo selilows.
+
+kaarboon m.l (kiim.) Curiyaha koowaad ururka IV ee tusaha kalgalka curiyeyaasha. Kaarboonku xubin caan ah ayuu kaga jiraa maatarka nool. Sidaa awgled, iskudhisyo kaarboon ah; sida kaarbooneytyada (jeeso iyo irdib) iyo shidaalada foosil (dhuxul-dhagax, saliid iyo neef) iyo shidaallada ayaa laga dheegaa walxaha ku aroora noole.
+
+kaarboon-hal-ogsaydh m.l (kiim.) Neef sun ah, olosha, midablaawe ah oo samaysanta marka kaarboonka lagu gubo meel ogsijiintu ku yar tahay (gubasho dhiman). Warshad ahaan, waxa lagu diyaariyaa ogsidhaynta kaarboon ama neefta dabiiciga ah, ama falgalka lagu magacaabo biyo-neefeed. Waa neef ah yareeye laxaad badan laguna isticmaalo cilmi-bireedka.
+
+kaarboo-laba-ogsaydh m.l (kiim.) Neef aan ololin, midablaawe ah; urna aan lahayn oo samaysanta marka kaarboonka lagu gubo meel ogsijiintu ku badantahay. Neef-qaadashaduna way soo saartaa neeftaasi. Kaarboon laba-ogsaydhka ku jira atmosfeerku waa 0.03 % mug ahaan, dhirtuna waxay u rogtaa kaarboo-haydareytyo marka footoosintasisku dhacayo.
+
+kaarbuuno m.dh (-ooyin, m.l) Aalad batari ku shaqaysa oo gacanta lagu qabsado waxna lagu iftiimiyo; toosh. ld karbuuno.
+
 kaarid m.f.dh eeg kaar². ld kaar¹ (3).
-kaarotiin m.l (baay.) Xubin ka mid ah dirta
-midabsidayaasha kaarotinoydh. Tusaale
-ahaan waxa ka mid ah beta-kaarotiin oo
-midab u yeesha xididka daba casaha iyo
-laykobiin oo bislaysa tamaandhada. Alfa iyokabaabyood
-beta kaarotiin waxa laga helaa faytamiin A,
-marka xayawaanku dheef-shiido.
-kaarran f.mg4 (-naa, -nayd) Qof cartamay
-ahaansho.
-kaarranaan m.f.dh eeg kaarran. ld kaar-
-ranaansho.
+
+kaarotiin m.l (baay.) Xubin ka mid ah dirta midabsidayaasha kaarotinoydh. Tusaale ahaan waxa ka mid ah beta-kaarotiin oo midab u yeesha xididka daba casaha iyo laykobiin oo bislaysa tamaandhada. Alfa iyokabaabyood beta kaarotiin waxa laga helaa faytamiin A, marka xayawaanku dheef-shiido.
+
+kaarran f.mg4 (-naa, -nayd) Qof cartamay ahaansho.
+
+kaarranaan m.f.dh eeg kaarran. ld kaar-ranaansho.
+
 kaarranaansho m.l/dh ld kaaranaan.
-kaartabollaato m.dh (-ooyin, m.l) Warqad
-daliigyo leh oo araajida lagu qorto.
-kaarto m.dh (-ooyin, m.l) (juqr.) Khariidad
-nooc ay doontaba ha ahaatee; amase
-khariidad loogu talaggalay inay caawiso
-badmareennada.
-kaartoogaraafiyada m.dh (juqr.) Farshaxan-ka
-ama sayniska samaynta khariidadaha iyo
-kaartooyinka.
-kaas¹ mu.ti.l (kuwaas, w) Magacuyaal
-tilmaame oo lab, oo wax ama cid hadlaha ka
-fog lagu tilmaansado. Tus. “Kaas ayaa
-fiican”. ld kaa¹
-kaas² (-kaas) dk.ti.l Dibkabe tilmaame oo
-magac lab dib looga qodbo, oo wax ama cid
-hadlaha ka fog lagu tilmaansado. Tus.
-“Dukaankaas Cali baa leh”. ld kaa4.
+
+kaartabollaato m.dh (-ooyin, m.l) Warqad daliigyo leh oo araajida lagu qorto.
+
+kaarto m.dh (-ooyin, m.l) (juqr.) Khariidad nooc ay doontaba ha ahaatee; amase khariidad loogu talaggalay inay caawiso badmareennada.
+
+kaartoogaraafiyada m.dh (juqr.) Farshaxan-ka ama sayniska samaynta khariidadaha iyo kaartooyinka.
+
+kaas¹ mu.ti.l (kuwaas, w) Magacuyaal tilmaame oo lab, oo wax ama cid hadlaha ka fog lagu tilmaansado. Tus. “Kaas ayaa fiican”. ld kaa¹
+
+kaas² (-kaas) dk.ti.l Dibkabe tilmaame oo magac lab dib looga qodbo, oo wax ama cid hadlaha ka fog lagu tilmaansado. Tus. “Dukaankaas Cali baa leh”. ld kaa4.
+
 kaashad m.f.l eeg kaasho. ld kaashi.
+
 kaashi m.l ld kaashasho.
-kaasho f.g3 (-shaday, -shatay) Hawl wax u
-adeegsasho.
+
+kaasho f.g3 (-shaday, -shatay) Hawl wax u adeegsasho.
+
 kaatun m.l (-uummo, m.dh) ld kaatuun.
-kaatuun m.l (-uummo, m.dh) Shay ka
-samaysan badanaa macdan qaali ah oo qurux
-darteed faraha gacmaha loo gashado;
-marwad, faraati, fargashi. ld kaatun.
-kaawi¹ m.l 1. ld kaawiyad. 2. Qoray lagu
-calaamadeeyo meelaha shabaagta la dhigo.
-kaawi² f.g2 (-iyay, -isay) Shay adag mid ka
-jilicsan ku garaacid.
+
+kaatuun m.l (-uummo, m.dh) Shay ka samaysan badanaa macdan qaali ah oo qurux darteed faraha gacmaha loo gashado; marwad, faraati, fargashi. ld kaatun.
+
+kaawi¹ m.l 1. ld kaawiyad. 2. Qoray lagu calaamadeeyo meelaha shabaagta la dhigo.
+
+kaawi² f.g2 (-iyay, -isay) Shay adag mid ka jilicsan ku garaacid.
+
 kaawin m.f.dh eeg kaawi².
-kaawiyad m.dh (-do, m.) 1. Aalad dhuxul ama
-koronto kululeyso oo dharka la marmariyo,
-si jactadka looga bi'iyo. 2. ld kaawi¹.
+
+kaawiyad m.dh (-do, m.) 1. Aalad dhuxul ama koronto kululeyso oo dharka la marmariyo, si jactadka looga bi'iyo. 2. ld kaawi¹.
+
 kaawiyadayn m.f.dh eeg kaawiyadee.
-kaawiyadee f.g2 (-deeyay, -daysay) Wax
-kaawiyad jactad kaga bi'in.
-kaawiyadeysan f.mg4 (-snaa, -snayd) Wax la
-kaawiyadeeyay ahaansho
-kaawiyadeysnaan m.f.dh eeg kaawi-yadeysan.
-ld kaawiyadeysnaansho.
-kaawiyadeysnaansho m.l/dh ld kaawi-
-yadeysnaan.
-kaawo m.dh (-ooyin, m.l) Meesha laga qodo
-dhagaxa, guruuraxa, ciidda iwm oo wax lagu
-dhiso.
+
+kaawiyadee f.g2 (-deeyay, -daysay) Wax kaawiyad jactad kaga bi'in.
+
+kaawiyadeysan f.mg4 (-snaa, -snayd) Wax la kaawiyadeeyay ahaansho
+
+kaawiyadeysnaan m.f.dh eeg kaawi-yadeysan. ld kaawiyadeysnaansho.
+
+kaawiyadeysnaansho m.l/dh ld kaawi-yadeysnaan.
+
+kaawo m.dh (-ooyin, m.l) Meesha laga qodo dhagaxa, guruuraxa, ciidda iwm oo wax lagu dhiso.
+
 kaay¹ m.dh Meel wax lagu qariyo.
-kaay² f.g1 (-kaayay, -kaayday; -kaayi) Wax
-qarin. ld kay³.
-kaayaga¹ mu.lh.l (kuwayaga, w) magacuyaal
-lahaansho oo lab ah oo tilmaamaya wax
-annagu (qofka koowaad ee wadarta ah oo
-kuwa lala hadlayaa aynan ku jirin) aanu
-leenahay. Tus. “Baabuurkiinna, kaayaga ayaa
-ka weyn”. ld Kayaga¹,
-kaayaga²
-(-kaayaga)
-dk.lh.l Dibkabe
-lahaansho oo tilmaamaya wax annagu (qofka
-koowaad ee wadarta ah oo kuwa lala
-hadlayaa aynan ku jirin) aanu leenahay. Tus.
-“Dalkaayaga ayaa ka ballaaran dalkiinna”. ld
-kayaga2, kaayo², kayo².
+
+kaay² f.g1 (-kaayay, -kaayday; -kaayi) Wax qarin. ld kay³.
+
+kaayaga¹ mu.lh.l (kuwayaga, w) magacuyaal lahaansho oo lab ah oo tilmaamaya wax annagu (qofka koowaad ee wadarta ah oo kuwa lala hadlayaa aynan ku jirin) aanu leenahay. Tus. “Baabuurkiinna, kaayaga ayaa ka weyn”. ld Kayaga¹.
+
+kaayaga² (-kaayaga) dk.lh.l Dibkabe lahaansho oo tilmaamaya wax annagu (qofka koowaad ee wadarta ah oo kuwa lala hadlayaa aynan ku jirin) aanu leenahay. Tus. “Dalkaayaga ayaa ka ballaaran dalkiinna”. ld kayaga2, kaayo², kayo².
+
+
+
+
 kaaye m.l Meerto; kal; miile.
 kaayeysasho m.f.dh eeg kaayeyso. ld kaayeysi.
 kaayeysi m.l ld kaayeysasho.
