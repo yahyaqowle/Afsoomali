@@ -80,37 +80,42 @@ kaadir m.l (-rro, m.dh) ld kaadar.
 
 kaadiraac m.l.kh K. ah: dhicis yar oo aan cad iyo laf yeelan ee xinjir ah.
 
-kaadiraaci f.g2 (-iyay, -isay) Dhicis aan cad
-iyo laf toona laheyn dhicin.
-kaadiraacin m.f.dh eeg kaadiraaci. ld
-kaadiraacis.
+kaadiraaci f.g2 (-iyay, -isay) Dhicis aan cad iyo laf toona laheyn dhicin.
+
+kaadiraacin m.f.dh eeg kaadiraaci. ld kaadiraacis.
+
 kaadiraacis m.l ld kaadiraacin.
-kaadish f.mg1 (-dshay, -dshiday; -dshi)
-Kaadiyid.
-kaadishiil m.l Cudur keenna kaadida oo qofka
-gubta.
-kaadishir¹ m.l 1. Fal iyo asmo la akhiriyo si qof
-kaadidu ugu dhegto. 2. ld kaadishirid.
-kaadishir² f.g1 (-ray, -rtay) Fal iyo asmo cid
-ku akhriyid si kaadidu u qabato.
-kaadishirid m.f.dh eeg kaadishir². ld kaadishir¹
-(2).
-484
+
+kaadish f.mg1 (-dshay, -dshiday; -dshi) Kaadiyid.
+
+kaadishiil m.l Cudur keenna kaadida oo qofka gubta.
+
+kaadishir¹ m.l 1. Fal iyo asmo la akhiriyo si qof kaadidu ugu dhegto. 2. ld kaadishirid.
+
+kaadishir² f.g1 (-ray, -rtay) Fal iyo asmo cid ku akhriyid si kaadidu u qabato.
+
+kaadishirid m.f.dh eeg kaadishir². ld kaadishir¹ (2).
+
 kaadisokorow m.l ld kaadimacaan.
-kaadi-taran m.l (-no, m.dh) Organ wada qaba
-habdhisyada taranka iyo kaadi mareenka.
-kaadi-yaro m.dh (daaw.) Sameynta kaadida oo
-si aan caadi ahayn u yaraata.
+
+kaadi-taran m.l (-no, m.dh) Organ wada qaba habdhisyada taranka iyo kaadi mareenka.
+
+kaadi-yaro m.dh (daaw.) Sameynta kaadida oo si aan caadi ahayn u yaraata.
+
 kaadiyid m.f.dh eeg kaadi³. ld kaadin.
+
 kaadsad m.l ld kaadsasho.
-kaadsanla' f.mg4 (-'aa, -'ayd) Sugid la'aan, ku
-degdegid (wax).
-kaadsanla'aan m.f.dh eeg kaadsanla'. ld
-kaadsanla'aansho.
+
+kaadsanla' f.mg4 (-'aa, -'ayd) Sugid la'aan, ku degdegid (wax).
+
+kaadsanla'aan m.f.dh eeg kaadsanla'. ld kaadsanla'aansho.
+
 kaadsanla'aansho m.l/dh ld kaadsanla'aan.
-kaadsasho m.f.dh eeg kaadso. ld kaadsad,
-kaadsi.
+
+kaadsasho m.f.dh eeg kaadso. ld kaadsad, kaadsi.
+
 kaadshid m.f.dh eeg kaadish.
+
 kaadshii f.g2 (-iiyay, -iisay) Qof kaadi geyn.
 kaadshiin m.f.dh eeg kaadshii.
 kaadsi m.l ld kaadsasho.
