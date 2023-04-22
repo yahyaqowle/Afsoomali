@@ -900,9 +900,7 @@ kafaalo¹ m.l 1. Daryeel. 2. Cid masuuliyad- deeda oo la qaado.
 
 kafaalo² f.g3 (-aashay, -aalatay) 1. Wax daryeelid. 2. Wax mas'uuliyaddooda qaadid. 
 
-kafaaraggud m.l 1. (dii.) Bixinta la bixiyo 
-
-kafaaro la galay. 2. (dii.) Wax kafaaro laga dhigi karo ama geli kara ama guda. 
+kafaaraggud m.l 1. (dii.) Bixinta la bixiyo kafaaro la galay. 2. (dii.) Wax kafaaro laga dhigi karo ama geli kara ama guda. 
 
 kafaaraggudasho m.f.dh eeg kafaaraggudo. 
 
@@ -910,9 +908,7 @@ kafaaraggudo f.mg3 (-utay, -udatay) Kafaaro iska bixin.
 
 kafaaro m.dh (dii.) Wax Ilaah dartii loo sameeyo ama loo baxsho sida soon, sadaqo iwm oo gef ama dembi la falay daboola. 
 
-kafad m.dh (-do, m.l) 1. Saxanka miisaanka. 2. Qoriga doonta lagu wado afka hore ee ballaaran. 3. Dembiisha weyn ee fooxa. ld 
-
-kefed.  
+kafad m.dh (-do, m.l) 1. Saxanka miisaanka. 2. Qoriga doonta lagu wado afka hore ee ballaaran. 3. Dembiisha weyn ee fooxa. ld kefed.  
 
 kafaf f.mg1 (-faf, -ftay) Wax qoyan in yar engegid. 
 
@@ -928,9 +924,7 @@ kafan¹ m.dh (-fno, m.l) Marada cad oo meydka la aasayo lagu duubo. ld karfan¹.
 
 kafan² f.g1 (-fnay, -fantay; -fni) Maro cad ku duubid (meyd). ld karfan². 
 
-kafee f.g2 (-feeyay, -feysay) Wax deeqid, ama 
-
-ka fillaansho. 
+kafee f.g2 (-feeyay, -feysay) Wax deeqid, ama ka fillaansho. 
 
 kafeyn m.f.dh eeg kafee. 
 
@@ -938,15 +932,13 @@ kafnid m.f.dh eeg kafan². ld karfanid.
 
 kaftamid m.f.dh eeg kaftan². ld kaftan¹ (2). 
 
-kaftan¹ m.l 1. Hadal aan xumi lahayn oo qosol leh oo laba qof ama ka badani isdhaafsadaan. 
-
- 2. ld kaftamid. 
+kaftan¹ m.l 1. Hadal aan xumi lahayn oo qosol leh oo laba qof ama ka badani isdhaafsadaan. 2. ld kaftamid. 
 
 kaftan² f.mg1 (-amay, -antay; -ami) Hadal aan xumi lahayn oo maad leh isdhaafsasho (laba qof ama ka badan). 
 
 kaftandhable m.l Hadal dhab ah oo si kaftan ah loo gudbiyo. 
 
-kaftanlow m.l.kh Qof kaftan badan. 492 
+kaftanlow m.l.kh Qof kaftan badan.
 
 kafuufo m.dh 1. Dhibaato ka dhalata cunto la iska badiyey. 2. Gaajo; faqri. 
 
@@ -954,27 +946,19 @@ ka-goys m.l Ka-g. ah: weyl, nirig iwm oo naaska hooyadood ka go'ay.
 
 kahad m.l ld kahasho. 
 
-kahasho m.f.dh eeg kaho. ld kahad, kahsad, 
-
-kahsasho, kahsi¹. 
+kahasho m.f.dh eeg kaho. ld kahad, kahsad, kahsasho, kahsi¹. 
 
 kaho f.g3 (-haday, -hatay) Wax karaah-sasho. ld kahso. 
 
 kahortag m.l (daaw.) Hab walba oo looga hortago cudurrada, sida: tallaalka gawraca- tada iyo kixda, ama falooreynta oo looga hortago suuska ilkaha caruurta. 
 
-kahortagga-cudurrada m.l (daaw.) Qaybta dawada ee hawsheeda ugu weyn ay tahay ka hortagga cudurrada; waa qayb ballaaran oo shaqaaluhu ku hawlanyahay xalka mas'alado 
-
-ka dhexeeya tallaalka liddiga ku ah cudurrada la isqaadsiiyo sida gawracatada, kixda iwm. 
-
-kaneecada Ilaa helitaanka habab lagu baabi'iyo qaadayaasha (gudbiyayaasha) cudurrada, sida gudbisa deriskunoolka duumaada. 
+kahortagga-cudurrada m.l (daaw.) Qaybta dawada ee hawsheeda ugu weyn ay tahay ka hortagga cudurrada; waa qayb ballaaran oo shaqaaluhu ku hawlanyahay xalka mas'alado ka dhexeeya tallaalka liddiga ku ah cudurrada la isqaadsiiyo sida gawracatada, kixda iwm. kaneecada Ilaa helitaanka habab lagu baabi'iyo qaadayaasha (gudbiyayaasha) cudurrada, sida gudbisa deriskunoolka duumaada. 
 
 kahsad m.l ld kahasho. 
 
 kahsi¹ m.l ld kahasho. 
 
-kahsi² m.l (daaw.) Xaalad uu jidhku ku soo saaro jawaab ah kabbax an caadi ahayn qaar 
-
-ka mid ah lid jidh dhaliyayaasha oo la yidhaahdo allarjiino, kaas waxa ka mid ah boodhka, faxalka, cuntooyinka qaarkood iyo dawooyinka ama dhogorta. 
+kahsi² m.l (daaw.) Xaalad uu jidhku ku soo saaro jawaab ah kabbax an caadi ahayn qaar ka mid ah lid jidh dhaliyayaasha oo la yidhaahdo allarjiino, kaas waxa ka mid ah boodhka, faxalka, cuntooyinka qaarkood iyo dawooyinka ama dhogorta. 
 
 kahsitire m.l (-ayaal, ml./m.dh) (daaw.) Dawo joojisa falka “istamiinka” ayadoo dabooleysa meelaha ay qabsato. 
 
@@ -984,9 +968,7 @@ kajamid m.f.dh eeg kajan².
 
 kajan¹ m.l Hadal beeni ku jirto oo kaftan iyo ciyaar u eg. 
 
-kajan² f.mg1 (-amay, -antay; -ami) Ku k.: cid 
-
-ku jeesjeesid. 
+kajan² f.mg1 (-amay, -antay; -ami) Ku k.: cid ku jeesjeesid. 
 
 kakabi f.g2 (-iyay, -isay) 1. Wax dirqi meel ciriiriyoon ku gelin. 2. Ku k.: xoolo iwm cayrin. 
 
@@ -1000,9 +982,7 @@ kakanaan m.f.dh eeg kakan. ld kaka-naansho.
 
 kakanaansho m.l/dh ld kakanaan. 
 
-kakanaanta beerka m.dh (daaw.) Xaalad beerku buko oo ay ka dhex sameysmaan 
-
-karrimo sooh mayraxeed ah kuwaasoo ay ku dhex yaallaan jasiirado ka sameeysan unugyo soo badanaya oo beddalaya kuwi dhintay.kalafujin Beerku wuxu yeeshaa midab hurdi madow ah iyo kuus-kuus. 
+kakanaanta-beerka m.dh (daaw.) Xaalad beerku buko oo ay ka dhex sameysmaan karrimo sooh mayraxeed ah kuwaasoo ay ku dhex yaallaan jasiirado ka sameeysan unugyo soo badanaya oo beddalaya kuwi dhintay.kalafujin Beerku wuxu yeeshaa midab hurdi madow ah iyo kuus-kuus. 
 
 kakoon m.l (-nno, m.dh) Sacab aan buuxin. 
 
@@ -1012,9 +992,7 @@ kal² m.dh (-lo, m.l) 1. Hiyi; laab; qalbi. 2. Lafaha dhudhammada midkood. 3. Ti
 
 kal³ m.dh (jool.) Qayb ka mid ah taxanaha waqti jiyoolojiyeedka, oo ah in ka mid ah waaga, kal naftigiisa waxaa loo sii qayb- qaybiyaa saman-saman. 
 
-kala qr.fk 1. Qurub tilmaamaya wax ka durkid ama ka soocmid. Tus. “Way kala tegeen. 
-
-kala Kalluunka yaa kala yaqaan?”. 2. Qurub tilmaamaya ka gooni ahaansho. Tus. “Way fiicanyihiin”. 
+kala qr.fk 1. Qurub tilmaamaya wax ka durkid ama ka soocmid. Tus. “Way kala tegeen. kala Kalluunka yaa kala yaqaan?”. 2. Qurub tilmaamaya ka gooni ahaansho. Tus. “Way fiicanyihiin”. 
 
 kalaamidiya m.dh (daaw.) Jeermi u dhexeeya fiiruska iyo baktiiriyada oo jirro u keena dadka iyo shimbiraha cudurrada shimbiraha oo ay keento kalaamidiyadu waxaa loo gudbin karaa dadka, cudurka indhaha ee tarakooma waxa keena “kalaamidiya trachomatis”. 
 
