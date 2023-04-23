@@ -1018,9 +1018,7 @@ kalabbarid m.f.dh eeg kalabbar².
 
 kalabbarmid m.f.dh eeg kalabbaran¹. 
 
-kalabbarnaan m.f.dh eeg kalabbaran². ld 
-
-kalabbarnaansho.  
+kalabbarnaan m.f.dh eeg kalabbaran². ld kalabbarnaansho.  
 
 kalabbarnaansho m.l ld kalabbarnaan. 
 
@@ -1034,27 +1032,19 @@ kalabbax² m.l (kiim.) Falgalka kiimikaad ee iskudhis u kala jabiya iskudhisyo k
 
 kalabbax³ f.g1 (-xay, -xday) 1. Laba shay oo isku jiray kala miirmid. 2. Laba shey ama ka badan oo isku jiray kala furmid. 3. Derin, maro iwm kala siibmid. 4. Kala tegid. 
 
-kalabbaxsan f.mg1 (-naa, -nayd) Wax 
+kalabbaxsan f.mg1 (-naa, -nayd) Wax kalabbaxay ahaansho. 
 
-kalabbaxay ahaansho. 
+kalabbaxsanaan m.f.dh eeg kalabbaxsan. ld kalabbaxsanaansho.  
 
-kalabbaxsanaan m.f.dh eeg kalabbaxsan. ld 
-
-kalabbaxsanaansho.  Kalabbaxsanaansho m.l/dh ld kalabbax- sanaan. 
+Kalabbaxsanaansho m.l/dh ld kalabbax- sanaan. 
 
 kalabbaxsasho m.f.dh eeg kalabbaxso. 
 
-kalabbaxso f.g3 (-saday, -satay) Wax duubnaa 
-
-kala fidsasho. 
+kalabbaxso f.g3 (-saday, -satay) Wax duubnaa kala fidsasho. 
 
 kalabbayr m.l (-ro, m.dh) Meel laba dhabbe ama xarriiqood isku weydaartaan. 
 
-kalabbixi f.g2 (-iyay, -isay) 1. Wax isku jirey 
-
-kala saarid. 2. Badar shiidan budo iyo jariir u 
-
-kala saarid. 
+kalabbixi f.g2 (-iyay, -isay) 1. Wax isku jirey kala saarid. 2. Badar shiidan budo iyo jariir u kala saarid. 
 
 kalabbixid m.f.dh eeg kalabbax². 
 
@@ -1062,25 +1052,17 @@ kalabbixin m.f.dh eeg kalabbixi. ld ka-labbixis.
 
 kalabbixis m.l ld kalabbixin. 
 
-kalabbixiye m.l (-yayaal, m.l/dh) (c.nafl.) Noole ka hela tamarta burburka kiimikeed ee noolayaal dhintay ama qashinka dhirta. 
-
- Tusaale ahaan: dirxi dhuleed, fangiga iyo bakteeriya fara badan. 
+kalabbixiye m.l (-yayaal, m.l/dh) (c.nafl.) Noole ka hela tamarta burburka kiimikeed ee noolayaal dhintay ama qashinka dhirta. Tusaale ahaan: dirxi dhuleed, fangiga iyo bakteeriya fara badan. 
 
 kalabbood¹ m.l Khilaaf; ismaandhaaf. 
 
-kalabbood² f.mg1 (-day, -dday) 1. Figrad, dood iwm isku khilaafid. 2. Bur iyo biyo u 
-
-kala bixid (caano) 
+kalabbood² f.mg1 (-day, -dday) 1. Figrad, dood iwm isku khilaafid. 2. Bur iyo biyo u kala bixid (caano) 
 
 kalabboodid m.f.dh eeg kalabbood². 
 
-kalabboodsan f.mg4 (-naa, -nayd) Wax 
+kalabboodsan f.mg4 (-naa, -nayd) Wax kalabbooday ahaansho. 
 
-kalabbooday ahaansho. 
-
-kalabboodsanaan m.f.dh eeg kalabboodsan. ld 
-
-kalaboodsanaansho.  
+kalabboodsanaan m.f.dh eeg kalabboodsan. ld kalaboodsanaansho.  
 
 kalabboodsanaansho m.l ld kalabood-sanaan. 
 
@@ -1088,13 +1070,11 @@ kala-dheereynta-dhalmada m.dh (daaw.) Ka hortagidda uur qaadidda lama filaanka a
 
 kala-durug-qaaradeed m.l (jool.) Kala sikashada gudubka qaybo ka mid ah qaaradihii hore, kuwaas oo sameeyay dhul- weynaha qaaradaha dunida ee maanta. 
 
-kala-faa'iidaysi m.l (baay.) Xidhiidhka ka dhexeeya laba ama in ka badan oo sinjiyo ah, 
-
-kaas oo labaduba ka faa'iidaysanayaan. Mararka qaarkood labada sinji midna ka kale la'aanti ma noolaan karo, mararka qaarkoodna midba ka kale la'aantii wuu noolaan karaa. 
+kala-faa'iidaysi m.l (baay.) Xidhiidhka ka dhexeeya laba ama in ka badan oo sinjiyo ah, kaas oo labaduba ka faa'iidaysanayaan. Mararka qaarkood labada sinji midna ka kale la'aanti ma noolaan karo, mararka qaarkoodna midba ka kale la'aantii wuu noolaan karaa. 
 
 kalafuji f.g2 (-iyay, -isay) Wax isku dhegganaa labo u kala qaadid. 
 
-kalafujin m.f.dh eeg kalafuji. ld kalafujis. 493kalafujis 
+kalafujin m.f.dh eeg kalafuji. ld kalafujis.
 
 kalafujis m.l ld kalafujin. 
 
@@ -1108,21 +1088,15 @@ kalafuqsad m.l ld kalafuqsasho.
 
 kalafuqsan f.mg4 (-naa, -nayd) Wax kala fuqay ahaansho. 
 
-kalafuqsanaan m.f.dh eeg kalafuqsan. ld 
-
-kalafuqsanaansho.  
+kalafuqsanaan m.f.dh eeg kalafuqsan. ld kalafuqsanaansho.  
 
 kalafuqsanaansho m.l ld kalafuqsanaan. 
 
-kalafuqsasho m.f.dh eeg kalafuqso. ld 
-
-kalafuqsad, kalafuqsi. 
+kalafuqsasho m.f.dh eeg kalafuqso. ld kalafuqsad, kalafuqsi. 
 
 kalafuqsi m.l ld kalafuqsasho. 
 
-kalafuqso f.g3 (-saday, -satay) Wax is-haystay 
-
-kala dillaacsasho. 
+kalafuqso f.g3 (-saday, -satay) Wax is-haystay kala dillaacsasho. 
 
 kala-furan m.l (kiim.) Dumid ku dhacda molikuyuul una kala furta laba molikuyuul, laba atam, laba xididshe ama laba ayoon. 
 
@@ -1130,21 +1104,15 @@ kalagal m.l Meesha ay cadduunka iyo buuraleydu iska galaan.
 
 kalaggoyn m.dh (xis.) Asto (-). Xisaabfalka labaale ee lagu helo faraqa u dhexeeya laba tiro ama xaddi. Kalaggoyntu waa waydaarka isugeynta. 
 
-kalaggoys m.l (-syo, m.dh) 1. Labo xubnood oo lafo leh meesha ay iska haystaan; laabato. 
-
- 2. Laba waddo meel ay iska gooyaan. 
+kalaggoys m.l (-syo, m.dh) 1. Labo xubnood oo lafo leh meesha ay iska haystaan; laabato. 2. Laba waddo meel ay iska gooyaan. 
 
 kalaggurad m.l ld kalaggurasho. 
 
-kalaggurasho m.f.dh eeg kalagguro. ld 
-
-kalaggurad.  
+kalaggurasho m.f.dh eeg kalagguro. ld kalaggurad.  
 
 kalagguris m.dh ld kalagurid. 
 
-kalagguro f.g3 (-rtay, -ratay) 1. Wax isku jiray ama isu dhowaa kala qaadasho. 2. Shax, jare iwm oo la kala badin waayey kala qaadasho. 
-
- 3. Laba wax oo foodda is kula jiray dib u kala fogaasho. 
+kalagguro f.g3 (-rtay, -ratay) 1. Wax isku jiray ama isu dhowaa kala qaadasho. 2. Shax, jare iwm oo la kala badin waayey kala qaadasho. 3. Laba wax oo foodda is kula jiray dib u kala fogaasho. 
 
 kalagguur¹ m.l 1. Labo reer kala guurid-dooda 2. K. ah: isbeddelka xilliyada, marxaladaha iwm. 
 
@@ -1152,17 +1120,13 @@ kalagguur² m.l 1. (daaw.) Cudur caruurta ku dhaca oo madax weyneeya. 2. (baay.)
 
 kalagguur³ f.mg1 (-ray, -rtay) 1. Laba reerood ama qof oo wada degganaa midba dhan u guurid. 2. Xilli isbeddelid. 
 
-kalagguurid m.f.dh eeg kalagguur³. ld 
-
-kalagguuris.  
+kalagguurid m.f.dh eeg kalagguur³. ld kalagguuris.  
 
 kala-hanqaaran¹ f.mg1 (-rmay, -rantay; -rmi) Wax kala lumay oo aan dhammayn noqosho. 
 
-kala-hanqaaran² f.mg4 (-rnaa, -rnayd) Wax 
+kala-hanqaaran² f.mg4 (-rnaa, -rnayd) Wax kala lumay oo aan dhammayn ahaansho. 
 
-kala lumay oo aan dhammayn ahaansho. 
-
-kala-hanqaarmid m.f.dh eeg kalahan-qaaran¹. 494 
+kala-hanqaarmid m.f.dh eeg kalahan-qaaran¹.
 
 kala-hanqaarnaan m.f.dh eeg kalahan-qaaran². ld kala-hanqaarnaansho. 
 
@@ -1170,65 +1134,45 @@ kala-hanqaarnaansho m.l/dh ld kalahan- qaarnaan.
 
 kala-jaad m.l.kh K. ah: ka kooban noocyo kala geddisan. 
 
-kala-jeexid m.dh Jeexid ama qalid noole, si loo muujiyo anatamiga xubnihiisa had iyo jeerna waxa loo adeegsadaa xirfad ahaan iyo aqoon 
-
-korodhsi ama baadhis cilmi ah. 
+kala-jeexid m.dh Jeexid ama qalid noole, si loo muujiyo anatamiga xubnihiisa had iyo jeerna waxa loo adeegsadaa xirfad ahaan iyo aqoon korodhsi ama baadhis cilmi ah. 
 
 kala-kaan m.l (kiim.) Wax la xidhiidha in ka badan hal weji. Iskujir kala kaan ah, tusaale ahaan, wuxuu ka koobanyahay laba ama dhowr weji oo kala muuqda. 
 
-kalaqaad¹ m.l 1. Bushimo, baalasha, indha-ha, iwm oo isku dhegganaa oo la kala fogeeyo. 
+kalaqaad¹ m.l 1. Bushimo, baalasha, indha-ha, iwm oo isku dhegganaa oo la kala fogeeyo. 2. ld kalaqaadid. 
 
- 2. ld kalaqaadid. 
-
-kalaqaad² f.g1 (-day, -dday) 1. Wax isku jirey 
-
-kala soocid. 2. Af, indho iwm kala furid. 
+kalaqaad² f.g1 (-day, -dday) 1. Wax isku jirey kala soocid. 2. Af, indho iwm kala furid. 
 
 kalaqaadid m.f.dh eeg kalaqaad². ld kalaqaad¹ (2). 
 
 kala-rog m.l (-gyo, m.dh) (juqr.) Xariiq xuduudeed kacsan oo kala soocda durdurrada waaweyn kuwaasoo laag u ah saxan webiyo kalageddisan. 
 
-kalasaar f.g1 (-ray, -rtay) 1. Wax isku jirey 
-
-kala soocid. 2. Hadal, fikrad iwm oo la garan waayey caddeyn. 3. U gar qaybin (cid). 
+kalasaar f.g1 (-ray, -rtay) 1. Wax isku jirey kala soocid. 2. Hadal, fikrad iwm oo la garan waayey caddeyn. 3. U gar qaybin (cid). 
 
 kalasaarid m.f.dh eeg kalasaar. 
 
-kalasarree f.mg2 (-reeyay, -reysay) 1. Wax, wax kale korkiisa saaran ahaansho. 2. Qof, qof kale ka derejo sarreeya, ahaansho. 
+kalasarree f.mg2 (-reeyay, -reysay) 1. Wax, wax kale korkiisa saaran ahaansho. 2. Qof, qof kale ka derejo sarreeya, ahaansho. 3. Waxaan isku dherer ahayn ahaansho (dhul). 
 
- 3. Waxaan isku dherer ahayn ahaansho (dhul). 
-
-kalasarreyn¹ m.f.dh eeg kalasarree. ld 
-
-kalasarreys.  
+kalasarreyn¹ m.f.dh eeg kalasarree. ld kalasarreys.  
 
 kalasarreyn² m.dh (juqr.) Faraqyada kac- sanaanta meel kasta oo dhulka dushiisa ka mid ah. 
 
 kalasarreys m.l ld kalasarreyn. 
 
-kalasooc¹ m.l 1. Wax kala jaad ah oo isku darsan oo intii is lehba gooni loo saaro. 2. ld 
-
-kalasoocid¹.  
+kalasooc¹ m.l 1. Wax kala jaad ah oo isku darsan oo intii is lehba gooni loo saaro. 2. ld kalasoocid¹.  
 
 kalasooc² f.g1 (-cay, -cday) Wax kala jaad ah oo isku darsan intii is lehba gooni u saarid. 
 
 kalasoocan¹ f.mg1 (-cmay, -cantay; -cmi) Wax isku jaad ahaa oo la kalasaarey noqosho. 
 
-kalasoocan² f.mg4 (-cnaa, -cnayd) Wax la 
-
-kalasaaray ama la kala gooyay ahaansho. 
+kalasoocan² f.mg4 (-cnaa, -cnayd) Wax la kalasaaray ama la kala gooyay ahaansho. 
 
 kalasoocid¹ m.f.dh eeg kalasooc². ld kalasooc¹ (2). 
 
-kalasoocid²  m.dh (baay.) Habaynta noolayaasha iyada oo loo kala qaybinayo 
-
-kooxo taxane ah, laguna salaynayo fisiyoolajigooda, anatamigooda, bayokii-kalkulas miko ahaan ama xidhiidho kale oo ka dhexeeya. 
+kalasoocid²  m.dh (baay.) Habaynta noolayaasha iyada oo loo kala qaybinayo kooxo taxane ah, laguna salaynayo fisiyoolajigooda, anatamigooda, bayokii-kalkulas miko ahaan ama xidhiidho kale oo ka dhexeeya. 
 
 kalasoocmid m.f.dh eeg kalasoocan¹. 
 
-kalasoocnaan m.f.dh eeg kalasoocan². ld 
-
-kalasoocnaansho.  
+kalasoocnaan m.f.dh eeg kalasoocan². ld kalasoocnaansho.  
 
 kalasoocnaansho m.l/dh ld kalasoocnaan. 
 
@@ -1238,9 +1182,7 @@ kalatag² f.mg1 (-gay, -gtay; -tegi) 1. Wax wada joogay ama meel ku wada dhaqmay
 
 kalategid m.f.dh eeg kalatag². ld kalatag¹. 
 
-kalax m.l (-xyo, m.dh) 1. Weel badanaa qori 
-
-ka sameysan oo biyaha lagu cabbo. 2. Bocool weyn oo berriga laga helo. 
+kalax m.l (-xyo, m.dh) 1. Weel badanaa qori ka sameysan oo biyaha lagu cabbo. 2. Bocool weyn oo berriga laga helo. 
 
 kalaxayad m.l (fiis.) U kalabbaxa dhud ileys ee dhudo midabeysan oo u baaha si ay u sameeyaan muuqaal jeegaan. 
 
@@ -1250,9 +1192,7 @@ kalaxayo f.mg3 (-yday, -ytay) Aryo isku jira oo xeroonaya ayadoo ayan cidi kala 
 
 kalaxigsad m.l ld kalaxigsasho. 
 
-kalaxigsasho m.f.dh eeg kalaxigso. ld 
-
-kalaxigsad, kalaxigsi. 
+kalaxigsasho m.f.dh eeg kalaxigso. ld kalaxigsad, kalaxigsi. 
 
 kalaxigsi m.l ld kalaxigsasho. 
 
@@ -1262,9 +1202,7 @@ kalbaa m.l Caano lo'aad oo fadhi ah oo inta la adkeeyey biyihii laga miiray.
 
 kalbad m.dh ld kelbed. 
 
-kalbax¹ m.l 1. K. ah: qof daacad ah. 2. ld 
-
-kalbixid.  
+kalbax¹ m.l 1. K. ah: qof daacad ah. 2. ld kalbixid.  
 
 kalbax² f.mg1 (-xay, -xday; -bixi) 1. Bila dhameysad. 2. Si niyad furan ula hadlid (cid). 
 
@@ -1292,17 +1230,13 @@ kalgacal m.l Rabitaan iyo qaddarin qoto dheer oo cid loo hayo. ld kalgacayl.
 
 kalgacayl m.l ld kalgacal. 
 
-kalgal m.l (-llo, m.dh) Habka ay curiyayaasha 
-
-kiimikadeed ay u nidamsan-yihiin. 
+kalgal m.l (-llo, m.dh) Habka ay curiyayaasha kiimikadeed ay u nidamsan-yihiin. 
 
 kalhoraad m.l (-dyo, m.dh) Dhammaadka gamashiga, waqti ugu horreeya waraabka xoolaha. 
 
 kalhuuris¹ m.l (daaw.) Muddada u dhexeysa marka qof jeermi qaado iyo marka lagu arko astaanta ugu horreysa ee cudurka. 
 
-kalhuuris² m.dh (-syo, m.dh) Xilliga u dhexeeya marka ukunta la dhalo ilaa inta ay 
-
-ka dillaacayso. 
+kalhuuris² m.dh (-syo, m.dh) Xilliga u dhexeeya marka ukunta la dhalo ilaa inta ay ka dillaacayso. 
 
 kali m.dh ld keli². 
 
@@ -1316,9 +1250,7 @@ kaliil m.dh (-lo, m.l) Xilliga roobka gu' bilawdo ama roobka dayreed oo hawadu a
 
 kali-talis m.l (siyaa.) Dawlad keli talis ah, waa nidaam dawladeed ee xisbi keliya waddanka xukumo, oo aan u oggoleyn kooxo ka soo horjeesta. 
 
-kalitashad m.l Dabeecad qof leeyahay oo aan cid la tashan. ld kalitashi, kelitashad, 
-
-kelitashi.  
+kalitashad m.l Dabeecad qof leeyahay oo aan cid la tashan. ld kalitashi, kelitashad, kelitashi.  
 
 kalitashi m.l ld kalitashad. 
 
@@ -1338,19 +1270,15 @@ kalkoon m.dh Miro yicibeed oo dhilan.
 
 kalkoosh m.l Suun ballaaran oo xersi ka lusha oo dhallinta shirta ciyaartaa qoorta ku xirtaan. 
 
-kalkulas m.dh (xis.) Laan ka mid ah xisaabta oo lagu barto xigidda iyo abyinaynta fansaarada iyo mawaadiicda la xiriira. Waxaana loo 495kalkulas-abyineed qaybiyaa kalkulas abyineed iyo kalkulas xigsinayd. 
+kalkulas m.dh (xis.) Laan ka mid ah xisaabta oo lagu barto xigidda iyo abyinaynta fansaarada iyo mawaadiicda la xiriira. Waxaana loo qaybiyaa kalkulas abyineed iyo kalkulas xigsinayd. 
 
-kalkulas-abyineed m.dh (xis.) Qayb ka mid ah 
-
-kalkulaska ee lagu barto abyinaynta iyo adeegsigiisa. Waxa lagu dabaqaa raadinta bededka, mugagga, dhererrada xoodka ama furfurista xigsineed. 
+kalkulas-abyineed m.dh (xis.) Qayb ka mid ah kalkulaska ee lagu barto abyinaynta iyo adeegsigiisa. Waxa lagu dabaqaa raadinta bededka, mugagga, dhererrada xoodka ama furfurista xigsineed. 
 
 kalkulas-xigsineed m.dh (xis.) Waxa ay la xiriirta dhakhsaha isbeddelka ee fansaaro marka loo eego isbeddellada ku dhaca doorsoomaha madax bannaan. Waxa ay ka soo ifbaxday dhibatooyinka la xiriira soo saaridda taabteyaasha xoodka. 
 
 kallah¹ m.l Ka tegidda aroor hore, meel laga tago; jarmaad. ld kallahaad, kallaho. 
 
-kallah² f.mg1 (-hay, -hday) Aroorta hore meel 
-
-ka tegid. 
+kallah² f.mg1 (-hay, -hday) Aroorta hore meel ka tegid. 
 
 kallahaad m.dh ld kallah¹. 
 
@@ -1360,9 +1288,7 @@ kallaho m.dh ld kallah¹.
 
 kallahsan f.mg4 (-naa, -nayd) Wax aroor hore soconaya ahaansho. 
 
-kallahsanaan m.f.dh eeg kallahsan. ld 
-
-kallahsanaansho.  
+kallahsanaan m.f.dh eeg kallahsan. ld kallahsanaansho.  
 
 kallahsanaansho m.l/dh ld kallahsanaan. 
 
@@ -1372,9 +1298,7 @@ kalleeti² f.mg1 (-iyay, -iday; -iyi) Ku k.: kaadi ama wax la mid ah, oo si gani
 
 kalleetiyid m.f.dh eeg kalleeti². 
 
-kalli m.l (c.nafl.) Dhisme ka kooban dhuumo 
-
-kuwaas oo gudbiya dareerayaasha. Dhinaca dhirta dareerayaashu waa biyo, milanno ka samaysan cusbooyin aan orgaanik ahayn ama milanno cunto ah. Dhinaca xayawaanka dareerayaashu inta badan waa dhiig, ama dhiig iyo limf dhinaca lafdhabarleyda. 
+kalli m.l (c.nafl.) Dhisme ka kooban dhuumo kuwaas oo gudbiya dareerayaasha. Dhinaca dhirta dareerayaashu waa biyo, milanno ka samaysan cusbooyin aan orgaanik ahayn ama milanno cunto ah. Dhinaca xayawaanka dareerayaashu inta badan waa dhiig, ama dhiig iyo limf dhinaca lafdhabarleyda. 
 
 kallif¹ m.l Wax fulintoodu ay dhib tahay. 
 
@@ -1388,13 +1312,11 @@ kalloorad m.dh (-do, m.l) Weel macdan ka samaysan sal ballaaran, af dhuuban iyo 
 
 kalluumaysad m.l ld kalluumaysasho. 
 
-kalluumaysasho m.f.dh eeg kalluumayso. ld 
-
-kalluumaysad, kalluumaysi. 
+kalluumaysasho m.f.dh eeg kalluumayso. ld kalluumaysad, kalluumaysi. 
 
 kalluumaysato m.dh.u Dad noloshoodu ku xiran tahay kalluumeysiga; kalluunsato. 
 
-kalluumaysi m.l ld kallumaysasho. 496 
+kalluumaysi m.l ld kallumaysasho. 
 
 kalluumayso f.mg3 (-stay, -satay) Kalluun dabasho. 
 
@@ -1402,27 +1324,19 @@ kalluun m.l.u (c.nafl.) Nafley dhiig qabow leh oo jaadad badan, wuxuu leeyahay l
 
 kalmoon m.dh Miro yicibeed oo dhilan. 
 
-kalnugeyl m.l 1. Niyad dabacsanaan raxmadi 
+kalnugeyl m.l 1. Niyad dabacsanaan raxmadi ku jirto. 2. Fuleynimo. 3. Adkaysi yari. 
 
-ku jirto. 2. Fuleynimo. 3. Adkaysi yari. 
-
-kalnuglaan m.l/dh eeg kalnugul. ld 
-
-kalnuglaansho.  
+kalnuglaan m.l/dh eeg kalnugul. ld kalnuglaansho.  
 
 kalnuglaansho m.l/dh ld kalnuglaan. 
 
-kalnugul f.mg4 (-glaa, -glayd) 1. Wax niyad debecsan oo raxmad badan ahaansho. 
-
- 2. Wax cabsi badan ahaansho (qof). 3. Wax adkaysi yar ahaansho (qof). 
+kalnugul f.mg4 (-glaa, -glayd) 1. Wax niyad debecsan oo raxmad badan ahaansho. 2. Wax cabsi badan ahaansho (qof). 3. Wax adkaysi yar ahaansho (qof). 
 
 kaloox m.l Bocool. 
 
 kalsaar m.dh Haan weyn oo marka la rarayo horay la marinayo; horaad. 
 
-kalsamaan m.f.dh eeg kalsan. ld kalsamaansho, 
-
-kalsami.  
+kalsamaan m.f.dh eeg kalsan. ld kalsamaansho, kalsami.  
 
 kalsamaansho m.l/dh ld kalsamaan. 
 
@@ -1430,17 +1344,11 @@ kalsami m.dh Daacadnimo iyo uurfayoobi wax loo hayo. ld kalsamaan.
 
 kalsan f.mg4 (-naa, -nayd) Wax laabtiisu deggan tahay oo aan shiddo ku jirin ahaansho. 
 
-kalshiyam-side m.l (-dayaal, m.l/dh) (jool.) K. ah: wax uu ku jiro saami weyn oo kaalshiyam 
+kalshiyam-side m.l (-dayaal, m.l/dh) (jool.) K. ah: wax uu ku jiro saami weyn oo kaalshiyam kaarboonayt ah; badanaa, waxaa lagu istcmalaa dhadhaabaha iyo ciidda. 
 
-kaarboonayt ah; badanaa, waxaa lagu istcmalaa dhadhaabaha iyo ciidda. 
+kalsoon f.mg4 (-naa, -nayd) Ku k.: aan dareen ka qabin ama aaminsan ahaansho. 
 
-kalsoon f.mg4 (-naa, -nayd) Ku k.: aan dareen 
-
-ka qabin ama aaminsan ahaansho. 
-
-kalsoonaan  m.f.dh eeg kalsoon. ld 
-
-kalsoonaansho, kalsooni. 
+kalsoonaan  m.f.dh eeg kalsoon. ld kalsoonaansho, kalsooni. 
 
 kalsoonaansho m.l/dh ld kalsoonaan. 
 
@@ -1482,9 +1390,7 @@ kamandhuur¹ m.l ld kamandhuurid.
 
 kamandhuur² f.mg1 (-ray, -rtay) Si foolxun u fadhiyid. 
 
-kamandhuurid m.f.dh eeg kamandhuur². ld 
-
-kamandhuur¹.  
+kamandhuurid m.f.dh eeg kamandhuur². ld kamandhuur¹.  
 
 kamas m.dh Inta u dhexeysa koodka iyo sanqaroorka oo ku beegan indhaha oo aad u godan. 
 
@@ -1508,9 +1414,7 @@ kamiinasho m.f.dh eeg kamiino.
 
 kamiinjebi f.mg2 (-iyay, -isay) Neef ooman biyo ku qaboobid 
 
-kamiinjebin m.f.dh eeg kamiinjebi. ld 
-
-kamiinjebis.  
+kamiinjebin m.f.dh eeg kamiinjebi. ld kamiinjebis.  
 
 kamiinjebis m.l ld kamiinjebin. 
 
@@ -1524,9 +1428,7 @@ kamma'id m.f.dh eeg kamma'². ld kama'id.
 
 kammil f.g1 (-ilay, -ishay) ld kaamil². 
 
-kammilan¹ f.mg1 (-lmay, -lantay; -lmi) ld 
-
-kaamilan¹.  
+kammilan¹ f.mg1 (-lmay, -lantay; -lmi) ld kaamilan¹.  
 
 kammilan² f.mg4 (-lnaa, -lnayd) ld kaa- milan². 
 
@@ -1540,19 +1442,13 @@ kammilnaansho m.l/dh ld kaamilnaan.
 
 kammudbixi f.g2 (-iyay, -isay) Ka k.: waran iwm wax ka dusin. 
 
-kammudbixin m.f.dh eeg kammudbixi. ld 
-
-kammudbixis.  
+kammudbixin m.f.dh eeg kammudbixi. ld kammudbixis.  
 
 kammudbixis m.l ld kammudbixin. 
 
-kamuun m.dh Nagaar laamo badan, ubaxiisuna guduud iyo caddaan yahay. 
+kamuun m.dh Nagaar laamo badan, ubaxiisuna guduud iyo caddaan yahay. Wuxuu leeyahay miro dhuudhuuban oo leh iniinyo udgoon oo cunnadana lagu darsado dawana laga dhigto. 
 
- Wuxuu leeyahay miro dhuudhuuban oo leh iniinyo udgoon oo cunnadana lagu darsado dawana laga dhigto. 
-
-kan¹ m.l (kaman, m.l) Baruur fuusha kelyaha 
-
-korkooda.  
+kan¹ m.l (kaman, m.l) Baruur fuusha kelyaha korkooda.  
 
 kan² mu.ti.l (kuwan, w) Magacuyaal tilmaame oo lab, oo wax ama cid hadlaha u dhow lagu tilmaansado. Tus. “Waa kan ninka qoray buugga”. ld ka¹ 
 
@@ -1570,9 +1466,7 @@ kanguuro m.dh.u (c. nafl.) Naasley lugaha dambe ku socota, uurka ku leh kiish ay
 
 kaniisad m.dh (-do, m.l) Meel dhisan oo ay masiixiyiintu wax ku caabudaan. 
 
-kanjab¹ m.l Cudur ku dhaca xoolaha aad u cayila oo burburiya baruurta loo yaqaan 
-
-kanka.  
+kanjab¹ m.l Cudur ku dhaca xoolaha aad u cayila oo burburiya baruurta loo yaqaan kanka.  
 
 kanjab² f.mg1 (-bay, -btay) Cayil dartiis u dhimasho. 
 
@@ -1588,23 +1482,17 @@ kankoon m.l Wax sida kubbadda u wareegsan ama qaab u eg leh.
 
 kankoonsan f.mg4 (-naa, -nayd) Wax wareegsan ahaansho. 
 
-kankoonsanaan 497kankoonsanaan m.f.dh eeg kankoonsan. ld 
+kankoonsanaan m.f.dh eeg kankoonsan. ld kankoonsanaansho.  
 
-kankoonsanaansho.  
-
-kankoonsanaansho m.l/dh ld kankoon- sanaan. 
+kankoonsanaansho m.l/dh ld kankoon-sanaan. 
 
 kanooni m.l (-iyo, m.dh) Qori af weyn leh oo meel fog wax ka baabi'iya; mafdac. 
 
 kansar m.l (-rro, m.dh) (daaw.) Buro xume oo dhan ha ahaado “karjinome” ama “sarkoome” wuxu ka sameysmaa unug oo si aan caadi ahayn oo dhakhso badan u qaybsama, kasoo dabadeed dhex gala oo burburiya (xubnaha) soohayaasha ku ag dhow. Waxa dhacda in unug ka mid ah burada uu raaco dhiigga ama liinfada oo ku beermo meel kale oo jirka ka mid ah (metastasis). 
 
-kansarbeereed m.l (daaw.) Burobahalaad ka baxda beerka waxay ku badantahay Afrika iyo waddamada kale ee cimilada kulul waxa 
+kansarbeereed m.l (daaw.) Burobahalaad ka baxda beerka waxay ku badantahay Afrika iyo waddamada kale ee cimilada kulul waxa keeni kara fangas iyo sumo kale. 
 
-keeni kara fangas iyo sumo kale. 
-
-kansarka dhuuxa m.l (daaw.) Cudur ay sababaan unugyada dhiigga ee cad cad markay aad u bataan. Cudurkani dhiig yari ayuu keena beeryaraduna way ballaadhataan. 
-
- Noocyada kala duwan ee unugyada dhiigga cadcadi markay bataan, waxay jidhka ku ridaan noocyo kala duwan oo kansarka dhuuxa ah. Cudurkani wuxuu keeni kaara dhimasho. 
+kansarka dhuuxa m.l (daaw.) Cudur ay sababaan unugyada dhiigga ee cad cad markay aad u bataan. Cudurkani dhiig yari ayuu keena beeryaraduna way ballaadhataan. Noocyada kala duwan ee unugyada dhiigga cadcadi markay bataan, waxay jidhka ku ridaan noocyo kala duwan oo kansarka dhuuxa ah. Cudurkani wuxuu keeni kaara dhimasho. 
 
 kansarka sambabka m.l (daaw.) Kansar ka baxa dhuumaha neefta (kansar dhuumeed) ama sambabka. 
 
@@ -1618,47 +1506,31 @@ kantiin m.l (-nno, m.dh) Dukaan yar oo laga qaato raashinka iwm.
 
 kar¹ m.l 1. Aburka kulaylka biyaha iyo wixii la mid ah soo saaraan. 2. (-rar, m.l) Cad wax lagu karo. 
 
-kar² m.dh (-ro, m.l) 1. Gabal yar oo harag, xaashi adag iwm. oo wax lagu karo. 
+kar² m.dh (-ro, m.l) 1. Gabal yar oo harag, xaashi adag iwm. oo wax lagu karo. 2. Madax nirgood oo la cucubay oo hal lagu maalo. 
 
- 2. Madax nirgood oo la cucubay oo hal lagu maalo. 
-
-kar³ f.g/mg1 (-ray, -rtay) 1. (f.g) Wax sameyntooda awood u yeelasho. 2. (f.g) Meel dillaacsan wax ku dul tolid. 3. (f.mg) Hoore burid. 4. (f.mg) Wax muggooda kordhin. 
-
- 5. (f.mg) Moos iwm bislaansho. 6. (f.mg) Middi af yeelasho. 
+kar³ f.g/mg1 (-ray, -rtay) 1. (f.g) Wax sameyntooda awood u yeelasho. 2. (f.g) Meel dillaacsan wax ku dul tolid. 3. (f.mg) Hoore burid. 4. (f.mg) Wax muggooda kordhin.  5. (f.mg) Moos iwm bislaansho. 6. (f.mg) Middi af yeelasho. 
 
 karaab m.dh.u Qoryo yaryar oo xalxallefsan oo shabaagta badda la dhigo lagu xirxiro, si ay u sabbayso oo u muuqato. 
 
-karaahiyo 498 m.dh.kh K. ah: wax naftu kahato. 
+karaahiyo m.dh.kh K. ah: wax naftu kahato. 
 
 karaamayn m.f.dh eeg karaamee. 
 
-karaamaysan f.mg4 (-snaa, -snayd) Wax 
+karaamaysan f.mg4 (-snaa, -snayd) Wax karaamo leh ahaansho. 
 
-karaamo leh ahaansho. 
+karaamaysnaan m.f.dh eeg karaamaysan. ld karaamaysnaansho.  
 
-karaamaysnaan m.f.dh eeg karaamaysan. ld 
+karaamaysnaansho m.l/dh ld karaamays-naan. 
 
-karaamaysnaansho.  
-
-karaamaysnaansho m.l/dh ld karaamays- naan. 
-
-karaamee f.g2 (-meeyay, -meysay) 1. Cid 
-
-karaamo siin (Eebbe). 2. Cid xurmayn. 
+karaamee f.g2 (-meeyay, -meysay) 1. Cid karaamo siin (Eebbe). 2. Cid xurmayn. 
 
 karaamo m.dh 1. (dii.) Heybad Ilaah siiyo qof cibaado badan. 2. (-ooyin, m.l) Arrin la yaab leh oo aan lagu fasiri karin xeerarka dabiiciga ah, oo Eebbe ku mannadeysto awliyadiisa. 
 
 karaan m.l Awood wax qabad. 
 
-karaaniyam m.l (c.nafl.) Qayb ka mid ah gambada madaxa ee lafdhabarleyda taas oo daboosha ilaalisana maskaxda. Waxay ka samaysantahay dhowr lafood oo balbal- laadhan oo isdhexgalay, oo ay u dhexee-yaan 
+karaaniyam m.l (c.nafl.) Qayb ka mid ah gambada madaxa ee lafdhabarleyda taas oo daboosha ilaalisana maskaxda. Waxay ka samaysantahay dhowr lafood oo balbal- laadhan oo isdhexgalay, oo ay u dhexee-yaan kalagoysyo aan dhadhaqaaqin. 
 
-kalagoysyo aan dhadhaqaaqin. 
-
-karaankur m.dh 1. Badar, budo iyo jariir u 
-
-kala saarid. 2. Badar qashin ka saarid. 3. ld 
-
-kuraankur.  
+karaankur m.dh 1. Badar, budo iyo jariir u kala saarid. 2. Badar qashin ka saarid. 3. ld kuraankur.  
 
 karaar¹ m.l 1. Cayil; buurran. 2. Xowliga wax leeyihiin. 3. Buux; badasho. 
 
@@ -1668,9 +1540,7 @@ korodhka xawaaraha iyo keynaanka. Waxaa lagu cabbiraa mitir halkii seken ee laba
 
 karaar³ f.mg1 (-ray, -rtay) 1. Cayilid. 2. Badasho; buuxid. 
 
-karaar-cufisjiidad m.l (fiis.) Summad: g. Karaarka ay la kulanto walax iskeed ugu soo dhex dhacda badada cufisjiidadka dhulka. 
-
- Tijabo ahaan, karaarka cufis-jiidadku, ugu dhawaan, waa madoorsoome marka loo eego oogada dhulka, waana ka xor dabeecada iyo samayska walaxda soo dhacaysa (taas oo aan la tixgelin ca-daadiska hawada).Tani waxa ay xaqiijisaa saamigalnimada culeyska walax-da iyo cufka walaxda. 
+karaar-cufisjiidad m.l (fiis.) Summad: g. Karaarka ay la kulanto walax iskeed ugu soo dhex dhacda badada cufisjiidadka dhulka.  Tijabo ahaan, karaarka cufis-jiidadku, ugu dhawaan, waa madoorsoome marka loo eego oogada dhulka, waana ka xor dabeecada iyo samayska walaxda soo dhacaysa (taas oo aan la tixgelin ca-daadiska hawada).Tani waxa ay xaqiijisaa saamigalnimada culeyska walax-da iyo cufka walaxda. 
 
 karaari f.g2 (-iyay, -isay) 1. Wax badin. 2. Xowli kordhin. 
 
@@ -1684,15 +1554,11 @@ karaawil m.l Afarta nooc ee turubku u kala baxo mid ka mid ah.
 
 karab m.l Sallax sisib ah, badda gunteeda ah, ciid lahayn oo baroosinku qabanin. 
 
-karah f.g1 (-rhay, -rahday; -rhi) Wax niyadda 
-
-ka nicid. 
+karah f.g1 (-rhay, -rahday; -rhi) Wax niyadda ka nicid. 
 
 karahsad m.l ld karahsasho.karkabadee 
 
-karahsasho m.f.dh eeg karahso. ld karah-sad, 
-
-karahsi.  
+karahsasho m.f.dh eeg karahso. ld karah-sad, karahsi.  
 
 karahsi m.l ld karahsasho. 
 
@@ -1708,9 +1574,7 @@ karan4 f.mg4 (-rnaa, -rnayd) Wax kar leh ahaansho (maro, harag iwm).
 
 karantiil m.l ld karantiin. 
 
-karantiin¹ m.l 1. Meel lagu takooro nafley cudur halis ah qabta. 2. K. ah: nafley cudur halis ah qabta oo meel lagu go'doomiyay. ld 
-
-karantiil.  
+karantiin¹ m.l 1. Meel lagu takooro nafley cudur halis ah qabta. 2. K. ah: nafley cudur halis ah qabta oo meel lagu go'doomiyay. ld karantiil.  
 
 karantiin² m.l (daaw.) Muddada qof ama neef xoolo ah lagu hayo meel duwan si looga hortago fidista cudur la isqaadsiiyo. Waagii hore muddada karantiinku wuxuu ahaa 40 beri, hadda cudurrada kala duwan waxay leeyihiin muddo karantiin oo kala duwan. 
 
@@ -1736,9 +1600,7 @@ kardhasho m.f.dh eeg kardho².
 
 kardho¹ m.dh Dhaxan ama xanuun lala gariiro 
 
-kardho² f.mg3 (-dhaday, -dhatay) 1. Neef irmaan oo ari ah darar awgeed la qaylin. 
-
- 2. Qof jirro ama dhaxan la gariirid. 
+kardho² f.mg3 (-dhaday, -dhatay) 1. Neef irmaan oo ari ah darar awgeed la qaylin. 2. Qof jirro ama dhaxan la gariirid. 
 
 kareeb m.l Dhar jilacsan, midab leh oo qurxan oo haweenku qaataan. ld kirib. 
 
@@ -1764,9 +1626,7 @@ kariin m.l ld kariim.
 
 kariinad m.dh (-do, m.l) Silsilad. 
 
-karin¹ m.l (-rmo/-imo, n. m.) 1. Raadka, raridda badani u yeesho awrta baarkeeda. 
-
- 2. Xiriirka buuraha duudkooda sare, meel inta kale ka gaaban. 3. (-rmo/-imo, m.l) Cad wax lagu karo; karmo. 4. Xerada xoolaha oodda lagu oodo barkeeda sare meel ka bannaan. 
+karin¹ m.l (-rmo/-imo, n. m.) 1. Raadka, raridda badani u yeesho awrta baarkeeda.  2. Xiriirka buuraha duudkooda sare, meel inta kale ka gaaban. 3. (-rmo/-imo, m.l) Cad wax lagu karo; karmo. 4. Xerada xoolaha oodda lagu oodo barkeeda sare meel ka bannaan. 
 
 karin² m.f.dh eeg kari. ld karis. 
 
@@ -1774,37 +1634,25 @@ karinbillayn m.f.dh eeg karinbillee.
 
 karinbillaysad m.l ld karinbillaysasho. 
 
-karinbillaysan f.mg4 (-snaa, -snayd) Wax si 
+karinbillaysan f.mg4 (-snaa, -snayd) Wax si karinbillo ah loo tolay ahaansho (maro). 
 
-karinbillo ah loo tolay ahaansho (maro). 
-
-karinbillaysasho m.f.dh eeg karinbillayso. ld 
-
-karinbillaysad, karinbillaysi. 
+karinbillaysasho m.f.dh eeg karinbillayso. ld karinbillaysad, karinbillaysi. 
 
 karinbillaysi m.l ld karinbillaysasho. 
 
-karinbillaysnaan m.f.dh eeg karinbillaysan. ld 
-
-karinbillaysnaansho.  
+karinbillaysnaan m.f.dh eeg karinbillaysan. ld karinbillaysnaansho.  
 
 karinbillaysnaansho m.l/dh ld karinbillays- naan. 
 
-karinbillayso f.g3 (-stay, -satay) Maro si 
-
-karinbillo ah u tolasho. 
+karinbillayso f.g3 (-stay, -satay) Maro si karinbillo ah u tolasho. 
 
 karinbille m.l (-layaal, m.l/dh) ld karinbillo. 
 
 karinbillee f.g2 (-leeyay, -leysay) Si karinbillo ah u tolid (maro). 
 
-karinbillo m.dh Habka dhar tooxiisu gaabtay loo tolo oo dhar kale loogu kabo. ld 
+karinbillo m.dh Habka dhar tooxiisu gaabtay loo tolo oo dhar kale loogu kabo. ld karinbille.  
 
-karinbille.  
-
-karingaabad m.l Buuraha is-haysta duud- 
-
-kooda kore oo siman, meel inta kale ka gaaban. 
+karingaabad m.l Buuraha is-haysta duud-kooda kore oo siman, meel inta kale ka gaaban. 
 
 karis m.l ld karin. 
 
@@ -1818,23 +1666,17 @@ karkabad m.dh ld karkabo.
 
 karkabadayn m.f.dh ld karkabayn. 
 
-karkabadee f.g2 (-deeyay, -deysay) ld 
-
-karkabee.  499karkabayn 
+karkabadee f.g2 (-deeyay, -deysay) ld karkabee. 
 
 karkabayn m.f.dh eeg karkabee. ld karka- badayn. 
 
-karkabee f.g2 (-beeyay, -baysay) Cid hawl qabashadeed inay dedejiso ku dirqin. ld 
-
-karkabadee.  
+karkabee f.g2 (-beeyay, -baysay) Cid hawl qabashadeed inay dedejiso ku dirqin. ld karkabadee.  
 
 karkabeyn m.f.dh eeg karkabee. ld karka- badeyn. 
 
 karkabeysan f.mg4 (-snaa, -snayd) Cid wax degdeg ku jiro ahaansho 
 
-karkabo m.dh Ku dirqinta hawl qabasha-deeda lagu dirqiyo cid iney si degdeg u qabato. ld 
-
-karkabad.  
+karkabo m.dh Ku dirqinta hawl qabasha-deeda lagu dirqiyo cid iney si degdeg u qabato. ld karkabad.  
 
 karkar m.l 1. Tolmo lagu sameeyo dhar iwm. oo meelo badan ka dildillaacay. 2. K. ah: qof dirac ah. 3. Karka iyo rogmashada biyaha iyo waxii la mid ah oo kululaada. 
 
@@ -1848,9 +1690,7 @@ karmaandho m.dh Kalluunka badda nooc ka mid ah.
 
 karmayn m.f.dh eeg karmee. 
 
-karmee f.mg2 (-meeyay, -maysay) 1. Meel laba xiddigood u dhaxeysa oo aan midna u bursanayn fariisasho (dayax). 2. Maro iwm. 
-
-karmo u yeelid. 
+karmee f.mg2 (-meeyay, -maysay) 1. Meel laba xiddigood u dhaxeysa oo aan midna u bursanayn fariisasho (dayax). 2. Maro iwm. karmo u yeelid. 
 
 karmid m.f.dh eeg karan³. 
 
@@ -1870,9 +1710,7 @@ karood² f.mg1 (-day, -dday) 1. Cudur nafley degdeg u dilid. 2. ld barood².
 
 karoodid m.dh ld baroodid. 
 
-karoor¹ m.l (-rro, m.dh) 1. Meel dhisan oo lagu kaydiyo dalagga ka soo go'a beeraha, 
-
-kana samaysan tiirar kor loo dhisay dushana laga saaray caws iyo hargo. 2. Wax badan oo lays dulsaaray. 
+karoor¹ m.l (-rro, m.dh) 1. Meel dhisan oo lagu kaydiyo dalagga ka soo go'a beeraha, kana samaysan tiirar kor loo dhisay dushana laga saaray caws iyo hargo. 2. Wax badan oo lays dulsaaray. 
 
 karoor² f.g1 (-ray, -rtay) Wax badan is dul saarid. 
 
@@ -1884,9 +1722,9 @@ karoorasho m.dh ld karuurasho.
 
 karoorid m.f.dh eeg karoor². 
 
-karoornaan m.f.dh eeg karooran. ld karoor- naansho. 
+karoornaan m.f.dh eeg karooran. ld karoor-naansho. 
 
-karoornaansho 500 m.l/dh ld karoornaan. 
+karoornaansho m.l/dh ld karoornaan. 
 
 karooro f.g3 (-rtay, -ratay) ld karuuro. 
 
@@ -1900,9 +1738,7 @@ karraysad m.l ld karraysasho.
 
 karraysi m.l ld karraysasho. 
 
-karrayso f.mg3 (-stay, -satay) 1. Meel dhibaato leh meel ka fiican ka doorsasho. 
-
- 2. Jirro ka bogsasho. 
+karrayso f.mg3 (-stay, -satay) 1. Meel dhibaato leh meel ka fiican ka doorsasho. 2. Jirro ka bogsasho. 
 
 karreeb m.dh 1. (u) Geel dhalay oo ubadka xerada looga reebay. 2. (-bo, m.l) Warqad meel loo qoray koobiga ka hara. 
 
@@ -1912,9 +1748,7 @@ karriinlarroor m.l 1. Degdeg badan. 2. Qof degdegsiinyo badan.
 
 karro m.dh Geed-gaab aan qodax lahayn oo miro la cuno iyo laamo laga qoro fandhaalada iwm leh; hamir, himir. 
 
-karsad m.l Badar iwm qashin ka saarasho. ld 
-
-karsasho.  
+karsad m.l Badar iwm qashin ka saarasho. ld karsasho.  
 
 karsan f.mg4 (-naa, -nayd) Wax la kariyey ahaansho. 
 
@@ -1938,15 +1772,11 @@ karsii f.g2 (-iiyay, -iisay) Qof wax ku dhib ah in uu ku dhawaaqo u suurtaggelin
 
 karsiin m.f.dh eeg karsii. 
 
-karso f.g3 (-saday, -satay) Wax dab iyo biyo 
-
-ku bislaysasho. 
+karso f.g3 (-saday, -satay) Wax dab iyo biyo ku bislaysasho. 
 
 karti m.dh Awood u suurtaggelineysa qof inuu hawl si fiican u qabto. 
 
-kartidarro m.dh Karti yaridda uu qof leeyahay oo u diidda in uu hawl si fiican u fuliyo. ld 
-
-kartixumo, kartili'i. 
+kartidarro m.dh Karti yaridda uu qof leeyahay oo u diidda in uu hawl si fiican u fuliyo. ld kartixumo, kartili'i. 
 
 kartili'i m.dh ld kartidarro. 
 
@@ -1966,23 +1796,15 @@ karuuran¹ f.mg1 (-rmay, -rantay; -rmi) Wax meel tuurmay noqosho.
 
 karuuran² f.mg4 (-rnaa, -rnayd) Wax meel tuuran ahaansho. 
 
-karuuran³ f.mg1 (-rmay, -rantay) Caano 
+karuuran³ f.mg1 (-rmay, -rantay) Caano karuur noqosho. 
 
-karuur noqosho. 
+karuuran4 f.mg4 (-rnaa, -rnayd) Caano karuur ahaansho. 
 
-karuuran4 f.mg4 (-rnaa, -rnayd) Caano 
-
-karuur ahaansho. 
-
-karuurasho m.f.dh eeg karuuro. ld karoorad, 
-
-karoorasho, karuurad. 
+karuurasho m.f.dh eeg karuuro. ld karoorad, karoorasho, karuurad. 
 
 karuurid m.f.dh 1. eeg karuur ³. 2. eeg karuur4. 
 
-karuurmid m.f.dh 1. eeg karuuran¹. 2. eeg 
-
-karuuran³.  
+karuurmid m.f.dh 1. eeg karuuran¹. 2. eeg karuuran³.  
 
 karuurnaan m.dh 1. eeg karuuran². 2. eeg 
 
@@ -2034,9 +1856,7 @@ kashifan¹ f.mg1 (-fmay, -fantay; -fmi) 1. Wax qarsoonaa oo la sheegay noqosho. 
 
 kashifan² f.mg4 (-fnaa, -fnayd) 1. Wax qarsoonaa oo la sheegay ahaansho. 2. Wax la ceebeeyey ahaansho. 
 
-kashifid m.f.dh eeg kashif². ld kashif¹ (3), 
-
-kashifaad.  
+kashifid m.f.dh eeg kashif². ld kashif¹ (3), kashifaad.  
 
 kashifmid m.f.dh eeg kashifan¹. 
 
@@ -2056,25 +1876,17 @@ kashkaash² f.g1 (-shay, -shtay) Caws, nagaar iwm aqal ku goglid.
 
 kashkaashad m.f.l eeg kashkaasho. 
 
-kashkaashan f.mg4 (-shnaa, -shnayd) Wax la 
+kashkaashan f.mg4 (-shnaa, -shnayd) Wax la kashkaashay ahaansho. 
 
-kashkaashay ahaansho. 
-
-kashkaashid m.f.dh eeg kashkhaash². ld 
-
-kashkaashis.  
+kashkaashid m.f.dh eeg kashkhaash². ld kashkaashis.  
 
 kashkaashis m.dh ld kashkaashid. 
 
-kashkaashnaan m.f.dh eeg kashkaashan. ld 
-
-kashkaashnaansho.  
+kashkaashnaan m.f.dh eeg kashkaashan. ld kashkaashnaansho.  
 
 kashkaashnaansho m.l/dh ld kashkaash-naan. 
 
-kashkaasho f.g3 (-shtay, -shatay) Aqal 
-
-kashkaash ku goglasho. 
+kashkaasho f.g3 (-shtay, -shatay) Aqal kashkaash ku goglasho. 
 
 kasid m.f.dh eeg kas². 
 
@@ -2090,13 +1902,9 @@ kasmo m.dh Awood maskaxeed wax lagu kala garto.
 
 kasoobbax¹ m.l (-xyo, ml.) Nabar weyn oo oogada ka soo baxa oo caalir leh. 
 
-kasoobbax² m.l (-xyo, m.l) (daaw.) Nabar sida qaalibka ah ka weyn kasoobax kuna oolli 
+kasoobbax² m.l (-xyo, m.l) (daaw.) Nabar sida qaalibka ah ka weyn kasoobax kuna oolli kara jirka sare iyo uurkujirtadaba. 
 
-kara jirka sare iyo uurkujirtadaba. 
-
-kasoobbax-naas m.l (-xyo ..., m.dh) (daaw.) Halaamacoodka naaska oo sida badan uu 
-
-keeno baktiiriya ka soo gala ibta. 501kasoofeen 
+kasoobbax-naas m.l (-xyo ..., m.dh) (daaw.) Halaamacoodka naaska oo sida badan uu keeno baktiiriya ka soo gala ibta. 501kasoofeen 
 
 kasoofeen m.l Caano dhay ah oo aan weli isbeddelin. 
 
@@ -2130,9 +1938,7 @@ kaw m.dh.sh.r Erey ulajeeddadiisa laga garto wax go'ay (xarig go'ay; naf baxday)
 
 kawaamid m.f.dh eeg kawaan². ld ka-waanid. 
 
-kawaan¹ m.l (-nno, m.dh) 1. Meel ama dukaan hilibka lagu iibiyo ama lagu gado. 
-
- 2. Meesha xoolaha lagu qalo. 
+kawaan¹ m.l (-nno, m.dh) 1. Meel ama dukaan hilibka lagu iibiyo ama lagu gado. 2. Meesha xoolaha lagu qalo. 
 
 kawaan2 f.g1 (-aamay, -aantay; -aami/-aani) Neef si hilibkiisa loo cuno qalid. 
 
@@ -2148,29 +1954,21 @@ kawaano f.g3 (-aantay, -aanatay) Neef xoola ah ganacsi ahaan qalasho.
 
 kawaawe m.l Qalabka beeraha nooc ka mid ah oo ka kooban bir af ballaaran iyo daab qori ah. 
 
-kawaawee f.g2 (-weeyay, -weysay) Beer 
+kawaawee f.g2 (-weeyay, -weysay) Beer kawaawe ku simid. 
 
-kawaawe ku simid. 
-
-kawaaweyn m.f.dh eeg kawaawee. ld 
-
-kawaaweys.  
+kawaaweyn m.f.dh eeg kawaawee. ld kawaaweys.  
 
 kawaaweys m.l ld kawaaweyn. 
 
-kawaaweysan f.mg4 (-snaa, -snayd) Wax 
+kawaaweysan f.mg4 (-snaa, -snayd) Wax kawaawe lagu simay ahaansho (beer). 
 
-kawaawe lagu simay ahaansho (beer). 
-
-kawaaweysanaan m.f.dh eeg kawaaweysan. ld 
-
-kawaaweysnansho.  
+kawaaweysanaan m.f.dh eeg kawaaweysan. ld kawaaweysnansho.  
 
 kawaaweysnaansho m.l/dh ld kawaaweys- naan. 
 
 kawaweer¹ m.l ld kabawaarid. 
 
-kawaweer² f.mg1 (-ray, -rtay) ld kaba-waar². 502 
+kawaweer² f.mg1 (-ray, -rtay) ld kaba-waar². 
 
 kawaweerid m.dh ld kabawaarid. 
 
@@ -2238,9 +2036,7 @@ kaxayn m.f.dh eeg kaxee.
 
 kaxaysad m.l ld kaxaysasho. 
 
-kaxaysasho m.f.dh eeg kaxayso. ld ka-xaysad, 
-
-kaxaysi.  
+kaxaysasho m.f.dh eeg kaxayso. ld ka-xaysad, kaxaysi.  
 
 kaxaysi m.l ld kaxaysasho. 
 
@@ -2248,9 +2044,7 @@ kaxayso f.g3 (-stay, -satay) Wax soconaya oo meel joogey wadasho.kayn-mansuun
 
 kaxee f.g2 (-xeeyay, -xaysay) Wax soconaya oo meel joogey ka wadid. 
 
-kay¹ mu.dhm.ly Magacuyaal layeele ee tilmaamaya qofka koobaad ee kelida ah. Tus. 
-
- “Waa isku kay mid”. 
+kay¹ mu.dhm.ly Magacuyaal layeele ee tilmaamaya qofka koobaad ee kelida ah. Tus. “Waa isku kay mid”. 
 
 kay² f.g1 (kaayay, kayday; kaayi) ld kaay². 
 
@@ -2278,9 +2072,7 @@ kaydsanaan m.f.dh eeg kaydsan. ld kaydsa- naansho.
 
 kaydsanaansho m.l/dh ld kaydsanaan. 
 
-kaydsasho m.f.dh eeg kaydso. ld kaydsad, 
-
-kaydsi.  
+kaydsasho m.f.dh eeg kaydso. ld kaydsad, kaydsi.  
 
 kaydsi m.l ld kaydsasho. 
 
@@ -2288,13 +2080,9 @@ kaydso f.g3 (-saday, -satay) Cunno, lacag iwm meel dhigasho si aad mar kale u is
 
 kayga¹ mu.lh.l (kuweyga, w) Magacuyaal lahaansho oo lab oo tilmaamaya wax anigu (qofka koowaad ee kelida ah ee hadlaha ah) aan leeyahay. Tus. “Midkan kayga ma ah”. 
 
-kayga² (-kayga) dk.lh.l Dibkabe lahaansho oo tilmaamaya wax anigu (qofka koowaad ee 
+kayga² (-kayga) dk.lh.l Dibkabe lahaansho oo tilmaamaya wax anigu (qofka koowaad ee kelida ah ee hadlaha ah) aan leeyahay. Tus. “Dalkaygu waa hodan”. ld kay³. 
 
-kelida ah ee hadlaha ah) aan leeyahay. Tus. “Dalkaygu waa hodan”. ld kay³. 
-
-kaykayle m.l 1. Harag, dhar iwm adag oo qallafsan oo aan weli wax laga qaban. 2. K. 
-
- ah: qof ama xoolo aan culays wadin oo dheeraynaya. 
+kaykayle m.l 1. Harag, dhar iwm adag oo qallafsan oo aan weli wax laga qaban. 2. K. ah: qof ama xoolo aan culays wadin oo dheeraynaya. 
 
 kaylakeen f.mg1 (-nay, -ntay) Qof ama dad meel dareen ka dhacay warkeeda keenid. 
 
@@ -2310,9 +2098,7 @@ kaymo-caleen-irbadlay m.dh (bot.) Dhirlayda calemahoodu u egyihiin irbadaha ama 
 
 kayn¹ m.dh (-ymo, m.l) 1. Nasiibdarro, ayaandarro, cawaxumo. 2. (-ymo, m.l) Meel dhir badan; hawd; jiq; toon. 
 
-kayn² m.dh (-ymo, m.l) (juqr.) Eray lagu magacaabo dhul aan beernayn oo ay ka baxaan hoosbaxayaal isku cufan; mararka gaarkood waxaa loo adeegsadaa, iyadoo waxa la isku qanciyaa yaryihiin , inay yihiin 
-
-kaymaha mansuunta nooc ahaantooda. 
+kayn² m.dh (-ymo, m.l) (juqr.) Eray lagu magacaabo dhul aan beernayn oo ay ka baxaan hoosbaxayaal isku cufan; mararka gaarkood waxaa loo adeegsadaa, iyadoo waxa la isku qanciyaa yaryihiin , inay yihiin kaymaha mansuunta nooc ahaantooda. 
 
 kaynaan¹ m.l Geeddi meel fog loo guuro oo aan nasasho badan lahayn. 
 
@@ -2326,17 +2112,11 @@ kaynaanin m.f.dh eeg kaynaani.
 
 kayn-badhaale m.l (-layaal, m.l/dh) (juqr.) Kaymaha cagaar-ma-dhigeyaasha ah ee ka baxa dhulalka badhaalaha, halkaas oo roobku uu culusyahay, Xilli oomane ahna usan jirin; meelaha qaarkood kaymahaani waxay ku sii fidsanyihiin dhulalka mansuunta dhabta ah. 
 
-kayn-maanguruuf m.l (-fyo, m.dh) (juqr.) Dhul qoyan oo biyo fedhiyaan oo badanaa ay buuxiyeen kayn maanguruuf ah, kan maanguruuftu badanaa waxay ku dhacdaa dhul xeebeedka hoose ee gobollada 
+kayn-maanguruuf m.l (-fyo, m.dh) (juqr.) Dhul qoyan oo biyo fedhiyaan oo badanaa ay buuxiyeen kayn maanguruuf ah, kan maanguruuftu badanaa waxay ku dhacdaa dhul xeebeedka hoose ee gobollada kulaalayda, waxayna ugu sii badantahay agagaaraha webiga afkiisa. 
 
-kulaalayda, waxayna ugu sii badantahay agagaaraha webiga afkiisa. 
+kayn-mansuun m.l (-nno, m.dh) (juqr.) Nooc kaymaha kulaalayda oo astaan u ah gobollada hela cimilo mansuunta dhabta ah, halkaas oo roobku uu gaarayo 1,000 ilaa 2,000 mm sannadku. Geedaha caleemaha waaweyn leh waxaa badanaa lagu sharxaa inay u eg yihiin geedaha caleen - dhacseyaalka; caleemahooda waxay daadiyaan xilliga oomanaha ah, laakiin caleen cusub ayaa u soo baxda marka roobabka mansuuntu billaabanayaan labada geed oo loogu aqoon ogyahay kaymaha mansuunta waa tiik iyo saal labadoodaba waxaa laga helaa loox adag oo qiimo leh. 
 
-kayn-mansuun m.l (-nno, m.dh) (juqr.) Nooc 
-
-kaymaha kulaalayda oo astaan u ah gobollada hela cimilo mansuunta dhabta ah, halkaas oo roobku uu gaarayo 1,000 ilaa 2,000 mm sannadku. Geedaha caleemaha waaweyn leh waxaa badanaa lagu sharxaa inay u eg yihiin geedaha caleen - dhacseyaalka; caleemahooda waxay daadiyaan xilliga oomanaha ah, laakiin caleen cusub ayaa u soo baxda marka roobabka mansuuntu billaabanayaan labada geed oo loogu aqoon ogyahay kaymaha mansuunta waa tiik iyo saal labadoodaba waxaa laga helaa loox adag oo qiimo leh. 
-
-kaynroobaad 503kaynroobaad m.dh Kolka roob da'ayo ee ifka qorraxda iyo dhibicda roobku isqabtaan, muuqaalka isku duuban ee midabbada badan leh oo qaabka qaansada u eg, cirkana 
-
-ka dhex muuqda; qaanso-roobaad; jeegaan; caasha-carrabdheer. 
+kaynroobaad m.dh Kolka roob da'ayo ee ifka qorraxda iyo dhibicda roobku isqabtaan, muuqaalka isku duuban ee midabbada badan leh oo qaabka qaansada u eg, cirkana ka dhex muuqda; qaanso-roobaad; jeegaan; caasha-carrabdheer. 
 
 kayn-tirid m.dh (juqr.) Goynta dhirta iyo bannaynta kaynta. 
 
@@ -2354,15 +2134,9 @@ kebbin m.dh ld kabbin.
 
 kebbis¹ m.l 1. ld kabbis (-syo, m.dh) Lakab adag oo ka samaysan dhagax, dhoobo, qoryo ama wax kale oo lagu sameeyo dhismaha iwm laguna qurxiyo. 2. ld kebbin. 
 
-kebbis² f.g1 (-say, -stay) Lakab adag oo ka samaysan dhagax, dhoobo, qoryo iwm. meel 
+kebbis² f.g1 (-say, -stay) Lakab adag oo ka samaysan dhagax, dhoobo, qoryo iwm. meel ku sameyn. ld kabbis². 
 
-ku sameyn. ld kabbis². 
-
-kebbisan f.mg4 (-snaa, -snayd) Wax la 
-
-kabbisay ahaansho (dhisme iwm). ld 
-
-kabbisan.  
+kebbisan f.mg4 (-snaa, -snayd) Wax la kabbisay ahaansho (dhisme iwm). ld kabbisan.  
 
 kebbisid m.f.dh eeg kebbis². ld kabbisid. 
 
@@ -2380,45 +2154,31 @@ kebedgalool m.l (-llo, m.dh) Nooc kebdaha ka mid ah oo laga sameeyo mayrax galoo
 
 kebriid m.l ld kabriid. 
 
-kedi¹ m.l Geed qodxeed miro la cuno leh oo qolof adag leh, layskuna daaweeyo; shillin; 
-
-kulan; quud. 
+kedi¹ m.l Geed qodxeed miro la cuno leh oo qolof adag leh, layskuna daaweeyo; shillin; kulan; quud. 
 
 kedi² f.mg2 (-iyay, -isay) ld kadi. 
 
 kedin m.dh ld kadin². 504 
 
-kedis m.l 1. Fal u dhaca si lama filaan ah. 2. Barnaamaj aqooneed oo lagu tartamo. 
-
- 3. ld kadin². 
+kedis m.l 1. Fal u dhaca si lama filaan ah. 2. Barnaamaj aqooneed oo lagu tartamo. 3. ld kadin². 
 
 kediso m.dh ld kadiso. 
 
-kedo m.dh 1. Wax si degdeg iyo lamafilaan ah 
-
-ku dhaca; aan la iska jirin; lamafilaan. 2. (fk) Si kedis ah; islamarkiiba. 
+kedo m.dh 1. Wax si degdeg iyo lamafilaan ah ku dhaca; aan la iska jirin; lamafilaan. 2. (fk) Si kedis ah; islamarkiiba. 
 
 kee¹ mu.we.l kuwee, w Magacuyaal weyddiimeed oo lab oo iskii u taagan, oo wax ama qof lagu hubsado. tus. “ Waa kee midka aaday xafiiska?.” 
 
-kee² (-kee) dk.we.l Dibkabe weyddiimeed oo lab, oo wax ama qof lagu hubsado. Tus. 
+kee² (-kee) dk.we.l Dibkabe weyddiimeed oo lab, oo wax ama qof lagu hubsado. Tus.  “Wiilkee baa kula hadlay?”. 
 
- “Wiilkee baa kula hadlay?”. 
-
-keeb m.l (-bab, m.l) Bir yar oo qaroofsan oo 
-
-kolka farta dib loogu soo jiido, qarxiyaha ka wareegta, oo xabbaddu dhacdo; riishad. 
+keeb m.l (-bab, m.l) Bir yar oo qaroofsan oo kolka farta dib loogu soo jiido, qarxiyaha ka wareegta, oo xabbaddu dhacdo; riishad. 
 
 keed (-keed) dk.lh.l ld keeda². 
 
 keeda¹ mu.lh.l (kuweeda, w) Magacuyaal lahaansho oo dhaddig, oo tilmaamaya wax isagu (qofka saddexaad ee kelida ah ee dhaddig) ay leedahay. Tus.”keedu wuxuu ka muuqdaa halkaas”. 
 
-keeda² (-keeda) dk.lh.l Dibkabe lahaansho oo tilmaamaya wax isagu (qofka saddexaad ee 
+keeda² (-keeda) dk.lh.l Dibkabe lahaansho oo tilmaamaya wax isagu (qofka saddexaad ee kelida ah ee dheddig) ay leedahay. ld keed. 
 
-kelida ah ee dheddig) ay leedahay. ld keed. 
-
-keen¹ mu.dhm.ly Magacuyaal layeele ee tilmaamaya qofka koowaad ee wadarta ah oo 
-
-kuwa lala hadlayaa ay ku jiraan. Tus. “Cali baa isugu keen yeeray”. 
+keen¹ mu.dhm.ly Magacuyaal layeele ee tilmaamaya qofka koowaad ee wadarta ah oo kuwa lala hadlayaa ay ku jiraan. Tus. “Cali baa isugu keen yeeray”. 
 
 keen² f.g1 (-nay, -ntay) 1. Wax meel durugsan yaal meel dhow u soo qaadid. 2. Cid wax u dhiibid. 
 
@@ -2432,9 +2192,7 @@ keenid m.f.dh eeg keen³. ld keenis.
 
 keenis m.dh ld keenid. 
 
-keenna¹ mu.lh.l (kuweenna, w) Magacuyaal lahaansho oo lab oo tilmaamaya wax innagu (qofka koowaad ee wadarta ah oo kuwa lala hadlayo ay ku jiraan) aynu leennahay. Tus. 
-
- “Gurigiisa keenna ayaa ka dhow”. 
+keenna¹ mu.lh.l (kuweenna, w) Magacuyaal lahaansho oo lab oo tilmaamaya wax innagu (qofka koowaad ee wadarta ah oo kuwa lala hadlayo ay ku jiraan) aynu leennahay. Tus. “Gurigiisa keenna ayaa ka dhow”. 
 
 keenna² (-keenna) dk.lh.l Dibkabe lahaansho oo tilmaamaya wax innagu (qofka koowaad ee wadarta ah oo kuwa lala hadlayo ay ku jiraan) aynu leennahay. Tus. “Aan aadno gurigeenna”. ld keen³. 
 
@@ -2466,15 +2224,11 @@ keli³ m.dh Wax aan la wehelin. ld kali.
 
 keligillabe m.l (-bayaal, m.l/dh) Nin hawlkar ah oo shaqo kasta ku wanaagsan. 
 
-keligitaliye m.l (keligood taliyayaal, m.l/dh) (siyaa.) Hoggaamiye waddan ku qabsaday xoog, awoodda xukunkana ku haysta si 
-
-kelinnimo ah, tashi la'aan. ld kaligitaliye. 
+keligitaliye m.l (keligood taliyayaal, m.l/dh)(siyaa.) Hoggaamiye waddan ku qabsaday xoog, awoodda xukunkana ku haysta si kelinnimo ah, tashi la'aan. ld kaligitaliye. 
 
 keligitashade m.l ld kaligitashade. 
 
-keligitashe m.l (keligood tashayaal, m.l/dh) (siyaa.) Hoggaamiye, ama qof kale oo leh awood weyn, oo awooddiisuna ku isticmaala si xaq daro iyo cadowtinnimo. ld 
-
-kaligitashade.  
+keligitashe m.l (keligood tashayaal, m.l/dh) (siyaa.) Hoggaamiye, ama qof kale oo leh awood weyn, oo awooddiisuna ku isticmaala si xaq daro iyo cadowtinnimo. ld kaligitashade.  
 
 keligoodtashadayaal m.dh ld kaligood- tashadayaal. 
 
@@ -2490,21 +2244,15 @@ keliya s. Aan wax wehlin; uun.
 
 keliyeysad m.l ld keliyeysasho. 
 
-keliyeysasho m.f.dh eeg keliyeyso. ld 
-
-keliyeysad.  
+keliyeysasho m.f.dh eeg keliyeyso. ld keliyeysad.  
 
 keliyeyso f.mg3 (-stay, -satay) Ku k.: keli ku ahaansho (wax). 
 
 kelli¹ m.l (-iyo, m.dh) Biyomareen yar oo beeraha lagu waraabiyo. ld keli¹ (3). 
 
-kelli² m.dh (-iyo, m.l) Mid ka mid ah labada cad oo digirta qaabkeeda leh oo uurka ku jirta (lafdhabarta labadeeda dhinac) oo waxa oogadu raacdo iyo dhiigga kala soocda, oo 
+kelli² m.dh (-iyo, m.l) Mid ka mid ah labada cad oo digirta qaabkeeda leh oo uurka ku jirta (lafdhabarta labadeeda dhinac) oo waxa oogadu raacdo iyo dhiigga kala soocda, oo kaadi ahaan dibadda uga soo saarta. 
 
-kaadi ahaan dibadda uga soo saarta. 
-
-kelli³ m.dh (-iyo, m.dh) (c.nafl.) Xubin muhim ah oo qashinsaarka u qaabilsan lafdhabarleyda, taas oo laga saaro walxo wasakh naytaroojiin ah (inta badan, kaadi ahaan). Naasleydu waxay leeyihiin lammaane 
-
-kelya ah oo ku yaalla bucda. 
+kelli³ m.dh (-iyo, m.dh) (c.nafl.) Xubin muhim ah oo qashinsaarka u qaabilsan lafdhabarleyda, taas oo laga saaro walxo wasakh naytaroojiin ah (inta badan, kaadi ahaan). Naasleydu waxay leeyihiin lammaane kelya ah oo ku yaalla bucda. 
 
 kelli-badeed m.l (-dyo, m.dh) (juqr.) Gacan badeed oo aan aad u ballaarayn oo iskuxira laba badood, oo dhex mara laba dhul oo waaweyn. 
 
@@ -2526,9 +2274,7 @@ kelmidhabo f.mg3 (-btay, -batay) ld gelmidhabo.
 
 kelya-adag f.mg4 (-dkaa, -dkayd) Wax dhiirran ahaansho. 
 
-kelya-adayg m.l Dhiirranaan cidi leedahay. ld 
-
-kelya-adkaan.  
+kelya-adayg m.l Dhiirranaan cidi leedahay. ld kelya-adkaan.  
 
 kelya-adkaan m.f.dh eeg kelya-adag. ld kelya- adeyg, kelya-adkaansho. 
 
@@ -2536,9 +2282,7 @@ kelya-adkaansho m.l/dh ld kelya-adkaan.
 
 kelyaciirsad m.l ld kelyaciirsasho. 
 
-kelyaciirsasho m.f.dh eeg kelyaciirso. ld 
-
-kelyaciirsad, kelyaciirsi. 
+kelyaciirsasho m.f.dh eeg kelyaciirso. ld kelyaciirsad, kelyaciirsi. 
 
 kelyaciirsi m.l ld kelyaciirsasho. 
 
@@ -2562,9 +2306,7 @@ keretinniism m.l Maraarnimo. 505keylli
 
 keylli m.l ld kaylli. 
 
-keynaan m.l Summad : V. Dhakhsaha bara- baxa walax. Keynaan waa xawaare ji-heysan. 
-
- Keynaan waa xaddi leeb, xawaa-ruhuna waa xaddi foolwaa. 
+keynaan m.l Summad : V. Dhakhsaha bara- baxa walax. Keynaan waa xawaare ji-heysan. Keynaan waa xaddi leeb, xawaa-ruhuna waa xaddi foolwaa. 
 
 keyrkeyr¹ m.l Cabsi darteed oo lala gar-gariiro. 
 
@@ -2624,9 +2366,7 @@ kidaar m.l Nooc kibis ka mid ah.
 
 kidfamid m.f.dh eeg kidfan¹. 
 
-kidfan¹ f.mg1 (-amay, -antay; -ami) Wax 
-
-kidif laga dhigay noqosho. 
+kidfan¹ f.mg1 (-amay, -antay; -ami) Wax kidif laga dhigay noqosho. 
 
 kidfan² f.mg4 (-naa, -nayd) Wax kidfan ahaansho. 
 
@@ -2642,19 +2382,15 @@ kidif¹ m.l (-fyo, m.dh) Wax la jarjaray oo aad loo yaryareeyey cad ka mid ah; j
 
 kidif² f.g1 (-dfay, -dftay; -dfi) Wax is-haysta jarjar yaryar oo badan ka dhigid; qurbid. 
 
-kifaax¹ m.l 1. Hawl qabashadeeda ama wax hanashadooda loo dagaallamo; halgan. 
+kifaax¹ m.l 1. Hawl qabashadeeda ama wax hanashadooda loo dagaallamo; halgan. 2. Raaxo. 
 
- 2. Raaxo. 
-
-kifaax² 512 f.mg1 (-xay, -xday) 1. Hawl qabashadeeda ama wax hanashadooda u dagaallamid. 2. Raaxaysasho. 
+kifaax² f.mg1 (-xay, -xday) 1. Hawl qabashadeeda ama wax hanashadooda u dagaallamid. 2. Raaxaysasho. 
 
 kifaaxid m.f.dh eeg kifaax². 
 
 kifaayo m.dh In wax ku filan; wax deeqa. 
 
-kii¹ mu.ac.l kuwii, w Magacuyaal aan cayinnayn oo lab, oo cid ama wax la isla ogaa oo maqan oo aan magaciisa la sheegayn. Tus. 
-
- “Kanu waa kii beryahanba aan raadinayay”: “Kii baa yimid”. 
+kii¹ mu.ac.l kuwii, w Magacuyaal aan cayinnayn oo lab, oo cid ama wax la isla ogaa oo maqan oo aan magaciisa la sheegayn. Tus. “Kanu waa kii beryahanba aan raadinayay”: “Kii baa yimid”. 
 
 kii² (-Kii) dk.lh.l ld kiisa². 
 
@@ -2688,23 +2424,17 @@ kiilogaraam m.l (-myo, m.dh) ld kiilo.
 
 kiilomitir m.l (-rro, m.dh) Fogaan kun mitir dhan. 
 
-kiilowaat m.l Kun waad oo ah awoodda 
-
-korontada ama makaanikada. 
+kiilowaat m.l Kun waad oo ah awoodda korontada ama makaanikada. 
 
 kiimika m.dh Cilmiga laga barto walxuhu waxa ay ka sameysan yihiin iyo isbeddellada mid kasta ku imanaya nooca uu yahay. 
 
-kiin¹ mu.dhm.ly Magacuyaal layeele ee tilmaamaya qofka labaad ee wadarta ah. Tus. 
-
- “Wuu iga kiin waday”. 
+kiin¹ mu.dhm.ly Magacuyaal layeele ee tilmaamaya qofka labaad ee wadarta ah. Tus. “Wuu iga kiin waday”. 
 
 kiin² (-kiin) dk.lh.l ld kiinna². 
 
 kiinjo m.l Qasabka alanka ugu hooseeya ee macaan. 
 
-kiinna¹ mu.lh.l (kuwiinna, w) Magacuyaal lahaansho oo tilmaamaya wax idinku (qofka labaad ee wadarta ah) aad leedihiin. Tus. 
-
- “Kiinna warkiisa iskaba daa!”. 
+kiinna¹ mu.lh.l (kuwiinna, w) Magacuyaal lahaansho oo tilmaamaya wax idinku (qofka labaad ee wadarta ah) aad leedihiin. Tus. “Kiinna warkiisa iskaba daa!”. 
 
 kiinna² (-Kiinna) dk.lh.l Dibkabe lahaansho oo tilmaamaya wax idinku (qofka labaad eekiriiri wadarta ah) aad leedihiin. Tus. “Dad badan baa dhagaysta warkiinna”. ld kiin². 
 
@@ -2718,9 +2448,7 @@ kiis³ (-kiis) dk.lh.l ld kiisa².
 
 kiisa¹ mu.lh.l (kuwiisa, w) Magacuyaal lahaansho oo lab ah, oo tilmaamaya wax isagu (qofka saddexaad ee kelida ah ee lab) uu leeyahay. Tus. “Buuggaaga qaado kiisana meel u dhig”. 
 
-kiisa² (-kiisa) dk.lh.l Dibkabe lahaansho oo lab ah oo tilmaamaya wax isagu (qofka saddexaad ee kelida ah ee lab) uu leeyahay. 
-
- Tus. “Aaway qalankiisa?”. ld kiis³, ki, kįi². 
+kiisa² (-kiisa) dk.lh.l Dibkabe lahaansho oo lab ah oo tilmaamaya wax isagu (qofka saddexaad ee kelida ah ee lab) uu leeyahay. Tus. “Aaway qalankiisa?”. ld kiis³, ki, kįi². 
 
 kiisad m.dh ld kiishad. 
 
@@ -2728,9 +2456,7 @@ kiish m.l Kolay maro, harag iwm ka samaysan oo wax lagu rito. ld kiis¹.
 
 kiish yaro m.l (-shash ..., m.l) (daww.) Kiish yar oo ka sameysma meelaha dabacsan ee xubnaha dheefshiidka. 
 
-kiishad m.dh (-do, m.l) Suun la xirto oo leh jeeb ama laba oo lacagta iwm. lagu rito. ld 
-
-kiisad.  
+kiishad m.dh (-do, m.l) Suun la xirto oo leh jeeb ama laba oo lacagta iwm. lagu rito. ld kiisad.  
 
 kiish-dabac-halbawle m.l (daaw.) Kiish dhiig 
 
@@ -2742,9 +2468,7 @@ kiisid m.f.dh eeg kiis².
 
 kiismiskiin m.l Codsi qof u qorto maxkamad si looga dhaafo kharajka ku baxaya dacwadda loo qaadayo. 
 
-kiitoon m.l (-nno, m.dh) (kiim.) Moli- 
-
-kuyuullada leh urur shaqaale RCOR'. eeg urur shaqo. 
+kiitoon m.l (-nno, m.dh) (kiim.) Moli-kuyuullada leh urur shaqaale RCOR'. eeg urur shaqo. 
 
 kilkil¹ m.l Ruxidda si xoog ah wax loo ruxo. 
 
@@ -2762,25 +2486,15 @@ kilkilo m.dh (-ooyin, m.l) Meesha godan ee ku taal meesha cududda iyo garabku is
 
 killaal¹ m.l 1. Xabsi. 2. K. ah: meel ciriiryoon oo aan laga bixi karin. 3. Meesha cududda iyo dhudhunka dadku iska galaan. 
 
-kiloogaraam m.l (-mo, m.dh) Summad: Kg. Halbeegga caalamiga (H.C.) ee cufka loona qeexo cuf le'eg muunadda caalamiga ee ka samaysan balaatinam, iridiyam, laguna 
+kiloogaraam m.l (-mo, m.dh) Summad: Kg. Halbeegga caalamiga (H.C.) ee cufka loona qeexo cuf le'eg muunadda caalamiga ee ka samaysan balaatinam, iridiyam, laguna keydiyo waaxda keydinta cabbirka iyo misaanka, kuna taalla Sefres, agagaarka Baariis. Muunadda caalamigu waxa ay ka samaysan tahay dhululubo jooggeedu le'egyahay dhexroorkeeda kana diyaarsan iskudhaf ka kooban 90% balaatinum iyo 10% iridiyam. 
 
-keydiyo waaxda keydinta cabbirka iyo misaanka, kuna taalla Sefres, agagaarka Baariis. Muunadda caalamigu waxa ay ka samaysan tahay dhululubo jooggeedu le'egyahay dhexroorkeeda kana diyaarsan iskudhaf ka kooban 90% balaatinum iyo 10% iridiyam. 
+kiloogaraam-culeys m.l eeg cufisjiidad. 
 
-kiloogaraam culeys m.l eeg cufisjiidad. 
+kimistariga-noolaha m.l (kiim.) Barashada kiimistariga noolayaasha, gaar ahaan dhismayaashooda iyo shaqada waxyaabaha kiimikeed ee ay ka koobanyihiin, sida badan borotiin, kaarboohaydrayt, dux iyo asiidho bu'eed. 
 
-kimistariga noolaha m.l (kiim.) Barashada 
+kimistariga-oorgaanigga-ah m.l (kiim.) Kiimistariga iskudhisyada kaarboon. 
 
-kiimistariga noolayaasha, gaar ahaan dhismayaashooda iyo shaqada waxyaabaha 
-
-kiimikeed ee ay ka koobanyihiin, sida badan borotiin, kaarboohaydrayt, dux iyo asiidho bu'eed. 
-
-kimistariga oorgaanigga ah m.l (kiim.) Kiimistariga iskudhisyada kaarboon. 
-
-kimistariga orgaanig-ma-ahe m.l (kiim.) Laan 
-
-ka mid ah kiimistariga oo la xiriita curiyayaasha (marka laga reebo kaarboon) iyo weliba diyaarintooda, astaamahooda iyo falgallada isku dhisyadooda iskudhisy fudud oo kaarboon ah oo kooban oo ay ka mid yihiin ogsaydhadu ayaa lagu bartaa 
-
-kiimistariga orgaanig-ma-ahe. 
+kimistariga-orgaanig-ma-ahe m.l (kiim.) Laan ka mid ah kiimistariga oo la xiriita curiyayaasha (marka laga reebo kaarboon) iyo weliba diyaarintooda, astaamahooda iyo falgallada isku dhisyadooda iskudhisy fudud oo kaarboon ah oo kooban oo ay ka mid yihiin ogsaydhadu ayaa lagu bartaa kiimistariga orgaanig-ma-ahe. 
 
 kiniin m.l ld kiniini 
 
@@ -2790,9 +2504,7 @@ kintir m.l (-rro, m.dh) (c.nafl.) Xubin yar oo jilicsan oo u eg dhoorka digaagga
 
 kir e.d Yallah!, hayahee! bax!, tag!, kac!, hus!, yur! ld kįs. 
 
-kiree f.g2 (-reeyay, -reysay) Hanti gaar ah sida baabuur, guri iwm manaafacaad-sigooda cid 
-
-kale lacag kul heshiin. 
+kiree f.g2 (-reeyay, -reysay) Hanti gaar ah sida baabuur, guri iwm manaafacaad-sigooda cid kale lacag kul heshiin. 
 
 kireyn m.f.dh eeg kiree. ld kireys. 
 
@@ -2800,9 +2512,7 @@ kireys m.l ld kireyn.
 
 kireysad m.l ld kireysasho. 
 
-kireysasho m.f.dh eeg kireyso. ld kireysad, 
-
-kireysi.  
+kireysasho m.f.dh eeg kireyso. ld kireysad, kireysi.  
 
 kireysi m.l ld kireysasho. 
 
@@ -2822,13 +2532,9 @@ kirishtaanad m.dh (-do, m.l) (dii.) Haweeney aaminsan diinta Masiixiga.
 
 kirishtaannimo m.dh (dii.) Kirishtaan ahaansho. 
 
-kirkir¹ m.l (-ro, m.dh) Raadka ay reebto mindi iwm oo aan af lahayn oo wax lagu gooyay. ld 
+kirkir¹ m.l (-ro, m.dh) Raadka ay reebto mindi iwm oo aan af lahayn oo wax lagu gooyay. ld kirkirid.  
 
-kirkirid.  
-
-kirkir² m.l (-ro, m.dh) 1. (daaw.) Cudur bulshadeed ragga kaga dhaca guska oo inta hore gooya, lagana qaado galmada. 
-
-ka 2. (daaw.) Nabar furan oo aan xanuun lahayn oo ka samysma meesha jeermigu jirka galay (guska, dibnaha, iwm) waana astaanta ugu horreysa ee xabbadda (siifilis). 
+kirkir² m.l (-ro, m.dh) 1. (daaw.) Cudur bulshadeed ragga kaga dhaca guska oo inta hore gooya, lagana qaado galmada. ka 2. (daaw.) Nabar furan oo aan xanuun lahayn oo ka samysma meesha jeermigu jirka galay (guska, dibnaha, iwm) waana astaanta ugu horreysa ee xabbadda (siifilis). 
 
 kirkir³ f.g1 (-ray, -rtay) Mindi aan af lahayn wax ku goyn. 
 
@@ -2838,7 +2544,7 @@ kirkirid m.f.dh eeg kirkir³.
 
 kirkirmid m.f.dh eeg kirkiran¹. 
 
-kirkirnaan m.f.dh eeg kirkiran. ld kirkir- naansho. 
+kirkirnaan m.f.dh eeg kirkiran. ld kirkir-naansho. 
 
 kirkirnaansho m.l/dh ld kirkirnaan. 
 
@@ -2858,23 +2564,15 @@ kis m.dh In yar; xoogaa; kistoo.
 
 kįs e.d ld kir. 
 
-kisi m.l 1. K. ah: tiro aan qaybsami karin oo weligeed wax soo haraan (sida: 3, 5, 7, iwm). 
-
- 2. (-iyo, m.dh) Qof aan meher ku dhalan. 
+kisi m.l 1. K. ah: tiro aan qaybsami karin oo weligeed wax soo haraan (sida: 3, 5, 7, iwm).  2. (-iyo, m.dh) Qof aan meher ku dhalan. 
 
 kistoo fk. Kis yar; xoogaa. 
 
 kiswad m.dh Dhar qaali ah, lagu xarragoodo oo dumarku qaataan. 
 
-kitaab 514 m.l (kutub, m.dh/kutubo/-bbo, m.l) 1. (dii) Buug ay ku yaalliin waxyaabo badanaa diini ah oo farta carabiga ku qoran. 
+kitaab m.l (kutub, m.dh/kutubo/-bbo, m.l) 1. (dii) Buug ay ku yaalliin waxyaabo badanaa diini ah oo farta carabiga ku qoran. 2. (u) Ballanbaalis. 
 
- 2. (u) Ballanbaalis. 
-
-kitaabday f.mg1 (-deyiyay,-dayday; -deyi) U 
-
-k.: qof buka si loo daaweeyo kitaab u eegid; 
-
-kutubbo-rogid.  
+kitaabday f.mg1 (-deyiyay,-dayday; -deyi) U k.: qof buka si loo daaweeyo kitaab u eegid; kutubbo-rogid.  
 
 kitaabdeyid m.f.dh eeg kitaabday. 
 
@@ -2890,15 +2588,11 @@ kitaabgaablow m.l ld kitaabgaab.
 
 kix m.dh Cudur badanaa carruurta ku dhaca oo leh qufac iyo neefraac xiriira oo qaylo dheer; xiiqdheer. ld jix, qix. 
 
-kob m.dh (-bo, m.l) 1. Meel kooban oo la tilmaami karo. 2. Daliigo caw laga falkiyey oo dhaadheer ballacooduse yaryaryahay oo 
-
-kolkii laysku toltolo dermada noqda middood. 3. Meel geedo dhaadheer leh oo hareeraha ka bannaan. 4. ld kab². 
+kob m.dh (-bo, m.l) 1. Meel kooban oo la tilmaami karo. 2. Daliigo caw laga falkiyey oo dhaadheer ballacooduse yaryaryahay oo kolkii laysku toltolo dermada noqda middood. 3. Meel geedo dhaadheer leh oo hareeraha ka bannaan. 4. ld kab². 
 
 kobatol m.l ld kobatole. 
 
-kobatole m.l (-layaal, m.l/dh) 1. Qalabka 
-
-kabaha lagu tolo oo mudac weyn u eg. 2. Ninka kabaha tola. ld kabatol. 
+kobatole m.l (-layaal, m.l/dh) 1. Qalabka kabaha lagu tolo oo mudac weyn u eg. 2. Ninka kabaha tola. ld kabatol. 
 
 kobci f.g2 (-iyay, -isay) 1. Dhasha dadka iyo xoolaha cayilin. 2. Dhaqaale iwm kordhin. 
 
@@ -2914,9 +2608,7 @@ koboc² f.mg1 (-bcay, -bocday; -bci) 1. Nafley yar cayilid. 2. Dhaqaale iwm kori
 
 kobocsan f.mg4 (-naa, -nayd) Ahaansho wax la kobciyey. 
 
-kobocsanaan m.f.dh eeg kobocsan. ld 
-
-kobocsanaansho.  
+kobocsanaan m.f.dh eeg kobocsan. ld kobocsanaansho.  
 
 kobocsanaansho m.l/dh ld kobocsanaan. 
 
@@ -2950,9 +2642,7 @@ kojin m.f.dh eeg koji.
 
 kojiye m.l (-yayaal, m.l/dh) Toddoba- maggaarto; teetano. 
 
-kol¹ m.l 1. ld kal 1. (kolal, m.l) Waqti, jeer; mar. Tus. “Cali kol baan arkay”. 2. K.ba: mar walba. 3. K.ka: haddaba, sidaas darteed. 
-
-k.laba: 4. K.kiiba: isla waqtigii. 5. K.naba ama si kastaba; dhab ahaan. 6. Waa k. iyo laba: marmar buu dhacaa. 
+kol¹ m.l 1. ld kal 1. (kolal, m.l) Waqti, jeer; mar. Tus. “Cali kol baan arkay”. 2. K.ba: mar walba. 3. K.ka: haddaba, sidaas darteed. k.laba: 4. K.kiiba: isla waqtigii. 5. K.naba ama si kastaba; dhab ahaan. 6. Waa k. iyo laba: marmar buu dhacaa. 
 
 kol² xi. K.ka ama k.kii: erey lagu xiriiriyo weer waqtiley ah. Tus. “Kolka uu geelu oomo ayuu olol badnaadaa.” 
 
@@ -2974,9 +2664,7 @@ kolla fk. Marnaba; marna.
 
 kollajiin m.l (-no, m.d) (c,nafl) Borotiin miiqsan oo ma milme ah lagana helo nudo isku xidhayaasha maqaarka, taharta iyo lafta. 
 
-kollaydh m.dh (-ooyin, m.l) (baay.) Kollaydhada markii ugu horreysey waxa uu u qeexay Thomas Graham sannadkii 1861, walxo ahaan, sida istaarj ama jellatiin, 
-
-kuwaas oo aan ka gudbi karin xuub. 
+kollaydh m.dh (-ooyin, m.l) (baay.) Kollaydhada markii ugu horreysey waxa uu u qeexay Thomas Graham sannadkii 1861, walxo ahaan, sida istaarj ama jellatiin, kuwaas oo aan ka gudbi karin xuub. 
 
 kolley fk. K.ba: si kastaba; dhab ahaan. 
 
@@ -2986,9 +2674,7 @@ kolmayn m.f.dh eeg kolmee.
 
 kolmaysan f.mg4 (-snaa, -snayd) Wax kolmo loo yeelay ahaansho. 
 
-kolmaysnaan m.f.dh eeg kolmaysan. ld 
-
-kolmaysnaansho.  
+kolmaysnaan m.f.dh eeg kolmaysan. ld kolmaysnaansho.  
 
 kolmaysnaansho m.l/dh ld kolmaysnaan. 
 
@@ -2998,9 +2684,7 @@ kolmo m.l (nax.) Astaan qoraal (“ “) oo sida badan loo adeegsado iyadoo labo
 
 kolombaawi m.dh Macawiso raggu qaato midabyo kala gaar ah leh. 
 
-kolon m.dh (-lmo, m.l) 1. Labo cad oo yaryar oo dhuudhuuban oo cunaha ariga qaarkiis ka baxa midkood. 2. Buro jirka meel ka mid ah 
-
-ka soo baxda oo laallaadda. 3. (w) eeg kolmo. 
+kolon m.dh (-lmo, m.l) 1. Labo cad oo yaryar oo dhuudhuuban oo cunaha ariga qaarkiis ka baxa midkood. 2. Buro jirka meel ka mid ah ka soo baxda oo laallaadda. 3. (w) eeg kolmo. 
 
 koloraydh m.l.u (-dyo, m.dh) (kiim.) Iskudhis uu ku jiro koloriin. 
 
@@ -3008,17 +2692,13 @@ koloriin m.dh (-nno, m.dh) (kiim.) Curiye neef cagaar-hurdi ah oo firfircoon kan
 
 kombaleeso m.dh 1. Wadajir. 2. (muus.) Koox muusig. 
 
-kombiyuutar m.l (-rro, m.dh) (tegno.) Aalad 
-
-ku shaqeysa elektroonik si gaar ahna u qabata xogta lagu kaydiyo, marka loo baahdana si qeexan uga jawaabta. 
+kombiyuutar m.l (-rro, m.dh) (tegno.) Aalad ku shaqeysa elektroonik si gaar ahna u qabata xogta lagu kaydiyo, marka loo baahdana si qeexan uga jawaabta. 
 
 kongerees m.l (-syo, m.dh) Shirweyne dad badan isugu yimaadaan oo arrimo muhiim ah lagaga hadlo. 
 
 kontarabaan m.l Badeeco aan canshuureyn oo si sharci-darro ah dal ku soo gasha ama uga baxda. ld kontrobaan. 
 
-kontomaad m.l.t.j Midka ku abbaaran tirada 
-
-konton. ld kontonaad. 
+kontomaad m.l.t.j Midka ku abbaaran tirada konton. ld kontonaad. 
 
 kontomeeye m.l.t. Tiro qiyaas ahaan konton u dhow. ld kontomeeyo. 
 
@@ -3026,45 +2706,31 @@ kontomeeyo m.dh ld kontomeeye.
 
 konton m.l.t. Tiro ka kooban shan meelood oo min toban ah; shan tobnaad; “50”. 
 
-kontonaad m.l.t.j Tirada jagaale, kan 
-
-kontonka u dhigma. ld DSI, kontomaad. 
+kontonaad m.l.t.j Tirada jagaale, kan kontonka u dhigma. ld DSI, kontomaad. 
 
 kontorool¹ m.l 1. Wax baaridda wax la baaro. 2. Meel wax lagu baaro. 
 
-kontorool² 515kontorool² f.g1 (-oolay, -ooshay) Wax baarid. 
+kontorool² f.g1 (-oolay, -ooshay) Wax baarid. 
 
-kontoroolan f.mg4 (-lnaa, -lnayd) Wax la 
-
-kontoroolay ahaansho 
+kontoroolan f.mg4 (-lnaa, -lnayd) Wax la kontoroolay ahaansho 
 
 kontoroolasho m.f.dh eeg kontoroolo. 
 
 kontoroolid m.f.dh eeg kontorool². 
 
-kontoroolnaan m.f.dh eeg kontoroolan. ld 
-
-kontoroolnaansho.  
+kontoroolnaan m.f.dh eeg kontoroolan. ld kontoroolnaansho.  
 
 kontoroolnaansho m.l/dh ld kontorool-naan. 
 
-kontoroolo f.mg3 (-rooshay, -roolatay) Wax 
-
-kontorool ku sameysasho. 
+kontoroolo f.mg3 (-rooshay, -roolatay) Wax kontorool ku sameysasho. 
 
 kontrobaan m.l ld kontarabaan. Koo¹ mu.ti.l (kuwoo, w) Mgacuyaal tilmaame oo lab, oo wax qofka hadlaya aad uga fog oo farta la isugu fiiqayo lagu tilmaansado. 
 
-koo² mu.ac.l (kuwoo, w) 1. Magacuyaal aan cayinnayn oo lab ah oo tilmaama wax ama qof jooga meel kan hadlaya ka fog. 2. (t) ld 
+koo² mu.ac.l (kuwoo, w) 1. Magacuyaal aan cayinnayn oo lab ah oo tilmaama wax ama qof jooga meel kan hadlaya ka fog. 2. (t) ld kow.  
 
-kow.  
+koob¹ m.l (-bab, m.l) 1. Weel yar oo badanaa dheg leh oo wax lagu cabbo; fijaan. 2. Qalab ka samaysan dahab, qalin iwm oo lagu kala qaato tartamada cayaaraha. 
 
-koob¹ m.l (-bab, m.l) 1. Weel yar oo badanaa dheg leh oo wax lagu cabbo; fijaan. 2. Qalab 
-
-ka samaysan dahab, qalin iwm oo lagu kala qaato tartamada cayaaraha. 
-
-koob² f.g1 (-bay, -btay) 1. Wax dham- maantood wada marid ama wada aqoon. 
-
- 2. Soo k.: arrin iwm soo gaabin. 
+koob² f.g1 (-bay, -btay) 1. Wax dham- maantood wada marid ama wada aqoon. 2. Soo k.: arrin iwm soo gaabin. 
 
 koobaab¹ m.dh ld goobaab¹. 
 
@@ -3086,9 +2752,7 @@ koobaad m.l ld koowaad.
 
 kooban¹ f.mg1 (-bmay, -bantay; -bmi) Ku k.: wax koobmay noqosho. 
 
-kooban² f.mg4 (-bnaa, -bnayd) 1. Wax la 
-
-koobay ahaansho. 2. Ku k.: wax ku eg meel oo aan dhaafsaneyn ahaansho. “Ceebtaasi Cali bay ku koobantahay”. 3. Ka k.: wax dhawr shey isugu jira ahaansho. 
+kooban² f.mg4 (-bnaa, -bnayd) 1. Wax la koobay ahaansho. 2. Ku k.: wax ku eg meel oo aan dhaafsaneyn ahaansho. “Ceebtaasi Cali bay ku koobantahay”. 3. Ka k.: wax dhawr shey isugu jira ahaansho. 
 
 koobi f.mg2 (-iyay, -isay) Ka k.: cid war xiiso leh sheegaysa hadal ka gurid. 
 
@@ -3100,25 +2764,19 @@ koobir m.l (-rro, m.dh) Minxiis.
 
 koobmid m.f.dh eeg kooban¹. ld koobniin. 
 
-koobnaan m.f.dh eeg kooban². ld koob- naansho. 
+koobnaan m.f.dh eeg kooban². ld koob-naansho. 
 
 koobnaansho m.l/dh ld koobnaan. 
 
 koobniin m.dh ld koobmid. 
 
-kood¹ m.l (-dad, m.l) 1. Lafaha gebiga ah oo indhaha ka korreeya oo sunnayaashu ku yaalliin midkood. 2. Hadal hoos laysugu 516 sheego; faq. 3. Xodxodasho. 4. Neef bayr leh oo aan la qaban karin; farow. 5. (m.l./dh) (- do, m.l) Dhul siman meel ka yara sarreysa. 
+kood¹ m.l (-dad, m.l) 1. Lafaha gebiga ah oo indhaha ka korreeya oo sunnayaashu ku yaalliin midkood. 2. Hadal hoos laysugu sheego; faq. 3. Xodxodasho. 4. Neef bayr leh oo aan la qaban karin; farow. 5. (m.l./dh) (- do, m.l) Dhul siman meel ka yara sarreysa. 
 
 kood² (-kood) dk.lh.l ld kooda². 
 
-kooda¹ mu.lh.l (kuwooda, w) Magacuyaal lahaansho oo tilmaamaya wax iyagu (qofka saddexaad ee wadarta ah) ay leeyihiin. Tus. 
+kooda¹ mu.lh.l (kuwooda, w) Magacuyaal lahaansho oo tilmaamaya wax iyagu (qofka saddexaad ee wadarta ah) ay leeyihiin. Tus. “Kooda ayaa ka wanaagsan kiinna”. 
 
- “Kooda ayaa ka wanaagsan kiinna”. 
-
-kooda² (-kooda) dk.lh.l Dibkabe lahaansho oo tilmaamaya wax iyagu (qofka saddexaad ee wadarta ah) ay leeyihiin. 
-
- Tus. 
-
-kood². “Macallinkooda ayay la tashadaeen”. ld  
+kooda² (-kooda) dk.lh.l Dibkabe lahaansho oo tilmaamaya wax iyagu (qofka saddexaad ee wadarta ah) ay leeyihiin. Tus. kood². “Macallinkooda ayay la tashadaeen”. ld  
 
 koodh m.l (-rar, m.l) ld koor¹. 
 
@@ -3136,19 +2794,13 @@ koofaar m.dh (-ro, m.l) Magac aan qof kiisii runta ahaa ahayn; naanays.
 
 koofi m.dh ld koofiyad. 
 
-koofiyad m.dh (-do, m.l) Shey ka samaysan dun, dhar iwm. oo raggu madaxa gashadaan. 
+koofiyad m.dh (-do, m.l) Shey ka samaysan dun, dhar iwm. oo raggu madaxa gashadaan. ld koofi, koofiyo. 
 
- ld koofi, koofiyo. 
-
-koofiyad xidid m.l (baay.) Dhisme daboola fiiqa ugu horreeya ee xididka (dhinaca carrada). Waxay ilaalisaa xididka inta uu 
-
-korayo si uu u dhex maro carrada. 
+koofiyad-xidid m.l (baay.) Dhisme daboola fiiqa ugu horreeya ee xididka (dhinaca carrada). Waxay ilaalisaa xididka inta uu korayo si uu u dhex maro carrada. 
 
 koofiyo m.dh ld koofiyad. 
 
-koofur m.dh Jiha waqooyiga liddiga ku ah. ld 
-
-koonfur.  
+koofur m.dh Jiha waqooyiga liddiga ku ah. ld koonfur.  
 
 koo-insaym m.l (-myo, m.dh) (baay.) Molikiyuul aan borotiin ahayn oo orgaanik ah, kaas oo ku xidhiidhiya molikiyuul insaym dedejinta falgallada baayokiimi-keed. 
 
@@ -3170,9 +2822,7 @@ koolis m.l ld koolin.
 
 koolkooli f.g2 (-iyay, -isay) Ilmo yar si gacalo leh u barbaarin. 
 
-koolkoolin m.f.dh eeg koolkooli. ld 
-
-koolkoolis.  
+koolkoolin m.f.dh eeg koolkooli. ld koolkoolis.  
 
 koolkoolis m.l ld koolkoolin. 
 
@@ -3188,9 +2838,7 @@ koone m.l Laba xarriiqood meesha ay isugu yimaadaan dhinaca dibadda ah.
 
 koonfur m.dh ld koofur. 
 
-koor¹ m.l (-rar, m.l) Dhar adag oo culus oo raggu qaarka sare ka qaataan oo dhaxanta laga geshado, laguna xarragoodo; jubbad. ld 
-
-koodh.  
+koor¹ m.l (-rar, m.l) Dhar adag oo culus oo raggu qaarka sare ka qaataan oo dhaxanta laga geshado, laguna xarragoodo; jubbad. ld koodh.  
 
 koor² m.dh (-ro, m.l) Dawan geed laga qorey oo xoolaha qoorta loogu xiro. 
 
@@ -3204,9 +2852,7 @@ kooraggooyennimo  m.dh Kooraggooye ahaansho (nin).
 
 kooraqore m.l (-rayaal, m.dh) Nin farsamaynta kooraha ku wanaagsan. 
 
-koorasaar m.l 1. Midab madow oo neef ido ah dusha uga yaal. 2. Duudka fardaha meesha 
-
-kooraha la saaro. 
+koorasaar m.l 1. Midab madow oo neef ido ah dusha uga yaal. 2. Duudka fardaha meesha kooraha la saaro. 
 
 koorayn m.f.dh eeg kooree. 
 
@@ -3224,9 +2870,7 @@ koorin m.f.dh eeg koori.
 
 koorkoox m.dh ld kooxkoox. 
 
-koorniya m.dh (-yayaal, m.l/dh) (c.nafl ) Dabool ilays gudbiye ah oo ku yaalla 
-
-kubbadda isha xaggeeda hore. Waa isbedel socda oo ka yimaadda ilxaydha. 
+koorniya m.dh (-yayaal, m.l/dh) (c.nafl ) Dabool ilays gudbiye ah oo ku yaalla kubbadda isha xaggeeda hore. Waa isbedel socda oo ka yimaadda ilxaydha. 
 
 koorrib m.dh Kuul madow oo quraarad ah. 
 
@@ -3238,15 +2882,13 @@ koosaar² f.g1 (-ray, -rtay) Cunto iidaan ku darid. ld goosaar².
 
 koosaarad m.l ld goosaarad. 
 
-koosaaran f.mg4 (-rnaa, -rnayd) Wax la 
-
-koosaaray ahaansho. ld goosaaran. 
+koosaaran f.mg4 (-rnaa, -rnayd) Wax la koosaaray ahaansho. ld goosaaran. 
 
 koosaarasho m.f.dh eeg koosaaro. ld goosaarasho. 
 
 koosaarid m.f.dh eeg koosaar². ld goosaarid. 
 
-koosaarnaan m.f.dh eeg koosaaran. ld goosaarnaan, goosaarnaansho, koosaar- naansho. 
+koosaarnaan m.f.dh eeg koosaaran. ld goosaarnaan, goosaarnaansho, koosaar-naansho. 
 
 koosaarnaansho m.l/dh ld koosaarnaan. 
 
@@ -3270,21 +2912,13 @@ kootaliyad m.dh (-do, m.l) Haweeney aan Ilaah iyo Nabigiisa rumasnayn.
 
 koow m.l.t ld kow. 
 
-koowaad m.l 1. (t.j) Lambarka tirada jagaalada ah ugu horreeya. 2. (-dyo, m.dh) Halbeeg. ld 
-
-koobaad, kowaad. 
+koowaad m.l 1. (t.j) Lambarka tirada jagaalada ah ugu horreeya. 2. (-dyo, m.dh) Halbeeg. ld koobaad, kowaad. 
 
 koox m.dh (-xo, m.l) 1. Tiro isku duuban oo aan badnayn. 2. (muus.) Dad badan oo aaladaha la afuufo ama la garaaco ee muusikada yeeriya. 3. Dad badan oo ciyaartoy ah oo kubbadda nooc ka mid ah ciyaara. 
 
-kooxaha dhiigga m.l (baay.) Noocyada farabadan ee dhiigga dadka loo kala sooco. 
+kooxaha-dhiigga m.l (baay.) Noocyada farabadan ee dhiigga dadka loo kala sooco. ka Waxay ku xidhan tahay joogista iyo maqnaanshaha qaar  mid ah borootiinnada (lid jidh-dhaliyayaal) unugyada cascas guudkooda. Koox dhiiggoodu waxa uu ka koobanyahay lid jidh-galayaal ku jiramuudka kaas oo ka hor yimaadda lid jidh-dhaliyayaasha kooxaha kale.  
 
-ka 517koox-amayno Waxay ku xidhan tahay joogista iyo maqnaanshaha qaar  mid ah borootiinnada (lid jidh-dhaliyayaal) unugyada cascas guudkooda. Koox dhiiggoodu waxa uu ka koobanyahay lid jidh-galayaal ku jiramuudka kaas oo ka hor yimaadda lid jidh-dhaliyayaasha kooxaha 
-
-kale.  
-
-koox-amayno m.l (-xo ..., m.l) (kiim.) Iskudhis leh kooxda - NH -halkaas oo atamka naytarojiin aanu ku dheggeneyn 
-
-kooxo kaarbonayt ama atamyo kale oo haydarojiin ah. Ururku waa kooxda amayno. 
+koox-amayno m.l (-xo ..., m.l) (kiim.) Iskudhis leh kooxda - NH -halkaas oo atamka naytarojiin aanu ku dheggeneyn kooxo kaarbonayt ama atamyo kale oo haydarojiin ah. Ururku waa kooxda amayno. 
 
 kooxayn m.f.dh eeg kooxee. ld kooxays. 
 
@@ -3298,9 +2932,7 @@ kooxkoox m.dh Wax qaybo-qaybo u kala qaybsan. ld koorkoox.
 
 kor¹ m.l 1. Meel sare; dul. 2. Wada jirka xubnaha nafleyda, madax, gacmo, lugo iwm; oogo; jir. 
 
-kor² f.mg1 (-ray, -rtay) 1. Nafley markii fil ku 
-
-kordhaba weynaan iyo dherer yeelasho. 2. Meel sare lug ku fuulid ama wax dusha ka fuulid. 
+kor² f.mg1 (-ray, -rtay) 1. Nafley markii fil ku kordhaba weynaan iyo dherer yeelasho. 2. Meel sare lug ku fuulid ama wax dusha ka fuulid. 
 
 korad m.l ld korasho. 
 
@@ -3326,9 +2958,7 @@ kordhisasho m.f.dh eeg kordhiso.
 
 kordhiso f.g3 (-stay, -satay) Wax horey loo hayey wax ku darsasho. 
 
-kordhiye m.l (-yayaal, m.l/dh) (fiis.) Qalab 
-
-kordhiya itaalka sinyaala danabeed sida codka oo tamar dheeraad ah ka soo dheegata il danab kale. 
+kordhiye m.l (-yayaal, m.l/dh) (fiis.) Qalab kordhiya itaalka sinyaala danabeed sida codka oo tamar dheeraad ah ka soo dheegata il danab kale. 
 
 kore¹ m.l ld korow. 
 
@@ -3342,9 +2972,7 @@ korin m.f.dh eeg kori. ld koris.
 
 koris m.l ld korin. 
 
-koritaan dhaqaale m.l (dhaq.) Koritaan warshad ama dhaqdhaqaaq dhaqaale, wax 
-
-kordha lacagta ku baxda iyo wax-soo-saarka. 
+koritaan-dhaqaale m.l (dhaq.) Koritaan warshad ama dhaqdhaqaaq dhaqaale, wax kordha lacagta ku baxda iyo wax-soo-saarka. 
 
 korjad m.dh.t (-do, ml.) Harag iwm oo labaatan xabbo ah. 
 
@@ -3352,13 +2980,9 @@ korjoog m.l 1. Taagnaanta cid fadhida ama bugta la dul taagnaado. 2. Ilaalo.
 
 korjooge m.l (-gayaal, m.l/dh) Cid dusha ka ilaalin; gaarhaye. 
 
-korjoogeyn m.f.dh eeg korjoogee. ld 
+korjoogeyn m.f.dh eeg korjoogee. ld korjoogteyn.  
 
-korjoogteyn.  
-
-korjoogtee f.mg2 (-teeyay, -teysay) ld 
-
-korjoogee.  
+korjoogtee f.mg2 (-teeyay, -teysay) ld korjoogee.  
 
 korjoogteyn m.dh ld korjoogeyn. 
 
@@ -3370,9 +2994,7 @@ kormeer¹ m.l (-rro, m.dh) Baaris iyo ka warqabid hawl iwm socodkooda iyo baahid
 
 kormeer² f.g1 (-ray, -rtay) Hawl iwm socodkooda u kuurgelid. 
 
-kormeere m.l (-rayaal, m.l/dh) 1. Qof ay hawshiisu tahay inuu wax soo kormeero. 
-
-kana 2. Askari darajadiisu ka korreysa saddex alifle hooseysa xiddigle. 
+kormeere m.l (-rayaal, m.l/dh) 1. Qof ay hawshiisu tahay inuu wax soo kormeero. kana 2. Askari darajadiisu ka korreysa saddex alifle hooseysa xiddigle. 
 
 kormeerid m.f.dh eeg kormeer². 
 
@@ -3388,19 +3010,13 @@ koro f.g3 (-rtay, -ratay) Wax sugid.
 
 korobaxo m.dh (-wyo, m.dh) Xoolaha intooda aan irmaaneyn. 
 
-korolla ilaacayaal m.l (-lo, m.dh) (bot.) Laacayaasha ubaxa. Wuxuu ku wareegsan- yahay faxal sidaha iyo aarballada. 
+korolla-ilaacayaal m.l (-lo, m.dh) (bot.) Laacayaasha ubaxa. Wuxuu ku wareegsan- yahay faxal sidaha iyo aarballada. 
 
-koromatidhyo m.dh (baay.) Xidhmo dun oo 
+koromatidhyo m.dh (baay.) Xidhmo dun oo kala ah oo ka somaysantay koromosoom xilliga wejiyada hore ee qaybsanka unug-ga. 
 
-kala ah oo ka somaysantay koromosoom xilliga wejiyada hore ee qaybsanka unug-ga. 
+koromatiin m.l (baay.) Walaxda ay koromosoomyadu ka samaysan yihiin. Waxay ka kooban tahay borotiinno (gaar ahaan histoono), DNA iyo waxoogaa yar oo RNA ah.kortegid 
 
-koromatiin m.l (baay.) Walaxda ay 
-
-koromosoomyadu ka samaysan yihiin. Waxay ka kooban tahay borotiinno (gaar ahaan histoono), DNA iyo waxoogaa yar oo RNA ah.kortegid 
-
-koromosoom m.l (-myo, m.dh) (baay.) Dhisme dun oo kale ah oo laga helo bu'da unugyada dhirta iyo naflayda . Koromo- soomyadu waxay ka koobanyihiin koro- matiin, waxaanay qaadaan hiddo-sidaha, 
-
-kaasoo suga astaamaha noolaha. 
+koromosoom m.l (-myo, m.dh) (baay.) Dhisme dun oo kale ah oo laga helo bu'da unugyada dhirta iyo naflayda . Koromo- soomyadu waxay ka koobanyihiin koro- matiin, waxaanay qaadaan hiddo-sidaha, kaasoo suga astaamaha noolaha. 
 
 koromosoom-jinsi m.l (-myo ..., m.dh) (baay.) Korokosoomyada xukuma xaya- waanka dhalanayaa lab iyo dheddig midka uu noqonayo. Waxay ku leeyihiin bu'da hal sinji lammaane koromosoomo oo isku kaan ah. 
 
@@ -3412,17 +3028,11 @@ koronkor² m.dh Mesego la kariyay, iyadoo aan la shiidin; cambuulo.
 
 koronkoraysad m.l ld koronkoraysasho. 
 
-koronkoraysasho m.f.dh eeg koronkorayso. ld 
-
-koronkoraysad, koronkoraysi. 
+koronkoraysasho m.f.dh eeg koronkorayso. ld koronkoraysad, koronkoraysi. 
 
 koronkoraysi m.l ld koronkoraysasho. 
 
-koronkorayso f.g3 (-stay, -satay) 1. Badar 
-
-karsamaya qaar gurasho. 2. Badar koron-kor 
-
-ka dhigasho. 
+koronkorayso f.g3 (-stay, -satay) 1. Badar karsamaya qaar gurasho. 2. Badar koron-kor ka dhigasho. 
 
 koronkorro m.dh.u Ayaxa dhashiisa aan weli duulid baran. 
 
@@ -3436,23 +3046,17 @@ koroomiyam m.l (kiim.) Bir ka tirsan curiyeyaasha kalaguurka ah, dabiici ahanna 
 
 koror¹ m.l Inta, wax ku darsanta. 
 
-koror² m.l (kiim.) Isbeddel togan ama taban ee 
-
-ku dhaca doorsoome. Koror guud ahaan waxaa loo isticmaalaa micno ahaan isbeddel yar. 
+koror² m.l (kiim.) Isbeddel togan ama taban ee ku dhaca doorsoome. Koror guud ahaan waxaa loo isticmaalaa micno ahaan isbeddel yar. 
 
 koror³ f.mg1 (-ray, -rtay) 1. Wax is khordin. 2. Ku k.: wax, wax kale ku darid. 
 
 kororsad m.l ld kororsasho. 
 
-kororsasho m.f.dh eeg kororso. ld kororsad, 
-
-kororsi.  
+kororsasho m.f.dh eeg kororso. ld kororsad, kororsi.  
 
 kororsiimo m.dh Waxa ku siyaada wax horay u jiray 
 
-kororso f.g3 (-saday, -satay) Wax kororsiimo 
-
-ku darsasho. 
+kororso f.g3 (-saday, -satay) Wax kororsiimo ku darsasho. 
 
 korow m.l Jaadadka daanyeerka mid ka mid ah oo yaryar aadna u fudfudud; kore. 
 
@@ -3476,13 +3080,11 @@ korsaar² m.l 1. Sahay yar oo awrta rarkeeda dheeraad ku ah. 2. Raar aqalka miyi
 
 korsaar³ f.g/mg. 1 (-ray, -rtay) 1. (f.g) Wax, wax kale ka kor marin. 2. (f.mg) U k.: badeeco iwm faa'iido saarid. 
 
-korsaaran f.mg4 (-rnaa, -rnayd) Wax, wax 
-
-kale dushiisa yaalla ahaansho. 
+korsaaran f.mg4 (-rnaa, -rnayd) Wax, wax kale dushiisa yaalla ahaansho. 
 
 korsaarid m.f.dh eeg korsaar². 
 
-korsaarnaan m.f.dh eeg korsaaran. ld kor- saarnaansho. 
+korsaarnaan m.f.dh eeg korsaaran. ld kor-saarnaansho. 
 
 korsaarnaansho m.l/dh ld korsaarnaan. 
 
@@ -3508,9 +3110,7 @@ korsooh² f.g1 (-hay, -hday) Xarig hab saddex lugood ah u tabin.
 
 korsoohid m.f.dh eeg korsooh². 
 
-kortag¹ m.l Aadidda la aado meel xoogaa durugsan si loogu kaadsho ama saxaroodo. ld 
-
-kortegid.  
+kortag¹ m.l Aadidda la aado meel xoogaa durugsan si loogu kaadsho ama saxaroodo. ld kortegid.  
 
 kortag² f.mg1 (-tegay, -tagtay; -tegi) 1. Kaadi ama saxaro meel durugsan u aadid. 2. Ka k.: dad meel joogey oo aan ku ogeyn si kedis ah ugu tegid. 
 
@@ -3522,9 +3122,7 @@ koryaal m.l (-llo, m.dh) Qumbe ligligii laga gooyey oo haruub loo yeelay.
 
 koryeeri m.l (-iyo/koryeeri, m.dh) Bas. 
 
-kosayn m.l 1. (xis.) Fansaan tirigonoomeeteri ee xagal. Kosayska xagal + (cos+) ee saddexagal qumman waa saamiga dhinaca la deriska ah xagasha + iyo shakaalka. 
-
- 2. Absiisaha bar ku taalla goobo halbeeg ah marka laga hadlayo habdhiska kulannada laydi. 
+kosayn m.l 1. (xis.) Fansaan tirigonoomeeteri ee xagal. Kosayska xagal + (cos+) ee saddexagal qumman waa saamiga dhinaca la deriska ah xagasha + iyo shakaalka. 2. Absiisaha bar ku taalla goobo halbeeg ah marka laga hadlayo habdhiska kulannada laydi. 
 
 kotaanjant m.l (xis.) Fansaar tirigonoo-meeteri ee xagal, kaas oo la mid ah ro-gaalka tanjankiisa. 
 
@@ -3536,9 +3134,7 @@ kowk m.l (jool.) Adke aan cufnayn oo burbura midabkiisuna yahay boor oo ay ku ji
 
 kowrax f.g1 (-xay, -xday) Hilib iwm oo inuu suyaco looga baqayo dabayl u dhigid. 
 
-kowraxsan f.mg4 (-naa, -nayd) Hilib wax la 
-
-kowrixiyay ahaansho. 
+kowraxsan f.mg4 (-naa, -nayd) Hilib wax la kowrixiyay ahaansho. 
 
 kowrixi f.g2 (-iyay, -isay) Hilib kowrax ka dhigid. 
 
@@ -3556,27 +3152,19 @@ kowso f.mg3 (-saday, -satay) Tiro bilaa-basho.
 
 koxdin m.dh Xiddig naafaha ka mid ah, oo u dhexeysa majinta iyo dirirdayga. 
 
-koyto m.dh.u Dad yimid oo degey dhul aanay 
+koyto m.dh.u Dad yimid oo degey dhul aanay ku dhalan. 
 
-ku dhalan. 
-
-ku dhalasho m.dh (baay.) Xaalad qof ku dhasho sida badanna uu waalidka ka dhaxlay. 
+ku-dhalasho m.dh (baay.) Xaalad qof ku dhasho sida badanna uu waalidka ka dhaxlay. 
 
 ku¹ mu.dhm.ly Magacuyaal layeele oo tilmaama qofka labaad ee kelida ah, oo lala hadlayo. 
 
 ku² mu.ac.l (kuwo, w) Magacuyaal aan cayinnayn oo lab ah oo cid ama wax maqan tilmaamaya. Tus. “ Maanta ku aan isku fasal ahayn baan arkay”. 
 
-ku³ h (nax.) Qurub la isticmaalo falka bidixdiisa: a) qurub la xiriira wax ama meel gudohooda fal uu ka dhacayo. Tus. “Biyaha weelka ayay ku jiraan”; b) qurub la xiriira 520 wax ama qof uu fal taabanayo. Tus. “Kursigii ayuu ku fadhiyaa”, “Xarigga geedka ku xir!”; c) qurub la xiriira wax wax lagu qabsado. 
-
- Tus. “Qalinka wax ku qor!”; d) ugu: qurubyo lagu cabbiro kalasarraynta. Tus. 
-
- “Wiilasha asaga ayaa ugu wanaagsan”. 
+ku³ h (nax.) Qurub la isticmaalo falka bidixdiisa: a) qurub la xiriira wax ama meel gudohooda fal uu ka dhacayo. Tus. “Biyaha weelka ayay ku jiraan”; b) qurub la xiriira 520 wax ama qof uu fal taabanayo. Tus. “Kursigii ayuu ku fadhiyaa”, “Xarigga geedka ku xir!”; c) qurub la xiriira wax wax lagu qabsado. Tus. “Qalinka wax ku qor!”; d) ugu: qurubyo lagu cabbiro kalasarraynta. Tus. “Wiilasha asaga ayaa ugu wanaagsan”. 
 
 kub m.l (-bab, m.l) Cagta iyo lowga xubinta u dhexeysa. 
 
-kubaddawaco m.dh Mid ka mid ah afarta caloolood ee raamsatada oo leh laallaabyo ay 
-
-ku shiiddo cuntada. 
+kubaddawaco m.dh Mid ka mid ah afarta caloolood ee raamsatada oo leh laallaabyo ay ku shiiddo cuntada. 
 
 kubadhagaxoobid m.f.dh eeg kubadha-gaxow². 
 
@@ -3586,9 +3174,7 @@ kubadhagaxow² f.mg1 (-oobay, -owday; - oobi) Kubadhagaxow ku dhicid.
 
 kubbad m.dh (-do, m.l) 1. Shey kankoonsan oo ka sameysan cinjir, harag iwm oo neefi ku jirto looguna talaggalay in lagu ciyaaro; banooni. 2. Wax qaabka banooniga leh oo wareegsan. 
 
-kubbad-badh m.dh (-do .., m.l) (juqr.) Nuska dhulka, marka sallax dhexdiisa la matiyay uu labo gabal o isla eg u qaybiyo. Dhulka badanaa waxaa loo qaybiyaa kubbad badhka woqooyi iyo kubbad badhka koonfureed, 
-
-kan hore waa badhka ushiisa ah ee dhulka badhaha woqooyi ka xiga, kan dambena waa midka koonfur ka xiga dhul badhaha. 
+kubbad-badh m.dh (-do .., m.l) (juqr.) Nuska dhulka, marka sallax dhexdiisa la matiyay uu labo gabal o isla eg u qaybiyo. Dhulka badanaa waxaa loo qaybiyaa kubbad badhka woqooyi iyo kubbad badhka koonfureed, kan hore waa badhka ushiisa ah ee dhulka badhaha woqooyi ka xiga, kan dambena waa midka koonfur ka xiga dhul badhaha. 
 
 kubbayn m.f.dh eeg kubbee. ld kubbays. 
 
@@ -3636,17 +3222,13 @@ kudid m.f.dh eeg kud². ld kudmo (2).
 
 kudkude m.l Dulin shilinta u eg dhiig-kunool ah oo badanaa laga helo meelaha digada xooluhu ku badanyihiin; hooskuhar. 
 
-kudmo m.dh 1. Saarashada dibi ama faras saarto, sac deggan ama geenyo beydalan. 
-
- 2. ld kudid. 
+kudmo m.dh 1. Saarashada dibi ama faras saarto, sac deggan ama geenyo beydalan. 2. ld kudid. 
 
 kuduud¹ m.l ld kaduudid. 
 
 kuduud² f.g1 (-day, -dday) ld kaduud². 
 
-kuduudan f.mg4 (-dnaa, -dnayd) ld 
-
-kaduudan.  
+kuduudan f.mg4 (-dnaa, -dnayd) ld kaduudan.  
 
 kuduudi f.g2 (-iyay, -isay) ld kaduudi. 
 
@@ -3704,25 +3286,19 @@ kufso f.g3 (-saday, -satay) Qof dumar ah oo aan meher kuu ahayn iyadoo aan raall
 
 kuftin m.dh Dhicidda horay loo dhaco jillaafo awgeed. ld kufid. 
 
-kug m.dh Wax walba oo taagan, meesha ugu 
-
-korreysa; dhako. 
+kug m.dh Wax walba oo taagan, meesha ugu korreysa; dhako. 
 
 kuhaamid m.f.dh eeg kuhaan². 
 
 kuhaan¹ m.l 1. Habaar. 2. (-nno, m.dh) Qof gabayga ku habaarrama. 3. Kaahin. 
 
-kuhaan² f.g1 (-aamay, -aantay; -aami) 1. Waxyaabo aan weli dhicin waxka-sheegid, 
-
-ka warramid. 2. Cid gabay iwm ku habaarid. 
+kuhaan² f.g1 (-aamay, -aantay; -aami) 1. Waxyaabo aan weli dhicin waxka-sheegid, ka warramid. 2. Cid gabay iwm ku habaarid. 
 
 kuhaanlow m.l 1. Nin ku dheer kuhaanka. 2. Gabyaa habaarkiisu kaco. 
 
 kujiye m.l (-yaal, m.l/dh) (daaw.) Cudur muddo gaaban oo la isqaadsiiyo, kuna dhaca qaybta maskaxda iyo dareen-wadayaasha, waxaana keena baktiiri-yuumka la yiraahdo “cloridium tetani”. Infekshinku wuxuu ka yimaadaa nooca adkeysta ee baktiiriyada oo gaarta meel dhaawacan oo jirka ka mid ah, baktiiriyadu way badataa waxayna soo saartaa sun kicisa dareemayaasha oo muruqyada isku koojiya. Toddobamagaarto, teetano. 
 
-kul m.l Diirimaadka fallaaraha qorraxda iyo shidaal gubanaya bixiyaan oo jirka nafleydu 
-
-kahdo.  
+kul m.l Diirimaadka fallaaraha qorraxda iyo shidaal gubanaya bixiyaan oo jirka nafleydu kahdo.  
 
 kulaal¹ m.l Dab ama wax la mid ah oo kulul oo inta loo dhowaado dhaxanta laysaga bi'iyo. 
 
@@ -3732,13 +3308,7 @@ kulaalaha-koonfureed m.l (juqr.) Barbar la- ahe lool, qiyaas ahaan 23° k, oo mu
 
 kulaalaha-waqooyi m.l (juqr.) Barbar la-ahe lool, qiyaas ahaan 23° w, oo tilmaamaya dacalka woqooyi ugu xiga ee qorraxdu toos isu dul taagto duhurkii. 
 
-kulaalayaal m.l/dh (juqr.) Gobolka ku yaal inta u dhexaysa kulaalaha woqooyi iyo kulaalaha 
-
-koonfureed oo marmarka qaarkood loo 521kulaale yaqaan jiidda kulul. Jiidaas waxay qorraxdu toos isu dul taagtaa laba jeer sannadkii, iftiinka qorraxduna uguna dhaco jeenjeedh, cimilo ooreededuna waa kulaal. Eraygu wuxuu inta badan xambaarsanyahay meelo 
-
-ku qabsan loolka sare, tusaale, ugu fogaan ilaa 30° w iyo k, halkaasoo xaaladda cimilada 
-
-kulaalayda, tusaale, ahaan, laga helo. 
+kulaalayaal m.l/dh (juqr.) Gobolka ku yaal inta u dhexaysa kulaalaha woqooyi iyo kulaalaha koonfureed oo marmarka qaarkood loo 521kulaale yaqaan jiidda kulul. Jiidaas waxay qorraxdu toos isu dul taagtaa laba jeer sannadkii, iftiinka qorraxduna uguna dhaco jeenjeedh, cimilo ooreededuna waa kulaal. Eraygu wuxuu inta badan xambaarsanyahay meelo ku qabsan loolka sare, tusaale, ugu fogaan ilaa 30° w iyo k, halkaasoo xaaladda cimilada kulaalayda, tusaale, ahaan, laga helo. 
 
 kulaale m.l (-layaal, m.l/dh) Dhulka u dhexeeya labada lool ee dhulbaraha hareeraha ka mara cimiladiisuna kulu- shahay. 
 
@@ -3752,15 +3322,13 @@ kulan² m.l (xis.) Urur tirooyin ah oo lagu muujiyo bar ku taalla dulalaati. Bar
 
 kulan³ f.mg1 (-lmay, -lantay; -lmi) Dad meel isugu imaansho ama ku shirid. 
 
-kulannada Kaartis m.l (xis.) Habdhis kulan ee rugta ay bari taallo lagu helo fogaanta ay bartaasi u jirto xarriiqyo tixraac oo lagu magacaabo dhidibbo. Laba addimaa-leyaasha waxaa la adeegsadaa laba xarriiqood, badanaaba labada xarriiqood waa ay isku qotomaan. Waxa ayna sammeeyaan habdhiska kulannada laydi. Xarriiqda jiifta waa dhidibka - x, tan taaganna waa dhidibka - y. Barta ay labada xarriiqood iska gooyaan 0, waa unugga habdhiska kullanka. 
+kulannada-Kaartis m.l (xis.) Habdhis kulan ee rugta ay bari taallo lagu helo fogaanta ay bartaasi u jirto xarriiqyo tixraac oo lagu magacaabo dhidibbo. Laba addimaa-leyaasha waxaa la adeegsadaa laba xarriiqood, badanaaba labada xarriiqood waa ay isku qotomaan. Waxa ayna sammeeyaan habdhiska kulannada laydi. Xarriiqda jiifta waa dhidibka - x, tan taaganna waa dhidibka - y. Barta ay labada xarriiqood iska gooyaan 0, waa unugga habdhiska kullanka. 
 
 kulanno-cidhifeed m.l (xis.) Bar ku taalla sallax loona muujin karo kulanno ahaan (r, theta)), taas oo theta ay tahay xagasha u dhexeysa dhidibka togan ee x iyo fallaadha ka bilaabanta unugga kuna dhammaata barta, r - na waa dhererka fallaadha. 
 
 kulansan f.mg4 (-naa, -nayd) Wax kulmay ahaansho. 
 
-kulansanaan m.f.dh eeg kulansan. ld 
-
-kulansanaansho.  
+kulansanaan m.f.dh eeg kulansan. ld kulansanaansho.  
 
 kulansanaansho m.l/dh ld kulansanaan. 
 
@@ -3776,33 +3344,21 @@ kulaylin m.f.dh eeg kulayli. ld kululayn.
 
 kulbeeg m.l (-gyo, m.dh) ld kulbeege. 522 
 
-kulbeege m.l (-gayaal, m.l/dh) (fiis.) Qalab loo isticmaalo cabbiraadda heerkulka walax. ld 
-
-kulbeeg.  
+kulbeege m.l (-gayaal, m.l/dh) (fiis.) Qalab loo isticmaalo cabbiraadda heerkulka walax. ld kulbeeg.  
 
 kulbixiye¹ m.l (-yayaal, m.l/dh) Shay kulka dhaliya sida qorraxda, matoorrada iwm. 
 
-kulbixiye² m.l (-yayaal, m.l/dh) (fiis.) Falgalka 
+kulbixiye² m.l (-yayaal, m.l/dh) (fiis.) Falgalka kiimikaad ee sii daaya kulka (taas macnaheedu waa kulku wuxuu ka baxaa habka ama heerkulka ayaa kordha). Gubashadu waa falgal kul bixiye ah. 
 
-kiimikaad ee sii daaya kulka (taas macnaheedu waa kulku wuxuu ka baxaa habka ama heerkulka ayaa kordha). 
-
- Gubashadu waa falgal kul bixiye ah. 
-
-kul-dahsoon m.l (fiis.) Summad L. Xaddiga 
-
-kulka ee ay qaadato ama ay bixiso walax marka u weji-geddoon ku dhacayo, heerkulkuna yahay joogto. Sida weji- geddoonka adkaha uu noqdo hoor, marka heerkulku yahay barta dhalaashanka, ama weji-geddoonka hoorku uu noqdo neef, marka heerkulku yahay barta karka. 
+kul-dahsoon m.l (fiis.) Summad L. Xaddiga kulka ee ay qaadato ama ay bixiso walax marka u weji-geddoon ku dhacayo, heerkulkuna yahay joogto. Sida weji- geddoonka adkaha uu noqdo hoor, marka heerkulku yahay barta dhalaashanka, ama weji-geddoonka hoorku uu noqdo neef, marka heerkulku yahay barta karka. 
 
 kul-daynaamika m.l (fiis.) Barashada xeerarka xukuma isu-rogidda qaababka tamarta, jihada uu kulku u gudbo iyo helitaanka tamar lagu qabto hawl. 
 
-kuldhac m.l (daaw.) Hoos u dhac kulka jirka oo ka hoos mara cabbirka caadiga ah ayna jirinna falalka difaaca jirka sida - qarqaryada. 
-
- Badanaa waxay ku dhacdaa caruurta iyo waayeelka haddii ay ku noolyihiin guryo aan la kululeyn ayna haysan dhar huwasho oo ku filan. 
+kuldhac m.l (daaw.) Hoos u dhac kulka jirka oo ka hoos mara cabbirka caadiga ah ayna jirinna falalka difaaca jirka sida - qarqaryada. Badanaa waxay ku dhacdaa caruurta iyo waayeelka haddii ay ku noolyihiin guryo aan la kululeyn ayna haysan dhar huwasho oo ku filan. 
 
 kul-dhexdhexaadin m.l (-lal ..., m.l) (fiis.) Tamarta la sii daayo hal mool oo beys ama asiidh ah la dhexdhexaadiyo. 
 
-kul-dhibib m.l (daaw.) Xaalad cudureed ay xubnaha saxa kulka jirka hawlgabaan taas oo 
-
-keenta kulka jirka oo kor u kaca,dhidid la'aan iyo miyir beel. 
+kul-dhibib m.l (daaw.) Xaalad cudureed ay xubnaha saxa kulka jirka hawlgabaan taas oo keenta kulka jirka oo kor u kaca,dhidid la'aan iyo miyir beel. 
 
 kuldhuleed m.l (jool.) Kulka ka immaanaya dhulka gudihiisa, in heerkulkiisu sarreeyana waxaa muujiya magmada ka timaada dhulka gudihiisa. 
 
@@ -3810,9 +3366,7 @@ kuldiir¹ m.l.kh (-rro, m.dh) ld kuljiir.
 
 kuldiir² f.mg1 (-ray, -rtay) Wax qabow kul yar helid. 
 
-kuldiiri f.g2 (-iyay, -isay) Wax in yar 
-
-kululayn.  
+kuldiiri f.g2 (-iyay, -isay) Wax in yar kululayn.  
 
 kuldiirid m.f.dh eeg kuldiir². 
 
@@ -3820,9 +3374,7 @@ kuldiirin m.f.dh eeg kuldiiri. ld kuldiiris.
 
 kuldiiris m.l ld kuldiirin. 
 
-kulekeeye m.l (-yayaal, m.l/dh) (juqr.) Xarriiq 
-
-khariidad ku yaal, oo isku xira meelaha celceliska heerkulkoodu isku mid yahay in muddo go'an ah. 
+kulekeeye m.l (-yayaal, m.l/dh) (juqr.) Xarriiq khariidad ku yaal, oo isku xira meelaha celceliska heerkulkoodu isku mid yahay in muddo go'an ah. 
 
 kul-falgal m.l (-lal ..., m.l) (fiis.) Tamarta la sii daayo ama la nuugo marka falgal kiimikaadkumuloonimbas oo dhammeystirani ka dhex dhaco xaddiyo moolan oo falgalayaal ah. 
 
@@ -3834,15 +3386,11 @@ kuljiir m.l.kh K. ah: kul yar oo aan badnayn oo hoore iwm. ay yeeshaan;qandac. l
 
 kulkulul f.mg4 (-laa, -layd) Qof mannexe ah ama shadiid ah, ahaansho. 
 
-kulkululaan m.f.dh eeg kulkulul. ld 
-
-kulkululaansho.  
+kulkululaan m.f.dh eeg kulkulul. ld kulkululaansho.  
 
 kulkululaansho m.l/dh ld kulkululaan. 
 
-kullaab m.dh (-bo, m.l) 1. Gan qaroofsan oo wixii culus la suro oo kor loogu qaado. 
-
- 2. Nooc ka mid ah tarashka maryaha dacalladooda lagu sameeyo oo sawirro leh. 
+kullaab m.dh (-bo, m.l) 1. Gan qaroofsan oo wixii culus la suro oo kor loogu qaado. 2. Nooc ka mid ah tarashka maryaha dacalladooda lagu sameeyo oo sawirro leh. 
 
 kullaabi m.dh (-iyo, m.l) 1. Xiddo weyn oo ballaaran. 2. Marada xiddadaas leh lafteeda. 
 
@@ -3870,9 +3418,7 @@ kulqaad-gaar m.l (fiis.) Summad: c. Kulqaadka halkii halbeeg ee cuf ah, oo ah xa
 
 kulqaate m.l (-tayaal, m.l/dh) (fiis.) Dariiqo tilmaamaysa nuugidda kulka ee hab ama walax ku jirta falgalid (waxa kale oo lagu sharxi karaa kulka bannaanka uga baxa walax, ama hoos-u-dhaca heerkulka). 
 
-kulsamays m.l (-lal ..., m.l) (fiis.) Tamarta la sii daayo ama la nuugo marka hal mooloo iskudhis ahi ka samaysmo curiyayaasha uu ka 
-
-koobanyahay.  
+kulsamays m.l (-lal ..., m.l) (fiis.) Tamarta la sii daayo ama la nuugo marka hal mooloo iskudhis ahi ka samaysmo curiyayaasha uu ka koobanyahay.  
 
 kulul f.mg4 (-laa, -layd) 1. Wax kul leh ahaansho. 2. Qof xanaaq badan ahaansho. 
 
@@ -3896,13 +3442,9 @@ kumanaal m.l.w eeg kun.
 
 kumanyaal m.l.w eeg kun. 
 
-kumbi f.g2 (-iyay, -isay) 1. Hilib jiir ah dufan 
+kumbi f.g2 (-iyay, -isay) 1. Hilib jiir ah dufan ku shiilid. 2. ld yumbi. 
 
-ku shiilid. 2. ld yumbi. 
-
-kumbin m.f.dh eeg kumbi. ld yumbin. ld 
-
-kumbis (3). 
+kumbin m.f.dh eeg kumbi. ld yumbin. ld kumbis (3). 
 
 kumbis m.l 1. Hilib jiir ah oo laga dhigo cadad bagbagafsanoo subag lagu shiilo, kaydna gala. 2. Hog daawo ku jirta oo xoolaha cadhada qaba la geliyo si loogu daaweeyo; jarcays. 3. ld kumbin. 
 
@@ -3910,23 +3452,17 @@ kumi m.l ld kuumi.
 
 kummeelgaar m.l.kh 1. K. ah: qof jago uu hayo aan rasmi ku ahayn. 2. K. ah: wax isticmaalkood aan joogto ahayn ee inta wax rasmi ah laga helayo lagu sii sugo. 
 
-kumulas m.l (-yo, m.dh) (c.cimi.) Daruur u 
-
-kobacsan si joog maangal, inkasta oo ay ka yartahay kumuloonombaas. 
+kumulas m.l (-yo, m.dh) (c.cimi.) Daruur u kobacsan si joog maangal, inkasta oo ay ka yartahay kumuloonombaas. 
 
 kumuloonimbas m.l (-syo, m.dh) (c.cimi.) Daruur culus oo madaw oo qaradeedu tahay 4.500 mitir ama in ka badan. Badanaa waxay u fidsantahay si heebhaab ah oo u eg ubbad. 
 
-kumus 523kumus m.l (-syo, m.dh) Hilib gumaarka fuula oo ay haweenka qaarkood leeyihiin. 
+kumus m.l (-syo, m.dh) Hilib gumaarka fuula oo ay haweenka qaarkood leeyihiin. 
 
-kun m.l.t. (-umanaal/-umanyaal, m.l) Tiro ka 
-
-kooban toban meelood oo min boqol ah; toban boqolaad; “1000”. 
+kun m.l.t. (-umanaal/-umanyaal, m.l) Tiro ka kooban toban meelood oo min boqol ah; toban boqolaad; “1000”. 
 
 kur¹ m.l (-rar, m.l) Madax; unuun. 
 
-kur² m.dh (-ro, m.l) 1. Duco iyo Alla-bari dumarka uurka lihi sameeyaan kolka sidkoodu dhammaad ku dhow dahay; 
-
-kuraysi; madaxshub; sagaalaysi; tararaysi. 2. Buur yar; kood. 3. Xeero yar oo bunka lagu shubto. 4. Weel qori ah oo qaabka dhiisha loo qoro oo lagu kaydiyo burcadka inta aan la shiilin. 
+kur² m.dh (-ro, m.l) 1. Duco iyo Alla-bari dumarka uurka lihi sameeyaan kolka sidkoodu dhammaad ku dhow dahay; kuraysi; madaxshub; sagaalaysi; tararaysi. 2. Buur yar; kood. 3. Xeero yar oo bunka lagu shubto. 4. Weel qori ah oo qaabka dhiisha loo qoro oo lagu kaydiyo burcadka inta aan la shiilin. 
 
 kur³ f.g1 (-ray, -rtay) Wax si siman u goyn. 
 
@@ -3938,9 +3474,7 @@ kuray m.l (-yo, m.dh) Will carruurnimo ka baxay oo aan weli qaangaarin.
 
 kuraysad m.l ld kuraysasho. 
 
-kuraysasho m.f.dh eeg kurayso. ld kuraysad, 
-
-kuraysi.  
+kuraysasho m.f.dh eeg kurayso. ld kuraysad, kuraysi.  
 
 kuraysi m.l ld kuraysasho. 
 
@@ -3950,9 +3484,7 @@ kurbayn m.f.dh eeg kurbee.
 
 kurbaysan f.mg4 (-snaa, -snayd) Cid kurbo hayso ahaansho. 
 
-kurbaysnaan m.f.dh eeg kurbaysan. ld 
-
-kurbaysnaansho.  
+kurbaysnaan m.f.dh eeg kurbaysan. ld kurbaysnaansho.  
 
 kurbaysnaansho m.l/dh ld kurbaysnaan. 
 
@@ -3970,15 +3502,13 @@ kurdad m.dh (-do, m.l) Gashi dheer oo haweenku qaataan oo googgaradda qariya; ca
 
 kurdo m.l Nooc cawska ka mid ah oo beeraha waxyeeleeya. 
 
-kureeddo m.dh.u Suuqada haweenku dhegaha 
-
-ku qaataan jaad ka mid ah; dhego; hilgado. 
+kureeddo m.dh.u Suuqada haweenku dhegaha ku qaataan jaad ka mid ah; dhego; hilgado. 
 
 kurid m.f.dh eeg kur³. 
 
 kurkurray m.dh Naag jirkeeda si qarsoodi ah uga ganacsata; dhillo. 
 
-kurkurraynimo m.dh Kurkurray ahaansho. 524 
+kurkurraynimo m.dh Kurkurray ahaansho.
 
 kurmaan m.l (kurmaan, m.dh) Badarka budada ah marka la karinayo kuuska uu yeesho; burlaqan; burtuur. 
 
@@ -3994,39 +3524,27 @@ kurtumeysasho m.f.dh eeg kurtumeyso.
 
 kurtumeyso f.mg3 (-stay, -satay) Cududdaha iyo laabta sawirro aan ka go'in ku sawirasho. 
 
-kurtun m.l (-ummo, m.dh) 1. Qori ama jirrid geed oo gaaban oo dhulka ku aasan oo afkiisu soo taaganyahay. 2. Laan la gooyey oo intii hartay ay geedka ka soo taagantahay. ld 
-
-kurtin.  
+kurtun m.l (-ummo, m.dh) 1. Qori ama jirrid geed oo gaaban oo dhulka ku aasan oo afkiisu soo taaganyahay. 2. Laan la gooyey oo intii hartay ay geedka ka soo taagantahay. ld kurtin.  
 
 kurus m.l (-syo, m.dh) Cad baruur ah oo weyn oo geela dhabarkiisa ka baxa. 
 
-kuryeysan f.mg4 (-snaa, -snayd) Wax qaab 
+kuryeysan f.mg4 (-snaa, -snayd) Wax qaab kankoonsan leh ahaansho. 
 
-kankoonsan leh ahaansho. 
-
-kuryeysnaan m.f.dh eeg kuryeysan. ld 
-
-kuryeysnaansho.  
+kuryeysnaan m.f.dh eeg kuryeysan. ld kuryeysnaansho.  
 
 kuryeysnaansho m.l/dh ld kuryeysnaan. 
 
-kuryo m.dh 1. Qaab sida kan kubbadda u wareegsan, u kankoonsan. 2. Huryo. 
-
- 3. Madaxa inta luqunta ka sarreysa. 
+kuryo m.dh 1. Qaab sida kan kubbadda u wareegsan, u kankoonsan. 2. Huryo. 3. Madaxa inta luqunta ka sarreysa. 
 
 kuryoxoogle m.l Wiil kuray ah oo aan qaangaarin. 
 
-kush m.l Dhir badan oo aan la dhex mari 
-
-karin; juq; kayn. 
+kush m.l Dhir badan oo aan la dhex mari karin; juq; kayn. 
 
 kushad m.f.l eeg kusho. 
 
 kusheeg m.l Is k.: qof isuqabe ah ama sheegte ah. 
 
-kushiin m.l (-nno, m.dh) Qol cunnada lagu 
-
-kariyo; jiko; alawaad. 
+kushiin m.l (-nno, m.dh) Qol cunnada lagu kariyo; jiko; alawaad. 
 
 kusho f.mg3 (-shaday, -shatay) Kul iyo caro iska dareemid; xanaaqid; dhiidhiyid. 
 
@@ -4040,43 +3558,29 @@ kutaan m.dh.u Dhiqle. ld tukhaan.
 
 kutiri-kuteen m.l.kh K. ah: war aan xaqiiqadiisa la hayn oo la sheegsheego. 
 
-kutirsane m.l (-nayaal, m.l/dh) (c.nafl) Xubin 
+kutirsane m.l (-nayaal, m.l/dh) (c.nafl) Xubin ka mid ah xubnaha urur, tusaale ahaan, 6 waa kutirsane ururka bilaha sannadka. 2. (xis.) Xarriijinta ka samaysanta qayb ka mid ah dusha sallaxan ee toobin ama dhululubo summad: E.
 
-ka mid ah xubnaha urur, tusaale ahaan, 6 waa kutirsane ururka bilaha sannadka. 
+kutub m.l.w ld kitaab.
 
-kutub 2. (xis.) Xarriijinta ka samaysanta qayb ka mid ah dusha sallaxan ee toobin ama dhululubo summad: E.kuusnaansho m.l.w ld kitaab. 
+kuud m.l (-dad, m.l) 1. Dhismo adag oo salkiisu wareegsanyahay ama afar gees yahay oo qurux ama in lagu dagaallamo loogu talaggalay. 2. Dhismo loogu talaggalay in korkiisa wax laga daawado, dhismayaasha kale oo dhanna ka dheer. 
 
-kuud m.l (-dad, m.l) 1. Dhismo adag oo salkiisu wareegsanyahay ama afar gees yahay oo qurux ama in lagu dagaallamo loogu talaggalay. 2. Dhismo loogu talaggalay in 
-
-korkiisa wax laga daawado, dhismayaasha 
-
-kale oo dhanna ka dheer. 
-
-kuudud¹ m.l 1. Fadhi foolxun; yoxoob, 
-
-kamandhuur. 2. ld kuududid. 
+kuudud¹ m.l 1. Fadhi foolxun; yoxoob, kamandhuur. 2. ld kuududid. 
 
 kuudud² f.mg1 (-day, -dday) Si foolxun u fadhiyid. ld kawdiid². 
 
 kuududi f.g2 (-iyay, -isay) Si foolxun u fariisin. ld kawdiidi. 
 
-kuududid m.f.dh eeg kuudud². ld kawdiid¹, 
-
-kawdiidid, kuduud¹. 
+kuududid m.f.dh eeg kuudud². ld kawdiid¹, kawdiidid, kuduud¹. 
 
 kuududin m.f.dh eeg kuududi. ld kawdiidin. 
 
 kuududiye m.l ld kuududshe. 
 
-kuududshe m.l Cudur dadka iyo duunyadaba 
-
-ku dhaca oo addimadu soo laabmaan, dhaqdhaqaaqana u diida. ld kuududiye. 
+kuududshe m.l Cudur dadka iyo duunyadaba ku dhaca oo addimadu soo laabmaan, dhaqdhaqaaqana u diida. ld kuududiye. 
 
 kuug m.l 1. (-gag, m.l) Qof cuntada si wanaagsan u karin yaqaana; kooke. 2. K. ah: nooc tusbaxyada ka mid ah qurux badan oo aan qayirmin. 
 
-kuuki m.dh (-iyo, m.l) Bocoosha badda qaarkeed oo midabyo badan leh. ld 
-
-kuukiyaan.  
+kuuki m.dh (-iyo, m.l) Bocoosha badda qaarkeed oo midabyo badan leh. ld kuukiyaan.  
 
 kuukiyaan m.l ld kuuki. 
 
@@ -4118,9 +3622,7 @@ kuur¹ m.l (-rar, m.l) Kaabi; ag; cimil.
 
 kuur² f.g1 (-ray, -rtay) Cid cabsiin, indho ku gubid. 
 
-kuurgal¹ m.l 1. K. ah: qof u kuurgalaya. 2. ld 
-
-kuurgelid.  
+kuurgal¹ m.l 1. K. ah: qof u kuurgalaya. 2. ld kuurgelid.  
 
 kuurgal² f.mg1 (-alay, -ashay; -geli) U k.: wax si aad ah ugu dhabbagelid. 
 
@@ -4138,17 +3640,13 @@ kuurin m.f.dh eeg kuuri.
 
 kuurkuursad m.l ld kuurkuursasho. 
 
-kuurkuursasho m.f.dh eeg kuurkuurso. ld 
-
-kuurkuursad, kuurkuursi. 
+kuurkuursasho m.f.dh eeg kuurkuurso. ld kuurkuursad, kuurkuursi. 
 
 kuurkuursi m.l ld kuurkuursasho. 
 
 kuurkuurso f.mg3 (-saday, -satay) Iyadoo la fadhiyo dhaqdhaqaaqid ama nuuxnuuxsasho. 
 
-kuus¹ m.l (-sas, m.l) 1. Wax buuran ama qaab 
-
-kankoonsan leh. 2. K. lacag ah: lacag badan oo wax qiimo leh goysa. 
+kuus¹ m.l (-sas, m.l) 1. Wax buuran ama qaab kankoonsan leh. 2. K. lacag ah: lacag badan oo wax qiimo leh goysa. 
 
 kuus² f.mg1 (-say, -stay) Wax badan meel yar isugu keenid. 
 
@@ -4170,11 +3668,7 @@ kuuskuusid m.f.dh eeg kuuskuus.
 
 kuusmid m.f.dh eeg kuusan¹. 
 
-kuusnaan  m.f.dh eeg 
-
-kuusan².  ld 
-
-kuusnaansho, kuusni. 
+kuusnaan  m.f.dh eeg kuusan².  ld kuusnaansho, kuusni. 
 
 kuusnaansho m.l/dh ld kuusnaan. 525kuusni 
 
@@ -4194,13 +3688,9 @@ kuwaa mu.ti.w ld kuwaas.
 
 kuwaaga mu.lh.w eeg kaaga 1 / taada¹. 
 
-kuwaantam m.l (fiis.) Qaybta ugu yar ee tamar, lagana heli karo kaah birlabdanabeed leh rakaad go'an. Mar kasta, tamarta kaah birlabdanabeedku waa dhufsanaha 
+kuwaantam m.l (fiis.) Qaybta ugu yar ee tamar, lagana heli karo kaah birlabdanabeed leh rakaad go'an. Mar kasta, tamarta kaah birlabdanabeedku waa dhufsanaha kuwaantum.  
 
-kuwaantum.  
-
-kuwaartsayd m.l (jool.) Dhadhaabo aad u 
-
-kakan oo ka kooban kuwaarts (badan 90% ma ka) waxayna ka samaysantaa dhagax bataax; kuwaartsaydku daldaloolo ma laha sida dhagax bataax. 
+kuwaartsayd m.l (jool.) Dhadhaabo aad u kakan oo ka kooban kuwaarts (badan 90% ma ka) waxayna ka samaysantaa dhagax bataax; kuwaartsaydku daldaloolo ma laha sida dhagax bataax. 
 
 kuwaas mu.ti.w eeg kaas¹. ld kuwaa. 
 
