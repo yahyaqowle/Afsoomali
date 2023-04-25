@@ -374,9 +374,7 @@ tabaalo m.dh 1. Dhib waxtabasho. 2. Waaya- ha adduunka; sah.
 
 tabaaloobid m.f.dh eeg tabaalow. 
 
-tabaalow f.mg1 (-oobay, -owday; -oobi) Cid 
-
-tabaale ku dhacay noqosho. 
+tabaalow f.mg1 (-oobay, -owday; -oobi) Cid tabaale ku dhacay noqosho. 
 
 tabaaqil m.l Dhir teel fog. 
 
@@ -386,17 +384,13 @@ tabaashiir² m.l (jool.) Dhagax nuuradeed saafi ah, jilicsan oo cad, oo sida caa
 
 tababbar¹ m.l Tabo aqooneed oo gaar ah oo cid la baro; layli; carbis. 
 
-tababbar² f.g1 (-ray, -rtay) Qof ama nafley 
-
-tababar siin. 
+tababbar² f.g1 (-ray, -rtay) Qof ama nafley tababar siin. 
 
 tababbaran f.mg4 (-rnaa, -rnayd) Nafley wax la tababbaray ahaansho. 
 
 tababbarid m.f.dh eeg tababbar². 
 
-tababbarnaan m.f.dh eeg tababbaran. ld 
-
-tababarnaansho.  
+tababbarnaan m.f.dh eeg tababbaran. ld tababarnaansho.  
 
 tababbarnaansho m.l/dh ld tababbarnaan. 
 
@@ -414,21 +408,15 @@ tabane m.l (-nayaal, m.l/dh) 1. (kiim.) Laba saldanab oo isla eg ee walxuhu leey
 
 tabantaabi f.g2 (-iyay, -isay) Cid u gargaarid; kaalmayn. 
 
-tabantaabin m.f.dh eeg tabantaabi. ld taban- 
-
-taabo.  
+tabantaabin m.f.dh eeg tabantaabi. ld taban-taabo.  
 
 tabantaabo m.dh ld tabantaabin. 
 
-tabar m.dh Xoog; itaal. ld tabaro, tamar, 
-
-tamaro.  
+tabar m.dh Xoog; itaal. ld tabaro, tamar, tamaro.  
 
 tabaraysad m.dh ld tabaraysasho.tacdaar¹ 
 
-tabaraysasho m.f.dh eeg tabarayso. ld 
-
-tabaraysad.  
+tabaraysasho m.f.dh eeg tabarayso. ld tabaraysad.  
 
 tabarayso f.mg3 (-stay, -satay) Tabar yeelasho. 
 
@@ -458,9 +446,7 @@ tabarrucid m.f.dh eeg tabarruc².
 
 tabaryar f.mg4 (-raa, -rayd) Cid aan tabar lahayn ahaansho. 
 
-tabaryaraan m.f.dh eeg tabaryar. ld 
-
-tabaryaraansho, tabaryari. 
+tabaryaraan m.f.dh eeg tabaryar. ld tabaryaraansho, tabaryari. 
 
 tabaryaraansho m.l/dh ld tabaryaraan. 
 
@@ -500,9 +486,7 @@ tabee f.g2 (-beeyay, -baysay) Wax xeeladayn.
 
 tabeeye m.l (-yayaal, m.dh) (riw.) Qof hawshiisu tahay muuqdoorinta jilaha masraxa ama filimka. 
 
-tabiino m.dh Wax tar hiil iyo hooba leh. ld 
-
-tamiino, tammiin, tammiino. 
+tabiino m.dh Wax tar hiil iyo hooba leh. ld tamiino, tammiin, tammiino. 
 
 tabis m.l ld dabis. 
 
@@ -532,9 +516,7 @@ tacaalid m.f.dh eeg tacaal². ld tacaal¹.
 
 tacab¹ m.l 1. Hantida xoogsiga ku timaadda. 2. Hawl; xoogsi; shaqo. 3. ld tacdbid. 
 
-tacab² f.g/mg1 (-cbay, -cabtay; -cbi) 1. (f.g) Beer dalag ka soo saarid. 2. (f.g) Hawl faa'iido ka helid. 3. (f.mg) Ku t.: qof maalgelin si noloshiisa loo hagaajiyo. ld 
-
-tabac².  
+tacab² f.g/mg1 (-cbay, -cabtay; -cbi) 1. (f.g) Beer dalag ka soo saarid. 2. (f.g) Hawl faa'iido ka helid. 3. (f.mg) Ku t.: qof maalgelin si noloshiisa loo hagaajiyo. ld tabac².  
 
 tacabbir f.mg1 (-ray, -rtay) 1. Dal kale u dhoofid si shaqo looga helo. 2. Haajir. 
 
@@ -550,9 +532,7 @@ tacablaawe m.l (-wayaal, m.l/dh) Qof ma shaqayste ah.
 
 tacabsoosar m.l Miraha ka soo baxa hawl la qabtay. 
 
-tacaddi¹ m.l Wax lagu kaco oo xaqa weydaarsan; waxyeello; gardarro; xumaa-to. 
-
- ld dacati. 
+tacaddi¹ m.l Wax lagu kaco oo xaqa weydaarsan; waxyeello; gardarro; xumaa-to.  ld dacati. 
 
 tacaddi² f.mg1/2 (-iyay, -iday/isay; -iyi) Ku t.: xad gudub samayn. ld dacati². 
 
@@ -562,25 +542,19 @@ tacaddiyid m.f.dh eeg tacaddi². ld dacatin, dacatiyid, tacaddin.
 
 tacbaan m.l ld tabcaan. 
 
-tacbid m.f.dh eeg tacab². ld tabac¹, tabcid, 
-
-tacab¹.  
+tacbid m.f.dh eeg tacab². ld tabac¹, tabcid, tacab¹.  
 
 tacbiir m.l/dh Hab wax loo jeediyo ama loo qoro. 
 
 tacdaar¹ m.dh (dii.) Neef xoolo ah oo Ilaah dartii loo qalo. ld tadcaar¹, tamcaar¹. 
 
-tacdaar² 791tacdaar² f.mg1 (-ray, -rtay) (dii.) Ku t.: neef duco darteed u qalid. ld tadcaar², tamcaar². 
+tacdaar² f.mg1 (-ray, -rtay) (dii.) Ku t.: neef duco darteed u qalid. ld tadcaar², tamcaar². 
 
 tacdaarasho m.f.dh eeg tacdaaro. ld tad- caarasho, tamcaarasho. 
 
-tacdaarid m.f.dh tacdaar². ld tadcaarid, 
+tacdaarid m.f.dh tacdaar². ld tadcaarid, tamcaarid.  
 
-tamcaarid.  
-
-tacdaaro f.mg3 (-rtay, -ratay) 1. Ku t.: dad badan Alla bari samaysasho. 2. Si wada jir ah wacad u gelid. 3. Sixir furyo samay-sasho. ld 
-
-tadcaaro, tamcaaro. 
+tacdaaro f.mg3 (-rtay, -ratay) 1. Ku t.: dad badan Alla bari samaysasho. 2. Si wada jir ah wacad u gelid. 3. Sixir furyo samay-sasho. ld tadcaaro, tamcaaro. 
 
 tacliimi f.g2 (-iyay, -isay) Cid tacliin barid. 
 
@@ -590,9 +564,7 @@ tacliin m.dh Aqoon habaysan oo la barto.
 
 tacliinsan f.mg4 (-naa, -nayd) Qof tacliin leh ahaansho. 
 
-tacliinsanaan m.f.dh eeg tacliinsan. ld 
-
-tacliinsanaansho.  
+tacliinsanaan m.f.dh eeg tacliinsan. ld tacliinsanaansho.  
 
 tacliinsanaansho m.l/dh ld tacliinsanaan. 
 
@@ -634,15 +606,13 @@ taddawur² m.l (c.nafl.) Hab soo korid ah, oo aan hakad lahayn, oo leh horumar g
 
 taddawur³ f.mg1 (-ray, -rtay) Horumar samayn. 
 
-taddawurid m.f.dh eeg taddawur³. ld 
-
-taddawur¹.  
+taddawurid m.f.dh eeg taddawur³. ld taddawur¹.  
 
 tadhah 1 m.l Kibir iyo isla weynaan ku abuurma qof maal ama darajo uu helay darteed. 
 
 tadhah² f.mg1 (-hay, -hday) Qof maal ama darajo uu helay awgeed, kibir iyo isla weyni ku abuurmid. 
 
-tadhihi 792 f.g2 (-iyay, -isay) Qof kibrin. 
+tadhihi f.g2 (-iyay, -isay) Qof kibrin. 
 
 tadhihid m.f.dh eeg tadhah². 
 
@@ -692,9 +662,7 @@ tafaraaruq¹ m.l (-qyo, m.dh) Ismaandhaaf awgiisa loo kala tago. ld tafarruq¹.
 
 tafaraaruq² f.mg1 (-qay, -qday) Ismaan-dhaaf awgiisa ku kala tegid (dad). ld tafarruq². 
 
-tafarraruqid m.f.dh eeg tafaraaruq². ld 
-
-tafarruqid.  
+tafarraruqid m.f.dh eeg tafaraaruq². ld tafarruqid.  
 
 tafarruq¹ m.l ld tafaraaruq¹. 
 
@@ -742,9 +710,7 @@ taftaafan f.mg4 (-fnaa, -fnayd) 1. Wax jirro ku raagtay ahaansho. 2. Wax la sixr
 
 taftaafid m.f.dh eeg taftaaf. 
 
-taftaafnaan m.f.dh eeg taftaafan. ld 
-
-taftaafnaansho.  
+taftaafnaan m.f.dh eeg taftaafan. ld taftaafnaansho.  
 
 taftaafnaansho m.l/dh ld taftaafnaan. 
 
@@ -758,15 +724,11 @@ tafwareemid m.dh ld tafwareemasho.
 
 tafwareemo f.g3 (-eentay, -eematay) 1. Xoolo la soo dhacay bar goosasho. 2. Col dhinac ka weerarid. ld tafwareen. 
 
-tafwareen f.g1 (-eemay, -eentay) ld 
-
-tafwareemo.  
+tafwareen f.g1 (-eemay, -eentay) ld tafwareemo.  
 
 tag¹ m.l/dh 1. Guur. 2. Nasiib. 
 
-tag² f.g/mg1 (-gay, -gtay; -tegi) 1. (f.g) Cid meel aadid. 2. (f.mg) Ka t.: wax dayn ama dhaafid. 3. (f.mg) Kala t.: cid wax kala baxsasho; kala bixid. 4. (f.mg) U t.: u imaansho; la kulmid; nin naag u galmoosho. 
-
-t.: 5. (f.mg) Ku t.: meel la tagayo gaadiid u raacid; wax la qaatay ka samrid. 6. (f.mg) Ula arrin iwm cid la kaashad. 7. (f.mg) Uga t.: wax cid ku dhaafid. 8. (f.mg.) La t.: qaadasho; wadasho; kaxaysasho; raacid. 
+tag² f.g/mg1 (-gay, -gtay; -tegi) 1. (f.g) Cid meel aadid. 2. (f.mg) Ka t.: wax dayn ama dhaafid. 3. (f.mg) Kala t.: cid wax kala baxsasho; kala bixid. 4. (f.mg) U t.: u imaansho; la kulmid; nin naag u galmoosho. t.: 5. (f.mg) Ku t.: meel la tagayo gaadiid u raacid; wax la qaatay ka samrid. 6. (f.mg) Ula arrin iwm cid la kaashad. 7. (f.mg) Uga t.: wax cid ku dhaafid. 8. (f.mg.) La t.: qaadasho; wadasho; kaxaysasho; raacid. 
 
 tagaabee f.g2 (-beeyay, -beysay) Cid taageerid. 
 
@@ -774,9 +736,7 @@ tagaabeyn m.f.dh eeg tagaabee. ld tagaabo (2).
 
 tagaabo m.dh 1. Kaalmo; waxtar; taageero; macaawino. 2. ld tagaabeyn. 
 
-tagagsi m.l Nolol xun oo maceeshaddu ciriiri 
-
-tahay. ld fagagsi. 
+tagagsi m.l Nolol xun oo maceeshaddu ciriiri tahay. ld fagagsi. 
 
 tagfi m.dh.u (-iyo, m.dh) Booddo. 
 
@@ -808,15 +768,13 @@ tahantoog¹ m.l (-gyo, m.dh) 1. Xisaab qaldan. 2. ld tahantoogid.
 
 tahantoog² f.mg1 (-gay, -gtay) Xisaab qaldid; qiyaas qaldid. 
 
-tahantoogid m.f.dh eeg tahantoog². ld tahan- 
-
-toog¹ (2). 
+tahantoogid m.f.dh eeg tahantoog². ld tahan-toog¹ (2). 
 
 tahar m.dh (-ro, m.dh) 1. Hilib aan baruur iyo jiir midna lahayn oo adag. 2. Hilib weyd ah. 
 
 taharow m.dh (daaw.) Soohyada oo adkaada si dadban waxay ka timaaddaa dhaawac buskooday ama raystay. 
 
-taharowga halbowlayaasha m.l (daaw.) Qayb xididka gudihiisa ka mid ah oo adkaatay ka dib markay xayri fariisatay, taasu waxay yaraynaysaa wareegga dhiigga waxayna keenta in xididku xirmo. 
+taharowga-halbowlayaasha m.l (daaw.) Qayb xididka gudihiisa ka mid ah oo adkaatay ka dib markay xayri fariisatay, taasu waxay yaraynaysaa wareegga dhiigga waxayna keenta in xididku xirmo. 
 
 tahbiib¹ m.l ld tahbiibid. 
 
@@ -830,9 +788,7 @@ tahlid m.f.dh eeg tahal.
 
 tahliil m.dh Biyo quraan lagu akhriyey oo la cabbo ama lagu mayrto si barako ama fayoobi looga helo. ld taxliil². 
 
-tahliili f.mg2 (-iyay, -isay) U t.: cid tahliil u 
-
-tufid.  
+tahliili f.mg2 (-iyay, -isay) U t.: cid tahliil u tufid.  
 
 tahliilin m.f.dh eeg tahliili. ld taxliilin. 
 
@@ -848,9 +804,7 @@ takar m.dh.u Gendi.
 
 takaradhabad m.l ld takaradabasho. 
 
-takaradhabasho m.f.dh eeg takaradhabo. ld 
-
-takaradhabad.  
+takaradhabasho m.f.dh eeg takaradhabo. ld takaradhabad.  
 
 takaradhabo f.mg3 (-btay, -batay) Xoolo seynta, afka iyo galgalasho takar isaga celin. 
 
@@ -866,33 +820,19 @@ takhallus f.mg1 (-say, -stay) Ka t.: 1. Cid ama wax khaarijin. 2. Arrin faro ka 
 
 takhallusid m.f.dh eeg takhallus. 
 
-takhantakhayn m.f.dh eeg takhantakhee. ld 
+takhantakhayn m.f.dh eeg takhantakhee. ld takhantakhin, tukhuntukhayn, tukhun-tukhin.  
 
-takhantakhin, tukhuntukhayn, tukhun- 
+takhantakhee f.g2 (-kheeyay, -khaysay) Cid iyadoo jeegada la hayo hore u ridid. ld takhantakhi, tukhuntukhee, tukhuntukhi. 
 
-tukhin.  
-
-takhantakhee f.g2 (-kheeyay, -khaysay) Cid iyadoo jeegada la hayo hore u ridid. ld 
-
-takhantakhi, tukhuntukhee, tukhuntukhi. 
-
-takhantakhi f.g2 (-iyay, -isay) ld takhan- 
-
-takhee.  
+takhantakhi f.g2 (-iyay, -isay) ld takhan-takhee.  
 
 takhantakhin m.dh ld takhantakhayn. 
 
-takhantakho m.dh Qof isxejinaya oo xoog horay loogu wado, loo harbiyo. ld tukhun- 
+takhantakho m.dh Qof isxejinaya oo xoog horay loogu wado, loo harbiyo. ld tukhun-tukho.  
 
-tukho.  
+takhantakhoo f.mg3 (-ooday, -ootay) Qof la harbiyay hore u turunturrood. ld tukhun-tukhoo.  
 
-takhantakhoo f.mg3 (-ooday, -ootay) Qof la harbiyay hore u turunturrood. ld tukhun- 
-
-tukhoo.  
-
-takhantakhood m.f.l eeg takhantakhoo. ld 
-
-tukhuntukhood.  
+takhantakhood m.f.l eeg takhantakhoo. ld tukhuntukhood.  
 
 takhasus¹ m.l ld takhasusid. 
 
@@ -916,9 +856,7 @@ takhtar² f.g1 (-ray, -rtay) Cid daawayn.
 
 takhtaran f.g4 (-rnaa, -rnayd) Daawaysan. 
 
-takhtarnaan m.f.dh eeg takhtaran. ld 
-
-takhtarnaansho.  
+takhtarnaan m.f.dh eeg takhtaran. ld takhtarnaansho.  
 
 takhtarnaansho m.l/dh ld takhtarnaan. 
 
@@ -934,21 +872,15 @@ takoor² m.l (bul.) Hab lagu kala kaxeeyo dad kala jinsi, diin, midab, iwm.
 
 takoor³ f.g1 (-ray, -rtay) Qof dad kale ka soocid jirro ama sabab kale awgeed. 
 
-takooran 794 f.mg4 (-rnaa, -rnayd) Qof la 
+takooran f.mg4 (-rnaa, -rnayd) Qof la takooray ahaansho. 
 
-takooray ahaansho. 
-
-takoore m.l (xis.)Tibixda (b2-4ac) ee isle'eg saabley ee leh sansaanka ax2+bx+c=0. Haddii xididdada isle'egtu ay isle'egyihiin, takooraha waa eber. Tusaale ahaan, isle'egta x2-4x-6=0, b2-4ac=25 xididdaduna waa 2 iyo -3. Haddii 
-
-takooruhu yahay tabane, xididdada isle'egtu waa tirooyin murakab ah. Tusaale ahaan, isle'egta x2+x+1=0 waxa ay leedahay xididdada [-1/2-(V3/2)]i iyo [-1+(V3/2)]i. 
+takoore m.l (xis.)Tibixda (b2-4ac) ee isle'eg saabley ee leh sansaanka ax2+bx+c=0. Haddii xididdada isle'egtu ay isle'egyihiin, takooraha waa eber. Tusaale ahaan, isle'egta x2-4x-6=0, b2-4ac=25 xididdaduna waa 2 iyo -3. Haddii takooruhu yahay tabane, xididdada isle'egtu waa tirooyin murakab ah. Tusaale ahaan, isle'egta x2+x+1=0 waxa ay leedahay xididdada [-1/2-(V3/2)]i iyo [-1+(V3/2)]i. 
 
 takoorid m.f.dh eeg takoor³. ld takoor¹ (3). 
 
 takoorin m.l Lafta misigta madaxeeda. 
 
-takoornaan m.f.dh eeg takooran. ld 
-
-takoornaansho.  
+takoornaan m.f.dh eeg takooran. ld takoornaansho.  
 
 takoornaansho m.l/dh ld takoornaan. 
 
@@ -964,9 +896,7 @@ talaggal¹ m.l 1. T. ah: qof talo bixin kara; ujedda; qorshe. 2. ld talaggelid.
 
 talaggal² f.mg1 (-alay, -ashay; -geli) Ku t.: wax qorshaysasho. 
 
-talaggeli f.g2 (-iyay, -isay) Qof wax kala 
-
-tashasho.  
+talaggeli f.g2 (-iyay, -isay) Qof wax kala tashasho.  
 
 talaggelid m.f.dh eeg talaggal². ld talaggal¹ (2). 
 
@@ -984,7 +914,7 @@ talal² f.mg1 (-alay, -ashay) Nafley taahid.
 
 talalid m.f.dh eeg talal². 
 
-talambaabo m.dh Wax si joogto ah uga fe- kerid. 
+talambaabo m.dh Wax si joogto ah uga fe-kerid. 
 
 talantaalli m.l 1. Wax si kala googo'an oo waqti u dhexeeyo u dhaca. 2. Laba xaglood oo isla eg oo iska soo horjeeda. 
 
@@ -1016,9 +946,7 @@ talaxtag f.mg1 (-gay, -gtay; -tegi) Ku t.: wax aad ugu xadgudbid.
 
 talaxtegid m.f.dh eeg talaxtag. 
 
-taleefan m.l (-nno, m.dh) 1. Qalab hirar birlab danabeedka ku qaada silig oo leh qayb hadalka dirta iyo mid qabata oo ay ku wada hadlaan laba qof oo kala fog. 2. Hadalka 
-
-taleefoonka la isku gaarsiiyo. ld telefoon. 
+taleefan m.l (-nno, m.dh) 1. Qalab hirar birlab danabeedka ku qaada silig oo leh qayb hadalka dirta iyo mid qabata oo ay ku wada hadlaan laba qof oo kala fog. 2. Hadalka taleefoonka la isku gaarsiiyo. ld telefoon. 
 
 talfiiq m.l Qoryo yaryar oo caarad dhuuban oo wax mudda leh. 
 
@@ -1040,15 +968,11 @@ tallaabi f.g2 (-iyay, -isay) Wax meel ka gudbin. ld tillaabi.
 
 tallaabid m.f.dh eeg tallaab. ld tillaabid. 
 
-tallaabin m.f.dh eeg tallaabi. ld tallaabis, 
-
-tillaabin, tillaabis. 
+tallaabin m.f.dh eeg tallaabi. ld tallaabis, tillaabin, tillaabis. 
 
 tallaabis m.l ld tallaabin. 
 
-tallaabo m.dh (-ooyin, m.l) 1. Fogaanta u dhexeysa meesha ay kala taagan yihiin laba lugood ee qof soconaya. 2. T. qaad: arrin wax ka qabasho. 3. (fk) T.t.: tartiib tartiib. ld 
-
-tillaabo.  
+tallaabo m.dh (-ooyin, m.l) 1. Fogaanta u dhexeysa meesha ay kala taagan yihiin laba lugood ee qof soconaya. 2. T. qaad: arrin wax ka qabasho. 3. (fk) T.t.: tartiib tartiib. ld tillaabo.  
 
 tallaabsad m.l ld tallaabsasho. 
 
@@ -1056,31 +980,21 @@ tallaabsaddex m.dh 1. Tallaabada ugu dheer. 2. Wax qof karaankiisa dhaafsan.
 
 tallaabsan f.mg4 (-naa, -nayd) Ka t.: wax meel kale ka shisheeya ahaansho. 
 
-tallaabsanaan m.f.dh eeg tallaabsan. ld 
-
-tallaabsanaansho, tallowsanaan, tallow- sanaansho. 
+tallaabsanaan m.f.dh eeg tallaabsan. ld tallaabsanaansho, tallowsanaan, tallow-sanaansho. 
 
 tallaabsanaansho m.l/dh ld tallaabsanaan. 
 
-tallaabsasho m.f.dh eeg tallabso. ld tallaabsad, 
-
-tallaabsi, tillaabsad, tillaab-sasho. 
+tallaabsasho m.f.dh eeg tallabso. ld tallaabsad, tallaabsi, tillaabsad, tillaab-sasho. 
 
 tallaabsi m.l ld tallaabsasho. 
 
-tallaabso f.mg3 (-saday, -satay) 1. Tallaabo qaadid. 2. Ka t.: wax ama qof ka kor gudbid. 
-
- 3. Ku t.: wax qabashadooda ku dhaqaaqid. 
-
-tillaabso. 4. U t.: wax qabashadooda u gudbid. ld  
+tallaabso f.mg3 (-saday, -satay) 1. Tallaabo qaadid. 2. Ka t.: wax ama qof ka kor gudbid. 3. Ku t.: wax qabashadooda ku dhaqaaqid. tillaabso. 4. U t.: wax qabashadooda u gudbid. ld  
 
 tallaahi e.d (dii.) Erey lagu dhawaaqo marka la dhaaranayo. 
 
 tallaajad m.dh (-do, m.l) Qaboojiye. 
 
-tallaal¹ m.l (-llo, m.dh) 1. Malaxda ka samysan cudur keenayaasha oo dhimaty oo oogada la geliyo ama lagu mudo, si cudur looga hortago oo guri looga noqdo. 2. Hawsha ama farsamada tallaalka lafteeda. 3. Geed yar oo meel laga rujiyo oo meel kale lagu beero. 
-
- 4. Laba geed oo kala jaad ah oo inta mid laan ama cad laga gooyo midka kale dhexdiisa la geliyo oo lagu xiro, si labada geed u midoobaan oo inino hor leh oo kuwii hore ka wanaagsan u dhalaan. 
+tallaal¹ m.l (-llo, m.dh) 1. Malaxda ka samysan cudur keenayaasha oo dhimaty oo oogada la geliyo ama lagu mudo, si cudur looga hortago oo guri looga noqdo. 2. Hawsha ama farsamada tallaalka lafteeda. 3. Geed yar oo meel laga rujiyo oo meel kale lagu beero. 4. Laba geed oo kala jaad ah oo inta mid laan ama cad laga gooyo midka kale dhexdiisa la geliyo oo lagu xiro, si labada geed u midoobaan oo inino hor leh oo kuwii hore ka wanaagsan u dhalaan. 
 
 tallaal² m.l (-llo, m.dh) (daaw.) Dareere loo diyaariyay in lagu daweeyo ama lagaga hortago cudurrada ay dhaliyaan noolayaasha ili-ma-aragtayda ah. 
 
@@ -1088,9 +1002,7 @@ tallaal³ f.g1 (-aalay, -aashay) Tallaal ku samayn.
 
 tallaalan¹ f.mg1 (-lmay, -lantay; -lmi) Wax la lallaalay noqosho. 
 
-tallaalan² f.mg4 (-lnaa, -lnayd) Wax la 
-
-tallaalay ahaansho. 
+tallaalan² f.mg4 (-lnaa, -lnayd) Wax la tallaalay ahaansho. 
 
 tallaalid¹ m.f.dh eeg tallaal³. 
 
@@ -1104,9 +1016,7 @@ tallaalnaansho m.l/dh ld tallaalnaan.
 
 tallamid m.f.dh eeg tallan². ld tallan¹ (2). 
 
-tallan¹ m.l 1. Laballaabow; shaki; walaac. 2. ld 
-
-tallamid.  
+tallan¹ m.l 1. Laballaabow; shaki; walaac. 2. ld tallamid.  
 
 tallan² f.g1 (-amay, -antay; -ami) Ka t.: wax samayntooda ku fekerid. 
 
@@ -1134,9 +1044,7 @@ taltaalid m.f.dh eeg taltaal.
 
 taltalliini m.l/dh (riw.) Aktarka majaajillada sameeya oo dadka ka qososhiya. 
 
-taluul¹ m.dh Boor, qiiq iwm oo samada isku 
-
-taaga.  
+taluul¹ m.dh Boor, qiiq iwm oo samada isku taaga.  
 
 taluul² f.mg1 (-lay, -uushay) Boor, qiiq iwm kor isu taagid. 
 
@@ -1160,25 +1068,21 @@ tamandho m.dh Yaanyo.
 
 tamandi'id m.f.dh eeg tamanda'². 
 
-tamar socod m.dh Summad: Ek. Tamarta ay walaxi ku kasbatay socodka ay ku jirto, le'egna hawsha ay qaban karto, marka walaxda la joojiyo. Waxaa lagu helaa isle'egtan. Ek = 1/2 mv2, taasoo m-ay tahay cufka walaxda; v-ay tahay xawaaraha walaxda. 
+tamar-socod m.dh Summad: Ek. Tamarta ay walaxi ku kasbatay socodka ay ku jirto, le'egna hawsha ay qaban karto, marka walaxda la joojiyo. Waxaa lagu helaa isle'egtan. Ek = 1/2 mv2, taasoo m-ay tahay cufka walaxda; v-ay tahay xawaaraha walaxda. 
 
-tamar xor ah m.dh (fiis.) Cabbir loo adeegsado awoodda hab ku samayn karo shaqo waxtar leh. 
+tamar-xor ah m.dh (fiis.) Cabbir loo adeegsado awoodda hab ku samayn karo shaqo waxtar leh. 
 
 tamar¹ m.dh ld tabar. 
 
-tamar² m.dh (fiis.) Summad: E. Astaanta qabashada hawl. T.ta waxay leedahay dhawr qaab, waxana lagu cabbiraa juul (J) (eeg t. 
-
- keyd iyo t. socod). ld tabar. 
+tamar² m.dh (fiis.) Summad: E. Astaanta qabashada hawl. T.ta waxay leedahay dhawr qaab, waxana lagu cabbiraa juul (J) (eeg t. keyd iyo t. socod). ld tabar. 
 
 tamar-bu'eed m.dh (fiis.) Tamarta la sii daayo, marka uu dhaco ama dhanballan bu'eed ama isudheg bu'eed. 
 
 tamar-dabareed m.dh (fiis.) Tamarta la bixiyo marka dabar elektaroon-wadaag ihi ka dhex samaysmo laba atam oo madax bannaan. 
 
-tamar-isuhayn 796 m.dh (fiis.) Tamar le'eg iin cufaadka bu'da, ee ay bu'du bixiso, marka uu dhanballan ku dhaco (eeg iin cufaad). 
+tamar-isuhayn m.dh (fiis.) Tamar le'eg iin cufaadka bu'da, ee ay bu'du bixiso, marka uu dhanballan ku dhaco (eeg iin cufaad). 
 
-tamar-kaah  m.dh (fiis.) T. 
-
- k.inta birlabdanabeed ee dhexmari karta dululaati aan maatar lahayn. 
+tamar-kaah  m.dh (fiis.) T.  k.inta birlabdanabeed ee dhexmari karta dululaati aan maatar lahayn. 
 
 tamar-keyd m.dh (fiis.) Summad: Ep. Tamarta ku keydsantay walax, uguna wacantahay meesha ay taalo, waxaana ay le'egtahay hawsha ku baxday walax ka dhaqaajinta bar beegaal (sida oogada dhulka) ilaa meesha ay hadda taallo. Waxaa lagu helaa Ep = mgh. 
 
@@ -1190,9 +1094,7 @@ tamar-qorraxeed  m.dh (fiis.) Tamar birlabdanabeedka ka soo kaahda qorraxda.
 
 tamashle m.l Lugabbaxsi; manjabbaxsi. 
 
-tamashlee f.g2 (-leeyay, -leysay) 1. Socod raaxaysi leh meel aan fogayn ku tegid. 
-
- 2. Safar dalxiis ah meel dheer ku tegid. 
+tamashlee f.g2 (-leeyay, -leysay) 1. Socod raaxaysi leh meel aan fogayn ku tegid. 2. Safar dalxiis ah meel dheer ku tegid. 
 
 tamashleyn m.f.dh eeg tamashlee. ld tama- shleys. 
 
@@ -1212,7 +1114,7 @@ tamcaaro f.mg3 (-rtay, -ratay) ld tacdaaro.
 
 tamiin¹ m.l Mar; kol. ld tamin. 
 
-tamiin² m.dh Tiro isdhaaf ah oo loo istic- maalo faalka. 
+tamiin² m.dh Tiro isdhaaf ah oo loo istic-maalo faalka. 
 
 tamiino m.dh ld tabiino. 
 
@@ -1236,13 +1138,11 @@ tammooti m.l/dh Neef aan fayoobeen oo cudur dhimanaya oo la qasho.
 
 tammuujad m.dh (-do, m.l) Bastoolad. 
 
-tamuumid m.f.dh eeg tamuun.taraabeesiyuus 
+tamuumid m.f.dh eeg tamuun.
 
 tamuun f.mg1 (-uumay, -uuntay; -uumi) Meel abbaarid. 
 
-tamuunsii f.g2 (-iiyay, -iisay) Cid meel ku 
-
-toosin.  
+tamuunsii f.g2 (-iiyay, -iisay) Cid meel ku toosin.  
 
 tamuunsiin m.f.dh eeg tamuunsii. 
 
@@ -1250,15 +1150,9 @@ tamuux m.dh Carro shawle ah oo aan habaas lahayn sida tan xeebta; xaano; xaani.
 
 tan¹ m.l 1. Culays dhan 1000 kg. 2. Mug. 
 
-tan² mu.ti.dh (kuwan, w) Magacuyaal 
+tan² mu.ti.dh (kuwan, w) Magacuyaal tilmaame oo dhaddig, oo wax qofka ha-dlaya u dhow oo farta la isugu fiiqayo lagu tilmaansado. Tu. “Tan meesha fadhidaa waa walaashay”. 
 
-tilmaame oo dhaddig, oo wax qofka ha-dlaya u dhow oo farta la isugu fiiqayo lagu 
-
-tilmaansado. Tu. “Tan meesha fadhidaa waa walaashay”. 
-
-tan³ (-tan) dk.ti.dh Dibkabe tilmaame oo magac dheddig dib looga qodbo oo wax qofka hadlaya u dhow oo farta la isugu fiiqayo lagu tilmaansado. 
-
- Tus. “Tintan tayda ma aha”. 
+tan³ (-tan) dk.ti.dh Dibkabe tilmaame oo magac dheddig dib looga qodbo oo wax qofka hadlaya u dhow oo farta la isugu fiiqayo lagu tilmaansado. Tus. “Tintan tayda ma aha”. 
 
 tan4 fk. Ilaa; T. ama taniyo: mar laga bilaabo; jeer laga gaaro. Tus. “Tan iyo intii uu halkaan yimid wuu bukay”. 
 
@@ -1280,37 +1174,19 @@ taniyo fk. Ilaa; tan³.
 
 tanjent m.l 1. (xis.) Fansaar tirignoometari ee xagal. Tanjentka xagasha + e saddexagal qumman waa saamiga ay sammeeyaan dhererrada dhinaca horjeedaha ah iyo kan deriska la ah xagasha. Qeexdani waxa lagu dabbaqaa xaglaha u dhexeya 0 iyo 90° oo keliya. 2. (xis.) Guud ahaan, mark a laga hadlaayo kulannada kaartis oo unuygu yahay o, tanjentku waa xagasha u dhexeey-sa dhidibka-x iyo xarriiqda oB oo ay sammeeyaan kulanka-x iyo kulanka-y ee barta B (x,y). 
 
-tannaago m.dh Hadal lagu dheeraysto si cid meel fog joogta loo maqalsiiyo; tayaago. ld 
+tannaago m.dh Hadal lagu dheeraysto si cid meel fog joogta loo maqalsiiyo; tayaago. ld tannaagood.  
 
-tannaagood.  
+tannaagoo f.mg3 (-ooday, -ootay) Cid meel fog joogta cod dheer kula hadlid. ld tayaago, tayaaqoo.  
 
-tannaagoo f.mg3 (-ooday, -ootay) Cid meel fog joogta cod dheer kula hadlid. ld tayaago, 
+tannaagood m.f.l eeg tannaagoo. ld tayaago, tayaagood, tayaaqood. 
 
-tayaaqoo.  
+tantoomid  m.f.dh eeg tantoon.  ld tantoonyeyn, tatoomid, tatoonyeyn. 
 
-tannaagood m.f.l eeg tannaagoo. ld tayaago, 
+tantoomo m.dh Shanta farood iyo calaacasha gacanta oo duuban oo wax lagu dhufto iyadoo gacantu soo laabmayso. ld tan-toonyo, tatoomo, tatoonyo. 
 
-tayaagood, tayaaqood. 
+tantoon f.g1 (-oomay, -oontay; -oomi) Cid tantoonyo ku dhufasho. ld tantoonyee, tatoon, tatoonyee. 
 
-tantoomid  m.f.dh eeg 
-
-tantoon.  ld 
-
-tantoonyeyn, tatoomid, tatoonyeyn. 
-
-tantoomo m.dh Shanta farood iyo calaacasha gacanta oo duuban oo wax lagu dhufto iyadoo gacantu soo laabmayso. ld tan- 
-
-toonyo, tatoomo, tatoonyo. 
-
-tantoon f.g1 (-oomay, -oontay; -oomi) Cid 
-
-tantoonyo ku dhufasho. ld tantoonyee, 
-
-tatoon, tatoonyee. 
-
-tantoonyee f.g2 (-yeeyey, -yeysey) ld 
-
-tantoon.  
+tantoonyee f.g2 (-yeeyey, -yeysey) ld tantoon.  
 
 tantoonyeyn m.dh ld tantoomid. 
 
@@ -1346,27 +1222,19 @@ taqsiin m.dh 1. In yar oo tubaako ama jaad ah oo mar canka la geliyo. 2. Muusig 
 
 taqsiinasho m.f.dh eeg taqsiino. 
 
-taqsiino f.mg3 (-ntay, -natay) In yar oo 
+taqsiino f.mg3 (-ntay, -natay) In yar oo tubaako ama qaat ah ruugid (qof). 
 
-tubaako ama qaat ah ruugid (qof). 
-
-taqtaq¹ m.l 1. ld taqtaqid. Badbadidda ay soortu badbaddo marka la karinaayo. 2. T. 
-
- ah: soor jilicsan oo aan weli bislaan. 
+taqtaq¹ m.l 1. ld taqtaqid. Badbadidda ay soortu badbaddo marka la karinaayo. 2. T. ah: soor jilicsan oo aan weli bislaan. 
 
 taqtaq² f.mg1 (-qay, -qday) Soor karaysa badbadid. 
 
 taqtaqid m.f.dh eeg taqtaq². ld taqtaq¹ (1). 
 
-taqwad m.dh 1. Nooc shabaagta mallayga lagu dabo mid ka mid ah. 2. Xoog; tabar. 3. ld 
-
-taqwo.  
+taqwad m.dh 1. Nooc shabaagta mallayga lagu dabo mid ka mid ah. 2. Xoog; tabar. 3. ld taqwo.  
 
 taqwo m.dh Ilaah ka cabsi. ld taqwad (3). 
 
-tar¹ m.l 1. Mid ka mid ah godadka dayaxa oo u dhexeeya neefmadoobaha iyo majinta oo la rumaysanyahay qofka dhasha inuu yeesho 
-
-taran badan. 2. ld tarid. 
+tar¹ m.l 1. Mid ka mid ah godadka dayaxa oo u dhexeeya neefmadoobaha iyo majinta oo la rumaysanyahay qofka dhasha inuu yeesho taran badan. 2. ld tarid. 
 
 tar² m.dh 1. Magac xiddig; afqays. 2. Bow-do. 
 
@@ -1374,33 +1242,21 @@ tar³ f.g/lg1 (-ray, -rtay) 1. Wax t./wax u t.: cid wax qabasho. 2. Wax badin.
 
 taraabeesiyuus m.l (c.nafl.) Muruq ballaaran oo qaabsaddex gees leh oo ku yaal surka intisa dambe iyo garabaka dhexdooda 797taraafiko wuxuu, dhaqaajiya garbaha, surkana xagga dambe ayuu u qaadaa labada dhanba. 
 
-taraafiko m.dh Qayb ciidanka booliska ka 
-
-tirsan oo qaabilsan nabadgelyada wad- dooyinka. 
+taraafiko m.dh Qayb ciidanka booliska ka tirsan oo qaabilsan nabadgelyada wad-dooyinka. 
 
 taraamantaana m.dh (juqr.) Dabayl woqooyi, qallalan oo ka dhacda gobolka miditereeniyanka. 
 
-taraanturrayn m.f.dh eeg taraanturree. ld 
+taraanturrayn m.f.dh eeg taraanturree. ld taraanturyayn, turaanturyayn. 
 
-taraanturyayn, turaanturyayn. 
+taraanturree f.g2 (-eeyay, -eesay) Horay u harbin, takhantakhayn. ld taraanturyee, turaanturyee.  
 
-taraanturree f.g2 (-eeyay, -eesay) Horay u harbin, takhantakhayn. ld taraanturyee, 
-
-turaanturyee.  
-
-taraanturro m.dh Tallabooyin horay xoog loogu qaado, si qof soconayoo wax cagta ku dhuftay ama xoog kale gadaal ka soo harbiyay, dhicidda iyo kufidda isaga ilaaliyo; 
-
-takhantakho. ld turaanturro. 
+taraanturro m.dh Tallabooyin horay xoog loogu qaado, si qof soconayoo wax cagta ku dhuftay ama xoog kale gadaal ka soo harbiyay, dhicidda iyo kufidda isaga ilaaliyo; takhantakho. ld turaanturro. 
 
 taraanturyayn m.dh ld taraanturrayn. 
 
-taraanturyee f.g2 (-yeeyay, -yeysay) ld 
+taraanturyee f.g2 (-yeeyay, -yeysay) ld taraanturree.  
 
-taraanturree.  
-
-taraar¹ m.l (-ryo, m.dh) 1. Bowd si aad ah ood loogu adkeeyay. 2. Jibaax; jiiris. 3. ld 
-
-taraarid.  
+taraar¹ m.l (-ryo, m.dh) 1. Bowd si aad ah ood loogu adkeeyay. 2. Jibaax; jiiris. 3. ld taraarid.  
 
 taraar² f.mg1 (-ray, -rtay) Wax si xoog ah meel u jiirid; u jibaaxid, u dardarid. 
 
@@ -1410,9 +1266,7 @@ taraarax² f.mg1 (-xay, -xday) 1. Sidbasho. 2. Wax xadkoodii dhaafid.
 
 taraaraxid m.f.dh eeg taraarax². ld taraa-rax¹. 
 
-taraaraysasho m.f.dh eeg taraarayso. ld 
-
-taraaraysi.  
+taraaraysasho m.f.dh eeg taraarayso. ld taraaraysi.  
 
 taraaraysi m.l ld taraaraysasho. 
 
@@ -1438,43 +1292,29 @@ taraddan¹ m.l ld taraddamid.
 
 taraddan² f.mg1 (-amay, -antay; -ami) Labalaaboodin, walaacid. 
 
-tarakooma 798 m.dh (daaw.) Cudur indheed muddo dheer oo la isqaadsiiyo: nooc daran ee infekshinka xoobka indhaha oo uu keeno jermi u dhexeeya fiiruska iyo baktiiriyada oo la yirahdo “chlamydia trachomatis” cudurka wuxu ku badanyahay dalalka kulul. 
+tarakooma m.dh (daaw.) Cudur indheed muddo dheer oo la isqaadsiiyo: nooc daran ee infekshinka xoobka indhaha oo uu keeno jermi u dhexeeya fiiruska iyo baktiiriyada oo la yirahdo “chlamydia trachomatis” cudurka wuxu ku badanyahay dalalka kulul. 
 
-taran badan m.l (kiim.) Iskudhis ka kooban molikuyuullo aad u waaweyn oo ka samaysmay xubno molikuyuuleed oo soo noqnoqday (tarmiyeyaal). Taran badanya-du sida caadiga ah ma laha cuf molikuyuul go'an. 
+taran-badan m.l (kiim.) Iskudhis ka kooban molikuyuullo aad u waaweyn oo ka samaysmay xubno molikuyuuleed oo soo noqnoqday (tarmiyeyaal). Taran badanya-du sida caadiga ah ma laha cuf molikuyuul go'an. 
 
-taran talantaalli ah m.l 1. (baay.) Meerta nooleed noole, taas oo taranku uu dhaco si 
-
-talantaalli ah fac walba isaga oo marna u dhaca taran jinsi ah, marka kalena taran jinsilaawe ah. Tus. “Soolantaraata”. 2. (baay.) Ka dhicidda ay ka dhacayaan meerta nololeedka noole dhexdiisa laba ama in ka badan oo qaabab gooni ah, kuwaas oo ku kala duwan muuqaalka, sabada iyo habka 
-
-taranka.  
+taran-talantaalli-ah m.l 1. (baay.) Meerta nooleed noole, taas oo taranku uu dhaco si talantaalli ah fac walba isaga oo marna u dhaca taran jinsi ah, marka kalena taran jinsilaawe ah. Tus. “Soolantaraata”. 2. (baay.) Ka dhicidda ay ka dhacayaan meerta nololeedka noole dhexdiisa laba ama in ka badan oo qaabab gooni ah, kuwaas oo ku kala duwan muuqaalka, sabada iyo habka taranka.  
 
 taran¹ m.l ld tarmid. 
 
 taran² f.mg1 (-rmay, -rantay; -rmi) 1. Miro dalag la kariyey badasho. 2. Nafley is dhashay tiradeeda badasho. 
 
-tarandac m.l 1. Wax culus ama dhergey oo hadba doc u liicaya, u janjeersanaya. 2. T. 
-
- ah: qof hanti badan leh oo ku nool nolol raaxo leh. 
+tarandac m.l 1. Wax culus ama dhergey oo hadba doc u liicaya, u janjeersanaya. 2. T. ah: qof hanti badan leh oo ku nool nolol raaxo leh. 
 
 tarandhaaf¹ m.l ld tarandhaafid. 
 
 tarandhaaf² f.mg1 (-fay, -ftay) Wax aad u badasho. 
 
-tarandhaafid m.f.dh eeg tarandhaaf². ld 
+tarandhaafid m.f.dh eeg tarandhaaf². ld tarandhaaf¹.  
 
-tarandhaaf¹.  
-
-taran-foolwaa m.l (xis.) Taranka laba leeb oo marka la isku dhufto ku siiya foolwaa. 
-
-tahay Taranka foolwaa ee leebabka A iyo B waxa lagu qeexaa A.B=AB cos theta. Taas oo A iyo B ay yihiin laxaadyada A iyo B, theta-na ay xagasha u dhexeysa labada leeb. 
+taran-foolwaa m.l (xis.) Taranka laba leeb oo marka la isku dhufto ku siiya foolwaa. tahay Taranka foolwaa ee leebabka A iyo B waxa lagu qeexaa A.B=AB cos theta. Taas oo A iyo B ay yihiin laxaadyada A iyo B, theta-na ay xagasha u dhexeysa labada leeb. 
 
 taran-jinsi m.l (baay.) Qaab taran ah oo ku yimaaddo isku beddelka laba unug taran ee dariiqadda bacriminta. Caadi ahaan, gaar ahaan xayawaanku, waxay u baahanyihiin laba waalid, mid lab iyo mid dheddig. 
 
-taran-leeb m.l (xis.) Taranka laba leeb oo ku siiya leeb saddexaad. Taranka labada leeb A iyo B waxa loo qoraa AxB, waa leeb laxaaddiisu yahay A B sin theta, taas oo A iyo B ay yihiin laxaadyada A iyo B, theta-na 
-
-tahay xagasha u dhexeysa A iyo B. Jihada 
-
-taranka leebka waxa uu ku yahay xaglo qumman leebabka A iyo B. 
+taran-leeb m.l (xis.) Taranka laba leeb oo ku siiya leeb saddexaad. Taranka labada leeb A iyo B waxa loo qoraa AxB, waa leeb laxaaddiisu yahay A B sin theta, taas oo A iyo B ay yihiin laxaadyada A iyo B, theta-na tahay xagasha u dhexeysa A iyo B. Jihada taranka leebka waxa uu ku yahay xaglo qumman leebabka A iyo B. 
 
 taransad m.l ld taransasho.tarrarin 
 
@@ -1484,9 +1324,7 @@ taranso f.g3 (-saday, -satay) Wax faa'iideysasho ama badsasho.
 
 taran-tallaal m.l (baay.) Qaab taran jinsila' oo ka dhaca dhirta, halkaas oo ay ka samaysmaan dhismayaal gaar ah oo unugyo badanley ah, kuwaas oo harka dambena ka go'a waalidkood. Tus. “Tuyuubar iyo balbka”. 
 
-tarantarree f.g/mg2 (-reeyay, -reysay) 1. (f.g) Laba meelood oo isu dhow isaga socosho. 
-
- 2. (f.mg) Xoolo xawaaro samayn. 
+tarantarree f.g/mg2 (-reeyay, -reysay) 1. (f.g) Laba meelood oo isu dhow isaga socosho.  2. (f.mg) Xoolo xawaaro samayn. 
 
 tarantarreyn m.f.dh eeg tarantarree. 
 
@@ -1534,7 +1372,7 @@ tariin m.l ld tareen.
 
 tarjimad m.dh ld tarjumo. 
 
-tarjiman f.mg4 (-mnaa, -mnayd) ld tarju- man. 
+tarjiman f.mg4 (-mnaa, -mnayd) ld tarju-man. 
 
 tarjime m.l ld tarjume. 
 
@@ -1550,31 +1388,17 @@ tarjin f.g1 (-imay, -intay) ld tarjun.
 
 tarjumad m.dh ld tarjumo. 
 
-tarjuman f.mg4 (-mnaa, -mnayd) Qoraal iwm wax la tarjumay ahaansho. ld tarjiman, 
+tarjuman f.mg4 (-mnaa, -mnayd) Qoraal iwm wax la tarjumay ahaansho. ld tarjiman, turjuman.  
 
-turjuman.  
+tarjume m.l (-mayaal m.l/dh) Fasire. ld tarjime, turjume. 
 
-tarjume m.l (-mayaal m.l/dh) Fasire. ld 
+tarjumid m.f.dh eeg tarjun. ld tarjimid, tarjumo, turjumid. 
 
-tarjime, turjume. 
-
-tarjumid m.f.dh eeg tarjun. ld tarjimid, 
-
-tarjumo, turjumid. 
-
-tarjumnaan m.f.dh eeg tarjuman. ld 
-
-tarjimnaan,  
-
-tarjimnaansho,  
-
-tarjum-  naansho. 
+tarjumnaan m.f.dh eeg tarjuman. ld tarjimnaan, tarjimnaansho, tarjum-naansho. 
 
 tarjumnaansho m.l/dh ld tarjumnaan. 
 
-tarjumo m.dh (-ooyin, m.l) Wax lagu fasiray af kale. ld tarjimad, tarjimo, tarjumad, 
-
-turjumad, turjumo. 
+tarjumo m.dh (-ooyin, m.l) Wax lagu fasiray af kale. ld tarjimad, tarjimo, tarjumad, turjumad, turjumo. 
 
 tarjun f.g1 (-umay, -untay; -umi) 1. Qoraal af kale ku beddelid. 2. Ka t.: cid wax ay sheegto cid kale u fasirid. ld tarjin, turjun. 
 
@@ -1586,9 +1410,7 @@ tarmid m.f.dh eeg taran 2 ld taran¹, taranti.
 
 tarmin m.f.dh eeg tarmi. 
 
-tarmuus m.l (-syo, m.dh) Weel gudihiisa dhalo aan hawo lahayn ku jirto oo wixii lagu shubo xaaladdiisa ku haya in muddo ah. ld 
-
-termuus.  
+tarmuus m.l (-syo, m.dh) Weel gudihiisa dhalo aan hawo lahayn ku jirto oo wixii lagu shubo xaaladdiisa ku haya in muddo ah. ld termuus.  
 
 tarniig m.l Bir fidsan oo qiro yar leh oo guryaha dusha laga saaro; jiingad. ld terniig. 
 
@@ -1610,19 +1432,15 @@ tarrar² f.mg1 (-ray, -rtay) Wax adag dillaac yeelasho. ld qarrar².
 
 tarrari f.g2 (-iyay, -isay) Wax af dillaac u yeelid. ld qarrari. 
 
-tarrarid m.f.dh tarrar². ld qarrar¹, qarrarid, 
+tarrarid m.f.dh tarrar². ld qarrar¹, qarrarid, tarrar¹.  
 
-tarrar¹.  
-
-tarrarin m.f.dh eeg tarrari. ld qarrarin. 799tarrax¹ 
+tarrarin m.f.dh eeg tarrari. ld qarrarin.
 
 tarrax¹ m.l ld tarrixid. 
 
 tarrax² f.g1 (-xay, -xday; -rixi) Wax yar wax badan ku dhex darid. 
 
-tarraxan f.mg4 (-xnaa, -xnayd) Ku t.: wax la 
-
-tarraxay ahaansho. 
+tarraxan f.mg4 (-xnaa, -xnayd) Ku t.: wax la tarraxay ahaansho. 
 
 tarraxnaan m.f.dh eeg tarraxan. ld tarrax- naansho. 
 
@@ -1650,9 +1468,7 @@ tarriiqid m.f.dh eeg tarriq².
 
 tarriiqmid m.f.dh eeg tarriiqan¹. 
 
-tarriiqnaan m.f.dh eeg tarriiqan². ld 
-
-tarriiqnaansho.  
+tarriiqnaan m.f.dh eeg tarriiqan². ld tarriiqnaansho.  
 
 tarriiqnaansho m.l/dh ld tarriiqnaan. 
 
@@ -1684,27 +1500,21 @@ tartar¹ m.l (-rro, m.dh) 1. Feeraha hoose oo laallaada. 2. Dhinac; barbar.
 
 tartar² f.mg1 (-ray, -rtay) Wax cad cad u googo'id. 
 
-tartiib m.dh Degdeg la'aan. 800 
+tartiib m.dh Degdeg la'aan.
 
 tartiibi f.g2 (-iyay, -isay) Wax si aan degdeg lahayn u samayn. 
 
 tartiibin m.f.dh eeg tartiibi. 
 
-tartiibsan f.mg4 (-naa, -nayd) Wax la 
+tartiibsan f.mg4 (-naa, -nayd) Wax la tartiibiyey ahaansho. 
 
-tartiibiyey ahaansho. 
-
-tartiibsanaan m.f.dh eeg tartiibsan. ld 
-
-tartiibsanaansho.  
+tartiibsanaan m.f.dh eeg tartiibsan. ld tartiibsanaansho.  
 
 tartiibsanaansho m.l/dh ld tartiibsnaan. 
 
 tartuuqsan f.mg4 (-naa, -nayd) Degdegsan. 
 
-tartuuqsanaan m.f.dh eeg tartuuqsan. ld 
-
-tartuqsanaansho.  
+tartuuqsanaan m.f.dh eeg tartuuqsan. ld tartuqsanaansho.  
 
 tartuuqsanaansho m.l/dh ld tartuuqsa-naan. 
 
@@ -1752,9 +1562,7 @@ tasniifid m.f.dh eeg tasniif².
 
 tasoobid m.f.dh eeg tasow. 
 
-tasow f.mg1 (-oobay, -owday; -oobi) 1. Baadi wax muddo badan maqnayd noqosho. 
-
- 2. Nafley dayoobid. 
+tasow f.mg1 (-oobay, -owday; -oobi) 1. Baadi wax muddo badan maqnayd noqosho. 2. Nafley dayoobid. 
 
 tastuur¹ m.l (-rro, m.dh) 1. Xeer ama qaynuun waddan lagu maamulo. 2. Qori kolkol lagu shiraaca lagu xiro oo doonyuhu isticmaalaan. 
 
@@ -1822,13 +1630,9 @@ tawbad m.dh ld toobad.
 
 taweel m.l ld tuwaal. 
 
-tawfiiq m.dh Talada san oo laysku raacay; 
+tawfiiq m.dh Talada san oo laysku raacay; talada roon. 
 
-talada roon. 
-
-ta'wiil¹ m.l 1. Fasirashada uu qofi fasirta wax, isagoo ku saleynaya xaqiiq jirta. 2. ld 
-
-ta'wiilid.  
+ta'wiil¹ m.l 1. Fasirashada uu qofi fasirta wax, isagoo ku saleynaya xaqiiq jirta. 2. ld ta'wiilid.  
 
 ta'wiil² f.mg1 (-iilay, -iishay) Wax iyadoo xaqiiqooyin jira lagu saleynayo maskax ahaan u fasirasho. 
 
@@ -1840,15 +1644,11 @@ ta'wiilo f.mg3 (-iishay, -iilatay) Wax fasirasho.
 
 tawin m.dh Cudur muddo dheer haya dadka. 
 
-tawl m.l 1. T. ah: wax qaab wanaagsan leh. 2. T. ah: qof firfircoon ama shaqo badan. 
-
- 3. Isir, waalid. 
+tawl m.l 1. T. ah: wax qaab wanaagsan leh. 2. T. ah: qof firfircoon ama shaqo badan. 3. Isir, waalid. 
 
 tawllan f.mg4 (-naa, -nayd) 1. Wax qaab wanaagsan leh ahaansho. 2. Qof shaqo badan ama firfircoon ahaansho. 
 
-tawllanaan m.f.dh eeg tawllanaan. ld 
-
-tawllanaansho.  
+tawllanaan m.f.dh eeg tawllanaan. ld tawllanaansho.  
 
 tawllanaansho m.l/dh ld tawllanaan. 
 
@@ -1874,7 +1674,7 @@ tawtiiq m.dh Doorad; go'aan.
 
 tawxiid m.l Qiritaanka la qiro in Ilaah kali yahay cibaadadana isaga mudan yahay in la caabudo. ld towxiid. 
 
-tax firfircoonaanta m.dh (-xo ..., m.l) (kiim.) Tax muujinaya sida biruhu ugu kala firfircoonyihiin dhinaca falgallada la xiriira ayoonnada ku jira milan. 
+tax-firfircoonaanta m.dh (-xo ..., m.l) (kiim.) Tax muujinaya sida biruhu ugu kala firfircoonyihiin dhinaca falgallada la xiriira ayoonnada ku jira milan. 
 
 tax¹ m.l Wax iniino ah oo la taxay ama wax xiriirsan (xoolo ama dad). 
 
@@ -1902,25 +1702,19 @@ taxalluqid m.f.dh eeg taxalluq². ld taxalluq¹.
 
 taxalluqsan f.mg4 (-naa, -nayd) Ku t.: wax, wax kale ku saabsan ahaansho. 
 
-taxalluqsanaan m.f.dh eeg taxalluqsan. ld 
-
-taxalluqsanaansho.  
+taxalluqsanaan m.f.dh eeg taxalluqsan. ld taxalluqsanaansho.  
 
 taxalluqsanaansho m.l/dh ld taxalluq-sanaan. 
 
 taxambaysad m.l ld taxambaysasho. 
 
-taxambaysasho m.f.dh eeg taxambayso. ld 
+taxambaysasho m.f.dh eeg taxambayso. ld taxambaysad, taxambaysi, taxamboo-laysad. 
 
-taxambaysad, taxambaysi, taxamboo- laysad. 
-
-taxambaysi 801taxambaysi m.l ld taxambaysasho. 
+taxambaysi m.l ld taxambaysasho. 
 
 taxambayso f.mg3 (-stay, -satay) Taxambo samayn. ld taxamboolayso. 
 
-taxambo m.dh Taabashada gacan furan si 
-
-tartiib ah ruux loogu taabto. 
+taxambo m.dh Taabashada gacan furan si tartiib ah ruux loogu taabto. 
 
 taxamboolaysad m.l ld taxambaysasho. 
 
@@ -1928,23 +1722,15 @@ taxamboolaysasho m.dh ld taxambaysasho.
 
 taxamboolaysi m.l ld taxambaysasho. 
 
-taxamboolayso f.g3 (-stay, -satay) ld 
+taxamboolayso f.g3 (-stay, -satay) ld taxambayso.  
 
-taxambayso.  
-
-taxan¹ f.mg1 (-xmay, -xantay; -xmi) 1. Wax iniino ah oo dhexda ka daloola oo dun la iskula xiriiriyay noqosho. 2. Tiro wax siday isugu xigeen isu daba yaal noqosho. ld 
-
-tixan¹.  
+taxan¹ f.mg1 (-xmay, -xantay; -xmi) 1. Wax iniino ah oo dhexda ka daloola oo dun la iskula xiriiriyay noqosho. 2. Tiro wax siday isugu xigeen isu daba yaal noqosho. ld tixan¹.  
 
 taxan² f.mg4 (-xnaa, -xnayd) 1. Wax iniino ah oo dhexda ka daloola, wax dun la iskula xiriiriyey ahaansho. 2. Tiro wax sidey isugu xigeen isu daba yaal ahaansho. ld tixan². 
 
-taxane m.l (-nayaal, m.l/dh) 1. (xis.) Teed 
+taxane m.l (-nayaal, m.l/dh) 1. (xis.) Teed tirooyin maangal ah (ama waxyaabo kale) oo qaab laydi leh. 2. (kiim.) Urur xaddiyo ah oo u habaysan dhinac u taxyo iyo joog u taxyo si ay u sameeyaan qaab teed laydisan. tireed Badanaaba waxa lagu dhex xiraa laba bilood ama laba sakal. Taxaneyaasha ma aha qiime sida sugayaasha. Waxaa loo adeegsadaa in lagu muujiyo xiriirka ka dhexeeya xaddiyada. 
 
-tirooyin maangal ah (ama waxyaabo kale) oo qaab laydi leh. 2. (kiim.) Urur xaddiyo ah oo u habaysan dhinac u taxyo iyo joog u taxyo si ay u sameeyaan qaab teed laydisan. 
-
-tireed Badanaaba waxa lagu dhex xiraa laba bilood ama laba sakal. Taxaneyaasha ma aha qiime sida sugayaasha. Waxaa loo adeegsadaa in lagu muujiyo xiriirka ka dhexeeya xaddiyada. 
-
-taxane hiddo m.l (-nayaal ..., m.l/dh) (baay.) Dariiqadda warka hiddo-side ee ku jira DNA-du ay ku xukunto soo saaridda borotiinno gaar u ah unugga. 
+taxane-hiddo m.l (-nayaal ..., m.l/dh) (baay.) Dariiqadda warka hiddo-side ee ku jira DNA-du ay ku xukunto soo saaridda borotiinno gaar u ah unugga. 
 
 taxar m.l.kh 1. T. ah: caano neef dhaqayo ah laga lisay. 2. T. ah: macaan la'aan; kharaar. 
 
@@ -1962,15 +1748,13 @@ taxliilin m.dh ld tahliilin.
 
 taxmid m.f.dh eeg taxan¹. ld tixmid. 
 
-taxnaan m.f.dh eeg taxan². ld taxnaansho, 
-
-tixnaan, tixnaansho. 
+taxnaan m.f.dh eeg taxan². ld taxnaansho, tixnaan, tixnaansho. 
 
 taxnaansho m.l/dh ld taxnaan. 
 
 taxo f.g3 (-xday, -xatay) Wax iniino ah, dhexda ka daloola dun iskula xiriirasho. 
 
-taxooran 802 f.mg4 (-rnaa,-rnayd) 1. Qof dadka kala ka soocan ahaansho. 2. Ku t.: qof wax caan ku ah ahaansho. 
+taxooran f.mg4 (-rnaa,-rnayd) 1. Qof dadka kala ka soocan ahaansho. 2. Ku t.: qof wax caan ku ah ahaansho. 
 
 taxow f.g1 (-xaabay, -xaabtay; xaabi) 1. Fardaha jare ku wadid ama ku garqaadid, iyadoo la soconayo, la lugaynayo. 2. Qof xoog ku wadid. 
 
@@ -1984,15 +1768,11 @@ tay (-tay) dk.lh.dh ld tayda².
 
 tayaago m.dh ld tannaagood. 
 
-tayaagoo f.mg3 (-ooday, -ootay) ld 
-
-tannaagoo.  
+tayaagoo f.mg3 (-ooday, -ootay) ld tannaagoo.  
 
 tayaagood m.l ld tannaagood. 
 
-tayaaqoo f.mg3 (-ooday, -ootay) ld 
-
-tannaagoo.  
+tayaaqoo f.mg3 (-ooday, -ootay) ld tannaagoo.  
 
 tayaaqood m.l ld tannaagood. 
 
@@ -2004,15 +1784,11 @@ tayda² (-tayda) dk.lh.dh Dibkabe tlmaamaya wax keli ah oo dheddig, kolka qofka 
 
 tayfuun m.l (c.cimi.) Duufaanka kulaalayda ee badaha shiinaha. 
 
-tayga m.dh (juqr.) Dhulka kaymaha caleen irbadleyda Siberiya, xadka waqooyiga 
-
-tunduraha aad u qabow ee aan dhirta lahayn, koonfurtana istebiska. Noocyada dhirta ee ugu muhiimsanina waa “pine, fir, spruce iyo larch”. Waxay ka koobantahay meelo badan oo dhasheeg ah, waqtiga gu'gana dhulka intiisa badan waxa fatihiya biyo ka yimaadda wabiyada oogada sare ee woqooyi xiga kuwaas oo dacalladdooda hoose weli sarafyihiin. 
+tayga m.dh (juqr.) Dhulka kaymaha caleen irbadleyda Siberiya, xadka waqooyiga tunduraha aad u qabow ee aan dhirta lahayn, koonfurtana istebiska. Noocyada dhirta ee ugu muhiimsanina waa “pine, fir, spruce iyo larch”. Waxay ka koobantahay meelo badan oo dhasheeg ah, waqtiga gu'gana dhulka intiisa badan waxa fatihiya biyo ka yimaadda wabiyada oogada sare ee woqooyi xiga kuwaas oo dacalladdooda hoose weli sarafyihiin. 
 
 tayiiso m.dh Karti; awood. 
 
-taymas m.l Qanjir ku yaal lafta shafka xaggeeda gudaha xigta, caruurta keliya ayaa leh, dadka waaweyn waa ka baaba'a, wuxuuna ka 
-
-tirsanyahay qaybta difaaca jirka. 
+taymas m.l Qanjir ku yaal lafta shafka xaggeeda gudaha xigta, caruurta keliya ayaa leh, dadka waaweyn waa ka baaba'a, wuxuuna ka tirsanyahay qaybta difaaca jirka. 
 
 tayo¹ m.dh Sifo lagu garto dhalanka ama abuurta wax kale leeyihiin oo waxyaale kale kaga duwanyihiin; nooc; jaad. 
 
@@ -2052,27 +1828,17 @@ tebisid m.f.dh eeg tebis².
 
 tee¹ mu.we.dh (kuwee, w) Magacuyaal weyddiimeed oo dhaddig, oo iskii u taagan, oo wax ama qof lagu hubsado. tus. “Waa tee midda hadlaysa imminka?”. 
 
-tee² (-tee) dk.we.dh Dibkabe weyddiimeed oo dheddig, oo wax ama qof lagu hubsado. Tus. 
+tee² (-tee) dk.we.dh Dibkabe weyddiimeed oo dheddig, oo wax ama qof lagu hubsado. Tus. “Fartee baa kula qurxoon?”. 
 
- “Fartee baa kula qurxoon?”. 
-
-teed¹ m.l 1. Qoryo gaagaaban oo meel la dhisayo la sii saarsaaro. 2. Ood loo dhigo ugaar si ay u marto meel loogu talaggalay. 
-
- 3. ld teedin. 
+teed¹ m.l 1. Qoryo gaagaaban oo meel la dhisayo la sii saarsaaro. 2. Ood loo dhigo ugaar si ay u marto meel loogu talaggalay. 3. ld teedin. 
 
 teed² f.g1 (-day, -dday) ld teedi. 
 
 teed³ (-teed) dk.lh.dh ld teeda2. 
 
-teeda¹ mu.lh.dh (kuweeda, w) Magacuyaal lahaansho oo dhaddig ah oo tilmaamaya wax iyadu (qofka saddexaad ee kelida ah ee dheddig) ay leedahay. eeg keeda. Tus. 
+teeda¹ mu.lh.dh (kuweeda, w) Magacuyaal lahaansho oo dhaddig ah oo tilmaamaya wax iyadu (qofka saddexaad ee kelida ah ee dheddig) ay leedahay. eeg keeda. Tus. “Weyddii halka ay teeda uga tagtay”. 
 
- “Weyddii halka ay teeda uga tagtay”. 
-
-teeda² (-teeda) dk.lh.dh Dibkabe lahaansho oo 
-
-tilmaamaya wax iyadu (qofka saddexaad ee kelida ah ee dheddig) ay leedahay. eeg keeda. 
-
- Tus. “Gacanteeda ayay ku qortay warqaddan”. ld teed³. 
+teeda² (-teeda) dk.lh.dh Dibkabe lahaansho oo tilmaamaya wax iyadu (qofka saddexaad ee kelida ah ee dheddig) ay leedahay. eeg keeda. Tus. “Gacanteeda ayay ku qortay warqaddan”. ld teed³. 
 
 teedi f.g2 (-iyay, -isay) Ood, qoryo iwm xiriir isu dhigid. ld teed². 
 
@@ -2112,23 +1878,15 @@ teen (-teen) dk.lh.dh ld teenna².
 
 teendho m.dh (-ooyin, m.l) Aqal shiraac ah oo loogu talaggalay in degdeg loo dhiso, loona furfuro ama loo raro oo tiirar iyo xargo leh. 
 
-teenis m.l Cayaar laba qof ama ka badan ku 
-
-tartamaan iyaga oo laba kooxood isaga soo horjeeda oo ku cayaaraya garoon sibir ah oo leh shabag dhexda ah iyo kubbad abuu- cudbi ah. 
+teenis m.l Cayaar laba qof ama ka badan ku tartamaan iyaga oo laba kooxood isaga soo horjeeda oo ku cayaaraya garoon sibir ah oo leh shabag dhexda ah iyo kubbad abuu- cudbi ah. 
 
 teenna¹ mu.lh.dh (kuweenna, w) Maga-cuyaal lahaansho oo tilmaamaya wax annagu (qofka koowaad ee wadarta ah oo kuwa lala hadlayo ay ku jiraan) aannu leennahay. 
 
 teenna² (-tenna) dk.lh.dh Dibkabe lahaansho oo tilmaamaya wax annagu (qofka koowaad ee wadarta ah oo kuwa lala hadlayo ay ku jiraan) aannu leennahay. Tus. “Shirka aan ku qabanno xarun-teenna”. ld teen. 
 
-teer¹ mu.ti.dh (kuweer, w) Magacuyaal 
+teer¹ mu.ti.dh (kuweer, w) Magacuyaal tilmaame oo dhaddig, oo wax ama cid hadlaha ka fog yarana jaahiisa ka babcan lagu tilmaansado. Tu. “Cali wuxuu rabaa inuu la hadlo teer timid hadda”. 
 
-tilmaame oo dhaddig, oo wax ama cid hadlaha ka fog yarana jaahiisa ka babcan lagu 
-
-tilmaansado. Tu. “Cali wuxuu rabaa inuu la hadlo teer timid hadda”. 
-
-teer² (-teer) dk.ti.dh Dibkabe tilmaame oo dib looga qodbo magac dhaddig, oo wax ama cid hadlaha ka fog yarana jaahiisa ka babcan lagu 
-
-tilmaansado.  
+teer² (-teer) dk.ti.dh Dibkabe tilmaame oo dib looga qodbo magac dhaddig, oo wax ama cid hadlaha ka fog yarana jaahiisa ka babcan lagu tilmaansado.  
 
 teeri m.l (-iyo, m.dh) Waran weyn; kaal. 
 
@@ -2142,9 +1900,7 @@ teersi m.l (-iyo, m.dh) Dhir ka kooban geedo gaagaaban iyo geedcawsaad.
 
 teesaro m.dh (-ooyin, m.l) Warqad aqoonsi ee qof leeyahay. 
 
-teetane m.l (daaw.) Cudur togtoga muruqyada maskaxdana waxyeeleeya oo ka dhasha sun uu dhaliyo jeermiska klostiridiyuum 
-
-teetanuus.  
+teetane m.l (daaw.) Cudur togtoga muruqyada maskaxdana waxyeeleeya oo ka dhasha sun uu dhaliyo jeermiska klostiridiyuum teetanuus.  
 
 teetano m.dh Kujisu. ld teetane. 
 
@@ -2168,17 +1924,9 @@ telef¹ m.l.kh T. ah: aan caaqibo dambe la-hayn.
 
 telef² f.mg1 (-lfay, -leftay; -lfi) Wax isticmaal gabay noqosho. 
 
-telefishen¹ m.l Raadiyaha la iska arko. ld 
+telefishen¹ m.l Raadiyaha la iska arko. ld telefisyoon.  
 
-telefisyoon.  
-
-telefishen² m.l (tegno.) Hab isgaarsineed lagu gudbiyo wararka maqalka iyo muuqaalka. 
-
- Qaybta ugu muhiimsan hab isgaarsiinta waa kamarada telifishanka oo wararka aragga u beddesha sinyaale danabeed, raacaya mareegta si loogu habeeyo hirarka baaha. 
-
-telefishinka, Herarkaasi marka ay soo qaadhaan qaybta waxa uu telefishinku u beddelaa hummaag ka muuqda iskiriinka. ld 
-
-telefisyoon.  
+telefishen² m.l (tegno.) Hab isgaarsineed lagu gudbiyo wararka maqalka iyo muuqaalka. Qaybta ugu muhiimsan hab isgaarsiinta waa kamarada telifishanka oo wararka aragga u beddesha sinyaale danabeed, raacaya mareegta si loogu habeeyo hirarka baaha. telefishinka, Herarkaasi marka ay soo qaadhaan qaybta waxa uu telefishinku u beddelaa hummaag ka muuqda iskiriinka. ld telefisyoon.  
 
 telefisyoon m.l (-nno, m.dh) ld telefishen¹. 
 
@@ -2186,9 +1934,7 @@ telefoon m.l ld taleefan.
 
 telefooniiste m.l (-tayaal, m.l/dh) 1. Qof aqoon u leh farsamada teleefoonka. 2. Qof ka shaqeeya xiriirinta teleefoonka. 
 
-telekis m.l (-syo, m.dh) Aalad wararka la isugu 
-
-tabiyo oo awtomatig ah. 
+telekis m.l (-syo, m.dh) Aalad wararka la isugu tabiyo oo awtomatig ah. 
 
 telfid m.f.dh eeg telef². 
 
@@ -2196,7 +1942,7 @@ tembi m.l (dii.) Kutub ka mid ah kutubta axkaamta islaamka.
 
 temmadi f.mg2 (-iyay, -isay) Ku t.: meel u socosho. 
 
-temmadin 804 m.f.dh eeg temmadi. 
+temmadin  m.f.dh eeg temmadi. 
 
 temmedi f.mg2 (-iyay, -isay) Wax qiimayn. 
 
@@ -2204,9 +1950,7 @@ temmedin m.f.dh eeg temmedi.
 
 temmin¹ m.l Qiime, sicir. ld tammin¹. 
 
-temmin² f.mg1 (-nay, -ntay) 1. Wax qiimo ama tixgelin gaar ah siin. 2. Qof xurmayn. ld 
-
-tammin².  
+temmin² f.mg1 (-nay, -ntay) 1. Wax qiimo ama tixgelin gaar ah siin. 2. Qof xurmayn. ld tammin².  
 
 temminid m.f.dh eeg temmin². ld tamminid. 
 
@@ -2238,9 +1982,7 @@ tibayn m.f.dh eeg tibee.
 
 tibee f.g2 (-beeyay, -baysay) 1. Qof tib ku garaacid. 2. Wax tib ku tumid. 
 
-tibix-guud m.dh 1. (xis.) Guud ahaan, qayb ka mid ah isle'eg ama tibaax-xisaabeed. Marka laga hadlaayo tibxaale tibixyadu waa 
-
-tibaaxaha oo la isugeeyo. 2. (xis.) Tibixda guud ee susun ama dareerin waa tibaax la hoos dhigay abyoone, kaas oo lagu helo geleye kasta ee rabo. 
+tibix-guud m.dh 1. (xis.) Guud ahaan, qayb ka mid ah isle'eg ama tibaax-xisaabeed. Marka laga hadlaayo tibxaale tibixyadu waa tibaaxaha oo la isugeeyo. 2. (xis.) Tibixda guud ee susun ama dareerin waa tibaax la hoos dhigay abyoone, kaas oo lagu helo geleye kasta ee rabo. 
 
 tiblabood m.l Qarnugeyl. 
 
@@ -2266,9 +2008,7 @@ tidcid m.f.dh eeg tidic². ld tidic¹.
 
 tidco f.g3 (-caday, -catay) 1. Xarig soohasho. 2. Timo tidcasho. 
 
-tidic¹ m.l 1. ld tidac. T. ah: wax tidcan. 2. ld 
-
-tidcid.  
+tidic¹ m.l 1. ld tidac. T. ah: wax tidcan. 2. ld tidcid.  
 
 tidic² f.g1 (-dcay, -dicaday; -dci) Dun, xarig, 
 
@@ -2284,9 +2024,7 @@ tifaftir¹ m.l ld tifaftirid.
 
 tifaftir² f.g1 (-ray, -rtay) War iwm si bayaan ah oo qeexan u sheegid. 
 
-tifaftiran f.mg4 (-rnaa, -rnayd) Wax la 
-
-tifaftiray ahaansho. 
+tifaftiran f.mg4 (-rnaa, -rnayd) Wax la tifaftiray ahaansho. 
 
 tifaftirane m.l (nax.) Curiyaha la tifaftiro sida “ninkan” (“nin” ayaa ah midka tifaftiran). 
 
@@ -2294,9 +2032,7 @@ tifaftire m.l (nax.) Curiye tifatira mid kale (tus.: ninkan, “kan” ayaa tifa
 
 tifaftirid m.f.dh eeg tifaftir². ld tifaftir¹. 
 
-tifaftirnaan m.f.dh eeg tifaftiran. ld tifaf- 
-
-tirnaansho.  
+tifaftirnaan m.f.dh eeg tifaftiran. ld tifaf-tirnaansho.  
 
 tifaftirnaansho m.l/dh ld tifaftirnaan. 
 
@@ -2306,9 +2042,7 @@ tifid m.f.dh eeg tif³.
 
 tifiq¹ m.dh.sh.r Dhibicda dhiciddeeda ama iyada lafteeda. 
 
-tifiq² f.mg1 (-fqay, -fiqday; -fqi) Hoore dhibic-dhibic u soo dhicid. ld tifiqlee, tiflee, 
-
-tifqaan.  
+tifiq² f.mg1 (-fqay, -fiqday; -fqi) Hoore dhibic-dhibic u soo dhicid. ld tifiqlee, tiflee, tifqaan.  
 
 tifiqlayn m.dh ld tifqid. 
 
@@ -2326,9 +2060,7 @@ tifqaamid m.dh ld tifqid.
 
 tifqaan f.mg1 ld tifiq². 
 
-tifqid m.f.dh eeg tifiq². ld tifiqlayn, tifleyn, 
-
-tifqaamid.  
+tifqid m.f.dh eeg tifiq². ld tifiqlayn, tifleyn, tifqaamid.  
 
 tifrimid m.f.dh eeg tifrin. 
 
@@ -2348,9 +2080,7 @@ tigaysasho m.f.dh eeg tigayso.
 
 tigayso f.mg3 (-stay, -satay) Hal lug ku boodid. 
 
-tigid m.l (-dyo, m.dh) Warqad hab gaar ah u samaysan oo ay ku qorantahay lacagta qofku baxsho oo dano badan loo istic-maalo. ld 
-
-tikid.  
+tigid m.l (-dyo, m.dh) Warqad hab gaar ah u samaysan oo ay ku qorantahay lacagta qofku baxsho oo dano badan loo istic-maalo. ld tikid.  
 
 tigin m.l (-nno, m.dh) Qori dhulka lagu aaso si loogu adkeeyo wax la dhisayo. 
 
@@ -2360,9 +2090,7 @@ tigtig¹ m.l ld tigtigid.
 
 tigtig² f.g1 (-gay, -gtay) Wax la tolayo ama la xirayo dhuujin. 
 
-tigtigan f.mg4 (-gnaa, -gnayd) Weel wax la 
-
-tigtigay ahaansho. 
+tigtigan f.mg4 (-gnaa, -gnayd) Weel wax la tigtigay ahaansho. 
 
 tigtigasho m.f.dh eeg tigtigo. 
 
@@ -2398,7 +2126,7 @@ tiif² f.g1 (-fay, -ftay) Wax sarsarid.
 
 tiifid m.f.dh eeg tiif². 
 
-tiifowga maqaarka m.l (daaw.) Mid kasta oo ka tirsan koox infekshin ah oo uu keeno “Rickettsiae”. Astaamo: madax xanuun 805tiig daran, finan jirko dhan ku faafsan, qandho badan oo muddo dheer socota iyo isku- daran. 
+tiifowga-maqaarka m.l (daaw.) Mid kasta oo ka tirsan koox infekshin ah oo uu keeno “Rickettsiae”. Astaamo: madax xanuun daran, finan jirko dhan ku faafsan, qandho badan oo muddo dheer socota iyo isku-daran. 
 
 tiig m.dh 1. Socod degdeg ah oo meel lagu gaaro. 2. ld tiigsahso. 
 
@@ -2410,9 +2138,7 @@ tiigo f.mg3 (-gtay, -gatay) 1. Cid socod ku fogaansho. 2. Ku t.: cid aad ugu xad
 
 tiigsad m.l ld tiigsasho. 
 
-tiigsasho m.f.dh eeg tiigso. ld tiig (2), tiigaal, 
-
-tiigsad, tiigsi. 
+tiigsasho m.f.dh eeg tiigso. ld tiig (2), tiigaal, tiigsad, tiigsi. 
 
 tiigsi m.l ld tiigsasho. 
 
@@ -2470,15 +2196,11 @@ tiiraanyayn m.f.dh eeg tiiraanyee.
 
 tiiraanyaysan f.mg4 (-snaa, -snayd) Qof murugsan ahaansho. 
 
-tiiraanyaysnaan m.f.dh eeg tiiraanyaysan. ld 
-
-tiiraanyaysnaansho.  
+tiiraanyaysnaan m.f.dh eeg tiiraanyaysan. ld tiiraanyaysnaansho.  
 
 tiiraanyaysnaansho m.l/dh ld tiiraanyays- naan. 
 
-tiiraanyee f.g2 (-yeeyay, -yaysay) Cid 
-
-tiiraanyo ku abuurid. 
+tiiraanyee f.g2 (-yeeyay, -yaysay) Cid tiiraanyo ku abuurid. 
 
 tiiraanyo m.dh Arrin lala murugoodo, caloolxumo, uurkutaallo. 
 
@@ -2500,9 +2222,7 @@ tiiris m.l ld tiirin.
 
 tiirisboor m.l (-ryo, m.dh) Gaadiid. 
 
-tiiro m.dh 1. (xis.) Xagasha ay xarriiqi la sammeyso dhidibka-x. 2. (xis.) Tiirada xarriiq marta baraha (x,y) iyo x2,y2) waa 
-
-tiirada (y2-y1)/(x2-x1). 3. (xis.) Tiirada xood halkabar B waa tiirada xarriiqda taabtaha ah ee xoodka halka barta B. 
+tiiro m.dh 1. (xis.) Xagasha ay xarriiqi la sammeyso dhidibka-x. 2. (xis.) Tiirada xarriiq marta baraha (x,y) iyo x2,y2) waa tiirada (y2-y1)/(x2-x1). 3. (xis.) Tiirada xood halkabar B waa tiirada xarriiqda taabtaha ah ee xoodka halka barta B. 
 
 tiiro-qaaradeed m.l (-dyo, m.dh) (juqr.) Janjeerka u dhexeeya raso qaaradeedka iyo salka hoose ee badweynta. 
 
@@ -2526,9 +2246,7 @@ tiis (-tiis) dk.lh.dh ld tiisa².
 
 tiisa¹ mu.lh.dh (kuwiisa, w) Magacuyaal lahaansho oo dhaddig ah oo tilmaamaya wax isagu (qofka saddexaad ee kelida ah ee lab) uu leeyahay. Tus. “Nin tiisa haysata tu kale uma daryeelo”. 
 
-tiisa² (-tiisa) dk.lh.dh Dibkabe lahaansho oo 
-
-tilmaamaya wax isagu (qofka saddexaad ee kelida ah ee lab) uu leeyahay. Tus. “Cali beryahan bartiisa lama arkin”. ld ti, tii³, tiis. 
+tiisa² (-tiisa) dk.lh.dh Dibkabe lahaansho oo tilmaamaya wax isagu (qofka saddexaad ee kelida ah ee lab) uu leeyahay. Tus. “Cali beryahan bartiisa lama arkin”. ld ti, tii³, tiis. 
 
 tiix¹ m.l Roob yar oo dhibco yaryar. 
 
@@ -2584,9 +2302,7 @@ tilmaame³ m.l (-mayaal, m.l/dh) (nax.) Wuxuu tilmaamaa qof ama shay rugtiisa.
 
 tilmaamid m.f.dh eeg tilmaan². ld tilmaanid. 
 
-tilmaamnaan m.f.dh eeg tilmaaman. ld 
-
-tilmaamnaansho, tilmaansanaan, til- maansanaansho. 
+tilmaamnaan m.f.dh eeg tilmaaman. ld tilmaamnaansho, tilmaansanaan, til-maansanaansho. 
 
 tilmaamnaansho m.l/dh ld tilmaamnaan. 
 
@@ -2606,17 +2322,11 @@ tilmaansanaansho m.l/dh ld tilmaamnaan.
 
 tilmaansasho m.f.dh eeg tilmaanso. ld til- maansad. 
 
-tilmaanso f.mg3 (-saday, -satay) 1. Wax 
-
-tilmaan u yeelasho. 2. Meel ama wax 
-
-tilmaantooda xafidid. 3. Meel tilmaanteeda qaadasho. 
+tilmaanso f.mg3 (-saday, -satay) 1. Wax tilmaan u yeelasho. 2. Meel ama wax tilmaantooda xafidid. 3. Meel tilmaanteeda qaadasho. 
 
 timaaddo¹ m.dh Wax mustaqbalka dhici doona. 
 
-timaaddo² m.dh (nax.) Ammin faleed 
-
-tilmaama fal aan weli dhicin. 
+timaaddo² m.dh (nax.) Ammin faleed tilmaama fal aan weli dhicin. 
 
 timajarid m.dh Habka timaha loo jaro ama loo qurxiyo. ld timajar. 
 
@@ -2636,41 +2346,29 @@ tinhawleed m.l.u (-dyo, m.dh) Guudka fardaha in ka mid ah.
 
 tiniin m.l (-nno, m.dh) Imbili dhexda dun laga gashay oo carruurtu ku ciyaarto. 
 
-tiniinix m.l (-xyo, m.dh) 1. Bocoosha badda kuwo ka mid ah oo midabyo badan. 
-
- 2. Midabyo badan. 
+tiniinix m.l (-xyo, m.dh) 1. Bocoosha badda kuwo ka mid ah oo midabyo badan. 2. Midabyo badan. 
 
 tininig m.dh.sh.r Cod lagu muujiyo shagagax ama shanqar dab. 
 
-tinmood 807tinmood m.l 1. Cudur timaha ku dhaca. 2. (u) Marka timaha la shanleeyo tintinta soo go'da. 
+tinmood m.l 1. Cudur timaha ku dhaca. 2. (u) Marka timaha la shanleeyo tintinta soo go'da. 
 
 tinnaar m.l (-rro, m.dh) Weel qaab aashuun leh oo dhoobo ka samaysan muufadana lagu dubo. 
 
-tintaafyo m.dh (daaw.) (kabillariyada) Xidid- dhiigyo aad iyo aad u yaryar, sida timaha oo magacoodu ka yimid. Tintaafyadu waxay ku sameeyaan shabaag soohyada (xubnaha) oo dhan waxa dhiigga u keena halbowlayasha yaryar, waxaana ka qaada xididdada yaryar. 
+tintaafyo m.dh (daaw.) (kabillariyada) Xidid- dhiigyo aad iyo aad u yaryar, sida timaha oo magacoodu ka yimid. Tintaafyadu waxay ku sameeyaan shabaag soohyada (xubnaha) oo dhan waxa dhiigga u keena halbowlayasha yaryar, waxaana ka qaada xididdada yaryar. Tintafyadu jirmigoodu wuxu ka sameysanyahay hal unug, taasoo suuro gelineysa. Kala bedelka: oksijiinka (O2), karbondiyok-saydka (C)2), biyaha (H20), cusbooyinka, iwm oo ka dhex dhacaya jirka iyo soohyada. 
 
- Tintafyadu jirmigoodu wuxu ka sameysanyahay hal unug, taasoo suuro gelineysa. Kala bedelka: oksijiinka (O2), karbondiyok-saydka (C)2), biyaha (H20), cusbooyinka, iwm oo ka dhex dhacaya jirka iyo soohyada. 
-
-tintaf m.l (-fyo, m.dh) (c.nafl.) Nooca ugu dhuudhuuban dhuumaha dhiigga ee habdhiska wareegga dhiigga ee lafdhabar- leyda. 
+tintaf m.l (-fyo, m.dh) (c.nafl.) Nooca ugu dhuudhuuban dhuumaha dhiigga ee habdhiska wareegga dhiigga ee lafdhabar-leyda. 
 
 tintafid m.l Raad la xiriira gigsanaanta dusha ee dareere, waana tan keenta inuu dareere kor u raaco ama hoos uga soo dego dhuunyaro ligan. 
 
-tiqraar¹ m.l (-rro, m.dh) Shay adag oo la kala dhexgeliyo laba wax si ayan isu qabsan. ld 
+tiqraar¹ m.l (-rro, m.dh) Shay adag oo la kala dhexgeliyo laba wax si ayan isu qabsan. ld taqraar¹.  
 
-taqraar¹.  
+tiqraar² f.g1 (-ray, rtay) Shay adag laba wax kala dhex gelin si ayan isu qabsan. ld taqraar².  
 
-tiqraar² f.g1 (-ray, rtay) Shay adag laba wax kala dhex gelin si ayan isu qabsan. ld 
-
-taqraar².  
-
-tiqraaran f.mg4 (-rnaa, -rnayd) Wax la 
-
-tiqraaray ahaansho. ld taqraarqan. 
+tiqraaran f.mg4 (-rnaa, -rnayd) Wax la tiqraaray ahaansho. ld taqraarqan. 
 
 tiqraarid m.f.dh eeg tiqraar². ld taqraarid. 
 
-tiqraarnaan m.f.dh eeg tiqraaran. ld 
-
-taqraarnaan, taqraarnaansho, tiqraar- naansho. 
+tiqraarnaan m.f.dh eeg tiqraaran. ld taqraarnaan, taqraarnaansho, tiqraar- naansho. 
 
 tiqraarnaansho m.l/dh ld tiqraarnaan. 
 
@@ -2678,25 +2376,17 @@ tir f.g1 (-ray, rtay) 1. Wax muuqooda baabi'in. 2. Ka t.: wax wasakh ka sifayn.
 
 tiraab¹ m.l 1. Erey, hadal ama dhawaaq afka ka soo baxay. 2. ld tiraabid. 
 
-tiraab² m.l (nax.) Hadal aan qornayn (eeg af 
-
-tiraab).  
+tiraab² m.l (nax.) Hadal aan qornayn (eeg af tiraab).  
 
 tiraab³ f.mg1 (-bay, -btay) Hadlid. 
 
 tiraabid m.f.dh eeg tiraab³. ld tiraab¹ (2). 
 
-tiraale m.l 1. (nax.) Tirooyinka cayima inta ay la egtahay tirada shayga laga hadlayo. Tus. “3 buug; 6 nin, iwm”. 2. (nax.) T. jago: tiro 
-
-tilmaanta sida ay u kala sarreeyaan ama darajada ka dhexeeysa noolayaal ama ashyaa. 
-
- Tus. “koobaad, labaad iwm”. 
+tiraale m.l 1. (nax.) Tirooyinka cayima inta ay la egtahay tirada shayga laga hadlayo. Tus. “3 buug; 6 nin, iwm”. 2. (nax.) T. jago: tiro tilmaanta sida ay u kala sarreeyaan ama darajada ka dhexeeysa noolayaal ama ashyaa. Tus. “koobaad, labaad iwm”. 
 
 tirabbadan f.mg4 (-dnaa, -dnayd) Wax mahiigaan ah ahaansho. 
 
-tirabbadnaan 808 m.f.dh eeg tirabbadan. ld 
-
-tirabbadnaansho.  
+tirabbadnaan m.f.dh eeg tirabbadan. ld tirabbadnaansho.  
 
 tirabbadnaansho m.l/dh ld tirabbadnaan. 
 
@@ -2704,15 +2394,13 @@ tirabbeel m.l Wax tiradoodu xadkii dhaaftay.
 
 tirabbuur m.l Wax ama dad meel wada jooga dhanka tiradoodu u badantahay. 
 
-tirada dadka m.l (-oyin, ml.) 1. Ikoolajii ahaan, koox isku sinji ah oo meel ku wada nool. 2. Tirada wadarta sinjiyo ama bah kale oo noole ah oo ku nool meel la yaqaan. 
+tirada-dadka m.l (-oyin, ml.) 1. Ikoolajii ahaan, koox isku sinji ah oo meel ku wada nool. 2. Tirada wadarta sinjiyo ama bah kale oo noole ah oo ku nool meel la yaqaan. 
 
 tiradhaaf m.l.kh T. ah: wax xadkii tiradooda dhaafay. 
 
 tirakoob¹ m.l/dh (-byo, m.dh) Habka loo helo ama lo tirsho tira guud. 
 
-tirakoob² f.g1 (-bay, -btay) Wax inta 
-
-tiradoodu tahay helid. 
+tirakoob² f.g1 (-bay, -btay) Wax inta tiradoodu tahay helid. 
 
 tirakoobid m.f.dh eeg tirakoob². 
 
@@ -2722,9 +2410,7 @@ tirasho m.f.dh eeg tiro².
 
 tiratoomi f.g2 (-iyay, -isay) Wax tiradooda qaldid. 
 
-tiratoomin m.f.dh eeg tiratoomi. ld tira- 
-
-toomis.  
+tiratoomin m.f.dh eeg tiratoomi. ld tira-toomis.  
 
 tiratoomis m.l ld tiratoomin. 
 
@@ -2742,17 +2428,11 @@ tiric f.mg1 (-rcay, -ricday; -rci) Tartiib u socosho. ld turuc.
 
 tirid m.f.dh eeg tir. ld tiris², tirniin. 
 
-tirigonometeri m.l (xis.) Laanta xisaabta ee ku saabsan furfurista saddex-xagallada iyada oo la adeegsanaayo fansaarro tirignometiyeed. 
-
-tirignometeriga Waxa ay qiime aad waxtar leh u leedahay maadooyinka sida: injineeriya, nakhsha- daynta, sahminta badmaax, cilmifalag iwm, waxaa loo qaybiyaa laba qaybood oo kala ah: sallaxa oo ku saabsan saddex- xagallo sallaxaha iyo tirignome-tiriga kubbadeed oo ku saabsan saddex-xagallo kubbadeed. Fansaarrada tirigo-nometeriyeed waxaay kaalin muhiim ah ka qaataan saafidda waxaana loo adeegsadaa in lagu muujiyo birar iyo finoomino. 
+tirigonometeri m.l (xis.) Laanta xisaabta ee ku saabsan furfurista saddex-xagallada iyada oo la adeegsanaayo fansaarro tirignometiyeed. tirignometeriga Waxa ay qiime aad waxtar leh u leedahay maadooyinka sida: injineeriya, nakhsha- daynta, sahminta badmaax, cilmifalag iwm, waxaa loo qaybiyaa laba qaybood oo kala ah: sallaxa oo ku saabsan saddex- xagallo sallaxaha iyo tirignome-tiriga kubbadeed oo ku saabsan saddex-xagallo kubbadeed. Fansaarrada tirigo-nometeriyeed waxaay kaalin muhiim ah ka qaataan saafidda waxaana loo adeegsadaa in lagu muujiyo birar iyo finoomino. 
 
 tirigsan f.mg4 (-naa, -nayd) Xarig si tirjis ah loo sameeyay ahaansho.tirosin aritmatig 
 
-tirigsanaan  m.f.dh eeg 
-
-tirigsan.  ld 
-
-tirigsanaansho.  
+tirigsanaan  m.f.dh eeg tirigsan. ld tirigsanaansho.  
 
 tirigsanaansho m.l/dh ld tirigsanaan. 
 
@@ -2782,55 +2462,39 @@ tirnaansho m.l/dh ld tirnaan.
 
 tirniin m.l ld tirid. 
 
-tiro Afogaadro m.dh (kiim.) Tirada atamada ama molikuyuulada ee ku jira hal mool oo walax ah. Qiimaheeduna waa 6.022 x 10 ; waxa hore loo oran jiray tirada Afogaadaro, waxaana lagu asteeyaa sum-madda NA ama L. 
+tiro-Afogaadro m.dh (kiim.) Tirada atamada ama molikuyuulada ee ku jira hal mool oo walax ah. Qiimaheeduna waa 6.022 x 10 ; waxa hore loo oran jiray tirada Afogaadaro, waxaana lagu asteeyaa sum-madda NA ama L. 
 
-tiro atameed m.dh (-dyo, m.dh) Summad Z. Tirada borotoonno ee ku jira bu'da atam, le'egna tirada elektaroonnada ku dul wareegaya bu'da, marka atamku uu yahay dhexdhexaad. 
+tiro-atameed m.dh (-dyo, m.dh) Summad Z. Tirada borotoonno ee ku jira bu'da atam, le'egna tirada elektaroonnada ku dul wareegaya bu'da, marka atamku uu yahay dhexdhexaad. 
 
-tiro dhaban m.dh (xis) Abyoone haraa la'aan u qaybsama tirada laba; ama waa tiro idil oo aan ahayn kisi. Tusaale ahaan 6, 14 ama 24 waa tirooyin dhaban ah, waayo, 2 haraa la'aan bay qaybisaa tirooyinkaasi. 
+tiro-dhaban m.dh (xis) Abyoone haraa la'aan u qaybsama tirada laba; ama waa tiro idil oo aan ahayn kisi. Tusaale ahaan 6, 14 ama 24 waa tirooyin dhaban ah, waayo, 2 haraa la'aan bay qaybisaa tirooyinkaasi. 
 
-tiro kisi m.dh (xis.) Haraa la'aan tirada aan u qaybsami karin labo. 
+tiro-kisi m.dh (xis.) Haraa la'aan tirada aan u qaybsami karin labo. 
 
-tiro lakab m.dh (xis.) Tiro maangal ah oo loo qori karo abyoone ahaan ama qaybta laba abyone. Tusaale ahaan, 1, 7, 540, 1/2 iyo 3/4 waa tirooyin lakab ah. (Barbardhig tiro lakab la'). 
+tiro-lakab m.dh (xis.) Tiro maangal ah oo loo qori karo abyoone ahaan ama qaybta laba abyone. Tusaale ahaan, 1, 7, 540, 1/2 iyo 3/4 waa tirooyin lakab ah. (Barbardhig tiro lakab la'). 
 
-tiro maangal m.dh (xis.) Summad R: urur ka kooban dhammaan tirooyinka lakab ah iyo kuwa lakabka la'. 
+tiro-maangal m.dh (xis.) Summad R: urur ka kooban dhammaan tirooyinka lakab ah iyo kuwa lakabka la'. 
 
-tiro murakab m.dh (xis.) Tiro leh sansaanka a + ib, taas oo a iyo b ay yihiin tirooyin maangal ah oo i=V-1 (ama i2=-1) a waxa la yiraahdaa qaybta maangalka ah, ib-na qaybta khayaaliga ah. 
+tiro-murakab m.dh (xis.) Tiro leh sansaanka a + ib, taas oo a iyo b ay yihiin tirooyin maangal ah oo i=V-1 (ama i2=-1) a waxa la yiraahdaa qaybta maangalka ah, ib-na qaybta khayaaliga ah. 
 
 tiro¹ m.dh (-ooyin, m.l) 1. Hab lagu garto kolka mid mid loo soo qaado kaddib, inta inood oo wax ka koobanyahay. 2. Ari ka kooban boqol (100) neef. 3. T. iyo tayo: caddad iyo qaayo. 
 
-tiro² m.dh (-ooyin, m.l) 1. (xis.) Summado loo adeegsado tirinta iyo cabbirid-da.Tirooyinka hadda guud ahaan la adeegsado waxa ay ku salaysanyihiin habdhis salkiisu yahay Hindi- Carab. 2. (xis.) Tiro kasta oo ah maangal ama murakab waxa jiro noocyo badan oo 
-
-tirooyin ah: (b) tirsiimo (abyoone togan) (t) 
-
-tiro idil (j) abyooneyaasha (x) tiro lakab ah (kh) tiro lakab la'. 3. (nax.) Koox naxweed oo waxqabadkeedu yahay in ay tilmaanto cadad dad, xayawaan iyo shay oo giddigooda ah tirsamayaal. Tus. “Kow, labo, qof”; tirada lidka isku ah waa keli iyo wadar (mid/dhawr). 
+tiro² m.dh (-ooyin, m.l) 1. (xis.) Summado loo adeegsado tirinta iyo cabbirid-da.Tirooyinka hadda guud ahaan la adeegsado waxa ay ku salaysanyihiin habdhis salkiisu yahay Hindi- Carab. 2. (xis.) Tiro kasta oo ah maangal ama murakab waxa jiro noocyo badan oo tirooyin ah: (b) tirsiimo (abyoone togan) (t) tiro idil (j) abyooneyaasha (x) tiro lakab ah (kh) tiro lakab la'. 3. (nax.) Koox naxweed oo waxqabadkeedu yahay in ay tilmaanto cadad dad, xayawaan iyo shay oo giddigooda ah tirsamayaal. Tus. “Kow, labo, qof”; tirada lidka isku ah waa keli iyo wadar (mid/dhawr). 
 
 tiro³ f.g3 (-rtay, -ratay) Wax meel ka ba'sasho. 
 
-tirobeel m.l 1. (xis.) (Summad '8') xadla'aan ka weyn tiro ama soohdin kasta oo maguuraan ah. Tusaale ahaan, ururka tirooyinka idil. 
+tirobeel m.l 1. (xis.) (Summad '8') xadla'aan ka weyn tiro ama soohdin kasta oo maguuraan ah. Tusaale ahaan, ururka tirooyinka idil. 2. (xis.) Qiimaha xaddi oo u kordha xad la'aan. Tusaale ahaan, haddii y = 1/x, markaa y waxa ay sigaysa tirobeel marka x ay siqdo 0. 
 
- 2. (xis.) Qiimaha xaddi oo u kordha xad la'aan. Tusaale ahaan, haddii y = 1/x, markaa y waxa ay sigaysa tirobeel marka x ay siqdo 0. 
+tirobeel-yare m.l (xis.) Doorsoome uu xadkiisu yahay eber. Laba doorsoome sida x iyo y oo mid kasta ku dhowaado eber, waa tirobeel yare oo isku heer ah haddii saamiga x uu yahay koobane oo aan ku dhowaan eber. tiro-dhalasho Haddii x/y --> o, x waxa ay leeyahay tirobeel yare heerkiisa ka sarreeya kan y iyo haddii x/y --> '8?', xi waxay leedahay heer ka hooseeya kan y. y m.dh Lambarka dhallaanka nool oo sannad gudihiis dhasha 1000 kii naagood da'doodu u dhexeysa (15-44) sano da'da dhalidda. 
 
-tirobeel-yare m.l (xis.) Doorsoome uu xadkiisu yahay eber. Laba doorsoome sida x iyo y oo mid kasta ku dhowaado eber, waa tirobeel yare oo isku heer ah haddii saamiga x uu yahay koobane oo aan ku dhowaan eber. 
+tiro-dhimasho m.dh Tirada dhimashada dadweynaha ee muddo cayinan dhexdeed. Tirada dhimasho sanadeedka waa tirada inta dhimatay oo diiwaangashan ee sannad gudihiis oo lagu dhuftay (x) 1000 loona qaybshay tirada dadka uu le'egyahay sannadka bartamihiisa. 
 
-tiro-dhalasho Haddii x/y --> o, x waxa ay leeyahay tirobeel yare heerkiisa ka sarreeya kan y iyo haddii x/y --> '8?', xi waxay leedahay heer ka hooseeya kan y. y m.dh Lambarka dhallaanka nool oo sannad gudihiis dhasha 1000 kii naagood da'doodu u dhexeysa (15-44) sano da'da dhalidda. 
-
-tiro-dhimasho m.dh Tirada dhimashada dadweynaha ee muddo cayinan dhexdeed. 
-
- Tirada dhimasho sanadeedka waa tirada inta dhimatay oo diiwaangashan ee sannad gudihiis oo lagu dhuftay (x) 1000 loona qaybshay tirada dadka uu le'egyahay sannadka bartamihiisa. 
-
-tirooyinka lakab la' m.l (xis.) Tiro maangal ah oo aan loo qori karin abyoone ahaan ama aan loo qori karin qaybta la'aa abyoone. 
-
-tobanle Tirooyinka lakabka la' waa akoobane, jajab aan soo noqnoqon. 
+tirooyinka-lakab-la' m.l (xis.) Tiro maangal ah oo aan loo qori karin abyoone ahaan ama aan loo qori karin qaybta la'aa abyoone. tobanle Tirooyinka lakabka la' waa akoobane, jajab aan soo noqnoqon. 
 
 tirooyin-khayaali m.l (xis.) Tiro murakab ah oo leh sansanka a+bi oo b aan la' ekayn eber, aas oo, a iyo b yihiin tirooyin maangal ah, iyo i = -1. Ama waa tiro labajibbaarkeedu uu yahay tabane. 
 
-tirosin aritmatig m.dh (xis.) Tirosinka aritmatig ee urur ka kooban n-tiro waa 809tirsame wadarta n-da tiro oo loo qaybiyey tirada 
+tirosin-aritmatig m.dh (xis.) Tirosinka aritmatig ee urur ka kooban n-tiro waa 809tirsame wadarta n-da tiro oo loo qaybiyey tirada tirooyinka. Tusaale ahaan, tirosinka aritmatig ee ururka {1, 4, 3, 0, 1, 2,ì 1, 4} waa (1+4+3+0+1+2+1+4): 8 = 16 : 8 = 2. 
 
-tirooyinka. Tusaale ahaan, tirosinka aritmatig ee ururka {1, 4, 3, 0, 1, 2,ì 1, 4} waa (1+4+3+0+1+2+1+4): 8 = 16 : 8 = 2. 
-
-tirsame m.l Magac oggolaada in uu noqdo wadar, wuxuuna tilmaamaa wax tirsama. 
-
- Tus. “buug, qalin, qof, iwm”. 
+tirsame m.l Magac oggolaada in uu noqdo wadar, wuxuuna tilmaamaa wax tirsama. Tus. “buug, qalin, qof, iwm”. 
 
 tirsan f.mg4 (-naa, -nayd) 1. Wax la tiriyey ahaansho. 2. Ka t.: wax, wax kale ka mid ah ahaansho. 3. Ku t.: wax, wax kale ku jira ahaansho. 
 
@@ -2840,23 +2504,13 @@ tirsanaansho m.l/dh ld tirsanaan.
 
 tirsasho m.f.dh eeg tirso. ld tirsi (2). 
 
-tirsi m.l 1. Tiro taxan mid ka mid ah. 2. ld 
+tirsi m.l 1. Tiro taxan mid ka mid ah. 2. ld tirsasho.  
 
-tirsasho.  
-
-tirsiimo m.l.u (-ooyin, m.l) Abyooneyaasha 
-
-togan ee 1 ,2 ,3... ayaa lagu magacaabaa 
-
-tirooyinka tirsiimo, waxa kale oo la yiraahdaa 
-
-tirooyinka wax lagu tirsado ama abyooneyaasha togan (eeg abyoone). 
+tirsiimo m.l.u (-ooyin, m.l) Abyooneyaasha togan ee 1 ,2 ,3... ayaa lagu magacaabaa tirooyinka tirsiimo, waxa kale oo la yiraahdaa tirooyinka wax lagu tirsado ama abyooneyaasha togan (eeg abyoone). 
 
 tirsiis m.dh (-syo, m.dh) Xoolaha inteeda dheddig ee xilliga rimi karta. 
 
-tirso f.g/mg3 (-saday, -satay) 1. (f.g) Wax xisaabasho. 2. (f.g) Ka t.: cid xumaan u geysasho. 3. (f.g) Ka t.: cid xil kala wareegid. 
-
- 4. (f.mg) La t.: qof la caytamid. 
+tirso f.g/mg3 (-saday, -satay) 1. (f.g) Wax xisaabasho. 2. (f.g) Ka t.: cid xumaan u geysasho. 3. (f.g) Ka t.: cid xil kala wareegid. 4. (f.mg) La t.: qof la caytamid. 
 
 tirtire m.l (-rayaal, m.l/dh) 1. Geed mayrax ka samysan oo kolka cunnada la cuno faraha lagu tirtiro. 2. Wax kasta lagu tirtiro. 
 
@@ -2880,9 +2534,7 @@ tisqaadid m.f.dh eeg tisqaad². ld tisqaad¹.
 
 tix m.dh 1. Ereyo qaafiyad iyo miisaan leh. 2. Gabay dhowr beyd ka kooban. 
 
-tixan¹ f.mg1 (-xmay, -xantay; -xmi) ld 
-
-taxan¹.  
+tixan¹ f.mg1 (-xmay, -xantay; -xmi) ld taxan¹.  
 
 tixan² f.mg4 (-xnaa, -xnayd) ld taxan². 
 
@@ -2898,7 +2550,7 @@ tixinti m.l (-iyo, m.dh) Waddo yar oo ka samaysanta halka ay marto quraanjada.
 
 tixiri m.l ld dixiri. 
 
-tixmid m.dh ld taxmid. 810 
+tixmid m.dh ld taxmid.
 
 tixnaan m.dh ld taxnaan. 
 
@@ -2938,9 +2590,7 @@ tobbog m.l 1. Geedaha mid ka mid ah 2. Qof dheer oo jirkiisu isku tigtigan.
 
 tobbogsan f.mg4 (-naa, -nayd) Qof dheer oo jirkiisu isku tigtiganyahay ahaansho. 
 
-tobbogsanaan m.f.dh eeg tobbogsan. ld 
-
-tobbogsanaansho.  
+tobbogsanaan m.f.dh eeg tobbogsan. ld tobbogsanaansho.  
 
 tobbogsanaansho m.l ld tobbogsanaan. 
 
@@ -2950,9 +2600,7 @@ tobograafiyad m.dh ld tobograafiyo¹.
 
 tobograafiyo¹ m.dh 1. Qoraal faaahfaafsan iyo muuqaallo muujinaya dhismaha iyo samayska dhul gaar ah. 2. Cilmiga lagu barto qaab dhismeedka dhulka. ld tobograafiyad. 
 
-tobograafiyo² m.dh (juqr.) Qeexid faah- faahsan ama bandhig muuqaallobe-deed, dabiici iyo sanaaci, labadaba ee meeleed, sidaasoo kale ayaa laga rabaa khariidad, 
-
-toobograafiyeed.  
+tobograafiyo² m.dh (juqr.) Qeexid faah- faahsan ama bandhig muuqaallobe-deed, dabiici iyo sanaaci, labadaba ee meeleed, sidaasoo kale ayaa laga rabaa khariidad, toobograafiyeed.  
 
 toddob m.l Roobka ugu horreya uu gu'ga da'a. 
 
@@ -2962,27 +2610,19 @@ toddobaad m.l 1. (t.j) Tirada jagaale, keeda u dhigma toddobada. 2. Toddoba beri
 
 toddobaadle m.l (-layaal, m.l/dh) Joornaal, wargeys iwm oo toddobadii beri mar soo baxa. 
 
-toddobaale m.l (-layaal, m.l/dh) Warqad 
-
-turub oo ay ku sawiranyihiin toddoba calaamadood.too¹ 
+toddobaale m.l (-layaal, m.l/dh) Warqad turub oo ay ku sawiranyihiin toddoba calaamadood.too¹ 
 
 toddobaatamaad m.l.t.j ld toddobaata-naad. 
 
 toddobaatameeye m.l.t. Tiro toddobaatan ku dhow. ld toddobaatameeyo. 
 
-toddobaatameeyo m.dh.t ld toddobaa- 
-
-tameeye.  
+toddobaatameeyo m.dh.t ld toddobaa-tameeye.  
 
 toddobaatan m.l.t. Tiro ka kooban toddoba meelood oo min toban ah; “70”. 
 
-toddobaatanaad m.l.t.j 1. Tirada jagaalaha ah, kan u dhigma toddobaatan. 2. Sannada-ha u dhexeeya toddobaatanka iyo siddee-tanka. ld 
+toddobaatanaad m.l.t.j 1. Tirada jagaalaha ah, kan u dhigma toddobaatan. 2. Sannada-ha u dhexeeya toddobaatanka iyo siddee-tanka. ld toddobaatamaad.  
 
-toddobaatamaad.  
-
-toddobabax¹ m.l Xaflad laba qof oo is aroosay 
-
-toddoba beri kaddib loo sameeyo. 
+toddobabax¹ m.l Xaflad laba qof oo is aroosay toddoba beri kaddib loo sameeyo. 
 
 toddobabax² f.mg1 (-xay, -xday; -bixi) Laba qof oo is aroosay toddobaadkii arooska ka bixid. 
 
@@ -2990,31 +2630,23 @@ toddobabixi f.g2 (-iyay, -isay) Laba qof oo is aroosay toddobaadkii arooska u sh
 
 toddobabixid m.f.dh eeg toddobabax². 
 
-toddobabixin m.f.dh eeg toddobabixi. ld 
-
-toddobabixis.  
+toddobabixin m.f.dh eeg toddobabixi. ld toddobabixis.  
 
 toddobabixis m.l ld toddobabixin. 
 
-toddobamaggaarto m.dh (daaw.) Cudur dadka iyo xoolaha ku dhaca, murqaha iyo seedaha kojiya oo si dhaqso ah u dila; kojiye; 
-
-teetano.  
+toddobamaggaarto m.dh (daaw.) Cudur dadka iyo xoolaha ku dhaca, murqaha iyo seedaha kojiya oo si dhaqso ah u dila; kojiye; teetano.  
 
 toddobo m.dh.t ld toddoba. 
 
-tog yare m.l (-rayaal, m.l/dh) (juqr) Meel hoos u dhax dhuuban oo dheer oo laga helo dhulka dushiisa, oo ka yar dooxo kana ballaaran qaranqaar. 
+tog-yare m.l (-rayaal, m.l/dh) (juqr) Meel hoos u dhax dhuuban oo dheer oo laga helo dhulka dushiisa, oo ka yar dooxo kana ballaaran qaranqaar. 
 
 tog¹ m.l (-gag, m.l) Meel godan oo biyo mareen ah. 
 
 tog² m.l (-gag, m.l) (juqr.) Biyo mareen lama degaan kaa soo badanaa engegan, oo biyo leh kaliya xilli roob badan kaddib. Togaggu waxay guud ahaan ku baaba'aan lamadegaanka dhexdiisa, waxa laga yaabaa inay ka siilaabmaan lamaddegaanka laftiisa, ama dhalaalidda barafyada ee buuro fog. 
 
-tog³ f.g/mg1 (-gay, -gtay) 1. (f.g) Wax kala 
+tog³ f.g/mg1 (-gay, -gtay) 1. (f.g) Wax kala taagid. 2. (f.mg) Tog ku dhex socosho. 
 
-taagid. 2. (f.mg) Tog ku dhex socosho. 
-
-togan¹ f.mg1 (-gmay, -gantay; -gmi) Wax la 
-
-togay noqosho. 
+togan¹ f.mg1 (-gmay, -gantay; -gmi) Wax la togay noqosho. 
 
 togan² f.mg4 (-gnaa, -gnayd) 1. Wax la togay ahaansho. 2. (xis.) Wax eber ka badan ahansho. 
 
@@ -3044,9 +2676,7 @@ tol¹ m.l (-lal, m.l) 1. Dad xiriir wada dhalasho amo sheegasho ka dhexeeyo. 2. 
 
 tol² f.g1 (-olay, -oshay) 1. Laba wax oo kala go'an ama kala dillaacsan wax is kula qabasho. 2. Hal ilmo diiddey qallacid. 
 
-tolan¹ m.l (-anno, m.dh) Liilan dheer oo saamaha laga jeexo oo kabaha lagu tolo. ld 
-
-tolon.  
+tolan¹ m.l (-anno, m.dh) Liilan dheer oo saamaha laga jeexo oo kabaha lagu tolo. ld tolon.  
 
 tolan² f.mg4 (-lnaa, -lnayd) Wax la tolay ahaansho. 
 
@@ -3066,9 +2696,7 @@ tolla'ay e.d Hayaay!, waawareey!, ciidamoow!
 
 tolliimo m.dh 1. ld tolmo. 2. ld tolnimo. 
 
-tolmo m.dh Tolidda wax la tolo. ld tolliimo, 
-
-tolniin.  
+tolmo m.dh Tolidda wax la tolo. ld tolliimo, tolniin.  
 
 tolnaan m.f.dh eeg tolan². ld tolnaansho. 
 
@@ -3084,19 +2712,15 @@ tolon m.l (-ommo/-lmo, dh) ld tolan¹.
 
 toloobid m.f.dh eeg tolow. 
 
-tolow f.mg1 (-oobay, -owday; -oobi) Qof 
+tolow f.mg1 (-oobay, -owday; -oobi) Qof tolkisii ka carooday tol kale ku biirid. 
 
-tolkisii ka carooday tol kale ku biirid. 
-
-tolweyne m.l (-nayaal, m.l/dh) 1. Tol badan intiisa curaddada ah. 2. Qabiilka oo dhan. 
-
- 3. Dad isku dan, diin, iyo mabda' ah; qaran. 
+tolweyne m.l (-nayaal, m.l/dh) 1. Tol badan intiisa curaddada ah. 2. Qabiilka oo dhan. 3. Dad isku dan, diin, iyo mabda' ah; qaran. 
 
 toman m.l.t ld toban. 
 
 too¹ mu.ac.dh kuwo, w 1. Magacuyaal aan cayinnayn oo dhaddig ah oo cid ama wax maqan tilmaama. 2. ld mid. Tus. “Roob iyo barwaaqo toona ma arag”. 
 
- 811Too² Too² mu.ti.dh Mgacuyaal tilmaame oo dhaddig, oo wax qofka hadlaya aad uga fog oo farta la isugu fiiqayo lagu tilmaansado. 
+Too² mu.ti.dh Mgacuyaal tilmaame oo dhaddig, oo wax qofka hadlaya aad uga fog oo farta la isugu fiiqayo lagu tilmaansado. 
 
 toob¹ m.l (-bab, m.l) Nooc ka mid ah cambuurrada dumarku qaataan. 
 
@@ -3108,9 +2732,7 @@ toobadkeen¹ m.l 1. T. ah: qof toobadkeenaya. 2. ld toobadkeenid.
 
 toobadkeen² f.mg1 (-nay, -ntay) Ilaah addeeciddiisa u noqosho. 
 
-toobadkeenid m.f.dh eeg toobadkeen². ld 
-
-toobadkeen¹ (2). 
+toobadkeenid m.f.dh eeg toobadkeen². ld toobadkeen¹ (2). 
 
 toobadla'aan m.dh Ku sugnaanta lagu sugnaado cibaado la'aan. 
 
