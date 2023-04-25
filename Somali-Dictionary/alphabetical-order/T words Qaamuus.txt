@@ -2742,35 +2742,25 @@ tooban f.mg4 (-bnaa, -bnayd) Wax la toobay ahaansho.
 
 toobboon f.mg4 (-naa, -nayd) Wax habbon ahaansho. 
 
-toobboonaan m.f.dh eeg toobboon. ld 
-
-toobboonaansho.  
+toobboonaan m.f.dh eeg toobboon. ld toobboonaansho.  
 
 toobboonaansho m.l/dh ld toobboonaan. 
 
-toobe m.l (-bayaal, m.l/dh) Geed ka soo baxa jirrid dhulka hoostiisa ah, ka dibna bannaanka u soo baxa, isaga oo ka soo baxaya meel ka durugsan jirriddii hore. 
-
- Waxa suurto gal ah inuu xidid la baxo oo uu geed goonniya noqdo. 
+toobe m.l (-bayaal, m.l/dh) Geed ka soo baxa jirrid dhulka hoostiisa ah, ka dibna bannaanka u soo baxa, isaga oo ka soo baxaya meel ka durugsan jirriddii hore. Waxa suurto gal ah inuu xidid la baxo oo uu geed goonniya noqdo. 
 
 toobid¹ m.dh Qalab gees lo'aad ka sameysan. 
 
 toobid² m.f.dh eeg toob². 
 
-toobin¹ m.l (-nno, m.dh) 1. Gees ama qalab kale oo u eg oo oogada, inta la saro, dhiigga buka lagaga toobo, lagaga soo saaro. 
-
- 2. Shaxan joomitiri oo leh qaabka koombada. 
+toobin¹ m.l (-nno, m.dh) 1. Gees ama qalab kale oo u eg oo oogada, inta la saro, dhiigga buka lagaga toobo, lagaga soo saaro. 2. Shaxan joomitiri oo leh qaabka koombada. 
 
 toobin² m.l (daaw.) Koob ama gees go'an oo la kululeeyay marka lagu qabto jirka meel ka mid ah kaddibna soo dhuuqa dhiigga oo jirku soo fooco markaas la sarsaro maqaarka oo dhiig laga keeno, dhiigaas oo loo haysto mid faasid ah sidaasna lagu daaweysmayo. 
 
 toobin³ m.l (xis.) Adke salkiisu yahay xood sallax oo oodan, kuna dhammaada bar gees dibedda ka ah sallax saleedka. 
 
-toobin4 m.l 1. (bot.) Botani ahaan: dhisme 
+toobin4 m.l 1. (bot.) Botani ahaan: dhisme taran oo laga helo ubaxla'da dhexdooda iyo qaar ka mid ah betri dhoofaytayda, loona yaqaanno istaroobilas. 2. (c.nafl.) Dhinaca anatomiga xayawaanka: nooc unug qaabile ah oo xasaasi u ah ilayska, lagana helo ratiinaha lafdhabarleyda dhexdhiisa. 
 
-taran oo laga helo ubaxla'da dhexdooda iyo qaar ka mid ah betri dhoofaytayda, loona yaqaanno istaroobilas. 2. (c.nafl.) Dhinaca anatomiga xayawaanka: nooc unug qaabile ah oo xasaasi u ah ilayska, lagana helo ratiinaha lafdhabarleyda dhexdhiisa. 
-
-toobiye 812 m.l (-yayaal, m.l/dh) Jid toosan oo aan leexleexad lahayn; waddooyin meel wada 
-
-taga tan ugu gaaban. 
+toobiye m.l (-yayaal, m.l/dh) Jid toosan oo aan leexleexad lahayn; waddooyin meel wada taga tan ugu gaaban. 
 
 toobkac¹ m.l ld toobkicid. 
 
@@ -2796,9 +2786,7 @@ tood¹ m.l.kh Neef irmaan oo aan la maali karin; toojo. ld toojo.
 
 tood² (-tood) dk.lh.dh ld tooda². 
 
-tooda¹ mu.lh.dh (kuwooda, w) Magacuyaal lahaansho oo tilmaamaya wax iyagu (qofka saddexaad ee wadarta ah) ay leeyihiin. Tus. 
-
- “Tooda u yeel!”. 
+tooda¹ mu.lh.dh (kuwooda, w) Magacuyaal lahaansho oo tilmaamaya wax iyagu (qofka saddexaad ee wadarta ah) ay leeyihiin. Tus. “Tooda u yeel!”. 
 
 tooda² (-tooda) dk.lh.dh Dibkabe lahaansho oo tilmaamaya wax iyagu (qofka saddexaad ee wadarta ah) ay leeyihiin. Tus. “Nimankaas beertooda ayaa miro badan leh”. ld tood. 
 
@@ -2852,17 +2840,9 @@ tookhid m.f.dh eeg tookh².
 
 toolin m.l.kh T. ah: caano la soo uruuriyey oo la siiyo reero aan xoolo u irmaanayn. 
 
-toolmoon f.mg4 (-naa, -nayd) 1. Qof laf iyo hilib isla eg leh oo qurxoon ahaansho. 
+toolmoon f.mg4 (-naa, -nayd) 1. Qof laf iyo hilib isla eg leh oo qurxoon ahaansho. 2. Arrin habboon in la yeelo ahaansho. ld toolmoonsan.
 
-toolmoonsan. 2. Arrin habboon in la yeelo ahaansho. ld  
-
-toolmoonaan m.f.dh eeg toolmoon. ld 
-
-toolmoonaansho,  
-
-toolmooni,  
-
-toolmoonsanaan.  
+toolmoonaan m.f.dh eeg toolmoon. ld toolmoonaansho, toolmooni, toolmoonsanaan.  
 
 toolmoonaansho m.l/dh ld toolmoonaan. 
 
@@ -2872,9 +2852,7 @@ toolmoonee f.g2 (-neeyay, -naysay) Wax qurxin ama hagaajin.
 
 toolmooni m.dh ld toolmoonaan. 
 
-toolmoonsan f.mg4 (-naa, -nayd) ld 
-
-toolmoon.  
+toolmoonsan f.mg4 (-naa, -nayd) ld toolmoon.  
 
 toolmoonsanaan m.dh ld toolmoonaan. 
 
@@ -2888,9 +2866,7 @@ toon¹ m.l 1. Miro is qabsaday oo dhuuban. 2. Geela la tolo, saaladiisa isqabqab
 
 toon² m.l (nax.) Marka shay lagu dhawaaqayo codku wuxuu noqon karaa mid dheer ama mid gaaban ama mid dhexdhexaad ah. 
 
-toon³ m.dh 1. Dhir urursan oo meel ku wada 
-
-taal. 2. Geed yar oo buruqdisu ka mid ah kuwa cuntada lagu darsado oo lagu carfiyo. 
+toon³ m.dh 1. Dhir urursan oo meel ku wada taal. 2. Geed yar oo buruqdisu ka mid ah kuwa cuntada lagu darsado oo lagu carfiyo. 
 
 toonbaakh m.dh ld tubaako. 
 
@@ -2898,9 +2874,7 @@ toor¹ m.l 1. Beer iyo hilib la yar yareeyey oo la isku shiilay. 2. Bun duban, c
 
 toor² f.g1 (-ray, -rtay) 1. Bun duban, caano, daango iwm isku darid. 2. Beer, hilib iyo xayr isku shiilid. 
 
-tooran f.mg4 (-rnaa, -rnayd) 1. Bun, daango, caano iwm wax la isku daray ahaansho. 
-
- 2. Beer, hilib iyo xayr wax la isku shiilay ahaansho. 
+tooran f.mg4 (-rnaa, -rnayd) 1. Bun, daango, caano iwm wax la isku daray ahaansho. 2. Beer, hilib iyo xayr wax la isku shiilay ahaansho. 
 
 toorasho m.f.dh eeg tooro. 
 
@@ -2922,21 +2896,15 @@ toornaansho m.l/dh ld toornaan.
 
 tooro f.g3 (-rtay, -ratay) 1. Bun duban caano, daango iwm ku darasho. 2. Beer, hilib iyo xayr isku shiilasho. 
 
-toorrey m.dh (-yo, m.l) Mindi af godan leh oo labada dhinac wax ku goysa, caarad dhuuban, daab xardhan oo gees ama caag ka samaysan iyo gal leh oo raggu qaato. ld 
-
-toorri.  
+toorrey m.dh (-yo, m.l) Mindi af godan leh oo labada dhinac wax ku goysa, caarad dhuuban, daab xardhan oo gees ama caag ka samaysan iyo gal leh oo raggu qaato. ld toorri.  
 
 toorri m.dh ld toorrey. 
 
 toos¹ m.l 1. (fk) T. u soco: qalqallooc iyo leexleexad la'aan u soco. 2. ld toosid. 
 
-toos² f.mg1 (-say, -stay) 1. Nafley hurdo ka kicid. 2. Wax aan qalqalooc lahayn noqosho. 
+toos² f.mg1 (-say, -stay) 1. Nafley hurdo ka kicid. 2. Wax aan qalqalooc lahayn noqosho. 3. Qalad, wanaag ku beddelid. 
 
- 3. Qalad, wanaag ku beddelid. 
-
-toosan f.mg4 (-snaa, -snayd) 1. Wax aan qallooc ama leex-leexad lahayn ahaansho. 
-
- 2. Wax aan qalad lahayn ahaansho. 
+toosan f.mg4 (-snaa, -snayd) 1. Wax aan qallooc ama leex-leexad lahayn ahaansho. 2. Wax aan qalad lahayn ahaansho. 
 
 toosi f.g2 (-iyay, -isay) 1. Nafley hurdo ka kicin. 2. Wax qallooc ka bi'in. 3. Cid qalad ka leexin. 
 
@@ -2950,15 +2918,11 @@ toosnaansho m.l/dh ld toosnaan.
 
 tootir  m.dh 1. Xiddig aan saadaal wanaagsanayn. 2. Hilib jilicsan ee ka laallaada shaqfasha dadka da'da ah. 
 
-toox¹ m.l 1. Ballac, baaxada, ballaar. 2. ld 
-
-tooxid.  
+toox¹ m.l 1. Ballac, baaxada, ballaar. 2. ld tooxid.  
 
 toox² f.g1 (-xay, -xday) 1. Dhar ballac u cabbirid. 2. Qaanso boqon ku giijin. 
 
-tooxan f.mg4 (-xnaa, -xnayd) 1. Wax la 
-
-tooxay ahaansho. 2. Wax godan ahaansho. 
+tooxan f.mg4 (-xnaa, -xnayd) 1. Wax la tooxay ahaansho. 2. Wax godan ahaansho. 
 
 tooxasho m.f.dh eeg tooxo. 
 
@@ -3000,11 +2964,7 @@ toqloo f.mg3 (-ooday, -ootay) Toqlo dareemid.
 
 toqlood m.f.l eeg toqloo. 
 
-torobosfeer m.l (juqr.) Lakabada hoose ee gibilka, sida kuwa ka hooseeya 
-
-toraatosfeerka, kuwaasoo ka soocan 
-
-torobosfeerka, wuxuu dherer ahaan fidsanyahay 11 Km ilaa oogada dhulka ee jiidda dhexdhexaadka ah. 
+torobosfeer m.l (juqr.) Lakabada hoose ee gibilka, sida kuwa ka hooseeya toraatosfeerka, kuwaasoo ka soocan torobosfeerka, wuxuu dherer ahaan fidsanyahay 11 Km ilaa oogada dhulka ee jiidda dhexdhexaadka ah. 
 
 tororog m.dh Hadal badan oo aan macna lahayn. 
 
@@ -3034,7 +2994,7 @@ tu mu.ac.dh (kuwo, w) Magacuyaal aan cayinnayn oo dhaddig ah oo cid ama wax 814 
 
 tu' m.dh 1. Cudur xoolaha ku dhaca. 2. ld tuu. 
 
-tub qorraxeed m.l (-bbo ..., m.l) Jidka qorraxdu ay u muuqanayso inay marayso. 
+tub-qorraxeed m.l (-bbo ..., m.l) Jidka qorraxdu ay u muuqanayso inay marayso. 
 
 tub¹ m.dh (-bo, m.l) Dhabbe; waddo. 
 
@@ -3060,9 +3020,7 @@ tubi f.g2 (-iyay, -isay) Xoolo wadid.
 
 tubid m.f.dh eeg tub³. 
 
-tubiiste m.l (-tayaal, m.l/dh) Farsamoyaqaanka 
-
-tubooyinka.  
+tubiiste m.l (-tayaal, m.l/dh) Farsamoyaqaanka tubooyinka.  
 
 tubin m.f.dh eeg tubi. 
 
@@ -3076,15 +3034,11 @@ tubsi m.l Meesha ugu fog oo wax laga nishaabo.
 
 tubul m.l Wax ama dad isu tegey oo meel dheer ka muuqda oo aan si fiican loo arkin. 
 
-tuduc m.dh (-dco, m.l) 1. Harag la soohay oo laba ama saddex la isugu qabto middood. 
-
- 2. Dhawr tix oo gabay ah oo isku mowduuc ka hadlaya. 
+tuduc m.dh (-dco, m.l) 1. Harag la soohay oo laba ama saddex la isugu qabto middood. 2. Dhawr tix oo gabay ah oo isku mowduuc ka hadlaya. 
 
 tuf¹ m.dh 1. Cudur lafaha gala; riix. 2. Duco; karaamo. 3. Kasoobbax halis ah. 
 
-tuf² m.dh (daaw.) Cudur aalaaba caruurta ku dhaca iyo dhallinyarada wuxuuna ka kacaa infekshin qaybta neefsashada inteeda sare oo uu keeno baktiiriyada “haemolitic streptococci”. 
-
- Astaamo: qandho, xubnoholac, marbamarka ka dambeysa xubin saameynaya, baro cascas ee maqaar ka kuuskuus yaryar oo aan xanuun lahayn ama lafo soo baxsan sida xusulka, dhaqdhaqaaq ogaan la'aan oo aan caadi ahayn ee addimadatulux² iyo madaxa (chorea) iyo hallamacood wadnaha gufafkiisa iyo xuubka ku daboolan (pericardium). 
+tuf² m.dh (daaw.) Cudur aalaaba caruurta ku dhaca iyo dhallinyarada wuxuuna ka kacaa infekshin qaybta neefsashada inteeda sare oo uu keeno baktiiriyada “haemolitic streptococci”. Astaamo: qandho, xubnoholac, marbamarka ka dambeysa xubin saameynaya, baro cascas ee maqaar ka kuuskuus yaryar oo aan xanuun lahayn ama lafo soo baxsan sida xusulka, dhaqdhaqaaq ogaan la'aan oo aan caadi ahayn ee addimadatulux² iyo madaxa (chorea) iyo hallamacood wadnaha gufafkiisa iyo xuubka ku daboolan (pericardium). 
 
 tuf³ f.g/mg1 (-fay, -ftay) 1. (f.g) Wax afka ku jira dibad u soo saarid. 2. (f.mg) Ku t.: cid u ducayn. 
 
@@ -3102,9 +3056,7 @@ tuf-xubno-holac  m.l (daaw.) Nooc xubnoholac, kan labaad ee ugu badan cudurrada 
 
 tugaar m.l Shillin. 
 
-tugumbee f.g2 (-beeyay, -beysay) Cid 
-
-tugumbo la dhicid. 
+tugumbee f.g2 (-beeyay, -beysay) Cid tugumbo la dhicid. 
 
 tugumbeyn m.f.dh eeg tugumbee. 
 
@@ -3112,9 +3064,7 @@ tugumbo m.dh Faraha gacanta oo hoos isku duuban oo wax loogu dhufto; tantoonyo.
 
 tuhman f.mg4 (-naa, -nayd) Wax la tuhmay ahaansho. 
 
-tuhmanaan m.f.dh eeg tuhman. ld 
-
-tuhmanaansho.  
+tuhmanaan m.f.dh eeg tuhman. ld tuhmanaansho.  
 
 tuhmanaansho m.l/dh ld tuhmanaan. 
 
@@ -3134,9 +3084,7 @@ tuhun² f.g1 (-hmay, -huntay; -hmi) Ku t.: fal inuu dhacay malayn.
 
 tuhunsan f.g4 (-naa, -nayd) Cid wax tuhun ku jiro ahaansho. 
 
-tuhunsanaan m.f.dh eeg tuhunsan. ld 
-
-tuhunsanaansho.  
+tuhunsanaan m.f.dh eeg tuhunsan. ld tuhunsanaansho.  
 
 tuhunsanaansho m.l/dh ld tuhunsanaan. 
 
@@ -3144,9 +3092,7 @@ tuhunsii f.lg2 (-iiyay, -iisay) Cid tuhun ku abuurid.
 
 tuhunsiin m.f.dh eeg tuhunsii. 
 
-tu'i f.g2 (-iyay, -isay) Awr fadhiisin. ld ju'i, 
-
-tuji.  
+tu'i f.g2 (-iyay, -isay) Awr fadhiisin. ld ju'i, tuji.  
 
 tu'in m.f.dh eeg tu'i. ld ju'in, tu'is, tujin. 
 
@@ -3168,9 +3114,7 @@ tukallalmis m.l Geed miracaska ka mid ah; odajecel.
 
 tukanuug m.l Hal hebed ah oo qof kasta iska maali karo; hayaaye. ld tukenuug. 
 
-tukasho m.f.dh eeg tuko. ld dukad, dukasho, 
-
-tukad.  
+tukasho m.f.dh eeg tuko. ld dukad, dukasho, tukad.  
 
 tuke m.dh (-kayaal, m.l/dh) Shimbir madow oo hilibka cuna. 
 
@@ -3182,21 +3126,15 @@ tukhaan m.dh.u Dhiqle. ld kutaan.
 
 tukhuntukhayn m.dh ld takhantakhayn. 
 
-tukhuntukhee f.g2 (-kheeyay, -khaysay) ld 
+tukhuntukhee f.g2 (-kheeyay, -khaysay) ld takhantakhee.  
 
-takhantakhee.  
-
-tukhuntukhi f.g2 (-iyay, -isay) ld 
-
-takhantakhee.  
+tukhuntukhi f.g2 (-iyay, -isay) ld takhantakhee.  
 
 tukhuntukhin m.dh ld takhantakhayn. 
 
 tukhuntukho m.dh ld takhantakho. 
 
-tukhuntukhoo f.mg3 (-ooday, -ootay) ld 
-
-takhantakhoo.  
+tukhuntukhoo f.mg3 (-ooday, -ootay) ld takhantakhoo.  
 
 tukhuntukhood m.l ld takhantakhood. 
 
@@ -3286,17 +3224,13 @@ tumun m.l (-nno, m.dh) Wax siddeed meelood oo is le'eg loo qaybshey, meeshood; f
 
 tumuujayn m.f.dh eeg tumuujee. ld tumuujo. 
 
-tumuujee f.g2 (-jeeyay, -jaysay) Cid 
-
-tantoomo la dhicid. 816 
+tumuujee f.g2 (-jeeyay, -jaysay) Cid tantoomo la dhicid.
 
 tumuujo m.dh ld tumuujayn. 
 
 tun¹ m.l Luqunta dhabarkeeda; jeegada hoosteeda. 
 
-tun² f.g1 (-umay, -untay; -umi) 1. Badar iwm buushe ka saarid. 2. Cid ul la dhicid. 3. Wan dhufaanid. 4. Sacab t.: sacab isku garaacid. 
-
-taageerid. 5. U sacab t.: cid ballan ka qaadid ama  
+tun² f.g1 (-umay, -untay; -umi) 1. Badar iwm buushe ka saarid. 2. Cid ul la dhicid. 3. Wan dhufaanid. 4. Sacab t.: sacab isku garaacid. 5. U sacab t.: cid ballan ka qaadid ama taageerid. 
 
 tundura m.dh (juqr.) Bannaanada aan dhirta lahayn ee woqooyiga maraykanka iyo woqooyiga yurayshiya, oo inta badan ku yaal goobada Aartik iyo dhinaca woqooyi ee kaynaha caleen irbadleyda, ma jiro gobol weyn oo dhigmaa kubbad-badhka koonfureed. Sannadka intiisa badan celceliska heerkul bileedku wuu ka hooseeyaa barta biyuhu ku barafoobaan, jiilaaladuna aad bay u dheeryihiin una qabow yihiin, dhulkana waxa qariya baraf, xagaayadu way gaabanyihiin oo diiranyihiin, laakiin xataa luulyo celceliska heerkul bileedku kor uma dhaafo 10° C ah. 
 
