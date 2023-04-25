@@ -120,9 +120,7 @@ laacdan¹ m.l 1. Cayaar iyo bardoodan uu sameeyo geela da'da yar. 2. Fara ka ciy
 
 laacdan² f.mg1 (-amay, -antay; -ami) 1. Geel da' yar bardoodamid. 2. Dad fara ka ciyaarid. ld laactan². 
 
-laace m.l (-cayaal, m.l/dh) (xis.) Xarriiqda toosan ee uu xood aad ugu dhawaado (ama sigo) hase yeeshe aan weligii taaban. Tusaale ahaan, labosaabka waxa uu leeyahay laba 
-
-laace. Marka xoodka isle'egtiisu tahay 1 garaaf ahaan loogu muujiyo laba addimaale kulannada kaartis waxa ay laaceyaashiisu noqonayaan x = 0 iyo y = 0 (eeg: labosaab). 
+laace m.l (-cayaal, m.l/dh) (xis.) Xarriiqda toosan ee uu xood aad ugu dhawaado (ama sigo) hase yeeshe aan weligii taaban. Tusaale ahaan, labosaabka waxa uu leeyahay laba laace. Marka xoodka isle'egtiisu tahay 1 garaaf ahaan loogu muujiyo laba addimaale kulannada kaartis waxa ay laaceyaashiisu noqonayaan x = 0 iyo y = 0 (eeg: labosaab). 
 
 laacib m.l (-byo/-biin, m.dh) Qof ciyaar aad u yaqaan; xariif. 
 
@@ -134,9 +132,7 @@ laactan¹ m.l ld laacdan¹.
 
 laactan² f.mg1 (-amay, -antay) ld laacdan². 
 
-laad¹ m.l (-dad, m.l) Lugta oo horay wax 
-
-loogu dhufto; haraati. 528 
+laad¹ m.l (-dad, m.l) Lugta oo horay wax loogu dhufto; haraati.
 
 laad² f.g1 (-day, -dday) Lugta horay wax ugu haraatiyid. 
 
@@ -760,7 +756,7 @@ labbisnaansho m.l/dh ld labbisnaan.
 
 labbiso f.g/mg3 (-stay, -satay) Labbis qaadasho. 
 
-labbixid m.f.dh eeg labbax. 534 
+labbixid m.f.dh eeg labbax. 
 
 labee f.g2 (-beeyay, -baysay) Wax mid ahaa wax kale ku darid. 
 
@@ -956,9 +952,7 @@ ladqabee f.g/mg2 (-beeyay, -baysay) 1. (f.g) Qof caraysan maslixid. 2. (f.mg) Ka
 
 ladqabo m.dh 1. Dhexdhexaadin iyo maslaxo laga dhex dhaliyo dad dagaashan. 2. ld laqdabo.  
 
-laf m.dh (-fo, m.l) 1. Mid ka mid ah qalfoofta nafleyda. 2. Bur yar. 3. Qolo; jilib. 4. Qaybta adag ee ku dhex jirta miraha. 5. L.tayda (- taada, -tiisa iwm): eray sii adkaynaya qofka 
-
-laga hadlay oo sheegaya in qofku qofkaas yahay ee aan cid kale la sheegayn; qofka naftiisa. 
+laf m.dh (-fo, m.l) 1. Mid ka mid ah qalfoofta nafleyda. 2. Bur yar. 3. Qolo; jilib. 4. Qaybta adag ee ku dhex jirta miraha. 5. L.tayda (- taada, -tiisa iwm): eray sii adkaynaya qofka laga hadlay oo sheegaya in qofku qofkaas yahay ee aan cid kale la sheegayn; qofka naftiisa. 
 
 lafaggur¹ m.l 1. Bixinta meel jabtay lafaha laga bixiyo. 2. Ka baaraandegga arrin iwm lagu sameeyo. ld lafaggurid. 
 
@@ -1048,7 +1042,7 @@ lagamamaarmaannimo m.dh Wax aan laga maarmin ahaansho.
 
 lagarroone m.l (-nayaal, m.l/dh) 1. Qof wax matare ah; nacas. 2. Ciniin. 
 
-lagas (halbeeg) m.l (-gyo, m.dh) (fiis.) Summad: Lx. halbeegga caalamiga (H.C.) eelamahuraannimo iftiimida, le'egna iftiinka uu soo kaahiyo burqad iftiimeedka 1 luuman ah, kuna fidsan bed hal mitir labajibbaaran. 
+lagas(halbeeg) m.l (-gyo, m.dh) (fiis.) Summad: Lx. halbeegga caalamiga (H.C.) eelamahuraannimo iftiimida, le'egna iftiinka uu soo kaahiyo burqad iftiimeedka 1 luuman ah, kuna fidsan bed hal mitir labajibbaaran. 
 
 lagiiji f.g2 (-iyay, -isay) Wax xarig ku dhuujin. 
 
@@ -1722,7 +1716,7 @@ liciif¹ m.l.kh ld laciif¹.
 
 liciif² f.mg1 (-fay, -ftay) ld laciif². 
 
-liciifi f.g2 (-iyay, -isay) ld laciifi 
+liciifi f.g2 (-iyay, -isay) ld laciifi.
 
 liciifin m.dh ld laciifin. 
 
