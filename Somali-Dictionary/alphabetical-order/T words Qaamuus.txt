@@ -3236,15 +3236,11 @@ tundura m.dh (juqr.) Bannaanada aan dhirta lahayn ee woqooyiga maraykanka iyo wo
 
 tunjileec m.l Tabar darro cid lagu dareemay oo lagu haadsado. 
 
-tunjileecsasho m.f.dh eeg tunjileecso. ld 
-
-tunjileecsi.  
+tunjileecsasho m.f.dh eeg tunjileecso. ld tunjileecsi.  
 
 tunjileecsi m.l ld tunjileecsasho. 
 
-tunjileecso f.g3 (-saday, -satay) Cid 
-
-tabardaran maagid. 
+tunjileecso f.g3 (-saday, -satay) Cid tabardaran maagid. 
 
 tunsii f.g2 (-iiyay, iisay) Ku t.: ku tumasho. 
 
@@ -3262,23 +3258,17 @@ tur f.mg1 (-ray, -rtay) U tur: cid u naxariisasho.
 
 turaab m.dh Carro laga soo qaado shiikh la qaddariyo xabaashiisa si barako looga helo. 
 
-turaal m.l Naxariis cid loo galo. ld turniimo, 
-
-turniin, turniinsho. 
+turaal m.l Naxariis cid loo galo. ld turniimo, turniin, turniinsho. 
 
 turaanturrayn m.dh ld turunturrayn. 
 
-turaanturree f.g2 (-reeyay, -raysay) ld 
-
-turunturree  
+turaanturree f.g2 (-reeyay, -raysay) ld turunturree.
 
 turaanturro m.dh ld turunturrayn. 
 
 turaanturyayn m.dh ld turunturrayn. 
 
-turaanturyee f.g2 (-yeeyay, -yeysay) ld 
-
-turunturree.  
+turaanturyee f.g2 (-yeeyay, -yeysay) ld turunturree.  
 
 turbi m.l 1. Gurbaan yar. 2. T. ah: qof xoog badan. 
 
@@ -3296,19 +3286,13 @@ turjubaan¹ m.l (-nno, m.dh) Afceliye; afhayn. ld turjumaan¹.
 
 turjubaan² f.mg1 (-nay, -ntay) 1. Laba af isku beddelid. 2. Ka t.: laba qof oo aan is af garanayn is af garadsiin. ld turjumaan². 
 
-turjubaanid m.f.dh eeg turjubaan². ld 
+turjubaanid m.f.dh eeg turjubaan². ld turjumaanid.  
 
-turjumaanid.  
-
-turjubaannimo m.dh Turjubaan ahaansho. ld 
-
-turjumaannimo.  
+turjubaannimo m.dh Turjubaan ahaansho. ld turjumaannimo.  
 
 turjumaan¹ m.l ld turjubaan¹. 
 
-turjumaan² f.mg1 (-nay, -ntay) ld 
-
-turjubaan².  
+turjumaan² f.mg1 (-nay, -ntay) ld turjubaan².  
 
 turjumaanid m.dh ld turjubaanid. 
 
@@ -3316,9 +3300,7 @@ turjumaannimo m.dh ld turjubaannimo.
 
 turjumad m.dh ld tarjumo. 
 
-turjuman f.mg4 (-mnaa, -mnayd) ld 
-
-tarjuman.  
+turjuman f.mg4 (-mnaa, -mnayd) ld tarjuman.  
 
 turjume m.l ld tarjume. 
 
@@ -3336,9 +3318,7 @@ turmaag m.l.kh T. ah: wax ama qof si toos ah oo aan dhaqaaq lahayn u taagan.
 
 turmaagan f.g4 (-gnaa, -gnayd) Wax, si toos ah oo aan dhaqdhaqaaq lahayn u taagan ahaansho. 
 
-turmaagnaan m.f.dh eeg turmaagan. ld 
-
-turmaagnaansho.  
+turmaagnaan m.f.dh eeg turmaagan. ld turmaagnaansho.  
 
 turmaagnaansho m.l/dh ld turmaagnaan. 
 
@@ -3374,13 +3354,7 @@ turumbo m.dh (-ooyin, m.l) (muus.) Bigil.
 
 turumbuukh m.dh.u Xiddig-badeed. 
 
-turunturrayn m.f.dh eeg turunturree. ld 
-
-turaanturrayn,  
-
-turaanturro,  
-
-turaanturyayn.  
+turunturrayn m.f.dh eeg turunturree. ld turaanturrayn, turaanturro, turaanturyayn.  
 
 turunturree f.g2 (-reeyay, -raysay) Qof socda hore u ridid. ld turaanturree, turaanturyee. 
 
@@ -3422,19 +3396,13 @@ tusid m.f.dh eeg tus².
 
 tusmayn m.f.dh eeg tusmee. 
 
-tusmaysan f.mg4 (-snaa, -snayd) Wax la 
+tusmaysan f.mg4 (-snaa, -snayd) Wax la tusmeeyay ahaansho. 
 
-tusmeeyay ahaansho. 
-
-tusmaysnaan m.f.dh eeg tusmaysan. ld 
-
-tusmaysnaansho.  
+tusmaysnaan m.f.dh eeg tusmaysan. ld tusmaysnaansho.  
 
 tusmaysnaansho m.l/dh ld tusmaysnaan. 
 
-tusmee f.g2 (-meeyay, -maysay) 1. Wax 
-
-tusmo u yeelid. 2. Buug tusmo u samayn. 
+tusmee f.g2 (-meeyay, -maysay) 1. Wax tusmo u yeelid. 2. Buug tusmo u samayn. 
 
 tusmo m.dh (-ooyin, m.l) 1. Hab reer miyigu u dego meel cusub. 2. Calaamad la dhigo meel la degi rabo. 3. Taxanaha cinwaanada buug. 
 
@@ -3444,11 +3412,9 @@ tuu e.d Juu!. ld tu' (2).
 
 tuubbo m.dh (-ooyin, m.l) Qalab dhuuban oo dhexda ka daloola oo dareeraha,hawada iwm ay maraan. 
 
-tuud 817tuud m.dh (-dyo, m.dh) Heen. 
+tuud m.dh (-dyo, m.dh) Heen. 
 
-tuudi f.g2 (-iyay, -isay) 1. Hal la rabo in la ogaado in ay rimantahay foori ugu yeerid. 
-
- 2. Laf heen ka bixin. 
+tuudi f.g2 (-iyay, -isay) 1. Hal la rabo in la ogaado in ay rimantahay foori ugu yeerid. 2. Laf heen ka bixin. 
 
 tuudin m.f.dh eeg tuudi. ld tuudis. 
 
@@ -3466,25 +3432,19 @@ tuug² m.dh Wax baryo lagu keenay.
 
 tuug³ f.g1 (-gay, -gtay) Wax baryid; yaboohsasho. 
 
-tuugannimo m.dh Tuug ahaansho. ld 
-
-tuugnimo.  
+tuugannimo m.dh Tuug ahaansho. ld tuugnimo.  
 
 tuugid m.f.dh eeg tuug². ld tuugmo. 
 
 tuugmo m.dh ld tuugid. 
 
-tuugnimo m.dh Tuug ahaansho. ld 
-
-tuugannimo.  
+tuugnimo m.dh Tuug ahaansho. ld tuugannimo.  
 
 tuugo m.dh 1. Wax xadidda; tuugnimo; xatooyo. 2. Qof dheddig ah oo keli ah wax xadda. 3. Koox wax xaddo. 
 
 tuugsad m.l ld tuugsasho. 
 
-tuugsasho m.f.dh eeg tuugso. ld tuugsad, 
-
-tuugsi.  
+tuugsasho m.f.dh eeg tuugso. ld tuugsad, tuugsi.  
 
 tuugsi m.l ld tuugsasho. 
 
@@ -3512,9 +3472,7 @@ tuulid m.dh ld tųurid.
 
 tuulimaad m.l 1. (taar.) Qaybta ka mid ah oogada dhulka iyo gibilkiisa ee ay nafleydu ku noolan karto, amase, ay nafley du ku nooshahay. 2. (jool.) Dhigidda uu dhigo wakiil dabiici ihi adke uu sidey oo uu ka keenay meel kale ama fog. Tus. “Webiyadu waxa ay tuulaan dhoobo iyo quruurux, dabayluhuna ciid badan iyo boodh”. 
 
-tuulimaad-badeed 818 m.l (-dyo ..., m.l) (jool.) Tuulimadyada la dhigo meelaha bad weynnada ama harooyinka guntooda badweynnada ugu hooseeya,waxyaabaha la 
-
-tuulay asalkoodi waxay ka yimaadeen haraayaal yaryar oo ka haray noole hore ugu oolaan jiray qaybtaa badda ama harada ee uu ka dhacay tuulimaadku. 
+tuulimaad-badeed m.l (-dyo ..., m.l) (jool.) Tuulimadyada la dhigo meelaha bad weynnada ama harooyinka guntooda badweynnada ugu hooseeya, waxyaabaha la tuulay asalkoodi waxay ka yimaadeen haraayaal yaryar oo ka haray noole hore ugu oolaan jiray qaybtaa badda ama harada ee uu ka dhacay tuulimaadku. 
 
 tuulimaad-mool m.l (-dyo ..., m.l) (jool.) Maatarka adag ee daboola gebiska gobolka ugu hooseeya ee badda. 
 
@@ -3536,9 +3494,7 @@ tuunsan¹ f.mg1 (-amay, -antay; -ami) Alaab wax meel la isugu uruuriyey noqosho.
 
 tuunsan² f.mg4 (-naa, -nayd) Wax meel ku uruuray noqosho. 
 
-tuunsanaan m.f.dh eeg tuunsan². ld 
-
-tuunsanaansho.  
+tuunsanaan m.f.dh eeg tuunsan². ld tuunsanaansho.  
 
 tuunsanaansho m.l/dh ld tuunsanaan. 
 
@@ -3550,33 +3506,23 @@ tuunso f.g3 (-saday, -satay) Wax meel ku uruursasho.
 
 tuuqsad m.l ld tuuqsasho. 
 
-tuuqsasho m.f.dh eeg tuuqso. ld tuuqsad, 
-
-tuuqsi.  
+tuuqsasho m.f.dh eeg tuuqso. ld tuuqsad, tuuqsi.  
 
 tuuqsi m.l ld tuuqsasho. 
 
-tuuqso f.g3 (-saday, -satay) Si gaar ah bad u 
-
-taabasho (ciyaar turub). 
+tuuqso f.g3 (-saday, -satay) Si gaar ah bad u taabasho (ciyaar turub). 
 
 tuur f.g/mg1 (-ray, -rtay) 1. (f.g) Wax gacanta ku gamid. 2. (f.mg) Ka t.: sharaab dhaqso u cabbid. 
 
-tųur¹ m.l 1. Timaha madaxa oo inta la daayo in yar kor u dheeraada. 2. Wax meel ta 
-
-tųuray qaabkiisa. ld tuul¹. 
+tųur¹ m.l 1. Timaha madaxa oo inta la daayo in yar kor u dheeraada. 2. Wax meel ta tųuray qaabkiisa. ld tuul¹. 
 
 tųur² m.dh (-ro, m.l) 1. Kurus. 2. Dadka gasarku ku dhaco, qaabka dhabarkoodu yeesho. 
 
-tųur³ f.g1 (-ray, -rtay) Wax meel tubid. ld 
-
-tuul².  
+tųur³ f.g1 (-ray, -rtay) Wax meel tubid. ld tuul².  
 
 tuuran f.mg4 (-rnaa, -rnayd) Wax gacanta lagu gamay ahaansho. 
 
-tųuran f.mg4 (-rnaa, -rtay) Wax meel la 
-
-tųuray ahaansho. ld tuulan. 
+tųuran f.mg4 (-rnaa, -rtay) Wax meel la tųuray ahaansho. ld tuulan. 
 
 tuurasho m.f.dh eeg tuuro. 
 
@@ -3596,9 +3542,7 @@ tuurmadow m.dh Libaax-badeed jaad ka mid ah.
 
 tuurnaan m.f.dh eeg tuuran. ld tuurnaansho. 
 
-tųurnaan m.f.dh eeg tųuran¹. ld tuulnaan, 
-
-tuulnaansho, tųurnaansho. 
+tųurnaan m.f.dh eeg tųuran¹. ld tuulnaan, tuulnaansho, tųurnaansho. 
 
 tuurnaansho m.l/dh ld tuurnaan. 
 
