@@ -20,9 +20,7 @@ qaabbilo m.dh Maalinta uu dirirku la fadhiyo dayaxa oo dadku aaminsan yihiin in 
 
 qaabbilsan f.g4 (-naa, -nayd) 1. Qof wax u qaybsan ahaansho. 2. Wax, wax kale ku aaddan ahaansho. 
 
-qaabbilsanaan m.f.dh eeg qaabbilsan. ld 
-
-qaabbilsanaansho.  
+qaabbilsanaan m.f.dh eeg qaabbilsan. ld qaabbilsanaansho.  
 
 qaabbilsanaansho m.l/dh ld qaabbilsanaan. 
 
@@ -32,9 +30,7 @@ qaabbilsiin m.f.dh eeg qaabbilsii.
 
 qaabdaran f.mg4 (-rnaa, -rnayd) Wax qaab xun ahaansho. 
 
-qaabdarnaan m.f.dh eeg qaabdaran. ld 
-
-qaabdarnaansho.  
+qaabdarnaan m.f.dh eeg qaabdaran. ld qaabdarnaansho.  
 
 qaabdarnaansho m.l/dh ld qaabdarnaan. 
 
@@ -62,9 +58,7 @@ qaabnaan m.f.dh eeg qaaban². ld qaabnaansho.
 
 qaabnaansho m.l/dh ld qaabnaan. 
 
-qaabsamaan m.f.dh eeg qaabsan¹. ld 
-
-qaabsamaansho, qaabsami (2). 
+qaabsamaan m.f.dh eeg qaabsan¹. ld qaabsamaansho, qaabsami (2). 
 
 qaabsamaansho m.l/dh ld qaabsamaan. 
 
@@ -76,17 +70,13 @@ qaabsan¹ f.mg4 (-amaa, -amayd) Wax qaab wanaagsan leh noqosho.
 
 qaabsan² f.mg4 (-naa, -nayd) Wax qaab leh ahaansho. 
 
-qaabsanaan m.f.dh eeg qaabsan². ld 
-
-qaabsanaansho.  
+qaabsanaan m.f.dh eeg qaabsan². ld qaabsanaansho.  
 
 qaabsanaansho m.l/dh ld qaabsanaan. 
 
 qaabuuli m.l 1. Bariis yaryar, macaan oo hindiya laga keeno. 2. Bariis lagu daray xawaaji, kabsar, geed kuleyl iwm. 
 
-qaabxumaan m.f.dh eeg qaabxun. ld 
-
-qaabxumaansho.  
+qaabxumaan m.f.dh eeg qaabxun. ld qaabxumaansho.  
 
 qaabxumaansho m.l/dh ld qaabxumaan. 
 
@@ -94,23 +84,15 @@ qaabxumi m.dh ld qaabxumo. 653qaabxumo
 
 qaabxumo m.dh Qaab aan qurxooneyn oo wax yeeshaan. ld qaabxumaan, qaabxumi. 
 
-qaabxun f.mg4 (-umaa, -umayd) Wax aan 
+qaabxun f.mg4 (-umaa, -umayd) Wax aan qaab wanaagsaneyn ahaansho. 
 
-qaab wanaagsaneyn ahaansho. 
+qaac¹ m.l Uumi daruur la moodo oo wax gubanaayo ka soo baxa oo hawada ku baaho. ld qiic¹, qiiq¹ (2), qiiqaab¹. 
 
-qaac¹ m.l Uumi daruur la moodo oo wax gubanaayo ka soo baxa oo hawada ku baaho. 
-
- ld qiic¹, qiiq¹ (2), qiiqaab¹. 
-
-qaac² f.mg1 (-cay, -cday) Wax gubanaayo 
-
-qaac bixin. ld qiic², qiiq², qiiqaab². 
+qaac² f.mg1 (-cay, -cday) Wax gubanaayo qaac bixin. ld qiic², qiiq², qiiqaab². 
 
 qaaci f.g2 (-iyay, -isay) 1. Wax qaac ka keenid. 2. Haruub qaac ku kululeyn. 3. Ka q.: ruuxaan ka shidid (cid). ld qiici, qiiqi. 
 
-qaacid m.f.dh eeg qaac². ld qiicid, qiiqaabid, 
-
-qiiqid.  
+qaacid m.f.dh eeg qaac². ld qiicid, qiiqaabid, qiiqid.  
 
 qaacido m.dh (-ooyin, m.l) 1. Saldhig xoog leh oo militari. 2. Xeer kooban oo maaddo cilmi ahi ay leedahay. 
 
@@ -118,17 +100,13 @@ qaacin m.f.dh eeg qaaci.
 
 qaad¹ m.l 1. Mugga ay wax leeyihiin. 2. Awoodda qaadis ee wax leeyihiin. 3. ld jaad¹(1). Laamo yaryar oo u xirxiran majimo iyo marduufyo laga soo guro geedo meelo kala duwan ka baxa la cuno inta ay jilcanyihiin oo lagu marqaamo. 4. ld qaadid: magacyada lammaanan. Tus. “Dulqaadka”. 
 
-qaad² f.g/mg1 (-day, -dday) 1. (f.g) Wax meel yiil meel kale geyn. 2. (f.g) Wax gudo leh in ku filan ku shubid. 3. (f.g) Wax meel yiil kor u hinjin. 4. (f.g) Ciil, ceeb iwm meel kala tegid. 5. (f.g) Hanti dhicid. 6. (f.g) Nafley cudur ku dhicid. 7. (f.g) Hees ku luuqayn. 
-
-q., 8. Yibir cid habaarid. 9. (f.g) Hadal, arrin iwm carrab ku dhufasho. 10. (f.g) Jaad cunid. 11. (f.mg) Roob feerid. 12. Dabool ka dub ka q.: wax daahsoonaa sheegid. 
+qaad² f.g/mg1 (-day, -dday) 1. (f.g) Wax meel yiil meel kale geyn. 2. (f.g) Wax gudo leh in ku filan ku shubid. 3. (f.g) Wax meel yiil kor u hinjin. 4. (f.g) Ciil, ceeb iwm meel kala tegid. 5. (f.g) Hanti dhicid. 6. (f.g) Nafley cudur ku dhicid. 7. (f.g) Hees ku luuqayn.  q., 8. Yibir cid habaarid. 9. (f.g) Hadal, arrin iwm carrab ku dhufasho. 10. (f.g) Jaad cunid. 11. (f.mg) Roob feerid. 12. Dabool ka dub ka q.: wax daahsoonaa sheegid. 
 
 qaadaadhig¹ m.l ld qaadaadhigid. 
 
 qaadaadhig² f.g1 (-gay, -gtay) Arrin si dhab ah u faaleyn. 
 
-qaadaadhigid m.f.dh eeg qaadaadhig². ld 
-
-qaadaadhig¹.  
+qaadaadhigid m.f.dh eeg qaadaadhig². ld qaadaadhig¹.  
 
 qaadasho m.f.dh eeg qaado. 
 
@@ -138,9 +116,7 @@ qaaddacaad m.dh Go'aan wax lagu diido.
 
 qaaddan f.mg4 (-naa, -nayd) Qof aan maskaxdiisu dhammeyn ahaansho; derderan. 
 
-qaaddanaan m.f.dh eeg qaaddan. ld 
-
-qaaddanaansho.  
+qaaddanaan m.f.dh eeg qaaddan. ld qaaddanaansho.  
 
 qaaddanaansho m.l/dh ld qaaddanaan. 
 
@@ -150,17 +126,13 @@ qaaddicid m.f.dh eeg qaaddac.
 
 qaaddiro m.dh Caajis, daal iyo hurdo la'aan ka yimaada cunidda qaadka. 
 
-qaaddo 654 m.dh (-ooyin, m.l) 1. Fandhaal macdan ka samaysan; malgacad. 2. Bir yar oo wareegsan ama afar gees ah oo badanaa dhexda carrab yar oo af dhuuban ku leh oo suumanka iwm inta madaxa lagaga xiro, dacalka kale daldaloolladiisa la suro oo lagu 
-
-qabto. 3. eeg qaa'id. 
+qaaddo m.dh (-ooyin, m.l) 1. Fandhaal macdan ka samaysan; malgacad. 2. Bir yar oo wareegsan ama afar gees ah oo badanaa dhexda carrab yar oo af dhuuban ku leh oo suumanka iwm inta madaxa lagaga xiro, dacalka kale daldaloolladiisa la suro oo lagu qabto. 3. eeg qaa'id. 
 
 qaadid m.f.dh eeg qaad². ld qaad¹ (4), qaadis. 
 
 qaadis m.dh ld qaadid. 
 
-qaado f.g3 (-aatay, -aadatay) 1. Wax meel yiil meel kale geysasho. 2. Wax milkintooda la wareegid. 3. Talo, fikrad, dawo iwm ku dhaqmid. 4. U q.: wax si gaar ah u aqoonsasho, u malayn. 5. Naag guursasho. 
-
- 6. U q.: wax,wax kale ku gudasho. 
+qaado f.g3 (-aatay, -aadatay) 1. Wax meel yiil meel kale geysasho. 2. Wax milkintooda la wareegid. 3. Talo, fikrad, dawo iwm ku dhaqmid. 4. U q.: wax si gaar ah u aqoonsasho, u malayn. 5. Naag guursasho. 6. U q.: wax,wax kale ku gudasho. 
 
 qaadqaad¹ m.l Tuug aan weynayn. 
 
@@ -186,9 +158,7 @@ qaafeyn m.dh ld qaafin.
 
 qaafi f.g2 (-iyay, -isay) 1. Is macnayn. 2. Qof aan dhegeysanin iska yeelid. ld qaafee. 
 
-qaafil m.l.kh (-llo/-liin, m.dh) 1. Q. ah: qof aan si sahlan wax lagu dhacsiin karin. 2. Xog ogaal la'aan. 
-
- 3. Qof maskaxdiisu meqantahay, maahsan. 
+qaafil m.l.kh (-llo/-liin, m.dh) 1. Q. ah: qof aan si sahlan wax lagu dhacsiin karin. 2. Xog ogaal la'aan. 3. Qof maskaxdiisu meqantahay, maahsan. 
 
 qaafilo m.dh Awr badan oo safar ah. 
 
@@ -204,7 +174,7 @@ qaa'id m.l (-dyo/qaaddo, m.dh) Qof ciidan hoggaamiya.
 
 qaajabbeel¹ m.l Qof ku shaqeeya wax yar nolol maalmeedkiisa. ld gaajabbeel¹. 
 
-qaajabbeel²  f.mg1 (-eelay, -eeshay) Xoogxaraash ahaansho. ld gaajabbeel².qaan¹ 
+qaajabbeel²  f.mg1 (-eelay, -eeshay) Xoogxaraash ahaansho. ld gaajabbeel².
 
 qaajabbeelid m.dh ld gaajabbeelid. 
 
@@ -218,9 +188,7 @@ qaajaysnaansho m.l/dh ld gaajaysnaan.
 
 qaaje m.l 1. Midab caddaan ah oo ay farduhu yeeshaan. 2. Qof midabka jirkiisa iyo tintiisaba aad u casyihiin. ld qaajay. 
 
-qaajeer m.dh Uskag cad oo jirka dadka, dharka iwm ku samaysma marka uu dhidid ama 
-
-qoyaan gaaro isaga oo wasaq leh. 
+qaajeer m.dh Uskag cad oo jirka dadka, dharka iwm ku samaysma marka uu dhidid ama qoyaan gaaro isaga oo wasaq leh. 
 
 qaajo m.dh ld gaajo. 
 
@@ -228,17 +196,13 @@ qaajoo f.mg3 (-ooday, -ootay) ld gaajoo.
 
 qaajood m.l ld gaajood. 
 
-qaal m.dh 1. Laamaha cardunka ah ee ka soo baxa dhir roob ku da'ay. 2. Dhegaha ariga. 
-
- 3. ld qaali. 
+qaal m.dh 1. Laamaha cardunka ah ee ka soo baxa dhir roob ku da'ay. 2. Dhegaha ariga. 3. ld qaali. 
 
 qaalaamarogad m.l ld qaalmarrogasho. 
 
 qaalaamarrogasho m.dh ld qaalmarrogasho. 
 
-qaalaamarrogo f.mg3 (-gtay, -gatay) ld 
-
-qaalmarrogo.  
+qaalaamarrogo f.mg3 (-gtay, -gatay) ld qaalmarrogo.  
 
 qaalalyo m.dh Caloosha oo kacda ama dacaroota oo sida wax laqanyaysan ay xooluhu la noqdaan, marka ay cunto ama biyo iska badshaan. 
 
@@ -246,15 +210,9 @@ qaalalyoo f.mg3 (-ooday, -ootay) Qaalalyo ku dhicid (xoolo). ld qaalalyow.
 
 qaalalyoobid m.dh ld qaalalyood. 
 
-qaalalyood  m.f.l eeg 
+qaalalyood  m.f.l eeg qaalalyoo.  ld qaalalyoobid.  
 
-qaalalyoo.  ld 
-
-qaalalyoobid.  
-
-qaalalyow f.mg1 (-oobay, -owday; -oobi) ld 
-
-qaalalyoo.  
+qaalalyow f.mg1 (-oobay, -owday; -oobi) ld qaalalyoo.  
 
 qaalee f.g2 (-leeyay, -leysay) ld qaaliyee. 
 
@@ -284,45 +242,29 @@ qaaliyeyn m.f.dh eeg qaaliyee. ld qaaleyn.
 
 qaaliyoobid m.f.dh eeg qaaliyow. ld qaaloobid. 
 
-qaaliyow f.mg1 (-oobay, -owday; -oobi) Wax 
-
-qaali noqosho. ld qaalow. 
+qaaliyow f.mg1 (-oobay, -owday; -oobi) Wax qaali noqosho. ld qaalow. 
 
 qaalli m.l (-iyo, m.dh/-iyaal, m.l/dh) Garsoore diinta Islaamka wax ku xukuma. ld qaaddi. 
 
 qaalmaqooqshe m.l Caws jilicsan oo dhirta hoosteeda ka baxa oo geelu aad u jecelyahay. 
 
-qaalmarrogad m.l Rogmasho uu qof hawada dhexdeeda ku sameeyo mar ama laba. ld 
+qaalmarrogad m.l Rogmasho uu qof hawada dhexdeeda ku sameeyo mar ama laba. ld qaalmarrogasho.  
 
-qaalmarrogasho.  
-
-qaalmarrogasho m.f.dh eeg qaalmarrogo. ld 
-
-qaalaamarrogad,  
-
-qaalaamarrogasho,  
-
-qaalmarrogad.  
+qaalmarrogasho m.f.dh eeg qaalmarrogo. ld qaalaamarrogad, qaalaamarrogasho, qaalmarrogad.  
 
 qaalmarrogo  f.mg3 (-gtay, -gatay) Qaalmarrogad samayn. ld qaalaamarrogo. 
 
 qaalmooti f.mg2 (-iyay, -isay) Neef irmaan oo caano yareeyey ahaansho. 
 
-qaalmootin m.f.dh eeg qaalmooti. ld 
-
-qaalmootis.  
+qaalmootin m.f.dh eeg qaalmooti. ld qaalmootis.  
 
 qaalmootis m.l ld qaalmootin. 
 
 qaaloobid m.dh ld qaaliyoobid. 
 
-qaalow f.mg1 (-oobay, -owday; -oobi) ld 
+qaalow f.mg1 (-oobay, -owday; -oobi) ld qaaliyow.  
 
-qaaliyow.  
-
-qaambax f.mg1 (-xay, -xday; -bixi) ld 
-
-qaanbax.  
+qaambax f.mg1 (-xay, -xday; -bixi) ld qaanbax.  
 
 qaambixid m.dh ld qaanbixid. 
 
@@ -332,9 +274,7 @@ qaameyn m.f.dh eeg qaamee.
 
 qaameysan f.mg4 (-snaa, -snayd) Qof qaan galay ahaansho. 
 
-qaameysnaan m.f.dh eeg qaameysan. ld 
-
-qaameysnaansho.  
+qaameysnaan m.f.dh eeg qaameysan. ld qaameysnaansho.  
 
 qaameysnaansho m.l/dh ld qaameysnaan. 
 
@@ -342,45 +282,33 @@ qaamid m.f.dh eeg qaan³.
 
 qaamoobid m.f.dh eeg qaamow. 
 
-qaamow f.mg1 (-oobay, -owday; -oobi) Qof 
-
-qaan galay noqosho. 
+qaamow f.mg1 (-oobay, -owday; -oobi) Qof qaan galay noqosho. 
 
 qaamowqanshiir¹ m.l Cudur ku dhaca 
 
 qanjirada oo barariya in muddo ah; camanbafuufi. 
 
-qaamowqanshiir² m.l (daaw.) Cudur la isqaadsiiyo oo ku dhaca caruurta da'dodu u dhaxyso shan (5) ilaa shan iyo toban (15). 
-
- Bararka qanjirka calyada oo ku yaal daanka hoose dadabiisa ee labada dhinacba, waxa ka horreeya: qandho, madax-xanuun iyo matag bararka labada qanjir way kala hormaraan mararka qaarkoodina mid keliya ayuu cudurku ku dhacaa. 
+qaamowqanshiir² m.l (daaw.) Cudur la isqaadsiiyo oo ku dhaca caruurta da'dodu u dhaxyso shan (5) ilaa shan iyo toban (15). Bararka qanjirka calyada oo ku yaal daanka hoose dadabiisa ee labada dhinacba, waxa ka horreeya: qandho, madax-xanuun iyo matag bararka labada qanjir way kala hormaraan mararka qaarkoodina mid keliya ayuu cudurku ku dhacaa. 
 
 qaamuus m.l (-syo, m.dh) Buug lagu ururiyey ereyo badan oo af leeyahay oo isugu xiga sida alifka u kala horreeyo, eray walbana ay ku hor qoranyihiin macnihiisa, qaabkiisa iwm. 
 
 qaan¹ m.l.u 1. Nooc kalluunka ka mid ah. 2. Geela intiisa da'da yar oo aan weli curan ama raridda gaarin. 3. (-aaman, m.l) Meesha dhuuban ee daanka. 
 
-qaan² 655qaan² m.dh Hanti, dhiig iwm oo cid lagu yeesho. 
+qaan² m.dh Hanti, dhiig iwm oo cid lagu yeesho. 
 
 qaan³ f.g1 (-aamay, -aantay; -aami) Is q.: xil is qaadid (qof). 
 
 qaanbax f.mg1 (-xay, -xday; -bixi) Deyn cid lagu lahaa bixin. ld qaambax. 
 
-qaandhaw¹ m.l 1. ld qaandhebid, qandhow 1. Bixinta qaan laysku lahaa layska baxsho. 
+qaandhaw¹ m.l 1. ld qaandhebid, qandhow 1. Bixinta qaan laysku lahaa layska baxsho. 2. Kabarray. 
 
- 2. Kabarray. 
+qaandhaw² f.mg1 (-dhebay, -dhawtay; - dhebi) U q.: qaan laysku lahaa bixin. ld qaandhow².  
 
-qaandhaw² f.mg1 (-dhebay, -dhawtay; - dhebi) U q.: qaan laysku lahaa bixin. ld 
-
-qaandhow².  
-
-qaandhebid m.f.dh eeg qaandhaw². ld 
-
-qaandhaw¹, qandhow. 
+qaandhebid m.f.dh eeg qaandhaw². ld qaandhaw¹, qandhow. 
 
 qaandhow¹ m.l ld qaandhaw¹, qaandhebid. 
 
-qaandhow² f.mg1 (-oobay, -owday; -oobi) ld 
-
-qaandhaw².  
+qaandhow² f.mg1 (-oobay, -owday; -oobi) ld qaandhaw².  
 
 qaangaar¹ m.l (-rro, m.l) Qof gaaray da'dii shan iyo tobnaad. 
 
@@ -408,17 +336,11 @@ qaansarroobaad¹ m.dh (-dyo, m.dh) Midabyo dhowr ah oo si iskorsaar ah u samaysa
 
 qaansarroobaad² m.dh (-dyo, m.dh) (fiis.) Qaansada midabbaysan oo ka kooban midabbada isbektramka, oo la arko marka ilayska qorraxdu ku dhaco roobka, waxaana sababa noqodka iyo qalloocashada fallaaraha ilays ee ku dhacaya dhibcaha roobka. 
 
-qaansheeg m.dh (-gyo, m.l) (dhaq.) Qoraal cid lagu weyddiinayo badeeco ay hore u 
+qaansheeg m.dh (-gyo, m.l) (dhaq.) Qoraal cid lagu weyddiinayo badeeco ay hore u qaadatay qiimahooda in ay bixiso. 
 
-qaadatay qiimahooda in ay bixiso. 
+qaansheegte m.l (-tayaal, m.l/dh) Qof qaansheeg soo qortay. 
 
-qaansheegte m.l (-tayaal, m.l/dh) Qof 
-
-qaansheeg soo qortay. 
-
-qaanso¹ m.dh (-ooyin, m.l) 1. Qalab ka samaysan ul iyo wax la mid ah, oo lagu nadoocshay xarig labada af lagaga xiray, oo leebka iyo gammuunka laga gano. 
-
- 656 2. Summad loo adeegsado ah hadalka ama codadka intooda kale, sababa kala duwan awgooda: qaansooyin deriley: {}; qaansooyin geesaley: []; qaansooyin bileed: (). 
+qaanso¹ m.dh (-ooyin, m.l) 1. Qalab ka samaysan ul iyo wax la mid ah, oo lagu nadoocshay xarig labada af lagaga xiray, oo leebka iyo gammuunka laga gano. 2. Summad loo adeegsado ah hadalka ama codadka intooda kale, sababa kala duwan awgooda: qaansooyin deriley: {}; qaansooyin geesaley: []; qaansooyin bileed: (). 
 
 qaanso² m.dh (-ooyin, m.l) (xis.) Qayb ka mid ah xood is-haysta. Haddii meeriska goobo ama xoodad kale oo oodan loo qaybiyo labaqaybood oo aan isle'ekeyn, labada 
 
@@ -426,15 +348,9 @@ qaanso midda dheer waa qaanso weyn, midda gaabanna waa qaanso yar. Labadooda wax
 
 qaansoley m.dh.u ld qaansaley. 
 
-qaansoole m.l (bot.) Nooc geedgaabka ka mid ah oo baxsha laamo kor u baxa oo soo 
+qaansoole m.l (bot.) Nooc geedgaabka ka mid ah oo baxsha laamo kor u baxa oo soo qalloocda, qaabka qaansada yeesha, kana baxa cadduunka. 
 
-qalloocda, qaabka qaansada yeesha, kana baxa cadduunka. 
-
-qaanuun m.l (-nno/qawaaniin, m.dh) 1. Sharciyo iyo nidaamyo isku duuban oo 
-
-qolo gaar ah ku dhaqanta. 2. Dhaqan. ld 
-
-qaynuun, qeynuun. 
+qaanuun m.l (-nno/qawaaniin, m.dh) 1. Sharciyo iyo nidaamyo isku duuban oo qolo gaar ah ku dhaqanta. 2. Dhaqan. ld qaynuun, qeynuun. 
 
 qaaq m.dh.sh.r Erey tilmaama qaylo ama ci. 
 
@@ -448,9 +364,7 @@ qaaqamis m.l ld qaaqamin.
 
 qaaqan f.mg1 (-qamay, -qantay) Fariisasho dab agtiisa si loogu diirsado. 
 
-qaaqle m.l (-layaal, m.l/dh) 1. Qof qaylo iyo dhib badan. 2. Qof aan waxba haysan. 
-
- 3. Nin xishood yar. 
+qaaqle m.l (-layaal, m.l/dh) 1. Qof qaylo iyo dhib badan. 2. Qof aan waxba haysan. 3. Nin xishood yar. 
 
 qaaqlee f.mg2 (-leeyay, -leysay) Hadal aan macno lahayn sheegid. 
 
@@ -470,9 +384,7 @@ qaaraamid m.f.dh eeg qaaraan².
 
 qaaraan¹ m.l (-nno/-ammo, m.dh) Xoolo dad badan laga uruursho oo qof u baahan la siiyo ama arrin dadweynaha u dan ah lagu fuliyo ama si kale oo samafal ah loo bixiyo.qab¹ 
 
-qaaraan² f.mg1 (-aamay, -aantay; -aami) U 
-
-q.: xoolo dad badan ka ururin si qof u baahan loo siiyo ama arrin dadweynaha u dan ah loogu fuliyo. 
+qaaraan² f.mg1 (-aamay, -aantay; -aami) U q.: xoolo dad badan ka ururin si qof u baahan loo siiyo ama arrin dadweynaha u dan ah loogu fuliyo. 
 
 qaarad m.dh (-do, m.l) Shanta qaybood ee waaweyn oo dhulku u qaybsan yahay middood. 
 
@@ -512,17 +424,11 @@ qaarris m.l ld qaarrin.
 
 qaarsan f.mg4 (-naa, -nayd) Wax qaaray ahaansho. 
 
-qaarsanaan  m.f.dh eeg 
-
-qaarsan.  ld 
-
-qaarsanaansho.  
+qaarsanaan  m.f.dh eeg qaarsan.  ld qaarsanaansho.  
 
 qaarsanaansho m.l/dh ld qaarsanaan. 
 
-qaarxabaal¹ m.l 1. (bot.) Geed sida qaraha u faalala oo kor ku yeesha miro waaweyn kuwa bocorta la eg, hoosna ku leh buruq weyn oo inta la jarjaro xoolaha lagu oon baxsho. 
-
-qaarka 2. (daaw.) Xabaalidda qof lafo xanuun qaba dambe carro kulul loogu duugo si loogu daweeyo. 
+qaarxabaal¹ m.l 1. (bot.) Geed sida qaraha u faalala oo kor ku yeesha miro waaweyn kuwa bocorta la eg, hoosna ku leh buruq weyn oo inta la jarjaro xoolaha lagu oon baxsho. qaarka 2. (daaw.) Xabaalidda qof lafo xanuun qaba dambe carro kulul loogu duugo si loogu daweeyo. 
 
 qaarxabaal² f.g1 (-aalay, -aashay) Qof lafo xanuun qaba qaarka dambe carro kukul loogu duugo si loogu daweeyo, xabaalid. 
 
@@ -542,9 +448,7 @@ qaatil m.l (-liin, m.dh) Qof dilaa ah.
 
 qaatime m.l Orod gaar ah oo ay farduhu sameeyaan marka ay durdurinayaan. 
 
-qaatimee f.mg2 (-meeyay, -meysay) Faras si 
-
-qaatimo ah u ordid. 
+qaatimee f.mg2 (-meeyay, -meysay) Faras si qaatimo ah u ordid. 
 
 qaatimeyn m.f.dh eeg qaatimee. 
 
@@ -552,21 +456,11 @@ qaatin m.dh Mugga shey leeyahay.
 
 qaawan f.mg4 (-naa, -nayd) 1. Qof aan dhar xirneyn ahaansho. 2. Dhisme, wax aan kor ka deydnayn ahaansho. 3. Hadal aan asturnayn ahaansho. 
 
-qaawanaan  m.f.dh eeg 
+qaawanaan  m.f.dh eeg qaawan. ld qaawanaansho.  
 
-qaawan.  ld 
+qaawanaansho  m.l/dh qaawanow. ld qaawanaan.  
 
-qaawanaansho.  
-
-qaawanaansho  m.l/dh 
-
-qaawanow.  ld 
-
-qaawanaan.  
-
-qaawanow f.mg3 (-naaday, -naatay) Qof 
-
-qaawan noqosho. 
+qaawanow f.mg3 (-naaday, -naatay) Qof qaawan noqosho. 
 
 qaawi f.g2 (-iyay, -isay) 1. Qof dhar ka furid. 2. Dhismo, dedka kore ka qaadid. 
 
@@ -592,21 +486,17 @@ qaayib² f.g1 (-bay, -btay) 1. Wax la bartay ka caado yeelasho. 2. Wax si aad ah
 
 qaayibid m.f.dh eeg qaayib. ld qaayib¹. 
 
-qaayimo m.dh (-ooyin, m.l) 1. Qiimaha iyo kharashka uu ku fadhiyo wax iib u yaal. 
-
- 2. Liis muujinaaya qiimaha badeeco la gadaayo. 
+qaayimo m.dh (-ooyin, m.l) 1. Qiimaha iyo kharashka uu ku fadhiyo wax iib u yaal. 2. Liis muujinaaya qiimaha badeeco la gadaayo. 
 
 qab¹ m.l 1. Qiimaha iyo sharafta qof waliba moodo inuu leeyahay; han. 2. Xero yar oo waxaraha iyo naylaha lagu xereeyo oo kor ka dedan; edeg. 
 
-qab² 657qab² m.dh (-bo, m.l) 1. Bir dugaagga lagu dabo; birshabeel. 2. Labo shay isku dhacay dhawaaqooda. 3. Belo lamafilaan ah oo si kedis ah ku dhacda. 
+qab² m.dh (-bo, m.l) 1. Bir dugaagga lagu dabo; birshabeel. 2. Labo shay isku dhacay dhawaaqooda. 3. Belo lamafilaan ah oo si kedis ah ku dhacda. 
 
 qab³ f.g1 (-bay, -btay) 1. Wax mulki ahaan u haysasho. 2. Naag lahaansho. 3. Fikrad iwm si u aaminid. 4. Jirro, cuqdad iwm qof ku dhicid. 5. Dhar iwm xirnaan. 
 
 qabaal¹ m.l (-llo, m.dh) 1. Weel xoldhan oo geed jirriddii laga qoro oo xoolaha la waraabinayo biyaha loogu shubo. 2. Weel gudihiisa dadku ku mayrto iyo mid dharka lagu dhax meyro. 
 
-qabaal² m.l (-llo, m.dh) (xis.) Nooc ka mid ah toobineed oo leh xoodbeeg u dhexeeya oo iyol (oleli). Tubta bar socota sallax oo wadarta fogaanta ay u jirtaa laba barood oo maguuran ah ay tahay madoorsoome. 
-
- Labada barood ee maguuraanka waxa la yiraahdaa kulmisyo. 
+qabaal² m.l (-llo, m.dh) (xis.) Nooc ka mid ah toobineed oo leh xoodbeeg u dhexeeya oo iyol (oleli). Tubta bar socota sallax oo wadarta fogaanta ay u jirtaa laba barood oo maguuran ah ay tahay madoorsoome. Labada barood ee maguuraanka waxa la yiraahdaa kulmisyo. 
 
 qabaanqab¹ m.l Ci' iyo socsocod badan oo ay riyuhu sameeyaan marka ay waayaan arigii ay ku jireen. ld qawqab¹. 
 
@@ -614,9 +504,7 @@ qabaanqab² m.dh Jaadadka carsaanyada nooc ka mid ah.
 
 qabaanqab³ f.mg1 (-bay, -btay) Ri' arigii ay ku jirtay ka luntay ama laga saaray ci' badan iyo dhaqdhaqaaq sameyn. ld qawqab². 
 
-qabaanqabid m.f.dh eeg qabaanqab³. ld 
-
-qawqabid.  
+qabaanqabid m.f.dh eeg qabaanqab³. ld qawqabid.  
 
 qabad m.l 1. Orgi yar oo bilaabay kudidda riyaha. 2. ld qabasho. 
 
@@ -630,13 +518,7 @@ qabalax m.l Qof laf weyn leh godan oo aan hilib badan lahayn. ld qablax.
 
 qabalaxsan f.mg4 (-naa, -nayd) Wax qablax ah ahaansho (qof). ld qablaxsan. 
 
-qabalaxsanaan m.f.dh eeg qabalaxsan. ld 
-
-qabalaxsanaansho,  
-
-qablaxsanaan,  
-
-qablaxsanaansho.  
+qabalaxsanaan m.f.dh eeg qabalaxsan. ld qabalaxsanaansho, qablaxsanaan, qablaxsanaansho.  
 
 qabalaxsanaansho m.l/dh ld qabalaxsanaan. 
 
@@ -648,7 +530,7 @@ qabandhaco m.dh Jariirico oogada ku fidda oo ay dhaliso naxdin, dhaxan ama jirro
 
 qabandhacoo f.mg3 (-ooday, -ootay) Qabandhaco dareemid. 
 
-qabandhacood m.f.l eeg qabandhacoo. 658 
+qabandhacood m.f.l eeg qabandhacoo.
 
 qabanqaabi f.g2 (-iyay, -isay) Wax la fulin lahaa isku dubbaridid. 
 
@@ -662,13 +544,7 @@ qabatimid m.f.dh eeg qabatin³. ld qabatin² (3).
 
 qabatin¹ m.l (c.nafl.) Marka laga hadlayo taduwurka, isbeddel kasta oo ku dhaca dhismaha ama shaqada noolaha taas oo ka dhigta mid ku habboon degaankiisa. 
 
-qabatin² m.dh 1. Xanuun mar mar dadka 
-
-qabta; eyddin; nabar. 2. Tabta awrku wax u 
-
-qabto. 3. ld qabatimid. Wax loo barto, la 
-
-qaayibo. 4. Wax sameyntooda loo bartay. 5. ld qabasho. 
+qabatin² m.dh 1. Xanuun mar mar dadka qabta; eyddin; nabar. 2. Tabta awrku wax u qabto. 3. ld qabatimid. Wax loo barto, la qaayibo. 4. Wax sameyntooda loo bartay. 5. ld qabasho. 
 
 qabatin³ f.g1 (imay, -intay; -imi) Meel nolosheeda u barasho. 
 
@@ -678,9 +554,7 @@ qabatoomid m.f.dh eeg qabatoon².
 
 qabatoon¹ m.l 1. Cudur qabatiin leh oo soo noqnoqda. 2. Muddo dheer oo la qado dhibaatada ka timaadda. 
 
-qabatoon² f.mg1 (-oomay, -oontay) 1. Cudur 
-
-qabatiin leh oo soo noqnoqda dareemid. 2. Cunto iyo cabbid muddo dheer laga raagay darteed dhibaato badan dareemid. 
+qabatoon² f.mg1 (-oomay, -oontay) 1. Cudur qabatiin leh oo soo noqnoqda dareemid. 2. Cunto iyo cabbid muddo dheer laga raagay darteed dhibaato badan dareemid. 
 
 qabax m.l.u Dhigaha waaweyn ee aqalka miyiga. 
 
@@ -698,9 +572,7 @@ qabbaanid m.f.dh eeg qabbaan³.
 
 qabbaansad m.l ld qabaansasho. 
 
-qabbaansasho m.f.dh eeg qabbaanso. ld 
-
-qabbaansad, qabbaansi. 
+qabbaansasho m.f.dh eeg qabbaanso. ld qabbaansad, qabbaansi. 
 
 qabbaansi m.l ld qabbaansasho. 
 
@@ -714,17 +586,13 @@ qabbir¹ m.l Isu dhoweynta lugaha awr la dabrayo aad la isugu dhaweeyo. ld qabbi
 
 qabbir² f.g1 (-ray, -rtay) Rati dabar si aad ah ugu dhuujin si uusan u fogaan. 
 
-qabbiran f.mg4 (-rnaa, -rnayd) Rati wax la 
-
-qabbiray ahaansho. 
+qabbiran f.mg4 (-rnaa, -rnayd) Rati wax la qabbiray ahaansho. 
 
 qabbirasho m.f.dh eeg qabbiro. 
 
 qabbirid m.f.dh eeg qabbir². ld qabbir¹. 
 
-qabbirnaan m.f.dh eeg qabbiran. ld 
-
-qabbirnaansho.  
+qabbirnaan m.f.dh eeg qabbiran. ld qabbirnaansho.  
 
 qabbirnaansho m.l/dh ld qabbirnaan. 
 
@@ -748,9 +616,7 @@ qabid m.f.dh eeg qab³.
 
 qabiil m.l (-llo, m.dh/qabaa'il, m.l) Dad dhalasho wada sheegta. ld qabiilo. 
 
-qabiili m.l (-iyo/-iyiin, m.dh) 1. Qof 
-
-qabyaaladda aad u daneeya oo ku dhaqma. 2. Qof qabiil tiro badan ka dhashay. 
+qabiili m.l (-iyo/-iyiin, m.dh) 1. Qof qabyaaladda aad u daneeya oo ku dhaqma. 2. Qof qabiil tiro badan ka dhashay. 
 
 qabiilo m.dh ld qabiil. 
 
@@ -774,29 +640,19 @@ qablaxsanaansho m.l/dh ld qabalaxsanaan.
 
 qabno m.l Hanti. 
 
-qabo¹ m.dh 1. (bot.) Geed leh caano, qodxo iyo sooh wanaagsan oo weelal iyo alaabo kaleba laga sameysto. 2. Weelasha caanaha lagu shubto inta aan weli la xoolayn. 3. Weel 
-
-qabo ka samaysan. 
+qabo¹ m.dh 1. (bot.) Geed leh caano, qodxo iyo sooh wanaagsan oo weelal iyo alaabo kaleba laga sameysto. 2. Weelasha caanaha lagu shubto inta aan weli la xoolayn. 3. Weel qabo ka samaysan. 
 
 qabo² f.g/mg3 (-btay, -batay) 1. (f.g) Wax gacan ku dhigid. 2. (f.g) Dhul, dad iwm hub ku hanasho. 3. (f.g) Cid fal xun ku kici lahayd ka celin. 4. (f.g) Shaqo fulin. 5. (f.g) Meel aadid. 6. (f.mg) Is q.: arrin iwm oo lagu kici lahaa ka harid. 7. (f.mg) Laba qof ama ka badan iska hor imaasho. 8. (f.mg) Is q.: laf jabtay xiriirsamid. 
 
-qaboobaan  m.f.dh eeg 
+qaboobaan m.f.dh eeg qabow³. ld qaboobaansho.  
 
-qabow³.  ld 
-
-qaboobaansho.  
-
-qaboobaansho m.l/dh eeg qaboobow. ld 
-
-qaboobaan.  
+qaboobaansho m.l/dh eeg qaboobow. ld qaboobaan.  
 
 qaboobe m.l Waqtiga hawadu aad u qabowdo meelaha qaarkoodna uu baraf ka dhaco. 
 
 qaboobid m.f.dh eeg qabow². 
 
-qaboobow f.mg3 (-baaday, -baatay) Wax 
-
-qaboobay noqosho. 
+qaboobow f.mg3 (-baaday, -baatay) Wax qaboobay noqosho. 
 
 qabooji f.g2 (-iyay, -isay) 1. Wax, wax qabow ah ka dhigid. 2. Wax xasilin. 
 
@@ -806,9 +662,7 @@ qaboojisasho m.f.dh ld qaboojiso.
 
 qaboojiso f.g3 (-stay, -satay) Wax, wax qabow ka dhigasho. 
 
-qaboojiye m.l (-yayaal, m.l/dh) Makiinad leh 
-
-qol magudbiye hawo oo lagu keediyo alaabooyinka, cunnada iyo cabbitaanka si aanay u xumaan ama qabow u ahaadaan; tallaajad. 
+qaboojiye m.l (-yayaal, m.l/dh) Makiinad leh qol magudbiye hawo oo lagu keediyo alaabooyinka, cunnada iyo cabbitaanka si aanay u xumaan ama qabow u ahaadaan; tallaajad. 
 
 qaboone m.l ld qaboono. 
 
@@ -816,17 +670,13 @@ qaboono m.dh Subaxnimada inteeda hore oo aan qorraxdu weli soo kululaan. ld qabo
 
 qabow¹ m.l 1. Kuleyl la'aan. 2. Q. ah: wax aan kululeyn. 
 
-qabow² f.mg1 (-oobay, -owday; -oobi) 1. Wax heerkulkiisu hooseeyo noqosho. 
-
- 2. Qof xasilan noqosho. 
+qabow² f.mg1 (-oobay, -owday; -oobi) 1. Wax heerkulkiisu hooseeyo noqosho. 2. Qof xasilan noqosho. 
 
 qabow³ f.mg4 (-boobaa, -boobayd) 1. Wax heerkulkiisu hooseeyo ahaansho. 2. Qof xasilan ahaansho. 
 
 qabowsasho m.f.dh eeg qabowso. 
 
-qabowso f.g/mg3 (-saday, -satay) 1. (f.g) Wax 
-
-qabow ka dhigasho. 2. (f.mg) Is qaboojin (qof). 
+qabowso f.g/mg3 (-saday, -satay) 1. (f.g) Wax qabow ka dhigasho. 2. (f.mg) Is qaboojin (qof). 
 
 qaboyaro m.dh (bot.) Qabo silloon oo qodxo yaryar leh iyo dhecaan cad oo caanaha u eg oo haddii dadka afka iyo indhaha ka gaaraan guba. 
 
@@ -836,33 +686,23 @@ qabqable m.l (-layaal, m.l/dh) 1. Qof dadka isugu muujiya in uu leeyahay karti d
 
 qabqabow m.l Cabbitaan qabow oo la cabbo. ld qaqabow. 
 
-qabri m.l (-iyo/qubuur/qabri, m.dh; 
+qabri m.l (-iyo/qubuur/qabri, m.dh; qabuuro/qubuurro, m.l) 1. Godka meydka la gesho oo lagu aaso; xabaal. 2. Q. ah: qof calool adag oo aan sir iwm ka bixin. 
 
-qabuuro/qubuurro, m.l) 1. Godka meydka la gesho oo lagu aaso; xabaal. 2. Q. ah: qof calool adag oo aan sir iwm ka bixin. 
-
-qabsad m.l ld qabsasho. 659qabsan 
+qabsad m.l ld qabsasho.
 
 qabsan f.mg4 (-naa, -nayd) 1. Hawl iwm wax la qabtay ahaansho. 2. Ku q.: wax meel ku dhegsan ahaansho. 3. Tuug, dugaag iwm wax casiimo lagu akhriyey oo aan wax bi'in karin ahaansho. 
 
-qabsanaan  m.f.dh eeg 
-
-qabsan.  ld 
-
-qabsanaansho.  
+qabsanaan  m.f.dh eeg qabsan. ld qabsanaansho.  
 
 qabsanaansho m.l/dh ld qabsanaan. 
 
 qabsasho m.f.dh eeg qabso. ld qabsad. 
 
-qabsato m.dh (-ooyin, m.l) Xubinta geedsaarku leeyihiin oo ay geedaha kale ku 
-
-qabsadaan.  
+qabsato m.dh (-ooyin, m.l) Xubinta geedsaarku leeyihiin oo ay geedaha kale ku qabsadaan.  
 
 qabsin m.l (-nno, m.dh) 1. Xiidmaha weyn ee nafleyda. 2. Xanuunka qabsinnada ku dhaca. 
 
-qabsin-ood m.l 1. Cad yar oo buro ah oo dhuuban, oo doc af ku leh docna ka oodan oo qabsinka madaxiisa ka laallaada; kolon. 
-
- 2. Xanuun qabsin-oodka qabta. ld qabsin- oodane. 
+qabsin-ood m.l 1. Cad yar oo buro ah oo dhuuban, oo doc af ku leh docna ka oodan oo qabsinka madaxiisa ka laallaada; kolon. 2. Xanuun qabsin-oodka qabta. ld qabsin- oodane. 
 
 qabsin-oodan¹ m.l Xirmidda ay xiidmuhu xirmaan. 
 
@@ -880,33 +720,25 @@ qabsoon f.mg1 (-oomay, -oontay; -oomi) Hawl iwm wax la fuliyey noqosho.
 
 qabuul m.l Aqbal. 
 
-qabuuro m.l 1. ld qabuur, qubuurro (2). Meel ay qabuur badan ku yaalliin oo loogu talaggalay in dadka dhintay lagu aaso. 2. eeg 
-
-qabri.  
+qabuuro m.l 1. ld qabuur, qubuurro (2). Meel ay qabuur badan ku yaalliin oo loogu talaggalay in dadka dhintay lagu aaso. 2. eeg qabri.  
 
 qabweyn f.mg4 (-naa, -nayd) Qof islaweyni badan ahaansho. 
 
-qabweynaan m.f.dh eeg qabweyn. ld 
-
-qabweynaansho, qabweyni. 
+qabweynaan m.f.dh eeg qabweyn. ld qabweynaansho, qabweyni. 
 
 qabweynaansho m.l/dh ld qabweynaan. 
 
 qabweyni m.dh Dabeecad isla weyni kibir leh oo qof yeesho. ld qabweynaan. 
 
-qabxad m.dh (-do, m.l) Naag sharmuuto ah. ld 
-
-qabxo, qaxbad, qaxbo. 
+qabxad m.dh (-do, m.l) Naag sharmuuto ah. ld qabxo, qaxbad, qaxbo. 
 
 qabxo m.dh ld qabxad. 
 
 qabyaalad m.dh Nidaam siyaasadeed oo ku salaysan dhaqanka qabiilka; kala qaybinta ummad loo kala qaybiyo qoloqolo. 
 
-qabyaaladayn m.f.dh eeg qabyaaladee. 660 
+qabyaaladayn m.f.dh eeg qabyaaladee.
 
-qabyaaladee f.g2 (-deeyay, -deysay) Nidaam 
-
-qabyaaladeed qof kula dhaqmid; qof 
+qabyaaladee f.g2 (-deeyay, -deysay) Nidaam qabyaaladeed qof kula dhaqmid; qof 
 
 qabyaalad darteed uga eexasho. 
 
@@ -914,9 +746,7 @@ qabyo m.dh.kh Q. ah: wax aan dhammeystirneyn.
 
 qabyoobid m.f.dh eeg qabyow. 
 
-qabyow f.mg1 (-oobay, -owday; -oobi) Wax 
-
-qabyo ah noqosho. 
+qabyow f.mg1 (-oobay, -owday; -oobi) Wax qabyo ah noqosho. 
 
 qac m.dh.sh.r Erey tilmaama shanqar sida shanqarta wax jabay ama labo shay laysku dhuftay ay soo saaraana. 
 
@@ -924,23 +754,17 @@ qacqac m.dh.sh.r Erey tilmaama qababac, jiririq ama liiqliiqasho.
 
 qad¹ m.l Labaq., saddexq. iwm: xoolo aan biyo cabbin laba maalmood, saddex maalmood iwm. 
 
-qad² f.mg1 (-day, -dday) 1. Wax la 
-
-qaybsanayey wax ka waayid. 2. Cuntocunid la'aan. 
+qad² f.mg1 (-day, -dday) 1. Wax la qaybsanayey wax ka waayid. 2. Cuntocunid la'aan. 
 
 qadaad¹ m.l (-dyo, m.dh) Madaxa docdiisa dambe; jeego. 
 
 qadaad²  f.g1 (-day, -dday) Koor carrabbadeeda isku xirid si aanay u shanqarin. 
 
-qadaadan f.mg4 (-naa, -nayd) Koor wax la 
-
-qadaaday ahaansho. 
+qadaadan f.mg4 (-naa, -nayd) Koor wax la qadaaday ahaansho. 
 
 qadaadid m.f.dh eeg qadaad². 
 
-qadaadnaan m.f.dh eeg qadaadan. ld 
-
-qadaadnaansho.  
+qadaadnaan m.f.dh eeg qadaadan. ld qadaadnaansho.  
 
 qadaadnaansho m.l/dh ld qadaadnaan. 
 
@@ -958,29 +782,19 @@ qaddac¹ m.l 1. Weel yar oo subagga iyo saliidda iwm lagu cabbiro. 2. Wax muuqda
 
 qaddac² f.g1 (-cay, -cday; -dici) 1. Wax goyn. 2. Ka q.: qof saad kala goyn. 
 
-qaddacan f.mg4 (-cnaa, -cnayd) 1. Wax la gooyay ahaansho. 2. Ka q.: wax la' ahaansho; 
+qaddacan f.mg4 (-cnaa, -cnayd) 1. Wax la gooyay ahaansho. 2. Ka q.: wax la' ahaansho; qof saad lagala gooyay ahaansho. 
 
-qof saad lagala gooyay ahaansho. 
-
-qaddacnaan m.f.dh eeg qaddacan. ld 
-
-qaddacnaansho.  
+qaddacnaan m.f.dh eeg qaddacan. ld qaddacnaansho.  
 
 qaddacnaansho m.l/dh ld qaddacnaan. 
 
-qaddar¹ m.l 1. Karti; awood. 2. Sharaf. 3. Q. ah: xoogaa; kis. 4. Q. ah: qiyaas (waqti). 5. ld 
+qaddar¹ m.l 1. Karti; awood. 2. Sharaf. 3. Q. ah: xoogaa; kis. 4. Q. ah: qiyaas (waqti). 5. ld qaddar².
 
-qaddar².qafaal¹  
-
-qaddar² m.l/dh (dii.) Awood Rabbaani ah, oo aan aadamiga ku lahayn wax hawl ah. ld 
-
-qaddar¹ (5). 
+qaddar² m.l/dh (dii.) Awood Rabbaani ah, oo aan aadamiga ku lahayn wax hawl ah. ld qaddar¹ (5). 
 
 qaddar³ f.g1 (-ray, -rtay) Wax ahaysiin (Ilaah). 
 
-qaddaran f.mg4 (-rnaa, -rnayd) Wax Eebbe 
-
-qaddarey ahaansho. 
+qaddaran f.mg4 (-rnaa, -rnayd) Wax Eebbe qaddarey ahaansho. 
 
 qaddari f.g2 (-iyay, -isay) Qiimeyn; sharaf; tixgelin. 
 
@@ -1012,17 +826,13 @@ qaddarjabsanaan m.dh ld maskarjabsanaan.
 
 qaddarjabsanaansho  m.l/dh ld maskarjabsanaan. 
 
-qaddarjebi f.g2 (-iyay, -isay) Cid sharafta ka 
-
-qaadid.  
+qaddarjebi f.g2 (-iyay, -isay) Cid sharafta ka qaadid.  
 
 qaddarjebid m.dh ld maskarjabid. 
 
 qaddarjebin m.f.dh eeg qaddarjebi. 
 
-qaddarnaan m.f.dh eeg qaddaran. ld 
-
-qaddarnaansho.  
+qaddarnaan m.f.dh eeg qaddaran. ld qaddarnaansho.  
 
 qaddarnaansho m.l/dh ld qaddarnaan. 
 
@@ -1034,9 +844,7 @@ qaddiman f.mg4 (-mnaa, -mnayd) Hanti, wax la qaddimay ahaansho.
 
 qaddimid m.f.dh eeg qaddin. 
 
-qaddimnaan m.f.dh eeg qaddiman. ld 
-
-qaddimnaansho.  
+qaddimnaan m.f.dh eeg qaddiman. ld qaddimnaansho.  
 
 qaddimnaansho m.l/dh ld qaddimnaan. 
 
@@ -1044,9 +852,7 @@ qaddin f.g1 (-imay, -intay; -imi) Wax waqtigii la sameyn lahaa ama la bixin laha
 
 qaddiyad m.dh Dan iyo ujeeddo ay cid ama ummad leedahay. 
 
-qadduun m.dh (-uumo, m.l) 1. Shey duug ah oo aad u da' weyn oo waayihii hore lagu dhaqmi jirey. 2. Meel qof ama dad ku duuganyihiin; qabri. 3. Seef godan oo daab 
-
-qori ah leh. 
+qadduun m.dh (-uumo, m.l) 1. Shey duug ah oo aad u da' weyn oo waayihii hore lagu dhaqmi jirey. 2. Meel qof ama dad ku duuganyihiin; qabri. 3. Seef godan oo daab qori ah leh. 
 
 qadee f.mg2 (-deeyay, -deysay) Qado cunid. 
 
@@ -1058,11 +864,7 @@ qadeysiin m.f.dh eeg qadeysii.
 
 qadfan f.mg4 (-naa, -nayd) Wax la qadfay ahaansho. 
 
-qadfanaan  m.f.dh eeg 
-
-qadfan.  ld 
-
-qadfanaansho.  
+qadfanaan  m.f.dh eeg qadfan. ld qadfanaansho.  
 
 qadfanaansho m.l/dh ld qadfanaan. 
 
@@ -1082,19 +884,13 @@ qadiidi f.g2 (-iyay, -isay) Weel culay ku nadiifin.
 
 qadiidin m.f.dh eeg qadiidi. 
 
-qadiidsan f.mg4 (-naa, -nayd) Weel wax la 
+qadiidsan f.mg4 (-naa, -nayd) Weel wax la qadiidiyey ahaansho. 
 
-qadiidiyey ahaansho. 
-
-qadiidsanaan m.f.dh eeg qadiidsan. ld 
-
-qadiidsanaansho.  
+qadiidsanaan m.f.dh eeg qadiidsan. ld qadiidsanaansho.  
 
 qadiidsanaansho m.l/dh ld qadiidsanaan. 
 
-qadiim m.l.kh 1. Q. ah: shey gaboobay oo waqti hore ahaa. 2. Q. ah: wax waqtigii la isticmaali lahaa la soo dhaafay oo xumaaday. 
-
- ld qadiin. 
+qadiim m.l.kh 1. Q. ah: shey gaboobay oo waqti hore ahaa. 2. Q. ah: wax waqtigii la isticmaali lahaa la soo dhaafay oo xumaaday. ld qadiin. 
 
 qadiin¹ m.l ld qadiim. 
 
@@ -1110,9 +906,7 @@ qadoodi m.l Cunto la'aan in muddo ah lagu jiro.
 
 qadow¹ m.l 1. ld qadi 2. Geed yar oo jaadad badan ah dhirta waaweyn korkooda inta ka baxa magoola. 3. Cagaar ay yeeshaan geedaha qaarkood xilliga kaliisha. 
 
-qadow² f.mg1 (-dway, -dowday; -dwi) Geed 
-
-qadow bixin. 
+qadow² f.mg1 (-dway, -dowday; -dwi) Geed qadow bixin. 
 
 qadsan f.mg4 (-naa, -nayd) ld qatan. 
 
@@ -1120,15 +914,13 @@ qadsanaan m.f.dh ld qatanaan.
 
 qadsanaansho m.l/dh ld qatanaan. 
 
-qadsanow f.mg3 (-naaday, -naatay) ld 
-
-qatanow.  
+qadsanow f.mg3 (-naaday, -naatay) ld qatanow.  
 
 qadwid m.f.dh eeg qadow². 
 
 qafaal¹ m.l 1. Si xoog ah oo cid loo kaxeeyo si dano laga lahaa loogu fushado. 2. Meel dhir lahayd oo la baneeyo si beer looga dhigto. 
 
-qafaal² 661qafaal² f.g1 (-aalay, -aashay) 1. Cid xoog ku kaxayn si dan laga lahaa loogu fusho. 2. Meel dhir ka bannayn si beer looga dhigo. 
+qafaal² f.g1 (-aalay, -aashay) 1. Cid xoog ku kaxayn si dan laga lahaa loogu fusho. 2. Meel dhir ka bannayn si beer looga dhigo. 
 
 qafaalan f.mg4 (-lnaa, -lnayd) Wax la qafaalay ahaansho. 
 
@@ -1136,9 +928,7 @@ qafaalasho m.f.dh eeg qafaalo.
 
 qafaalid m.f.dh eeg qafaal². 
 
-qafaalnaan m.f.dh eeg qafaalan. ld 
-
-qafaalnaansho.  
+qafaalnaan m.f.dh eeg qafaalan. ld qafaalnaansho.  
 
 qafaalnaansho m.l/dh ld qafaalnaan. 
 
@@ -1146,37 +936,23 @@ qafaalo f.g3 (-aashay, -aalatay) Cid xoog ku kaxeeysasho si dan laga lahaa loogu
 
 qafal f.g1 (-alay, -ashay) Ciyaar dubno labada dhinac ka xirid iyada oo dhagax kale la gelin karin. 
 
-qafalmardax m.l.kh 1. Qof dabeecad xun leh. 2. Wax aan si wanaagsan u habeysnayn. 
-
- 3. Arrin iwm oo aan la garan karin waxna laga qaban karin. ld qafalmarjac. 
+qafalmardax m.l.kh 1. Qof dabeecad xun leh. 2. Wax aan si wanaagsan u habeysnayn. 3. Arrin iwm oo aan la garan karin waxna laga qaban karin. ld qafalmarjac. 
 
 qafalmarjac m.l ld qafalmardax. 
 
-qafas m.l 1. (-syo, m.dh) ld qafis. Sanduuq shabaq ka samaysan oo shimbiraha, ugaadha iwm lagu hayo. 2. Qasac yar oo maar ah, 
+qafas m.l 1. (-syo, m.dh) ld qafis. Sanduuq shabaq ka samaysan oo shimbiraha, ugaadha iwm lagu hayo. 2. Qasac yar oo maar ah, qaada tiro xabbado ah oo buntuqa, bistooladda iwm la geliyo. 
 
-qaada tiro xabbado ah oo buntuqa, bistooladda iwm la geliyo. 
+qafil¹ m.l (-llo, m.dh) 1. Shey bir ka samaysan oo gacan yar oo qoolaaban iyo duleel yar oo uu furaha galo leh, oo faseexadda albaabka, sanduuqa iwm lagu xiro. 2. ld qafilid. 3. quful ¹, qunful¹. 
 
-qafil¹ m.l (-llo, m.dh) 1. Shey bir ka samaysan oo gacan yar oo qoolaaban iyo duleel yar oo uu furaha galo leh, oo faseexadda albaabka, sanduuqa iwm lagu xiro. 2. ld qafilid. 
-
- 3. quful ¹, qunful¹. 
-
-qafil² f.g1 (-ilay, -ishay) Albaab, sanduuq iwm faseexaddooda qafil ku xirid. ld quful², 
-
-qunful².  
+qafil² f.g1 (-ilay, -ishay) Albaab, sanduuq iwm faseexaddooda qafil ku xirid. ld quful², qunful².  
 
 qafilan f.mg4 (-lnaa, -lnayd) Wax qafil ku xiranyahay ahaansho. ld qufulan, qunfulan. 
 
-qafilasho m.f.dh eeg qafilo. ld qufulasho, 
+qafilasho m.f.dh eeg qafilo. ld qufulasho, qunfulasho.  
 
-qunfulasho.  
+qafilid m.f.dh eeg qafil². ld qafil¹ (2), qafil¹, quful¹, qufulid, qunful.
 
-qafilid m.f.dh eeg qafil². ld qafil¹ (2), qafil¹, 
-
-quful¹, qufulid, qunful, qu 
-
-qafilnaan m.f.dh eeg qafilan. ld qafilnaansho, 
-
-qufulnaan, qufulnaansho, qunfulnaan. 
+qafilnaan m.f.dh eeg qafilan. ld qafilnaansho, qufulnaan, qufulnaansho, qunfulnaan. 
 
 qafilnaansho m.l/dh ld qafilnaan. 
 
@@ -1194,7 +970,7 @@ qaflamid m.f.dh eeg qaflan¹.
 
 qaflan¹ f.mg1 (-amay, -antay) Wax labada dhinac ka xiran noqosho (ciyaar dubnadeed). 
 
-qaflan² 662 f.mg4 (-naa, -nayd) Wax qaflan lagu sameeyay ahaansho (ciyaar dubnadeed). 
+qaflan² f.mg4 (-naa, -nayd) Wax qaflan lagu sameeyay ahaansho (ciyaar dubnadeed). 
 
 qaflanaan m.f.dh eeg qaflan². ld qaflanaansho. 
 
@@ -1218,11 +994,7 @@ qahraan m.l.kh (-nno, m.dh) 1. Q. ah: qof dhibaato badan. 2. Qof dhibban oo talo
 
 qahran f.mg4 (-naa, -nayd) Qof la qahray ahaansho. ld qaxran. 
 
-qahranaan  m.f.dh eeg 
-
-qahran.  ld 
-
-qahranaansho, qaxranaan, qaxranaansho. 
+qahranaan m.f.dh eeg qahran. ld qahranaansho, qaxranaan, qaxranaansho. 
 
 qahranaansho m.l/dh ld qahranaan. 
 
@@ -1232,9 +1004,7 @@ qahwe m.l ld qaxwe.
 
 qajaaful m.l ld qanjaaful. 
 
-qajaar m.l.u Miro yaryar oo cagaaran oo 
-
-qudaar ahaan loo cuno. 
+qajaar m.l.u Miro yaryar oo cagaaran oo qudaar ahaan loo cuno. 
 
 qajac m.l (-cyo, m.dh) Qaniis. 
 
@@ -1242,9 +1012,7 @@ qajajac m.dh.sh.r Hadal badan oo aan macne lahayn.
 
 qajeel¹ m.dh (-lyo, m.l) 1. Rajo. 2. Sida badan, marar badan, badanaa. Tus. “Qajeel buu yimaadaa”. 
 
-qajeel² f.g1 (-eelay, -eeshay) Wax rajo ka 
-
-qabid.  
+qajeel² f.g1 (-eelay, -eeshay) Wax rajo ka qabid.  
 
 qajeelid m.f.dh eeg qajeel². 
 
@@ -1274,29 +1042,19 @@ qalabayn m.f.dh eeg qalabee.
 
 qalabee f.g2 (-beeyay, -baysay) 1. Meel qalab u yeelid. 2. Cid hubeyn. 
 
-qal-aboodi m.l Firiiric yar yar oo cuncun leh oo oogada dadka ka soo yaaca kolka ay 
-
-qorraxdu kulushahay (kulayaaha). 
+qal-aboodi m.l Firiiric yar yar oo cuncun leh oo oogada dadka ka soo yaaca kolka ay qorraxdu kulushahay (kulayaaha). 
 
 qalad¹ m.l (-dyo, m.dh) Samaynta wax, fal, hadal iwm. loo sameeyo si aan sax ahayn; gef. 
 
-qalad² f.g/mg1 (-lday, -ladday; -ldi) 1. (f.g) Wax si aan sax ahayn u samayn. 2. (f.mg) Ku 
-
-q.: wax, wax kale oo aan ku habbooneyn ku 
-
-qasid.  
+qalad² f.g/mg1 (-lday, -ladday; -ldi) 1. (f.g) Wax si aan sax ahayn u samayn. 2. (f.mg) Ku q.: wax, wax kale oo aan ku habbooneyn ku qasid.  
 
 qalaggoo f.mg2 (-ooyay, -oysay) Nafley qalo ka bi'id. 
 
 qalaggoyn m.f.dh eeg qalaggoo. 
 
-qalal m.l (daaw.) Isku roorid muruqeed oo aan 
+qalal m.l (daaw.) Isku roorid muruqeed oo aan qofku ogeyn keentana qalqalloc jirka iyo addimada. 
 
-qofku ogeyn keentana qalqalloc jirka iyo addimada. 
-
-qalalaas m.l Degganaan iyo xasilooni la'aan. ld 
-
-qalalaase, qalalaaso. 
+qalalaas m.l Degganaan iyo xasilooni la'aan. ld qalalaase, qalalaaso. 
 
 qalalaase m.l ld qalalaas. 
 
@@ -1320,15 +1078,11 @@ qalami² m.dh Nafley yar oo indha waaweyn leh oo cagaha iyo dabada daanyeerka ug
 
 qalammi m.l Shiraac yar. ld qalami¹. 
 
-qalan¹ f.mg1 (-lmay, -lantay; -lmi) 1. Wax la 
-
-qalay noqosho (nafley). 2. U q.: wax, wax istaahilid. 
+qalan¹ f.mg1 (-lmay, -lantay; -lmi) 1. Wax la qalay noqosho (nafley). 2. U q.: wax, wax istaahilid. 
 
 qalan² f.mg4 (-lnaa, -lnayd) 1. Wax la qalay ahaansho (nafley). 2. U q.: wax, wax istaahila ahaansho. 
 
-qalanjo m.dh (-ooyin, ml.) 1. Maroodiga dheddig. 2. (riw.) Haweeney jisha qeybta ugu muhiimsan ee filin ama riwaayad. 
-
- 3. Naag aad u qurux badan. 
+qalanjo m.dh (-ooyin, ml.) 1. Maroodiga dheddig. 2. (riw.) Haweeney jisha qeybta ugu muhiimsan ee filin ama riwaayad. 3. Naag aad u qurux badan. 
 
 qalasho m.f.dh eeg qalo². 
 
@@ -1352,15 +1106,11 @@ qalaysasho m.f.dh eeg qalayso. ld qalaysi.
 
 qalaysi m.l ld qalaysasho. 
 
-qalaysnaan m.f.dh eeg qalaysan. ld 
-
-qalaysnaansho.  
+qalaysnaan m.f.dh eeg qalaysan. ld qalaysnaansho.  
 
 qalaysnaansho m.l/dh ld qalaysnaan. 
 
-qalayso f.mg3 (-stay, -satay) Hilib muddo yar 
-
-qudrad, subag iwm. ku shiilasho. 
+qalayso f.mg3 (-stay, -satay) Hilib muddo yar qudrad, subag iwm. ku shiilasho. 
 
 qalbac m.l (-cyo, m.dh) Labada fuq ee isle'eg, xalleefsan, isku aabburan oo miruhu leeyihiin middood. 
 
@@ -1374,13 +1124,7 @@ qalbifarnaansho m.l/dh ld qalbifurnaan.
 
 qalbifuran f.mg4 (-rnaa, -rnayd) Cid niyad wanaagsan leh ahaansho. 
 
-qalbifurnaan m.f.dh eeg qalbifuran. ld 
-
-qalbifarnaan,  
-
-qalbifarnaansho,  
-
-qalbifurnaansho.  
+qalbifurnaan m.f.dh eeg qalbifuran. ld qalbifarnaan, qalbifarnaansho, qalbifurnaansho.  
 
 qalbifurnaansho m.l/dh ld qalbifurnaan. 
 
@@ -1390,25 +1134,19 @@ qalbifurraan m.dh ld qalbifurnaan.
 
 qalbifurraansho m.l/dh ld qalbifurnaan. 
 
-qalbifurrow f.mg3 (-raaday, -raatay) ld 
+qalbifurrow f.mg3 (-raaday, -raatay) ld qalbifurnow.  
 
-qalbifurnow.  
-
-qalbijab¹ m.l 1. Dareen murugo leh oo ku dhasha qof wuxuu rabo waayey. 2. ld 
-
-qalbijebid. ld niyadjab¹. 
+qalbijab¹ m.l 1. Dareen murugo leh oo ku dhasha qof wuxuu rabo waayey. 2. ld qalbijebid. ld niyadjab¹. 
 
 qalbijab² f.mg1 (-bay, -btay; -jebi) Wax ka rajo dhigid. 
 
-qalbijebi 663qalbijebi f.g2 (-iyay, -isay) Cid qalbijab ku ridid. 
+qalbijebi f.g2 (-iyay, -isay) Cid qalbijab ku ridid. 
 
 qalbijebid m.f.dh eeg qalbijab². ld qalbijab¹. 
 
 qalbijebin m.f.dh eeg qalbijebi. 
 
-qalbisamaan m.f.dh eeg qalbisan. ld 
-
-qalbisamaansho, qalbisami, qalbisnaan. 
+qalbisamaan m.f.dh eeg qalbisan. ld qalbisamaansho, qalbisami, qalbisnaan. 
 
 qalbisamaansho m.l/dh ld qalbisamaan. 
 
@@ -1424,9 +1162,7 @@ qalbisnaan m.f.dh ld qalbisamaan.
 
 qalbisnaansho m.l/dh ld qalbisamaan. 
 
-qalbixumaan m.f.dh eeg qalbixun. ld 
-
-qalbixumaansho.  
+qalbixumaan m.f.dh eeg qalbixun. ld qalbixumaansho.  
 
 qalbixumaansho m.l/dh ld qalbixumaan. 
 
@@ -1448,23 +1184,15 @@ qalco m.dh ld qalcad.
 
 qaldamid m.f.dh eeg qaldan¹. 
 
-qaldan¹ f.g/mg1 (-amay, -antay; -ami) 1. Wax, wax kale ku qasan yihiin noqosho. 
-
- 2. Cid gefsan noqosho. 
+qaldan¹ f.g/mg1 (-amay, -antay; -ami) 1. Wax, wax kale ku qasan yihiin noqosho. 2. Cid gefsan noqosho. 
 
 qaldan² f.mg4 (-xay, -xday) 1. Wax si aan sax ahayn loo sameeyay ahaansho. 2. Wax gefsan noqosho. 
 
-qaldanaan  m.f.dh eeg 
-
-qaldan².  ld 
-
-qaldanaansho.  
+qaldanaan  m.f.dh eeg qaldan². ld qaldanaansho.  
 
 qaldanaansho m.l/dh ld qaldanaan. 
 
-qaldhac¹ m.l (-cyo, m.dh) Qori loo kala jeexay laba qalbac oo dabada looga xiro si uu saalada iyo neefta ugu cesho hal la doonayo in la oggolaysiiyo ilmo aysan dhalin. ld 
-
-qallac¹, qallax¹. 
+qaldhac¹ m.l (-cyo, m.dh) Qori loo kala jeexay laba qalbac oo dabada looga xiro si uu saalada iyo neefta ugu cesho hal la doonayo in la oggolaysiiyo ilmo aysan dhalin. ld qallac¹, qallax¹. 
 
 qaldhac² f.g1 (-cay, -cday; -dhici) Qaldhac dabada uga xirid (hal). ld qallac², qallax². 
 
@@ -1472,19 +1200,15 @@ qaldhacan f.mg4 (-cnaa, -cnayd) ld qallacan.
 
 qaldhacnaan m.dh ld qallacnaan. 
 
-qaldhacnaansho m.l/dh ld qallacnaan. 664 
+qaldhacnaansho m.l/dh ld qallacnaan. 
 
-qaldheb f.g/mg1 (-bay, -btay) 1. (f.g) Si degdeg ah biyo u cabbid (xoolo). 2. (f.mg) Awr wax uu rabo in uu dilo u fara baxsasho. ld 
-
-qaldhex.  
+qaldheb f.g/mg1 (-bay, -btay) 1. (f.g) Si degdeg ah biyo u cabbid (xoolo). 2. (f.mg) Awr wax uu rabo in uu dilo u fara baxsasho. ld qaldhex.  
 
 qaldhebid m.f.dh eeg qaldheb. 
 
 qaldhex f.g/mg1 -xey, -xday ld qaldheb. 
 
-qaldhicid m.f.dh eeg qaldhac². ld qaldhocod, 
-
-qallicid, qallixid. 
+qaldhicid m.f.dh eeg qaldhac². ld qaldhocod, qallicid, qallixid. 
 
 qaldhocod m.dh ld qaldhicid. 
 
@@ -1500,41 +1224,29 @@ qaleys m.l ld qaleyn.
 
 qaleysan f.mg4 (-snaa, -snayd) Wax la qaleyey ahaansho (hilib, bariis). 
 
-qaleysnaan m.f.dh eeg qaleysan. ld 
-
-qaleysnaansho.  
+qaleysnaan m.f.dh eeg qaleysan. ld qaleysnaansho.  
 
 qaleysnaansho m.l/dh ld qaleysnaan. 
 
 qalfaad¹ m.l ld qalfaadid. 
 
-qalfaad² f.g1 (-day, -dday) Jirrid aad u weyn 
-
-qorid si u noqdo doon. 
+qalfaad² f.g1 (-day, -dday) Jirrid aad u weyn qorid si u noqdo doon. 
 
 qalfaadid m.f.dh eeg qalfaad². ld qalfaad¹. 
 
 qalfoof m.l (-fyo, m.dh) Oogada nafleyda ee riciraha leh, iskujoogga lafahooda. 
 
-qalfoon m.l 1. Wax gudo leh oo dubkii sare oo muuqda mooyaane aanay hoosta waxba kaga jirin. 2. ld qamboob 3. Geed faalala oo miro kulkulucsan leh oo arigu aad u jecelyahay kana mid ah geedaha wax lagu daaweeyo. 
-
- 4. Qaybta sare ee lafta madaxa. 
+qalfoon m.l 1. Wax gudo leh oo dubkii sare oo muuqda mooyaane aanay hoosta waxba kaga jirin. 2. ld qamboob 3. Geed faalala oo miro kulkulucsan leh oo arigu aad u jecelyahay kana mid ah geedaha wax lagu daaweeyo. 4. Qaybta sare ee lafta madaxa. 
 
 qalid m.f.dh eeg qal². ld qalniin. 
 
-qaliid m.l (-dyo, m.dh) Cad ka samaysan 
+qaliid m.l (-dyo, m.dh) Cad ka samaysan qoryo si gaar ah isugu rakiban oo albaabbada lagu dhejiyo, si ay u xirmaan ama ayan u furmin; qori gaar ah oo ilko kala duwduwan leh baa lagu furaa. 
 
-qoryo si gaar ah isugu rakiban oo albaabbada lagu dhejiyo, si ay u xirmaan ama ayan u furmin; qori gaar ah oo ilko kala duwduwan leh baa lagu furaa. 
-
-qalin m.l 1. Qalab af dhuuban oo wax lagu 
-
-qoro. 2. Lacag (macdan). 3. Summad geela lagu dhigo oo ah diillin daanka loogu jiido si gudub ah. 
+qalin m.l 1. Qalab af dhuuban oo wax lagu qoro. 2. Lacag (macdan). 3. Summad geela lagu dhigo oo ah diillin daanka loogu jiido si gudub ah. 
 
 qalindaar¹ m.l Gacan wax qoraysa oo la nuuxiyo ama la taabto oo qoristii ka xumaato. 
 
-qalindaar² f.g1 (-ray, -rtay) Gacan wax 
-
-qoreysa jugsiin. 
+qalindaar² f.g1 (-ray, -rtay) Gacan wax qoreysa jugsiin. 
 
 qalindaarasho m.f.dh eeg qalindaaro. 
 
@@ -1544,9 +1256,7 @@ qalindaaro f.mg3 (-rtay, -ratay) 1. Qalin khad ku darasho. 2. Qof wax ka barasho
 
 qalinduurre m.l (-rayaal, m.l/dh) Nin kutubta wax yar ka yaqaan oo haddana wax kaqalliin² sheegsheega oo wadaad iska dhiga; kitaabgaab. 
 
-qalinjebi f.mg2 (-iyay, -isay) 1. Quraan dhammeyn (arday). 2. Tacliin dhammeyn. 
-
- 3. Ka q.: dugsi sare ama jaamacad la yaqaan ka soo bixid. 
+qalinjebi f.mg2 (-iyay, -isay) 1. Quraan dhammeyn (arday). 2. Tacliin dhammeyn. 3. Ka q.: dugsi sare ama jaamacad la yaqaan ka soo bixid. 
 
 qalinjebin m.f.dh eeg qalinjebi. 
 
@@ -1554,9 +1264,7 @@ qalinmadow m.l.u Ardada dugsiga quraanka dhigata.
 
 qalinshubato m.dh.u Dad sixirka yaqaan oo intay dadka indhasarcaadiyaan wax ka qaata. 
 
-qalinshube m.l (-bayaal, m.l/dh) Waxyaabaha la isku qurxiyo (siyaakhad) qof ka sameeya 
-
-qalin iyo dahab. 
+qalinshube m.l (-bayaal, m.l/dh) Waxyaabaha la isku qurxiyo (siyaakhad) qof ka sameeya qalin iyo dahab. 
 
 qallaafo m.l.u Hogfo. 
 
@@ -1564,23 +1272,15 @@ qallaal¹ m.l (-lo, m.dh) 1. Balli yar oo ay biyo ku hareen. 2. Duleelka sanka i
 
 qallaal² m.dh Waddo aan toobiye ahayn. 
 
-qallac¹ m.l 1. ld qallaco. Laba qalbac ee qori la kala jeexay oo geela wax diida faruuryaha inta xarig lagula qabto looga xiro, si marka uu xanuunsado uu u oggolaado dhashiisa ama mid kale ama uu u oggolaado. 
-
- 2. Shiraac doon oo dhuuban oo daqalka korkiisa lagu xiro. 
+qallac¹ m.l 1. ld qallaco. Laba qalbac ee qori la kala jeexay oo geela wax diida faruuryaha inta xarig lagula qabto looga xiro, si marka uu xanuunsado uu u oggolaado dhashiisa ama mid kale ama uu u oggolaado. 2. Shiraac doon oo dhuuban oo daqalka korkiisa lagu xiro. 
 
 qallac² f.g1 (-cay, -cday; -lici) 1. Hal ilmo diidday qallac ku samayn. 2. Shiraaca doonta daqal ku xirid. 
 
-qallacan f.mg4 (-cnaa, -cnayd) Qof oo geel 
-
-qallacay si kadis ah ahaansho. 
+qallacan f.mg4 (-cnaa, -cnayd) Qof oo geel qallacay si kadis ah ahaansho. 
 
 qallacid m.dh eeg qallac². 
 
-qallacnaan  m.dh eeg 
-
-qallacan.  ld 
-
-qallacnaansho.  
+qallacnaan  m.dh eeg qallacan. ld qallacnaansho.  
 
 qallacnaansho m.l/dh ld qallacnaan. 
 
@@ -1606,9 +1306,7 @@ qallafin m.f.dh eeg qallafi.
 
 qallafsan f.mg4 (-naa, -nayd) 1. Wax aan jilicsaneyn ahaansho. 2. Wax aan sulub ahayn ahaansho. 3. Wax aan sahlanayn ahaansho. 4. Qof dabeecad adag oo aan soo loodsamin ahaansho. 
 
-qallafsanaan m.f.dh eeg qallafsan. ld 
-
-qallafsanaansho.  
+qallafsanaan m.f.dh eeg qallafsan. ld qallafsanaansho.  
 
 qallafsanaansho m.l/dh ld qallafsanaan. 
 
@@ -1620,9 +1318,7 @@ qallajis¹ m.l ld qallajin.
 
 qallajis² m.l.u (c.nafl.) Xamaarato yar oo jaadad badan ah oo leh dhex dhuuban, dabo dhuuban iyo afar addin oo sida badan ku nool dhulka kuleylaha ah. 
 
-qallal¹ m.l 1. Cudur maskaxeed nafleyda ku dhaca oo suuxdin iyo gariir keena. 2. Cudur nafleyda dhinac naafeeya; dabeyl. 3. ld 
-
-qallalid.  
+qallal¹ m.l 1. Cudur maskaxeed nafleyda ku dhaca oo suuxdin iyo gariir keena. 2. Cudur nafleyda dhinac naafeeya; dabeyl. 3. ld qallalid.  
 
 qallal² f.mg1 (-alay, -ashay) 1. Wax qoyanaa engegid. 2. Qof sarco qaba suuxid. 3. Xubin jirka nafleyda ka mid ah hawl gabid. 
 
@@ -1630,11 +1326,7 @@ qallalan f.mg4 (-lnaa, -lnayd) 1. Wax qoyanaa wax engegay ahaansho. 2. Xubin jir
 
 qallalid m.f.dh eeg qallal². ld qallal¹ (3). 
 
-qallalnaan  m.f.dh eeg 
-
-qallalan.  ld 
-
-qallalnaansho, qallayl. 
+qallalnaan  m.f.dh eeg qallalan. ld qallalnaansho, qallayl. 
 
 qallalnaansho m.l/dh ld qallalnaan. 
 
@@ -1648,9 +1340,7 @@ qallaxnaan m.dh ld qallacnaan.
 
 qallaxnaansho m.l/dh ld qallalnaan. 
 
-qallayl m.l 1. Qoyaan iyo jileec la'aan. 2. ld 
-
-qallalnaan.  
+qallayl m.l 1. Qoyaan iyo jileec la'aan. 2. ld qallalnaan.  
 
 qallayn m.f.dh eeg qallee. 
 
@@ -1674,9 +1364,7 @@ qallibid m.f.dh eeg qallib². ld qallib¹.
 
 qallibmid m.f.dh eeg qalliban¹. 
 
-qallibnaan m.f.dh eeg qalliban². ld 
-
-qallibnaansho.  
+qallibnaan m.f.dh eeg qalliban². ld qallibnaansho.  
 
 qallibnaansho m.l/dh ld qallibnaan. 
 
@@ -1694,9 +1382,7 @@ qallooc² m.l (juqr.) Golxo laga helo haloodka webiga, oo si isdabjoog ah ugu le
 
 qallooc³ f.mg1 (-cay, -cday) Wax qaabkiisa dhan u janjeerin. 
 
-qalloocan f.mg4 (-cnaa, -cnayd) 1. Wax qaab toosnayn oo dhan u janjeera leh ahaansho. 
-
- 2. Hadal wax aan munaasab ahayn ahaansho. 3. Qof aan dabeecad wanaagsan lahayn ahaansho. ld qalloocsan. 
+qalloocan f.mg4 (-cnaa, -cnayd) 1. Wax qaab toosnayn oo dhan u janjeera leh ahaansho. 2. Hadal wax aan munaasab ahayn ahaansho. 3. Qof aan dabeecad wanaagsan lahayn ahaansho. ld qalloocsan. 
 
 qalloocasho m.f.dh eeg qallooco. ld qalloocid. 
 
@@ -1706,13 +1392,7 @@ qalloocid m.f.dh eeg qallooc². ld qalloocasho.
 
 qalloocin m.f.dh eeg qallooci. 
 
-qalloocnaan m.f.dh eeg qalloocan. ld 
-
-qalloocnaansho,  
-
-qalloocsanaan,  
-
-qalloocsanaansho.  
+qalloocnaan m.f.dh eeg qalloocan. ld qalloocnaansho, qalloocsanaan, qalloocsanaansho.  
 
 qallooco f.mg3 (-cday, -catay) 1. Wax dhan u janjeersasho. 2. Ka q.: hadal si aan habbooneyn u dhihid. 3. ld qallooc². 
 
@@ -1736,19 +1416,13 @@ qalluudid m.f.dh eeg qalluud². ld galluubid.
 
 qalluudsan f.mg4 (-naa, -nayd) Wax miskiin iska dhigaya ahaansho (qof). ld galluuban. 
 
-qalluudsanaan m.f.dh eeg qalluudsan. ld galluubnaan, galluubnaansho, 
-
-qalluudsanaansho.  
+qalluudsanaan m.f.dh eeg qalluudsan. ld galluubnaan, galluubnaansho, qalluudsanaansho.  
 
 qalluudsanaansho m.l/dh ld qalluudsanaan. 
 
-qalluul¹ m.dh Qarsashada cid wax ay 
+qalluul¹ m.dh Qarsashada cid wax ay qaybinaysay wax ka qarsato. 
 
-qaybinaysay wax ka qarsato. 
-
-qalluul² f.mg1 (-uulay, -uushay) Cid wax ay 
-
-qaybineysay wax ka qarsasho. 
+qalluul² f.mg1 (-uulay, -uushay) Cid wax ay qaybineysay wax ka qarsasho. 
 
 qalluulid m.f.dh eeg qalluul². 
 
@@ -1756,15 +1430,13 @@ qalmaan m.dh.w eeg qalin.
 
 qalmashube m.l ld qalinshube. 
 
-qalmid m.f.dh eeg qalan¹. 666 
+qalmid m.f.dh eeg qalan¹. 
 
 qalnaan m.f.dh eeg qalan². ld qalnaansho. 
 
 qalnaansho m.l/dh ld qalnaan. 
 
-qalniin m.l 1. Jeexdin lagu sameeyo meel jirka nafleyda ka mid ah si loo daweeyo. 2. ld 
-
-qalid.  
+qalniin m.l 1. Jeexdin lagu sameeyo meel jirka nafleyda ka mid ah si loo daweeyo. 2. ld qalid.  
 
 qalo¹ m.l Hal neef oo baadi ah. 
 
@@ -1782,13 +1454,9 @@ qaloombi² f.mg1/2 (-iyay, -iday/-isay) Dhawaaq xoog leh oo aan kala joogsi laha
 
 qaloombin m.dh ld qaloombiyid. 
 
-qaloombiyid m.f.dh eeg qaloombi². ld 
+qaloombiyid m.f.dh eeg qaloombi². ld qaloombi¹, qaloombin. 
 
-qaloombi¹, qaloombin. 
-
-qaloon m.l 1. Maseggo, galley, digir iwm oo la dubay. 2. Meesha qalloocan oo salka hunguriga nafleyda. 3. Jirro ku dhacda 
-
-qoorta oo bararisa. 
+qaloon m.l 1. Maseggo, galley, digir iwm oo la dubay. 2. Meesha qalloocan oo salka hunguriga nafleyda. 3. Jirro ku dhacda qoorta oo bararisa. 
 
 qaloondub m.l (-byo, m.l) Dube. 
 
@@ -1804,17 +1472,13 @@ qalowleyn m.f.dh eeg qalowlee.
 
 qalqaali f.g2 (-iyay, -isay) Hawl qabashadeeda isku taxluujin ama qabanqaabin. 
 
-qalqaalin m.f.dh eeg qalqaali. ld qalqaalis, 
-
-qalqaalo (1). 
+qalqaalin m.f.dh eeg qalqaali. ld qalqaalis, qalqaalo (1). 
 
 qalqaalis m.l ld qalqaalin. 
 
 qalqaalli m.l.kh Q. ah: wiil rabsho badan. 
 
-qalqaalo m.dh 1. ld qalqaalin. Isku dubbarididda hawl arrin iwm qabashadooda. 
-
- 2. Hanti aan badnayn oo qof la siiyo. 
+qalqaalo m.dh 1. ld qalqaalin. Isku dubbarididda hawl arrin iwm qabashadooda. 2. Hanti aan badnayn oo qof la siiyo. 
 
 qalqal¹ m.l ld khalkhal¹. 
 
@@ -1822,7 +1486,7 @@ qalqal² f.mg1 (-alay, -ashay) ld khalkhal².
 
 qalqale m.l 1. Summad geela lagu dhigo oo u eg qaanso aad loo tooxay oo dheegga lagu dhigo. 2. Kolay harag ka samaysan oo fardooleyda, xoolo jirta iwm wax ku ritaan. 
 
-qalqali f.g2 (-iyay, -isay) ld khalkhali.qamiicsanaansho 
+qalqali f.g2 (-iyay, -isay) ld khalkhali. 
 
 qalqalid m.dh ld khalkhalid. 
 
@@ -1840,19 +1504,13 @@ qalwayn m.dh ld khilaawayn.
 
 qalwee f.mg2 (-weeyay, -weysay) ld khilaawee. 
 
-qalwi f.g2 (-iyay, -isay) 1. Hilib iwm holac ku dubid. 2. Weel iwm holac ku diirin. 
-
- 3. Fuud, dawo iwm nafley afka uga shubid. 
-
- ld halwi. 
+qalwi f.g2 (-iyay, -isay) 1. Hilib iwm holac ku dubid. 2. Weel iwm holac ku diirin. 3. Fuud, dawo iwm nafley afka uga shubid. ld halwi. 
 
 qalwin m.f.dh eeg qalwi. ld halwin. 
 
 qalwis m.l Q. ah: hilib iwm oo holac lagu dubay. 
 
-qalwo m.dh (-ooyin, m.l) 1. God ciriiri ah oo buuraha iyo qararka dhexdooda ku samaysma. 2. ld qalawo. Edeg yar. 
-
- 3. Dhismo yaroo wax lagu dabo. 4. ld khilaawo. 
+qalwo m.dh (-ooyin, m.l) 1. God ciriiri ah oo buuraha iyo qararka dhexdooda ku samaysma. 2. ld qalawo. Edeg yar. 3. Dhismo yaroo wax lagu dabo. 4. ld khilaawo. 
 
 qalyaro m.dh Qalka hoose ee afka nafleyda oo ka yaraada sidii caadiga ahayd. 
 
@@ -1860,9 +1518,7 @@ qalyayax m.l.kh 1. Q. ah: qof dheer caato ah oo lafo waaweyn. 2. Lafo is haysta 
 
 qalyayaxsan f.mg4 (-naa, -nayd) 1. Wax lafo waawayn oo caato ah ahaansho (qof). 2. Lafo is haysta oo hiliibkii ka dhammaaday ahaansho. 
 
-qalyayaxsanaan m.f.dh eeg qalyayaxsan. ld 
-
-qalyayaxsanaansho.  
+qalyayaxsanaan m.f.dh eeg qalyayaxsan. ld qalyayaxsanaansho.  
 
 qalyayaxsanaansho m.l/dh ld qalyayaxsanaan. 
 
@@ -1872,19 +1528,13 @@ qamaamud¹ m.l Isqarinta qof maro, maqaar iwm isku qariyo.
 
 qamaamud² f.mg1 (-day, -dday) Maro, maqaar iwm isku qarin (qof). 
 
-qamaamudan f.mg4 (-dnaa, -dnayd) Wax is 
-
-qamaamuday ahaansho (qof). 
+qamaamudan f.mg4 (-dnaa, -dnayd) Wax is qamaamuday ahaansho (qof). 
 
 qamaamudid m.f.dh eeg qamaamud². 
 
-qamaamudnaan m.f.dh eeg qamaamudan. ld 
+qamaamudnaan m.f.dh eeg qamaamudan. ld qamaamudnaansho.  
 
-qamaamudnaansho.  
-
-qamaamudnaansho  m.l/dh ld 
-
-qamaamudnaan.  
+qamaamudnaansho  m.l/dh ld qamaamudnaan.  
 
 qamaan¹ m.l Ku soo yaacidda meel wax yaalliin ama wax ka dhaceen lagu soo yaaco. 
 
@@ -1892,19 +1542,11 @@ qamaan² f.mg1 (-aamay, -aantay; -aami) Meel ay wax yaalliin ama wax ka dheceen 
 
 qamadi m.l/dh Badar bariiska u eg lana eg laakiin ka midab duwan oo la cuno. 
 
-qamandhaceysan f.mg4 (-snaa, -snayd) Wax 
+qamandhaceysan f.mg4 (-snaa, -snayd) Wax qamandhaco hayso ahaansho. 
 
-qamandhaco hayso ahaansho. 
+qamandhaceysnaan  m.f.dh eeg qamandhaceysan. ld qamandhaceysnaansho.  
 
-qamandhaceysnaan  m.f.dh eeg 
-
-qamandhaceysan.  ld 
-
-qamandhaceysnaansho.  
-
-qamandhaceysnaansho  m.l/dh ld 
-
-qamandhaceysnaan.  
+qamandhaceysnaansho  m.l/dh ld qamandhaceysnaan.  
 
 qamandhaco m.dh Qarqaryo jariirico wadata oo ku dhalata oogada marka ay dhaxan badan dareento. 
 
@@ -1922,13 +1564,9 @@ qamarshiidan f.mg4 (-dnaa, -dnayd) Badar wax buunshaha lagu shiidey ahaansho.
 
 qamarshiidid m.f.dh eeg qamarshiid². 
 
-qamarshiidnaan m.f.dh eeg qamarshiidan. ld 
+qamarshiidnaan m.f.dh eeg qamarshiidan. ld qamarshiidnaansho.  
 
-qamarshiidnaansho.  
-
-qamarshiidnaansho  m.l/dh ld 
-
-qamarshiidnaan.  
+qamarshiidnaansho  m.l/dh ld qamarshiidnaan.  
 
 qambarac m.dh 1. Ceeb weyn oo ka timaada fal xun ee uu qof sameeyey. 2. Jac. 
 
@@ -1936,13 +1574,9 @@ qambaruur m.l 1. Tiiraanyo ka muuqata qof ooyaaya. 2. ld qambaruursasho.
 
 qambaruursan f.mg4 (-naa, -nayd) Qof ooyaaya wax wejigiisa tiiraanyo ka muuqata ahaansho. 
 
-qambaruursanaan m.f.dh eeg qambaruursan. ld 
+qambaruursanaan m.f.dh eeg qambaruursan. ld qambaruursanaansho.  
 
-qambaruursanaansho.  
-
-qambaruursanaansho  m.l/dh ld 
-
-qambaruursanaan.  
+qambaruursanaansho  m.l/dh ld qambaruursanaan.  
 
 qambaruursasho m.f.dh eeg qambaruurso. 
 
@@ -1960,11 +1594,9 @@ qamiicid m.f.dh eeg qamiic².
 
 qamiicsan f.mg4 (-naa, -nayd) Ka q.: qof wax saluugsan ahaansho. 
 
-qamiicsanaan m.f.dh eeg qamiicsan. ld 
+qamiicsanaan m.f.dh eeg qamiicsan. ld qamiicsanaansho.  
 
-qamiicsanaansho.  
-
-qamiicsanaansho m.l/dh ld qamiicsanaan. 667qamiir¹ 
+qamiicsanaansho m.l/dh ld qamiicsanaan.
 
 qamiir¹ m.l ld khamiir¹. 
 
@@ -2004,9 +1636,7 @@ qamisasho m.f.dh eeg qamiso.
 
 qamisid m.f.dh eeg qamis². 
 
-qamisnaan m.f.dh eeg qamisan. ld 
-
-qamisnaansho.  
+qamisnaan m.f.dh eeg qamisan. ld qamisnaansho.  
 
 qamisnaansho m.l/dh ld qamisnaan. 
 
@@ -2020,33 +1650,23 @@ qammaacid m.f.dh eeg qammaac².
 
 qammaad¹ m.l 1. Baajinta ama ka wareegidda wax sameyntooda. 2. Miyir doorsoomidda lala miyirdoorsoomo harraad, gaajo iyo daal badan. 3. Leexashada meelhalis ah laga leexdo. 4. ld qammaadid. 
 
-qammaad² f.mg1 (-day, -dday) 1. Harraad, gaajo iyo daal badan la miyirdoorsoomid. 
-
- 2. Ka q.: wax sameyntooda ama meel mariddeed ka wareegid. 
+qammaad² f.mg1 (-day, -dday) 1. Harraad, gaajo iyo daal badan la miyirdoorsoomid. 2. Ka q.: wax sameyntooda ama meel mariddeed ka wareegid. 
 
 qammaadi f.g2 (-iyay, -isay) 1. Ka q.: cid meel xoog kaga celin. 2. Ka q.:wax meel halis ah ka weecin. 
 
-qammaadid m.f.dh eeg qammaad². ld 
-
-qammaad¹ (4). 
+qammaadid m.f.dh eeg qammaad². ld qammaad¹ (4). 
 
 qammaadin m.f.dh eeg qammaadi. 
 
 qammaadsan f.mg4 (-naa, -nayd) Harraad, gaajo iyo daal awgii wax la miyirdoorsoomay ahaansho. 
 
-qammaadsanaan m.f.dh eeg qammaadsan. ld 
+qammaadsanaan m.f.dh eeg qammaadsan. ld qammaadsanaansho.  
 
-qammaadsanaansho.  
+qammaadsanaansho  m.l/dh ld qammaadsanaan.  
 
-qammaadsanaansho  m.l/dh ld 
+qammaamiir m.dh.u ld qammaamuur.
 
-qammaadsanaan.  
-
-qammaamiir m.dh.u ld qammaamuur. 668 
-
-qammaamuur m.dh.u Ragga intiisa qiimaha iyo qaddarinta ku leh bulshada dhexdeeda. ld 
-
-qammaamiir.  
+qammaamuur m.dh.u Ragga intiisa qiimaha iyo qaddarinta ku leh bulshada dhexdeeda. ld qammaamiir.  
 
 qammi m.l ld hammi¹. 
 
@@ -2054,9 +1674,7 @@ qamuunyeeysan f.mg4 (-naa, -nayd) Wax ciil iyo caro awgeed bushimaha la qaniinaa
 
 qamuunyeysnaan m.f.dh eeg qamuunyeeysan. ld qamuunyeeysnaansho. 
 
-qamuunyeysnaansho  m.l/dh ld 
-
-qamuunyeysnaan.  
+qamuunyeysnaansho  m.l/dh ld qamuunyeysnaan.  
 
 qamuunyo m.dh Ciil iyo caro badan oo bushinta hoose lala qaniino. 
 
@@ -2072,9 +1690,7 @@ qamuuris m.l ld qamuurin.
 
 qamuursan f.mg4 (-naa, -nayd) Wax la deday ahaansho. 
 
-qamuursanaan m.f.dh eeg qamuursan. ld 
-
-qamuursanaansho.  
+qamuursanaan m.f.dh eeg qamuursan. ld qamuursanaansho.  
 
 qamuursanaansho m.l/dh ld qamuursanaan. 
 
@@ -2088,11 +1704,7 @@ qanaani f.mg2 (-iyay, -isay) Dabo kor u taagid (xoolo).
 
 qanaanin m.f.dh eeg qanaani. 
 
-qanaat m.l (-tyo, m.dh) (juqr.) Sida Iiraan looga yaqaan, waa marin biyood dhulka ka hooseeya oo biyaha waraabka ka soo qaada buuraha roobku ku badanyahay geeyana dhulalka qallalan ee ka hooseeya. Marinka 
-
-qanaatka waxaa laga arki karaa hawada, maxaa yeelay waxaa jira daloollo wareegsan oo in isu jir-jira oo u eg karaytarro yar-yar. 
-
- Qanaatka waxay isleeyihiin foggaaraha woqooyiga Afrika. 
+qanaat m.l (-tyo, m.dh) (juqr.) Sida Iiraan looga yaqaan, waa marin biyood dhulka ka hooseeya oo biyaha waraabka ka soo qaada buuraha roobku ku badanyahay geeyana dhulalka qallalan ee ka hooseeya. Marinka qanaatka waxaa laga arki karaa hawada, maxaa yeelay waxaa jira daloollo wareegsan oo in isu jir-jira oo u eg karaytarro yar-yar. Qanaatka waxay isleeyihiin foggaaraha woqooyiga Afrika. 
 
 qanabee f.mg2 (-beeyay, -beysay) Awr qooqan isaga oo madaxa laalaadinaya, daamankana isla dhacaya ordid. ld gamlee. 
 
@@ -2100,17 +1712,13 @@ qanabeyn m.f.dh eeg qanabee.
 
 qanabo m.dh Orodka awr qooqani sameeyo isaga oo madaxa laallaadinaya daamankana isla dhacaya. 
 
-qanac¹ m.l 1. Raalliggelin, maqsuudin. 2. Kadhaadhicin, aaminaad. 3. Q. badan: 
-
-qof wax yar ku qanca. 
+qanac¹ m.l 1. Raalliggelin, maqsuudin. 2. Kadhaadhicin, aaminaad. 3. Q. badan: qof wax yar ku qanca. 
 
 qanac² f.mg1 (-ncay, -nacday; -nci) 1. Qof arrin ama wax kale raali ku noqosho. 2. Wax ka quusasho.qandi 
 
 qanacsan f.mg4 (-naa, -nayd) 1. Cid, wax raali ku ah ahaansho. 2. Cid, wax ka quusatay ahaan. 
 
-qanacsanaan m.f.dh eeg qanacsan. ld 
-
-qanacsanaansho.  
+qanacsanaan m.f.dh eeg qanacsan. ld qanacsanaansho.  
 
 qanacsanaansho m.l/dh ld qanacsanaan. 
 
@@ -2130,9 +1738,7 @@ qandac² f.mg1 (-cay, -cday; -dici) Wax in yar kululaaday noqosho.
 
 qandacsan f.mg4 (-naa, -nayd) Wax qandacay ahaansho. 
 
-qandacsanaan m.f.dh eeg qandacsan. ld 
-
-qandacsanaansho.  
+qandacsanaan m.f.dh eeg qandacsan. ld qandacsanaansho.  
 
 qandacsanaansho m.l/dh ld qandacsanaan. 
 
@@ -2146,7 +1752,7 @@ qandal m.l (-llo, m.dh) 1. Geed dhirta dhaadheer ka mid ah oo bixiya laamo toost
 
 qandaraas m.l (-syo, m.dh) Heshiis hawleed laba dhinac dhex mara. 
 
-qandhada deng m.dh (daaw.) Cudur la isqaadsiyo oo fiirus keeno waxaana qaada jeermiga kaneecada la yiraadhdo “aedes aegypty”. Astaamo: xubno xanuun, qandho, madax xanuun, muruqyo xanuun, ilmayn, cuno xanuun, finan cuncun leh oo oogada ka soo baxa. Astaamahaasu waxay jiraan muddo ayaamo ah. 
+qandhada-deng m.dh (daaw.) Cudur la isqaadsiyo oo fiirus keeno waxaana qaada jeermiga kaneecada la yiraadhdo “aedes aegypty”. Astaamo: xubno xanuun, qandho, madax xanuun, muruqyo xanuun, ilmayn, cuno xanuun, finan cuncun leh oo oogada ka soo baxa. Astaamahaasu waxay jiraan muddo ayaamo ah. 
 
 qandhaggalti m.l Xanuun xummad leh oo ku dhaca qof yimaada meel uusan hore u joogi jirin. 
 
@@ -2158,13 +1764,9 @@ qandhee f.g2 (-dheeyay, -dheysay) Qandho kicin. ld qandhi.
 
 qandheyn m.f.dh eeg qandhee. ld qandhin. 
 
-qandheysan f.mg4 (-snaa, -snayd) Nafley ay 
+qandheysan f.mg4 (-snaa, -snayd) Nafley ay qandho hayso ahaansho. 
 
-qandho hayso ahaansho. 
-
-qandheysnaan m.f.dh eeg qandheysan. ld 
-
-qandheysnaansho.  
+qandheysnaan m.f.dh eeg qandheysan. ld qandheysnaansho.  
 
 qandheysnaansho m.l/dh ld qandheysnaan. 
 
@@ -2176,11 +1778,7 @@ qandhin m.dh ld qandheyn.
 
 qandhiso m.dh.u Booddo. 
 
-qandho¹  m.dh 1. Xummad. 
-
- 2. Jirro. 
-
- 3. Duumo. 
+qandho¹  m.dh 1. Xummad. 2. Jirro. 3. Duumo. 
 
 qandho² m.dh (daaw.) Kulka jirka oo ka saramara kulka caadiga ah ee jirka: haddii afka laga cabbiro waxa weeye: 98,6° F oo u dhiganta 37° C. Haddii futada laga cabbirana waxa weeye = 99° F oo dhiganta = 37° C. 
 
@@ -2194,21 +1792,13 @@ qandhoo f.mg3 (-ooday, -ootay) ld qandho².
 
 qandhood m.l eeg qandhoo. ld qandhasho. 
 
-qandho-tifow m.dh (daaw.) Cudur la isqaadsiyo oo ku dhaca xubnaha qaybta dheefshiidka, waxaana keena baktiiriyada “salmonella typhi”. Astaamo: itaaldarro, 
-
-qandho badan, finan ka soo baxa laabta iyo jirka ka hooseeya, qarqaryo, dhidid iyo halaamacood lafaha iyo beeryarada (xaaladaha daran) dhiigbax ka yimid xiidmaha oo dalooshama, iskudaran. Waxaa laga qaadaa cunno ama biyo uu gaaray saxaro 
-
-qof qaba cudurka ama qof sida jeermigiisa oo aan bukin (carriers). 
+qandho-tifow m.dh (daaw.) Cudur la isqaadsiyo oo ku dhaca xubnaha qaybta dheefshiidka, waxaana keena baktiiriyada “salmonella typhi”. Astaamo: itaaldarro, qandho badan, finan ka soo baxa laabta iyo jirka ka hooseeya, qarqaryo, dhidid iyo halaamacood lafaha iyo beeryarada (xaaladaha daran) dhiigbax ka yimid xiidmaha oo dalooshama, iskudaran. Waxaa laga qaadaa cunno ama biyo uu gaaray saxaro qof qaba cudurka ama qof sida jeermigiisa oo aan bukin (carriers). 
 
 qandhuufad m.l ld qandhuufasho. 
 
-qandhuufasho m.f.dh eeg qandhuufo². ld 
+qandhuufasho m.f.dh eeg qandhuufo². ld qandhuufad, qanjaruufad, qanjaruufasho. 
 
-qandhuufad, qanjaruufad, qanjaruufasho. 
-
-qandhuufo¹ m.dh Far iyo suul ciddiyahooda oo xoog meel qof jirkiisa ka mid ah loogu 
-
-qabto si loo xanuujiyo. ld qanjaruufo¹. 
+qandhuufo¹ m.dh Far iyo suul ciddiyahooda oo xoog meel qof jirkiisa ka mid ah loogu qabto si loo xanuujiyo. ld qanjaruufo¹. 
 
 qandhuufo² f.g3 (-ftay, -fatay) 1. Far iyo suul ciddiyahooda cid ku xanuujin. 2. Cid hoos ugu baaqid. ld qanjaruufo². 
 
@@ -2216,7 +1806,7 @@ qandhuur m.dh (-ro, m.l) Siil.
 
 qandi m.l (-iyo/qandi, m.dh) Kolay yar oo wax lagu gurto. 
 
-qandici 669qandici f.g2 (-iyay, -isay) Wax in yar kululayn. 
+qandici f.g2 (-iyay, -isay) Wax in yar kululayn. 
 
 qandicid m.f.dh eeg qandac². 
 
@@ -2244,9 +1834,7 @@ qanduur m.dh (-ro, m.l) Siil.
 
 qaneecaad¹ m.l Khayr; wanaag; barako. ld caneeqaad, qaneeco. 
 
-qaneecaad² f.mg1 (-day, -dday) 1. Wax barako yeelasho. 2. Ku q.: wax ku liibaanid. 
-
- ld caneeqaad². 
+qaneecaad² f.mg1 (-day, -dday) 1. Wax barako yeelasho. 2. Ku q.: wax ku liibaanid. ld caneeqaad². 
 
 qaneecaadid m.f.dh eeg qaneecaad². ld caneeqaadid. 
 
@@ -2258,9 +1846,7 @@ qaniimad m.dh 1. Hanti badan. 2. Maal gaalo laga qabsaday, kaddib markii la jebi
 
 qaniimeysad m.l ld qaniimeysasho. 
 
-qaniimeysasho m.f.dh eeg qaniimeyso. ld 
-
-qaniimeysad, qaniimeysi. 
+qaniimeysasho m.f.dh eeg qaniimeyso. ld qaniimeysad, qaniimeysi. 
 
 qaniimeysi m.l ld qaniimeysasho. 
 
@@ -2286,71 +1872,51 @@ qanjaaful m.l/dh (-lo, m.l/dh) 1. Ciddida inteeda dheer oo ka baxda qoobka 670 l
 
 qanjad m.dh (-do, m.l) Doonni baqalka ka yar oo hore u dhuuban gadaalna u ballaaran. 
 
-qanjaruufasho m.f.dh eeg qanjaruufo². ld 
-
-qandhuufasho.  
+qanjaruufasho m.f.dh eeg qanjaruufo². ld qandhuufasho.  
 
 qanjaruufo¹ m.dh ld qandhuufo¹. 
 
-qanjaruufo² f.g3 (-ftay, -fatay) ld 
-
-qandhuufo².  
+qanjaruufo² f.g3 (-ftay, -fatay) ld qandhuufo².  
 
 qanje m.l Cudur ariga ku dhaca oo markiiba dila. ld qanjo. 
 
 qanjidh m.l (-dho, m.l) (c.nafl.) Organ soo saara walxo si uu u dhiijiyo. Qanjidhku wuxuu noqon karaa mid weyn, tusaale ahaan: beerka, ama wuxuu noqon karaa mid yar; qanjidh dhidid. ld qanjir. 
 
-qanjidh taymas m.l Qanjir ku yaal lafta shafka xaggeeda gudaha xigta, caruurta keliya ayaa leh, dadka waaweyn waa ka baaba'a, wuxuuna ka tirsanyahay qaybta difaaca jirka. 
+qanjidh-taymas m.l Qanjir ku yaal lafta shafka xaggeeda gudaha xigta, caruurta keliya ayaa leh, dadka waaweyn waa ka baaba'a, wuxuuna ka tirsanyahay qaybta difaaca jirka. 
 
-qanjidh-dhidid m.l (-dho ..., m.l) (c.nafl.) Qanjidh dhuuban oo leexleexsan oo ku yaalla dubka. Waxa uu soo daayaa dhidid. 
+qanjidh-dhidid m.l (-dho ..., m.l) (c.nafl.) Qanjidh dhuuban oo leexleexsan oo ku yaalla dubka. Waxa uu soo daayaa dhidid. Tirada qanjidh dhididku waa ay ku kala duwantahay xayawaanka. 
 
- Tirada qanjidh dhididku waa ay ku kala duwantahay xayawaanka. 
-
-qanjidhka tayroydh m.l (c.nafl.) Qanjidh marinla' oo laba laab leh oo laga helo lafdhabarleyda kuna yaalla salka qoorta. 
-
- Wuxuu dhiijiyaa laba horomoon oo ay ku jirto ayoodhiin, oo kala ah tayrogsiin iyo tarayodhoytayrosiin, kuwaas oo xukuma dariiqooyinka dheefsasho ee jidhka oo dhan. 
-
- Waxa kale oo ay duudsiyaan koritaanka duleed. 
+qanjidhka-tayroydh m.l (c.nafl.) Qanjidh marinla' oo laba laab leh oo laga helo lafdhabarleyda kuna yaalla salka qoorta. Wuxuu dhiijiyaa laba horomoon oo ay ku jirto ayoodhiin, oo kala ah tayrogsiin iyo tarayodhoytayrosiin, kuwaas oo xukuma dariiqooyinka dheefsasho ee jidhka oo dhan. Waxa kale oo ay duudsiyaan koritaanka duleed. 
 
 qanjidh-kelyood m.l (-dho ..., m.l) (c.nafl.) Lammaane ka mid ah qanjidhada marinka la' oo laga helo kelyaha dushooda. Qaybta gudaha ee qanjidh kelyoodyada oo loo yaqaanno 'medula' ayaa waxay dhiijisaa horomoonada kala ah adirinaliin iyo noradirnoliin. 
 
-qanjidh-marinla' m.l (c.nafl.) Qanjidh kasta oo xayawaanka laga helo, kaas oo soo saara horomoonno, si toos ahna ugu dhiijiya 
+qanjidh-marinla' m.l (c.nafl.) Qanjidh kasta oo xayawaanka laga helo, kaas oo soo saara horomoonno, si toos ahna ugu dhiijiya qulqulka dhiigga, si ay shaqo uga qabtaan meelo kala durugsan oo jidhka ka mid ah 
 
-qulqulka dhiigga, si ay shaqo uga qabtaan meelo kala durugsan oo jidhka ka mid ah 
-
-qanjidhada marinkala' waxay xukumaan waxqabadyada qunyar socodka ah ee waqti dheer qaata ee jidhka, sida koritaanka qofka iyo korriinka sinjiyeed. 
+qanjidhada-marinkala' waxay xukumaan waxqabadyada qunyar socodka ah ee waqti dheer qaata ee jidhka, sida koritaanka qofka iyo korriinka sinjiyeed. 
 
 qanjidh-marinleh m.l (c.nafl.) Qanjidh marin leh oo dheecaanno qanjidheedka ku sii daaya guudka ibitiiliyalka ee jidhka dushiisa ama moqor unugeedka calool yarada.qaraabid 
 
 qanjidh-tarmeed m.l (c.nafl.) Organno had iyo jeer lammaane ah oo laga helo xayawaanka, kuwaas oo soo saara gaameytyo. 
 
-qanjiiri f.g2 (-iyay, -isay) Wax si xoog leh u 
-
-qandhuufasho.  
+qanjiiri f.g2 (-iyay, -isay) Wax si xoog leh u qandhuufasho.  
 
 qanjiirin m.f.dh eeg qanjiiri. 
 
 qanjiiro m.dh Qandhuufo. 
 
-qanjir¹ m.l 1. Cad yar jirka nafleyda ku yaal oo dhala dheecaano uu jirku u baahanyahay. 
+qanjir¹ m.l 1. Cad yar jirka nafleyda ku yaal oo dhala dheecaano uu jirku u baahanyahay 2. Q. ah: qof aan shakhsiyad wanaagsan lahayn. 3. ld qanjirid. ld qanjidh. 
 
-qanjir² 2. Q. ah: qof aan shakhsiyad wanaagsan lahayn. 3. ld qanjirid. ld qanjidh f.mg1 (-ray, -rtay) Badar siiba digir karis xumo awgeed bislaan waayid. 
+qanjir² f.mg1 (-ray, -rtay) Badar siiba digir karis xumo awgeed bislaan waayid. 
 
 qanjirabarar m.l ld qanjirbarar. 
 
 qanjirbarar¹ m.l Qanjirka oo jirro awgeed barara. ld qanjirabarar. 
 
-qanjirbarar² m.l (daaw.) Halaamacoodka 
-
-qanjirrada liinfada kuwaas oo barara, xanuun yeesha ayna adkaadaan xaaladaha qaarkood waa hallaamacood muddo dheer (cronica) sida qanjibararka ka yimaada cudurka 
-
-qaaxada, inta badanse waa cudur muddo gaaban (acuta) oo ku kooban meel jirka ka mid ah oo u dhow addin dhaawacan. 
+qanjirbarar² m.l (daaw.) Halaamacoodka qanjirrada liinfada kuwaas oo barara, xanuun yeesha ayna adkaadaan xaaladaha qaarkood waa hallaamacood muddo dheer (cronica) sida qanjibararka ka yimaada cudurka qaaxada, inta badanse waa cudur muddo gaaban (acuta) oo ku kooban meel jirka ka mid ah oo u dhow addin dhaawacan. 
 
 qanjir-bituwitary m.l (c.nafl.) Qanjir dhiiqa ugu muhiimsan: qanjir yar oo ku yaal “hypothalamus-ka” hoostiisa wuxuuna ku jira god laf ka dhex qodan lafta madaxa salkeeda. 
 
-qanjir-borosteyd m.l (c.nafl.) Qanjir dheeraad ah oo raggu leeyahay oo u furan kaadi mareenka ka hooseeya kaadihaysta iyo dhuumaha shahwada meeshaay kaga darsamaan. Xilliga biyobixidda ragga wuxu 
-
-qanjirku soo daaya biyo alkalayn ah oo ku darsama shahwada. 
+qanjir-borosteyd m.l (c.nafl.) Qanjir dheeraad ah oo raggu leeyahay oo u furan kaadi mareenka ka hooseeya kaadihaysta iyo dhuumaha shahwada meeshaay kaga darsamaan. Xilliga biyobixidda ragga wuxu qanjirku soo daaya biyo alkalayn ah oo ku darsama shahwada. 
 
 qanjirid m.f.dh eeg qanjir². ld qanjir¹ (3). 
 
@@ -2360,9 +1926,7 @@ qanjir-liinfeed m.l (c.nafl.) Qanjirro yaryar oo kuuskuusan oo ku yaal xarumo ka
 
 qanjirsan f.mg4 (-naa, -nayd) Badar si xun loo kariyay wax kala bislaaday ahaansho. 
 
-qanjirsanaan m.f.dh eeg qanjirsan. ld 
-
-qanjirsanaansho.  
+qanjirsanaan m.f.dh eeg qanjirsan. ld qanjirsanaansho.  
 
 qanjirsanaansho m.l/dh ld qanjirsanaan. 
 
@@ -2378,19 +1942,13 @@ qanshiir m.l (-rro, m.dh) Daan.
 
 qanweyn f.mg4 (-naa, -nayd) Wax jurmi weyn leh ahaansho. 
 
-qanweynaan m.f.dh eeg qanweyn. ld 
-
-qanweynaansho.  
+qanweynaan m.f.dh eeg qanweyn. ld qanweynaansho.  
 
 qanweynaansho m.l/dh ld qanweynaan. 
 
 qanyar f.mg4 (-raa, -rayd) Wax jurmi yar ahaansho. 
 
-qanyaraan  m.f.dh eeg 
-
-qanyar.  ld 
-
-qanyaraansho.  
+qanyaraan  m.f.dh eeg qanyar. ld qanyaraansho.  
 
 qanyaraansho m.l/dh ld qanyaraan. 
 
@@ -2412,25 +1970,15 @@ qaraab² f.mg1 (-bay, -btay) Soo q.: 1. Miro, xabag iwm duur ka doonid. 2. hungu
 
 qaraabaggoo f.mg2 (-ooyay, -ooysay) Qaraabo, daryeelid la'aan. 
 
-qaraabaggooyn m.f.dh eeg qaraabaggoo. ld 
+qaraabaggooyn m.f.dh eeg qaraabaggoo. ld qaraabaggooys.  
 
-qaraabaggooys.  
+qaraabaggooys m.l 1. Q. ah: qof aan qaraabadiisa daryeelin. 2. ld qaraabaggooyn. 
 
-qaraabaggooys m.l 1. Q. ah: qof aan 
+qaraabakiil¹ m.l Eexasho qaraabannimo awgeed loo sameeyo. ld karaabakiil¹, qaraabakiilid.  
 
-qaraabadiisa daryeelin. 2. ld qaraabaggooyn. 
+qaraabakiil² f.g1 (-iilay, -iishay) Cid qaraabannimo awgeed ugu eexasho. 
 
-qaraabakiil¹ m.l Eexasho qaraabannimo awgeed loo sameeyo. ld karaabakiil¹, 
-
-qaraabakiilid.  
-
-qaraabakiil² f.g1 (-iilay, -iishay) Cid 
-
-qaraabannimo awgeed ugu eexasho. 
-
-qaraabakiilid m.f.dh eeg qaraabakiil². ld 
-
-qaraabakiil¹, karaabakiil¹. 
+qaraabakiilid m.f.dh eeg qaraabakiil². ld qaraabakiil¹, karaabakiil¹. 
 
 qaraabaqansax m.l/dh.u Qaraabannimo aan dhaweyn. 
 
@@ -2438,9 +1986,7 @@ qaraabasho m.f.dh eeg qaraabo².
 
 qaraabaysad m.l ld qaraabaysasho. 
 
-qaraabaysasho m.f.dh eeg qaraabayso. ld 
-
-qaraabaysad.  
+qaraabaysasho m.f.dh eeg qaraabayso. ld qaraabaysad.  
 
 qaraabayso f.g3 (-stay, -satay) Cid qaraabo ka dhigasho. 
 
@@ -2462,11 +2008,7 @@ qaraar³ f.mg1 (-ray, -rtay) Cid wax ay haysato ka masayrid.
 
 qaraarid m.f.dh eeg qaraar². 
 
-qaraaxad m.dh 1. Qalab bir, caag iwm ka samaysan oo inta ogsijiin, gaas iwm lagu shubo sigaarka lagu shito, walaacad. 
-
- 2. Weynaanta cod. 
-
- 3. Xajmiga iyo weynaanta qof leeyahay. 
+qaraaxad m.dh 1. Qalab bir, caag iwm ka samaysan oo inta ogsijiin, gaas iwm lagu shubo sigaarka lagu shito, walaacad. 2. Weynaanta cod. 3. Xajmiga iyo weynaanta qof leeyahay. 
 
 qaraaxadayn m.f.dh eeg qaraaxadee. 
 
@@ -2476,25 +2018,17 @@ qaraaxadi f.g2 (-iyay, -isay) 1. Cod qaraaxad u yeelid. 2. Si kaftan ah cid waxa
 
 qaraaxadin m.f.dh eeg qaraaxadi. 
 
-qarabbax m.dh Barashada la sii barto cashar 
-
-qur'aan oo aan weli la gaarin. 
+qarabbax m.dh Barashada la sii barto cashar qur'aan oo aan weli la gaarin. 
 
 qarabbaxsad m.l ld qarabbaxsasho. 
 
-qarabbaxsasho m.f.dh eeg qarabbaxso. ld 
-
-qarabbaxsad, qarabbaxsi 
+qarabbaxsasho m.f.dh eeg qarabbaxso. ld qarabbaxsad, qarabbaxsi 
 
 qarabbaxsi m.l ld qarabbaxsasho. 
 
-qarabbaxso f.g3 (-saday, -satay) Cashar 
+qarabbaxso f.g3 (-saday, -satay) Cashar qur'aan oo aan weli la gaarin sii barasho. 
 
-qur'aan oo aan weli la gaarin sii barasho. 
-
-qarabbixi f.g2 (-iyay, -isay) U q.: cashar 
-
-qur'aan aan weli la gaarin cid u sii akhrin. 
+qarabbixi f.g2 (-iyay, -isay) U q.: cashar qur'aan aan weli la gaarin cid u sii akhrin. 
 
 qarabbixin m.f.dh eeg qarabbixi. 
 
@@ -2510,15 +2044,13 @@ qarafeysasho m.f.dh eeg qarafeyso.
 
 qarafeyso f.mg3 (-stay, -satay) Hadba cid baryid. 
 
-qarafo 672 m.dh Baryo meelo kala duwan lagu tago iyadoo cunto la raadsanayo. 
+qarafo m.dh Baryo meelo kala duwan lagu tago iyadoo cunto la raadsanayo. 
 
 qarafsasho m.f.dh eeg qarafso. 
 
-qarafso f.mg3 (-saday, -satay) 1. Wax lagu noolaado sida miro iwm duur ka raadsasho. 
+qarafso f.mg3 (-saday, -satay) 1. Wax lagu noolaado sida miro iwm duur ka raadsasho. 2. Socosho. 
 
- 2. Socosho. 
-
-qaramada Midoobay m.dh (taar.) Urur la sameeyey dagaalkii II ee adduunka kaddib, oo ay xubin ka yihiin waddamada adduunka oo dhan, loona dhisay iskaashiga iyo wax- wada-qabsiga Caalamiga. 
+qaramada-Midoobay m.dh (taar.) Urur la sameeyey dagaalkii II ee adduunka kaddib, oo ay xubin ka yihiin waddamada adduunka oo dhan, loona dhisay iskaashiga iyo wax- wada-qabsiga Caalamiga. 
 
 qaramee f.g2 (-meeyay, -meysay) Qaran, hanti cidi leedahay la wareegid. 
 
@@ -2526,9 +2058,7 @@ qarameyn m.f.dh eeg qaramee.
 
 qaran m.l (-ammo/-nno, m.dh) 1. Dad ay ka dhexeyso qawaaniin iyo maamul siyaasadeed oo leh seere ama xad adduunyadu aqoonsan tahay iyo calan u gaar ah. 2. Usha balka galleyda ama meseggada. 
 
-qarandi m.dh (-iyo, m.l) Bahal duurjoog ah oo leh af dhuuban iyo gafuur dheer, dhego dhaadheer oo kuwa dameeraha u eg, lugo gaaggaaban oo xoogag badan, dhabar sida 
-
-qaansada u xoodan iyo dabo sal weyn leh oo cuna aboorka, quraanyada iwm; xabaalaquf; saddexsuulley. 
+qarandi m.dh (-iyo, m.l) Bahal duurjoog ah oo leh af dhuuban iyo gafuur dheer, dhego dhaadheer oo kuwa dameeraha u eg, lugo gaaggaaban oo xoogag badan, dhabar sida qaansada u xoodan iyo dabo sal weyn leh oo cuna aboorka, quraanyada iwm; xabaalaquf; saddexsuulley. 
 
 qaranful m.l Miro yaryar, madmadow, dhuudhuuban oo madax kuuskuusan leh oo shaaha lagu udgiyo. ld qorofol, qoronful. 
 
@@ -2538,9 +2068,7 @@ qaranqaar m.dh Bohol yar.
 
 qaranqaaro m.dh 1. Malaxda iyo dhiigga ku guntama meel nabar ku dhacay. 2. Cayayaan yar, duula, dhurdaha u eg kase weyn oo sameeya malab. 
 
-qaraq¹ m.l 1. Q. ah: wax aad u badan. 2. ld 
-
-qaraqid.  
+qaraq¹ m.l 1. Q. ah: wax aad u badan. 2. ld qaraqid.  
 
 qaraq² f.mg1 (-rqay, -raqday; -rqi) Biyo ku hafasho. ld qarqan. 
 
@@ -2548,15 +2076,11 @@ qaraqan f.mg1 (-qmay, -qantay) ld qaraq².
 
 qaraqmid m.dh ld qarqid. 
 
-qarar m.l (-ryo, m.dh) (c.nafl.) Jeex jeex ku dhaca maqaarka gaar ahaan afka qarkiisa ama meelo kale oo dhaqaaq badan leh ee jirka. 
-
- Jeex jeexyada ku yaal afka iyo sanka caruurta ku dhalata waraabowga waxay marka noqdaan qararyo. 
+qarar m.l (-ryo, m.dh) (c.nafl.) Jeex jeex ku dhaca maqaarka gaar ahaan afka qarkiisa ama meelo kale oo dhaqaaq badan leh ee jirka. Jeex jeexyada ku yaal afka iyo sanka caruurta ku dhalata waraabowga waxay marka noqdaan qararyo. 
 
 qararab m.l ld qararable. 
 
-qararabdheere m.l (-rayaal, m.l/dh) ld 
-
-qararable.  
+qararabdheere m.l (-rayaal, m.l/dh) ld qararable.  
 
 qararable m.l (-layaal, m.l/dh) Qaloon diireed oo aan la biifin. ld qararab, qararabdheere. 
 
@@ -2570,15 +2094,7 @@ qararabso f.g3 (-saday, -satay) ld qararamso.
 
 qararamsad m.l ld qararamsasho. 
 
-qararamsasho m.f.dh eeg qararamso. ld 
-
-qararabsad,  
-
-qararabsasho,  
-
-qararabsi,  
-
-qararamsad, q 
+qararamsasho m.f.dh eeg qararamso. ld qararabsad, qararabsasho, qararabsi, qararamsad.
 
 qararamsi m.l ld qararamsasho. 
 
@@ -2586,15 +2102,11 @@ qararamso f.g3 (-saday, -satay) Wax adag ilko ku burbursasho. ld qararabso.
 
 qararro m.dh Geed weyn oo aan qodxo lahayn oo leh sal weyn, laamo dhuudhuuban, miro la cuno iyo mayrax wanaagsan. ld qaranrro. 
 
-qaras m.dh 1. Wasakh midab cagaaran leh oo ku raagta caloosha oo ka dhalata cuntada 
-
-qofka cuno. 2. Hadal badan oo xun. 
+qaras m.dh 1. Wasakh midab cagaaran leh oo ku raagta caloosha oo ka dhalata cuntada qofka cuno. 2. Hadal badan oo xun. 
 
 qarash m.l (-shyo, m.dh) 1. Macdan jilicsan oo weelasha iwm laga sameeyo. 2. ld kharash. 
 
-qarashayeysan f.mg4 (-snaa, -snayd) ld 
-
-qarasheysan.  
+qarashayeysan f.mg4 (-snaa, -snayd) ld qarasheysan.  
 
 qarashayeysnaan m.dh ld qarasheysnaan. 
 
@@ -2606,9 +2118,7 @@ qarasheyn m.f.dh eeg qarashee. ld qarashyeyn.
 
 qarasheysan f.mg4 (-snaa, -snayd) Bakoorad, jeedal iwm oo qarash lagu sameeyey ahaansho. ld qarashayeysan. 
 
-qarasheysnaan m.f.dh eeg qarasheysan. ld 
-
-qarashayeysnaan, qarasayeysnaansho. 
+qarasheysnaan m.f.dh eeg qarasheysan. ld qarashayeysnaan, qarasayeysnaansho. 
 
 qarasheysnaansho m.l/dh ld qarasheysnaan. 
 
@@ -2618,15 +2128,11 @@ qarashyeyn m.dh ld qarasheyn.
 
 qarasoobid m.f.dh eeg qarasow. 
 
-qarasow f.mg1 (-oobay, -owday; -oobi) Wax 
-
-qaras qaaday noqosho. 
+qarasow f.mg1 (-oobay, -owday; -oobi) Wax qaras qaaday noqosho. 
 
 qaraw¹ m.l Hadal iyadoo la hurdo lagu hadlo. 
 
-qaraw² f.mg1 (-rway, -rawday; -rwi) 1. Riyo dhexdeed hadal la maqlayo ku dhawaaqid. 
-
- 2. Xanuun la tarsaasiyid (qof). 
+qaraw² f.mg1 (-rway, -rawday; -rwi) 1. Riyo dhexdeed hadal la maqlayo ku dhawaaqid. 2. Xanuun la tarsaasiyid (qof). 
 
 qarax¹ m.l 1. Shanqar xoog leh oo ka dhalata walxaha marka ay kulayl dareemaan ama wax kale saameeyaan. 2. Q. ah: cunto aan iidaan lahayn. 3. Q. ah: dhul oomane ah oo aan biyo lahayn. 4. Q. ah: hadal aan murti ku dheehnayn. 
 
@@ -2642,9 +2148,7 @@ qarbaqarbeyn m.f.dh eeg qarbaqarbee.
 
 qarbaqarbo m.dh Degdeg. 
 
-qarbed m.l (-dyo, m.dh) 1. Harag cukad ah oo loo farsameeyey in biyaha lagu shubto. 
-
- 2. Weel maro adag ka sameysan oo biyaha lagu shubto. ld qarbad. 
+qarbed m.l (-dyo, m.dh) 1. Harag cukad ah oo loo farsameeyey in biyaha lagu shubto. 2. Weel maro adag ka sameysan oo biyaha lagu shubto. ld qarbad. 
 
 qarbidix¹ m.dh Tolmada ugu dambeysa ee weel afkiisa lagu sameeyo; rigrigo. 
 
@@ -2652,9 +2156,7 @@ qarbidix² f.g1 (-xay, -xday) Weel rigrig afka kaga tolid.
 
 qarbidxan f.mg4 (-naa, -nayd) Wax qar bidix lagu tolay ahaansho (weel). 
 
-qarbidxanaan m.f.dh eeg qarbidxan. ld 
-
-qarbidxanaansho.  
+qarbidxanaan m.f.dh eeg qarbidxan. ld qarbidxanaansho.  
 
 qarbidxanaansho m.l/dh ld qarbidxanaan. 
 
@@ -2672,31 +2174,23 @@ qarbudaad m.dh 1. Qasidda la isku qaso wax nidaamsanaa. 2. ld qarbudid.
 
 qarbudid m.f.dh eeg qarbud². ld qarbudaad (2). 
 
-qardaas m.l (-syo, m.dh) Xaashi sida badan adag oo loo habeeyey in wax lagu rito. ld 
-
-qirdaas.  
+qardaas m.l (-syo, m.dh) Xaashi sida badan adag oo loo habeeyey in wax lagu rito. ld qirdaas.  
 
 qardab f.g1 (-bay, -btay) ld qartab. 
 
-qardabee f.g2 (-beeyay, -beysay) Dhibaato 
-
-qarsoon cid gaarsiin. 
+qardabee f.g2 (-beeyay, -beysay) Dhibaato qarsoon cid gaarsiin. 
 
 qardabeyn m.f.dh eeg qardabee. 
 
 qardabid m.dh ld qartabid. 
 
-qardabo m.dh 1. Nooc mallayga badda ka mid ah oo aan jurmi weynayn, lehna midab cad iyo dhibco yar yar oo madmadow. 
-
-qartabyo. 2. Dhibaato qarsoon oo cid loo geysto. 3. ld 4. ld qardabeyn. 
+qardabo m.dh 1. Nooc mallayga badda ka mid ah oo aan jurmi weynayn, lehna midab cad iyo dhibco yar yar oo madmadow. qartabyo. 2. Dhibaato qarsoon oo cid loo geysto. 3. ld 4. ld qardabeyn. 
 
 qardajeex¹ m.l Socod lagu maro meel dhir badan oo aan waddo la maro lahayn. 
 
 qardajeex² f.g1 (-xay, -xday) Meel dhir badan oo aan waddo lahayn marid. 
 
-qardajeexid m.f.dh eeg qardajeex². ld 
-
-qardajeex¹.  
+qardajeexid m.f.dh eeg qardajeex². ld qardajeex¹.  
 
 qardajeexsii f.lg2 (-iiyay, -iisay) Nafley meel dhir badan oo aan waddo lahayn marin. 
 
@@ -2704,11 +2198,7 @@ qardajeexsiin m.f.dh eeg qardajeexsii.
 
 qardan f.mg4 (-naa, -nayd) Qof ama nafley kale wax buuran ahaansho. 
 
-qardanaan  m.f.dh eeg 
-
-qardan.  ld 
-
-qardanaansho.  
+qardanaan  m.f.dh eeg qardan. ld qardanaansho.  
 
 qardanaansho m.l/dh ld qardanaan. 
 
@@ -2718,9 +2208,7 @@ qardaysad m.l ld qardaysasho.
 
 qardaysan f.mg4 (-snaa, -snayd) 1. Dhul wax la qardeeyey ahaansho. 2. Qof faras iwm oo uu fuulay ku murqo go'ay ahaansho. 
 
-qardaysasho 673qardaysasho m.f.dh eeg qardayso. ld 
-
-qardaysad, qardaysi. 
+qardaysasho m.f.dh eeg qardayso. ld qardaysad, qardaysi. 
 
 qardaysi m.l ld qardaysasho. 
 
@@ -2728,43 +2216,29 @@ qardaysii f.lg2 (-iiyay, -iisay) Cid wax amaah u siin.
 
 qardaysiin m.f.dh eeg qardaysii. 
 
-qardaysnaan m.f.dh eeg qardaysan. ld 
-
-qardaysnaansho.  
+qardaysnaan m.f.dh eeg qardaysan. ld qardaysnaansho.  
 
 qardaysnaansho m.l/dh ld qardaysnaan. 
 
-qardayso f.g3 (-stay, -satay) 1. Dhul geedo ka gurasho si wax loogu beero ama hawl kale loogu qabsado. 2. Wax amaah ahaan cid uga 
-
-qaadasho.  
+qardayso f.g3 (-stay, -satay) 1. Dhul geedo ka gurasho si wax loogu beero ama hawl kale loogu qabsado. 2. Wax amaah ahaan cid uga qaadasho.  
 
 qardee f.g2 (-deeyay, -daysay) 1. Dhul geedo ka gurid si wax loogu beerto ama hawl kale loogu qabsado. 2. Cid wax amaah ahaan u siin. 
 
-qardhaas m.dh (-so, m.l) Warqad quraan ku 
+qardhaas m.dh (-so, m.l) Warqad quraan ku qoran yahay ama wax kale oo inta idiin lagu dahaaro belaayo-xijaab ahaan loo xirto; xirsi. 
 
-qoran yahay ama wax kale oo inta idiin lagu dahaaro belaayo-xijaab ahaan loo xirto; xirsi. 
-
-qardhabo m.dh (-ooyin, m.l) 1. Qalab yar oo bir ah oo ka kooban laba af oo is qabsata marka la isku riixo oo timaha iwm lagu sii- siibo. 2. Nooc ka mid ah kelbadaha. 
-
- 3.Manqas. 
+qardhabo m.dh (-ooyin, m.l) 1. Qalab yar oo bir ah oo ka kooban laba af oo is qabsata marka la isku riixo oo timaha iwm lagu sii- siibo. 2. Nooc ka mid ah kelbadaha. 3.Manqas. 
 
 qardho m.dh.u Miro aan weli bislaan. 
 
-qardo m.dh (-ooyin, m.l) 1. Dhul keyn ah oo aan waddo lahayn. 2. Miro aan weli bislaan. 
+qardo m.dh (-ooyin, m.l) 1. Dhul keyn ah oo aan waddo lahayn. 2. Miro aan weli bislaan.  3. Wax amaah ahaan loo qaato. 
 
- 3. Wax amaah ahaan loo qaato. 
-
-qardoo f.mg3 (-ooday, -ootay) 1. Miro aan weli bislaan cuniddooda ku jirrasho. 
-
- 2. Socod, fardo-fuul iwm ku jiiro-go'id. 
+qardoo f.mg3 (-ooday, -ootay) 1. Miro aan weli bislaan cuniddooda ku jirrasho. 2. Socod, fardo-fuul iwm ku jiiro-go'id. 
 
 qardoobid m.f.dh eeg qardow². 
 
 qardood m.f.l eeg qardoo. 
 
-qardoofee f.g2 (-feeyay, -feysay) 1. Cid dhaawac aan weynayn gaarsiin. 2. Cid hadal 
-
-qadaf ah ku dhigid. 
+qardoofee f.g2 (-feeyay, -feysay) 1. Cid dhaawac aan weynayn gaarsiin. 2. Cid hadal qadaf ah ku dhigid. 
 
 qardoofeyn m.f.dh eeg qardoofee. 
 
@@ -2780,15 +2254,13 @@ qaredameer m.l ld qareduur.
 
 qareduur m.l Qare aan la cunin oo duur ka baxa. ld qaredameer. 
 
-qaree 674 f.g2 (-reeyey, -raysay) 1. Qar u yeelid (weel). 2. ld qiree. 
+qaree f.g2 (-reeyey, -raysay) 1. Qar u yeelid (weel). 2. ld qiree. 
 
 qareemid m.f.dh eeg qareen². 
 
 qareen¹  m.l (-nno, m.dh) 1. Dad dhalashadoodu isu dhowdahay; xigto. 2. Qof gar yaqaan ah oo dadka u dooda. 
 
-qareen² f.mg1 (-eemay, -eentay; -eemi) 1. U 
-
-q.: gar yaqaan cid u doodid. 2. U q.: cid u danaanin. 
+qareen² f.mg1 (-eemay, -eentay; -eemi) 1. U q.: gar-yaqaan cid u doodid. 2. U q.: cid u danaanin. 
 
 qareennimo m.dh 1. Qareen ahaansho. 2. Qaraabo, sokeeye. 
 
@@ -2850,9 +2322,7 @@ qar-iskaxoornimo m.dh ld jar-iskaxoornimo.
 
 qarjaamaysad m.l ld qarjaamaysasho. 
 
-qarjaamaysasho m.f.dh eeg qarjaamayso. ld 
-
-qarjaamaysad, qarjaamaysi. 
+qarjaamaysasho m.f.dh eeg qarjaamayso. ld qarjaamaysad, qarjaamaysi. 
 
 qarjaamaysi m.l ld qarjaamaysasho. 
 
@@ -2870,51 +2340,37 @@ qarmuusi m.dh Dharka xariirta ah nooc ka mid ah oo lagu sameeyo gobolka Qarmuusi
 
 qarni m.l (-iyo, m.dh) Boqol sano. 
 
-qarnugeyl m.l Nafley dheddig oo abaahida ama galmada horeba ku rinta; tiblabood. ld 
-
-qarnugul.  
+qarnugeyl m.l Nafley dheddig oo abaahida ama galmada horeba ku rinta; tiblabood. ld qarnugul.  
 
 qarnugul m.l ld qarnugeyl. 
 
 qaro m.dh ld qiro¹. 
 
-qaroobbe m.l (-bayaal, m.l/dh) 1. Fur ubbo oo 
-
-qori ah oo dalool yar dhexda ku leh. 2. Gafuurka shimbiraha. 
+qaroobbe m.l (-bayaal, m.l/dh) 1. Fur ubbo oo qori ah oo dalool yar dhexda ku leh. 2. Gafuurka shimbiraha. 
 
 qaroof f.g1 (-fay, -ftay) Wax toosan qalloocin. 
 
 qaroofali m.dh Maro midab leh oo dalka Hindiya laga keeni jirey oo ay dumarku marsiino ka dhigan jireen. 
 
-qaroofan¹ f.mg1 (-fnaa, -fnayd) Wax soo 
+qaroofan¹ f.mg1 (-fnaa, -fnayd) Wax soo qalloocsan noqosho. 
 
-qalloocsan noqosho. 
-
-qaroofan² f.mg4 (-fnaa, -fnayd) Wax la soo 
-
-qalloocshey ahaansho. 
+qaroofan² f.mg4 (-fnaa, -fnayd) Wax la soo qalloocshey ahaansho. 
 
 qaroofid m.f.dh eeg qaroof. 
 
 qaroofmid m.f.dh eeg qaroofan¹. 
 
-qaroofnaan m.f.dh eeg qaroofan². ld 
-
-qaroofnaansho.  
+qaroofnaan m.f.dh eeg qaroofan². ld qaroofnaansho.  
 
 qaroofnaansho m.l/dh ld qaroofnaan. 
 
 qaroomaale m.l Caws adag oo rarada laga sameeyo. 
 
-qaroomato  m.dh Dhacarato. 
-
-qaroomaysato. ld  
+qaroomato  m.dh Dhacarato. ld qaroomaysato.
 
 qaroomaysad m.l ld qaroomaysasho. 
 
-qaroomaysasho m.f.dh eeg qaroomayso. ld 
-
-qaroomaysad, qaroomaysi. 
+qaroomaysasho m.f.dh eeg qaroomayso. ld qaroomaysad, qaroomaysi. 
 
 qaroomaysato m.dh ld qaroomato. 
 
@@ -2922,17 +2378,13 @@ qaroomaysi m.l ld qaroomaysasho.
 
 qaroomayso f.g3 (-stay, -satay) Meel dhacar leh ku noolaansho. 
 
-qaroon m.dh (-oomo, m.l) Geed quwaax aan 
-
-qodax lahayn, leh asal wanaagsan, xabag la calashado iyo qolof shaah laga dhigto. 
+qaroon m.dh (-oomo, m.l) Geed quwaax aan qodax lahayn, leh asal wanaagsan, xabag la calashado iyo qolof shaah laga dhigto. 
 
 qaroor m.l Ul dhumuc leh, weyn oo lagu dagaallamo. 
 
 qarow¹ m.l ld qaraw¹. 
 
-qarow² f.mg1 (-oobay, -owday; -oobi) ld 
-
-qaraw².  
+qarow² f.mg1 (-oobay, -owday; -oobi) ld qaraw².  
 
 qarqar¹ m.l Inta u dhexeysa garabka korkiisa iyo luqunta; deg. 
 
@@ -2948,9 +2400,7 @@ qarqarid m.f.dh eeg qarqar².
 
 qarqarin m.f.dh eeg qarqari. 
 
-qarqariye m.l 1. Dhaxan weyn oo lala gariiro; diilalyo. 2. (-yayaal, m.l./dh) Mid kasta oo ka mid ah qoorta labadeeda muruq. ld 
-
-qarqariyo.  
+qarqariye m.l 1. Dhaxan weyn oo lala gariiro; diilalyo. 2. (-yayaal, m.l./dh) Mid kasta oo ka mid ah qoorta labadeeda muruq. ld qarqariyo.  
 
 qarqariyo m.dh (-ooyin, m.l) ld qarqariye. 
 
@@ -2958,47 +2408,31 @@ qarqarrooti¹ m.l 1. Q. ah: socod dheeldheelli ah oo la iska yeelyeelo. 2. ld qa
 
 qarqarrooti² f.mg1 (-iyay, -iday; -iyi) Socod dheeldheelli ah socosho. 
 
-qarqarrootiyid m.f.dh eeg qarqarrooti². ld 
+qarqarrootiyid m.f.dh eeg qarqarrooti². ld qarqarrooti¹ (2). 
 
-qarqarrooti¹ (2). 
-
-qarqarsi¹ m.l Qaab loo xiro awrka iyadoo jeenigiisa iyo luquntiisa la iskula xiraayo xarig si uusan u kicin inta la raraayo. ld 
-
-qarqarsiinyo.  
+qarqarsi¹ m.l Qaab loo xiro awrka iyadoo jeenigiisa iyo luquntiisa la iskula xiraayo xarig si uusan u kicin inta la raraayo. ld qarqarsiinyo.  
 
 qarqarsi² f.g1 (-iyay, -iday; -iyi) 1. Awr la rarayo jeenigiisa iyo luquntiisa xarig iskula xirid si uusan u kicin inta la rarayo. 2. Ku q.: cid wax ku khasbid. ld qarqarsii. 
 
-qarqarsii f.g2 (-iiay, -iisay) ld qarqari; 
-
-qarqarsi².  
+qarqarsii f.g2 (-iiay, -iisay) ld qarqari; qarqarsi².  
 
 qarqarsiin m.dh ld qarqarin; qarqarsiyid. 
 
 qarqarsiinyo m.dh ld qarqarsi¹, qarqarsiyid. 
 
-qarqarsinaan m.f.dh eeg qarqarsiyan. ld 
-
-qarqarsinaansho.  
+qarqarsinaan m.f.dh eeg qarqarsiyan. ld qarqarsinaansho.  
 
 qarqarsinaansho m.l/dh ld qarqarsinaan. 
 
-qarqarsiyan f.mg4 (-sinaa, -sinayd) 1. Awr la 
+qarqarsiyan f.mg4 (-sinaa, -sinayd) 1. Awr la qarqarsiyey ahaansho. 2. Cid wax lagu khasbay ahaansho. 
 
-qarqarsiyey ahaansho. 2. Cid wax lagu khasbay ahaansho. 
+qarqarsiyid m.f.dh eeg qarqarsi². ld qarqarsiin, qarqarsiinyo.  
 
-qarqarsiyid m.f.dh eeg qarqarsi². ld qarqarsiin, 
+qarqaryeysan f.mg4 (-snaa, -snayd) Nafley qarqaryo hayso ahaansho. 
 
-qarqarsiinyo.  
+qarqaryeysnaan m.f.dh eeg qarqaryeysan. ld qarqaryeysnaansho.  
 
-qarqaryeysan f.mg4 (-snaa, -snayd) Nafley 
-
-qarqaryo hayso ahaansho. 
-
-qarqaryeysnaan m.f.dh eeg qarqaryeysan. ld 
-
-qarqaryeysnaansho.  
-
-qarqaryeysnaansho m.l/dh ld qarqaryeysnaan. 675qarqaryo 
+qarqaryeysnaansho m.l/dh ld qarqaryeysnaan.
 
 qarqaryo m.dh Gariirid ay dhaxan ama jirro keento. 
 
@@ -3006,21 +2440,13 @@ qarqaryoo f.mg3 (-ooday, -ootay) Qarqaryo dareemid.
 
 qarqaryood m.f.l eeg qarqaryoo. 
 
-qarqid m.f.dh eeg qaraq². ld qaraq¹ (2), 
+qarqid m.f.dh eeg qaraq². ld qaraq¹ (2), qaraqmid.  
 
-qaraqmid.  
+qarqoor¹ m.l Ka baneynta hareera wax la doonayo in la jaro ama la qodo. ld qarqoorid, qooqaar¹. 
 
-qarqoor¹ m.l Ka baneynta hareera wax la doonayo in la jaro ama la qodo. ld 
+qarqoor² f.g1 (-ray, -rtay) Wax la doonayo in la jaro ama la qodo hareerahooda banneyn. ld qooqaar². 
 
-qarqoorid, qooqaar¹. 
-
-qarqoor² f.g1 (-ray, -rtay) Wax la doonayo in la jaro ama la qodo hareerahooda banneyn. 
-
- ld qooqaar². 
-
-qarqoorid m.f.dh eeg qarqoor². ld qarqoor¹, 
-
-qooqaar¹, qooqaarid. 
+qarqoorid m.f.dh eeg qarqoor². ld qarqoor¹, qooqaar¹, qooqaarid. 
 
 qarqoosh m.l.kh Xaqdarro ah, gardaran. Tus. “Xukun q. ah”. 
 
@@ -3032,9 +2458,7 @@ qarraacan f.mg4 (-cnaa, -cnayd) Qarraac ahaansho (xoolo).
 
 qarraacid m.f.dh eeg qarraac². 
 
-qarraacnaan m.f.dh eeg qarraacan. ld 
-
-qarraacnaansho.  
+qarraacnaan m.f.dh eeg qarraacan. ld qarraacnaansho.  
 
 qarraacnaansho m.l/dh ld qarraacnaan. 
 
@@ -3064,7 +2488,7 @@ qarrarid m.dh ld tarrarid.
 
 qarrarin m.dh ld tarrarin. 
 
-qarrer¹ m.l ld qarrir¹. 676 
+qarrer¹ m.l ld qarrir¹.
 
 qarrer² f.mg1 (-ray, -rtay) ld qarrir² (2). 
 
@@ -3078,9 +2502,7 @@ qarrerin m.f.dh eeg qarreri. ld qarreris.
 
 qarreris m.l ld qarrerin. 
 
-qarrernaan m.f.dh eeg qarreran. ld 
-
-qarrernaansho.  
+qarrernaan m.f.dh eeg qarreran. ld qarrernaansho.  
 
 qarrernaansho m.l/dh ld qarrernaan. 
 
@@ -3090,21 +2512,13 @@ qarri² m.dh 1. Dhul buuraley ah. 2. Dhul jiq ah oo aan la mari karin. 3. Qalqal
 
 qarrir¹ m.l Dillaac uu yeesho derbi, weel, dhul iwm. ld qarrer¹, qarririd. 
 
-qarrir² f.g/mg1 (-ray, -rtay) 1. (f.g) Wax 
-
-qiimahooda, wakhtigooda, tiradooda iwm xaddidid. 2. (f.mg) ld qarrer. Dhul, dhar iwm dillaacid. 
+qarrir² f.g/mg1 (-ray, -rtay) 1. (f.g) Wax qiimahooda, wakhtigooda, tiradooda iwm xaddidid. 2. (f.mg) ld qarrer. Dhul, dhar iwm dillaacid. 
 
 qarriran f.mg4 (-rnaa, -rnayd) Arrin iwm wax go'aan laga gaaray ahaansho. 
 
-qarririd m.f.dh eeg qarrir². ld qarrer¹, qarrerid, 
+qarririd m.f.dh eeg qarrir². ld qarrer¹, qarrerid, qarrir¹.  
 
-qarrir¹.  
-
-qarrirnaan  m.f.dh eeg 
-
-qarriran.  ld 
-
-qarrirnaansho.  
+qarrirnaan  m.f.dh eeg qarriran. ld qarrirnaansho.  
 
 qarrirnaansho m.l/dh ld qarrirnaan. 
 
@@ -3130,9 +2544,7 @@ qarshad m.dh ld qarsho.
 
 qarshi m.l (quruush, m.dh) Lacag jajab ah oo u dhiganta hal shilin oo waayihii hore la isticmaali jirey. 
 
-qarsho m.dh (-ooyin, m.l) 1. Weel quraarad ka samaysan oo wax lagu shubto; dhalo. 
-
- 2. Maaddo adke ah, jebi og, aan midab lahayn, ilays mootiye ah oo ka sameysan ciid iyo soodhe la isku dhalaaliyey. ld qarshad. 
+qarsho m.dh (-ooyin, m.l) 1. Weel quraarad ka samaysan oo wax lagu shubto; dhalo. 2. Maaddo adke ah, jebi og, aan midab lahayn, ilays mootiye ah oo ka sameysan ciid iyo soodhe la isku dhalaaliyey. ld qarshad. 
 
 qarsi m.l ld qarsasho. 
 
@@ -3140,9 +2552,7 @@ qarsin m.l (-nno/-immo, m.dh) Fandhaal weyn; qudde.
 
 qarso f.g3 (-saday, -satay) Wax meel aan laga arki karin dhigasho.qasan¹ 
 
-qarsoodi m.l 1. Q. ah: arrin, hadal iwm oo aan la oggoleyn inla maqlo ama la arko; sir. 2. Q. 
-
- ah: hadal hoos la isugu sheego si dadka kale aysan u maqal. 
+qarsoodi m.l 1. Q. ah: arrin, hadal iwm oo aan la oggoleyn inla maqlo ama la arko; sir. 2. Q. ah: hadal hoos la isugu sheego si dadka kale aysan u maqal. 
 
 qarsoomid m.f.dh eeg qarsoon¹. 
 
@@ -3150,9 +2560,7 @@ qarsoon¹ f.mg1 (-oomay, -oontay; -oomi) Wax muuqaalkoodu libdhay noqosho.
 
 qarsoon² f.mg4 (-naa, -nayd) Wax muuqaalkoodu libdhay ahaansho. 
 
-qarsoonaan m.f.dh eeg qarsoon². ld 
-
-qarsoonaansho.  
+qarsoonaan m.f.dh eeg qarsoon². ld qarsoonaansho.  
 
 qarsoonaansho m.l/dh ld qarsoonaan. 
 
@@ -3160,9 +2568,7 @@ qartab f.g1 (-bay, -btay; -tebi) Nafley jirkeeda meel ka mid ah cagta xoog u saa
 
 qartabid m.f.dh eeg qartab. ld qardabid. 
 
-qartabo m.dh ld qartabyo, qartabid, 
-
-qartebid.  
+qartabo m.dh ld qartabyo, qartabid, qartebid.  
 
 qartabyo m.dh Joogsashada neef raaf lihi ku joogsado nafley kale. ld qartabo. 
 
@@ -3172,9 +2578,7 @@ qaruuf¹ m.l Hardiyidda xooluhu geeska wax ku dhuftaan. ld qaruufid.
 
 qaruuf² f.g1 (-fay, -ftay) Xoolo gees wax ku hardiyid. ld qaruufsii. 
 
-qaruufid m.f.dh eeg qaruuf². ld qaruuf¹, 
-
-qaruufsiin.  
+qaruufid m.f.dh eeg qaruuf². ld qaruuf¹, qaruufsiin.  
 
 qaruufo f.g3 (-ftay, -fatay) Xoolo af ku maalid. 
 
@@ -3210,9 +2614,7 @@ qaryo m.dh ld qaryad.
 
 qas¹ m.l 1. Rabsho iyo xasillooni la'aan. 2. Siil. 3. Gumaar. 4. Meesha ay iska galaan miskaha iyo sabiisha geela. 
 
-qas² f.g1 (-say, -stay) 1. Milme iyo hoore isku labid. 2. Wax kala jaad ah isku darid. 
-
- 3. Rabsho iyo xasillooni la'aan meel ka abuurid. 4. Ka q.: hadal, ciyaar iwm oo cid si wanaagsan ugu socotay ka dhabqin. 
+qas² f.g1 (-say, -stay) 1. Milme iyo hoore isku labid. 2. Wax kala jaad ah isku darid. 3. Rabsho iyo xasillooni la'aan meel ka abuurid. 4. Ka q.: hadal, ciyaar iwm oo cid si wanaagsan ugu socotay ka dhabqin. 
 
 qasaal¹ m.l Q. ah: dhar dhaqmo galay. 
 
@@ -3224,9 +2626,7 @@ qasaalasho m.f.dh eeg qasaalo.
 
 qasaalid m.f.dh eeg qasaal². 
 
-qasaalnaan m.f.dh eeg qasaalan. ld 
-
-qasaalnaansho.  
+qasaalnaan m.f.dh eeg qasaalan. ld qasaalnaansho.  
 
 qasaalnaansho m.l/dh ld qasaalnaan. 
 
@@ -3238,17 +2638,13 @@ qasaasil¹ m.l 1. Q. ah: badar, bariis iwm oo dhagxaantii ama wasakhdii ku jirta
 
 qasaasil² f.g1 (-ilay, -ishay) Badar, bariis iwm dhagxaantii ama wasakhdii ku jirtay biyo uga saarid. ld qasil². 
 
-qasaasilid m.f.dh eeg qasaasil². ld qasaasil¹, 
-
-qasil¹ (2), qasilid. 
+qasaasilid m.f.dh eeg qasaasil². ld qasaasil¹, qasil¹ (2), qasilid. 
 
 qasab m.l Geed leh quwaax sonkorta laga sameeyo, laanlaan ubaxa, alamo leh oo dhulka kulul ka baxa. 
 
 qasabad m.dh (-do, m.l) Dhuun dheer oo bir, caag ama wax kale ka samaysan oo biyaha iwm ay maraan. 
 
-qasac m.l (-cyo, m.dh) Weel yar oo macdan ama nooc kale oo bir ah ka samaysan oo cunnada iyo sharaabka lagu alxamo; daasad. 
-
- ld qasacad. 
+qasac m.l (-cyo, m.dh) Weel yar oo macdan ama nooc kale oo bir ah ka samaysan oo cunnada iyo sharaabka lagu alxamo; daasad. ld qasacad. 
 
 qasacad m.dh ld qasac. 
 
@@ -3258,9 +2654,7 @@ qasacadee f.g2 (-deeyay, -daysay) Cunto, sharaab iwm qasac lagu shubay ku alxami
 
 qasacadeysan f.mg4 (-snaa, -snayd) Cunto, cabitaan iwm wax qasacad lagu shubay ahaansho. 
 
-qasacadeysnaan m.f.dh eeg qasacadeysan. ld 
-
-qasacadeysnaansho.  
+qasacadeysnaan m.f.dh eeg qasacadeysan. ld qasacadeysnaansho.  
 
 qasacadeysnaansho m.l/dh ld qasacadeysnaan. 
 
@@ -3270,7 +2664,7 @@ qasad² f.g/mg1 (-sday, -sadday; -sdi) 1. (f.g) Wax samayntooda damcid. 2. (f.mg
 
 qasan¹ f.mg1 (-smay, -santay; -smi) 1. Biyo iwm wax kale ku labmid. 2. Qof xasillooni darro maskaxeed la kulantay noqosho. 
 
-qasan² 677qasan² f.mg4 (-snaa, -snayd) 1. Biyo iwm oo wax ku labmay ahaansho. 2. Qof xasilloonidarro maskaxeed la kulantay ahaansho. 
+qasan² f.mg4 (-snaa, -snayd) 1. Biyo iwm oo wax ku labmay ahaansho. 2. Qof xasilloonidarro maskaxeed la kulantay ahaansho. 
 
 qasdi m.l ld qasad¹. 
 
@@ -3294,9 +2688,7 @@ qashinqub m.l (-byo, m.dh) Meel qashinka lagu daadsho.
 
 qashir m.l 1. Qayb ka mid ah qaybaha xabbadda badanaa ka samaysan maar, leh 
 
-qaabka dhululubada, oo ay ku dhex jirto baaruud, afka horena ku wadata sulub. 
-
- 2. Gufarka caleenta shaaha ama bunka oo weelka salkiisa ku hara. ld gashir, qashar. 
+qaabka dhululubada, oo ay ku dhex jirto baaruud, afka horena ku wadata sulub. 2. Gufarka caleenta shaaha ama bunka oo weelka salkiisa ku hara. ld gashir, qashar. 
 
 qashoobid m.f.dh eeg qashow. 
 
@@ -3314,9 +2706,7 @@ qasid m.f.dh eeg qas².
 
 qasiido m.dh (-ooyin, m.l) (dii.) Maanso diimeed, lagu ammaano ama lagaga sheekeeyo shaqsiyaad gaar ah oo diinta Islaamka magac iyo maamuus ku leh. 
 
-qasil¹ m.l 1. Caleenta geedka gobka oo shiidan oo loogu qabeysto saabuun ahaan. 2. ld 
-
-qasaasilid. Mayrista cuntada qaarkeed sida bariiska iwm la mayro inta aan la karin. 
+qasil¹ m.l 1. Caleenta geedka gobka oo shiidan oo loogu qabeysto saabuun ahaan. 2. ld qasaasilid. Mayrista cuntada qaarkeed sida bariiska iwm la mayro inta aan la karin. 
 
 qasil² f.g1 (-ilay, -ishay) ld qasaasil². 
 
@@ -3332,11 +2722,9 @@ qaslad m.dh ld qasli.
 
 qasli m.l Dahaarad la'aanta ku dhacda qof galmo sameeyey ama junnuubay. ld qaslad. 
 
-qasmaansad m.l ld qasmaansasho. 678 
+qasmaansad m.l ld qasmaansasho.
 
-qasmaansasho m.f.dh eeg qasmaanso. ld 
-
-qasmaansad, qasmaansi. 
+qasmaansasho m.f.dh eeg qasmaanso. ld qasmaansad, qasmaansi. 
 
 qasmaansi m.l ld qasmaansasho. 
 
@@ -3348,9 +2736,7 @@ qasnaan m.f.dh eeg qasan². ld qasnaansho.
 
 qasnaansho m.l/dh ld qasnaan. 
 
-qasri m.l 1. Tirada rakcadaha salaadda oo la soo gaabsho marka safar dheer iwm lagu jiro. 
-
- 2. (-iyo, m.dh) Daar weyn dhul ballaaran ku fadhida oo qaab quruxsan u dhisan. ld qasir. 
+qasri m.l 1. Tirada rakcadaha salaadda oo la soo gaabsho marka safar dheer iwm lagu jiro. 2. (-iyo, m.dh) Daar weyn dhul ballaaran ku fadhida oo qaab quruxsan u dhisan. ld qasir. 
 
 qaswade m.l.kh Qof rabshoole ah. 
 
@@ -3366,31 +2752,19 @@ qataarid m.f.dh eeg qataar².
 
 qataarmid m.f.dh eeg qataaran¹. 
 
-qataarnaan m.f.dh eeg qaraaran². ld 
-
-qataarnaansho.  
+qataarnaan m.f.dh eeg qaraaran². ld qataarnaansho.  
 
 qataarnaansho m.l/dh ld qataarnaan. 
 
-qatan f.mg4 (-naa, -nayd) 1. Nafley cunto ama cabid aan helin ahaansho. 2. Wax la 
+qatan f.mg4 (-naa, -nayd) 1. Nafley cunto ama cabid aan helin ahaansho. 2. Wax la qaybinayey cid aan wax ka helin ahaansho. ld qadsan.  
 
-qaybinayey cid aan wax ka helin ahaansho. ld 
-
-qadsan.  
-
-qatanaan m.dh ld qadsanaan, qadsanaansho, 
-
-qatanaansho.  
+qatanaan m.dh ld qadsanaan, qadsanaansho, qatanaansho.  
 
 qatanaansho m.l/dh eeg qatanow. ld qatanaan. 
 
-qatanow f.mg3 (-naaday, -naatay) Cid wax ka 
+qatanow f.mg3 (-naaday, -naatay) Cid wax ka qatan noqosho. ld qadsanow. 
 
-qatan noqosho. ld qadsanow. 
-
-qataysii f.g2 (-iiyay, -iisay) 1. Cid wax ka 
-
-qadin. 2. Cid dhibaato iyo hagardaamo gaarsiin. 
+qataysii f.g2 (-iiyay, -iisay) 1. Cid wax ka qadin. 2. Cid dhibaato iyo hagardaamo gaarsiin. 
 
 qataysiin m.f.dh eeg qataysii. 
 
@@ -3402,13 +2776,9 @@ qatimin m.f.dh eeg qatimi. ld qatimis.
 
 qatimis m.dh ld qatimin. 
 
-qatin¹ m.l 1. Muddada ay xooluhu biyaha ka 
+qatin¹ m.l 1. Muddada ay xooluhu biyaha ka qadaan. 2. Q.ah : xoolo aan kalkoodi gelin.qaxaanqixid 
 
-qadaan. 2. Q.ah : xoolo aan kalkoodi gelin.qaxaanqixid 
-
-qatin² f.mg1 (-imay, -intay; -imi) 1. Xoolo muddo biyo ka qadid. 2. Ka q.: wax la 
-
-qaybsanayo wax ka waayid. 
+qatin² f.mg1 (-imay, -intay; -imi) 1. Xoolo muddo biyo ka qadid. 2. Ka q.: wax la qaybsanayo wax ka waayid. 
 
 qatindhaaf¹ m.l Xoolo kolkii ay cabbi jireen dhaafay oo aad u oomman. 
 
@@ -3418,9 +2788,7 @@ qatindhaafid m.f.dh eeg qatindhaaf².
 
 qatinsan f.mg4 (-naa, -nayd) Xoolo, muddo aan biyo cabbin ahaansho. 
 
-qatinsanaan m.f.dh eeg qatinsan. ld 
-
-qatinsanaansho.  
+qatinsanaan m.f.dh eeg qatinsan. ld qatinsanaansho.  
 
 qatinsanaansho m.l/dh ld qatinsanaan. 
 
@@ -3448,9 +2816,7 @@ qawadid m.f.dh eeg qawad².
 
 qawadsan f.mg4 (-naa, -nayd) Qof wax saluugay ahaansho. 
 
-qawadsanaan m.f.dh eeg qawadsan. ld 
-
-qawadsanaansho.  
+qawadsanaan m.f.dh eeg qawadsan. ld qawadsanaansho.  
 
 qawadsanaansho m.l/dh ld qawadsanaan. 
 
@@ -3458,9 +2824,7 @@ qawid m.l ld qawad¹ (2).
 
 qawjad m.dh Cid cilmi, caqli iyo aftahamo dheeraad ah kulansatay. 
 
-qawl¹ m.l 1. Curdanka baarka geedaha ka soo baxa. 2. Hadal; erey. 3. Q. leh: qof axdi leh. 
-
- 4. Cabbitaan qof jirran afka loogu shubo; kawl. 
+qawl¹ m.l 1. Curdanka baarka geedaha ka soo baxa. 2. Hadal; erey. 3. Q. leh: qof axdi leh. 4. Cabbitaan qof jirran afka loogu shubo; kawl. 
 
 qawl² f.g/mg1 (-wlay, -wshay) 1. (f.g) Cid jeenan siin. 2. (f.mg) Hadal dhihid. 3. (f.mg) Curdan bixin (geed). 4. (f.mg) Si wanaagsan u korid (ubad, geel iwm.). 
 
@@ -3468,29 +2832,25 @@ qawlad m.dh ld qol.
 
 qawlal¹ m.l (-llo, m.dh) Labada dacal ee afka middood oo ku aaddan miciyaha ama gaws- horaadka. 
 
-qawlal² f.g1 (-alay, -ashay) Nafley, labadeeda 
-
-qal dhexdooda bir, xarig, iwm, gelin. 
+qawlal² f.g1 (-alay, -ashay) Nafley, labadeeda qal dhexdooda bir, xarig, iwm, gelin. 
 
 qawlalan f.mg4 (-lnaa, -lnayd) Wax qawlal gashanyahay ahaansho (awr, faras iwm). 
 
 qawlalid m.f.dh eeg qawlal². 
 
-qawlalnaan m.f.dh eeg qawlalan. ld 
-
-qawlalnaansho.  
+qawlalnaan m.f.dh eeg qawlalan. ld qawlalnaansho.  
 
 qawlalnaansho m.l/dh ld qawlalnaan. 
 
-qawle m.l ld qowle. 
+qawle¹ m.l ld qowle¹.
+
+qawle² m.l ld qowle².
 
 qawley m.dh Mindi xoog badan oo hilbaha lagu googooyo. 
 
 qawlid m.f.dh eeg qawl². 
 
-qawmiyad m.dh (-do, m.l) Jinsiyad. ld 
-
-qowmiyad.  
+qawmiyad m.dh (-do, m.l) Jinsiyad. ld qowmiyad.  
 
 qawqab¹ m.l ld qabaanqab¹. 
 
@@ -3532,17 +2892,11 @@ qaxaabad m.dh (-do, m.l) Naag jirkeeda ka ganacsata; dhillo.
 
 qaxaabnimo m.dh Qaxaab ahaansho. 
 
-qaxaanqax¹ m.l Qaylada ay samayso dooradu marka ay ukun dhali rabto. ld qaxaanqixid, 
+qaxaanqax¹ m.l Qaylada ay samayso dooradu marka ay ukun dhali rabto. ld qaxaanqixid, qaxanqax¹.  
 
-qaxanqax¹.  
+qaxaanqax² f.mg1 (-xayt, -xday; -qixi) Dooro ukun dhali rabta qaylo samayn. ld qaxanqax².  
 
-qaxaanqax² f.mg1 (-xayt, -xday; -qixi) Dooro ukun dhali rabta qaylo samayn. ld 
-
-qaxanqax².  
-
-qaxaanqixid m.f.dh eeg qaxaanqax². ld 
-
-qaxaanqax¹, qaxanqax¹, qaxanqixid. 679qaxan¹ 
+qaxaanqixid m.f.dh eeg qaxaanqax². ld qaxaanqax¹, qaxanqax¹, qaxanqixid.
 
 qaxan¹ m.l 1. Q. ah: dhuxul shidan oo aan dambas dusha ka fuulin. 2. ld qaxmid. 
 
@@ -3598,9 +2952,7 @@ qaxso f.g3 (-saday, -satay) 1. Dad, xoolo iwm cabsi awgeed meel ugala cararid. 2
 
 qaxwayn m.f.dh eeg qaxwee. 
 
-qaxwe m.l Cabbitaan bun la shiiday laga sameeyo oo shaah ahaan loo cabbo. ld 
-
-qahwe, qaxwo. 
+qaxwe m.l Cabbitaan bun la shiiday laga sameeyo oo shaah ahaan loo cabbo. ld qahwe, qaxwo. 
 
 qaxwee f.mg2 (-weeyay, -waysay) Qaxwe cabbid. 
 
@@ -3618,7 +2970,7 @@ qayaayow f.mg1 (-oobay, -owday; -oobi) Qayaayo noqosho.
 
 qayacato m.dh Nooc xabagta ka mid ah oo dhirta qaarkeed laga helo oo leh midab cad, aadna u adag oo wax la iskula dhejiyo. 
 
-qayax¹ 680 m.l.kh 1. Q. ah: wax aan qarsoonayn oo si wanaagsan loogu wada jeedo. 2. Wax sida badar, geed iwm oo diirka laga qaaday. 3. Laf hilibkii laga guray. 
+qayax¹ m.l.kh 1. Q. ah: wax aan qarsoonayn oo si wanaagsan loogu wada jeedo. 2. Wax sida badar, geed iwm oo diirka laga qaaday. 3. Laf hilibkii laga guray. 
 
 qayax² f.g1 (-xay, -xday; -yixi) 1. Wax diirka sare ka qaadid. 2. Laf hilib ka gurid. 3. Si wanaagsan wax u sheegid. 
 
@@ -3628,25 +2980,17 @@ qayaxan² f.mg4 (-xnaa, -xnayd) 1. Wax diirka sare laga qaaday ahaansho. 2. Laf,
 
 qayaxmid m.f.dh eeg qayaxan¹. 
 
-qayaxnaan m.f.dh eeg qayaxan². ld 
-
-qayaxnaansho.  
+qayaxnaan m.f.dh eeg qayaxan². ld qayaxnaansho.  
 
 qayaxnaansho m.l/dh ld qayaxnaan. 
 
-qayb bulsho m.dh (-bo ..., m.l) (bul.) Dabaqad bulsheed, ama nidaam dawlad oo ku dhisan u kala qeybinta dadweynaha kooxo, iyada oo fiirinaysa reerkooda, darajadooda, maalkooda iyo shaqadooda iwm. 
+qayb-bulsho m.dh (-bo ..., m.l) (bul.) Dabaqad bulsheed, ama nidaam dawlad oo ku dhisan u kala qeybinta dadweynaha kooxo, iyada oo fiirinaysa reerkooda, darajadooda, maalkooda iyo shaqadooda iwm. 
 
-qayb goobo m.dh (-bo ..., m.l) (xis.) Qayb ka mid ah goobada ee ka sammaysanta laba gacmood dhexdood iyo meeriska. Bedka q. 
-
- g. waa 1/2 r +, taas oo r ay tahay acanka, +- na tahay xagasha. 
+qayb-goobo m.dh (-bo ..., m.l) (xis.) Qayb ka mid ah goobada ee ka sammaysanta laba gacmood dhexdood iyo meeriska. Bedka q. g. waa 1/2 r +, taas oo r ay tahay acanka, +- na tahay xagasha. 
 
 qayb¹ m.l.fk Q. u: kulli, dhammaan, giddi, idil. 
 
-qayb² m.dh (-bo, m.l) 1. Wax dhowr meelood loo kala dhigay middood; in.; qaar. 
-
- 2. Qaybinta tiro mid kale loo qaybiyey. 
-
- 3. Maamulka laga xakumo dhowr gaar oo mileteri ah. 4. Maamul goboleed laga xakumo ciidan boolis ah. 
+qayb² m.dh (-bo, m.l) 1. Wax dhowr meelood loo kala dhigay middood; in.; qaar. 2. Qaybinta tiro mid kale loo qaybiyey. 3. Maamulka laga xakumo dhowr gaar oo mileteri ah. 4. Maamul goboleed laga xakumo ciidan boolis ah. 
 
 qayb³ m.dh (nax.) Qaybaha hadalka: magac waagii hore aad loogu adeegsan jiray xagga kooxaynta ereyada, kala soocnaantooduna waxay ku salaysanayd xagga qaab naxweedyada iyo xagga micnahaba. 
 
@@ -3656,9 +3000,7 @@ qayb5 f.g1 (-bay, -btay) Wax kor ka barasha.
 
 qaybgal¹ m.l Ka q.: ka qayb qaadashada hawl la qabanayo. ld qaybgelid. 
 
-qaybgal² f.mg1 (-alay, -ashay; -geli) Ka q.: hawl la qabanayey ama wax kale qayb ka 
-
-qaadasho.  
+qaybgal² f.mg1 (-alay, -ashay; -geli) Ka q.: hawl la qabanayey ama wax kale qayb ka qaadasho.  
 
 qaybgale m.l (-layaal, m.l/dh) Ka q.: qof hawl ama tartan la qabanayo ka qayb qaadanayo.qayir² 
 
@@ -3668,9 +3010,7 @@ qaybgelid m.f.dh eeg qaybgal². ld qaybgal¹.
 
 qaybgelin m.f.dh eeg qaybgeli. 
 
-qaybi f.g2 (-iyay, -isay) 1. Wax dhawr 
-
-qaybood ka dhigid. 2. Ku q.: hawl, arrin iwm cid kale ku aaddin. 
+qaybi f.g2 (-iyay, -isay) 1. Wax dhawr qaybood ka dhigid. 2. Ku q.: hawl, arrin iwm cid kale ku aaddin. 
 
 qaybid m.f.dh eeg qayb³. 
 
@@ -3690,27 +3030,19 @@ qaybsad m.l ld qaybsasho.
 
 qaybsamid m.f.dh eeg qaybsan¹. 
 
-qaybsan unug m.l (baay.) Samaysanka laba unug oo mataanaysan oo ka yimid unugga waalidka. Marka hore waxa qaybsanta bu'da, taasi uu daba socdo samaysanka xuub u dhexeeya bu'aha mataanaha. 
+qaybsan-unug m.l (baay.) Samaysanka laba unug oo mataanaysan oo ka yimid unugga waalidka. Marka hore waxa qaybsanta bu'da, taasi uu daba socdo samaysanka xuub u dhexeeya bu'aha mataanaha. 
 
-qaybsan¹ f.mg1 (-amay, -antay; -ami) Wax la 
+qaybsan¹ f.mg1 (-amay, -antay; -ami) Wax la qaybiyey noqosho. 
 
-qaybiyey noqosho. 
+qaybsan² f.g/mg4 (-naa, -nayd) 1. (f.g) Qof wax xafidsan ahaansho. 2. (f.g) Wax la qaybiyay ahaansho. 3. (f.mg) Ku q.: qof hawl, arrin iwm, fulinteeda iwm, lagu aaddiyey ahaansho. 
 
-qaybsan² f.g/mg4 (-naa, -nayd) 1. (f.g) Qof wax xafidsan ahaansho. 2. (f.g) Wax la 
-
-qaybiyay ahaansho. 3. (f.mg) Ku q.: qof hawl, arrin iwm, fulinteeda iwm, lagu aaddiyey ahaansho. 
-
-qaybsanaan m.f.dh eeg qaybsan². ld 
-
-qaybsanaansho.  
+qaybsanaan m.f.dh eeg qaybsan². ld qaybsanaansho.  
 
 qaybsanaansho m.l/dh ld qaybsanaan. 
 
-qaybsasho m.f.dh eeg qaybso. ld qaybsad, 
+qaybsasho m.f.dh eeg qaybso. ld qaybsad, qaybsi.  
 
-qaybsi.  
-
-qaybshaha ay wadaagaan m.l (xis.) Tirada haraa la'aan qaybisa laba ama dhawr tiro.Tusaale ahaan, 3 waa qaybshaha ay wadaagaan 12, 18 iyo 33. 3 waxa kale oo la oran karaa isirka ay wadaagaan 12, 18 iyo 33. 
+qaybshaha-ay-wadaagaan m.l (xis.) Tirada haraa la'aan qaybisa laba ama dhawr tiro.Tusaale ahaan, 3 waa qaybshaha ay wadaagaan 12, 18 iyo 33. 3 waxa kale oo la oran karaa isirka ay wadaagaan 12, 18 iyo 33. 
 
 qaybshe m.l ld qaybiye. 
 
@@ -3722,17 +3054,13 @@ qaybsiin m.f.dh eeg qaybsii.
 
 qaybso f.g3 (-saday, -satay) 1. Wax dhowr meelood u kala dhigasho. 2. La q.: cid tartan la gelid. 
 
-qaybta kaadimareenka m.dh (c.nafl.) Qaybta oo dhan ee isugu jirta dhuumo iyo faro oo kaadida ka soo qaada keliya dibeddana u saara. Waxay ka koobantahay: a) kaadi mareennada kaadihaysta ka sarreeya; b) kaadi haysta; c) kaadi mareenka hoose. 
+qaybta-kaadimareenka m.dh (c.nafl.) Qaybta oo dhan ee isugu jirta dhuumo iyo faro oo kaadida ka soo qaada keliya dibeddana u saara. Waxay ka koobantahay: a) kaadi mareennada kaadihaysta ka sarreeya; b) kaadi haysta; c) kaadi mareenka hoose. 
 
-qaybta lafaha m.l (daaw.) Aqoonta ama ka shaqeynta toosinta qaabdarro uu keenay cudur ama waxyeello kale oo lafaha iyo xubno is goysyada ku dhaca. 
+qaybta-lafaha m.l (daaw.) Aqoonta ama ka shaqeynta toosinta qaabdarro uu keenay cudur ama waxyeello kale oo lafaha iyo xubno is goysyada ku dhaca. 
 
-qaybta liimbigada ee maskaxda m.dh (c.nafl.) Qayb maskaxda ka mid ah oo ka kooban dareemayaal mareenno sameynaya xarun unugyeed kala duwan waxay qaabilsantahay dareenno dadka ku qarsoon oo nolosha laga maarmin iyo fahamada kuna xiran qaybaha 
+qaybta-liimbigada-ee-maskaxda m.dh (c.nafl.) Qayb maskaxda ka mid ah oo ka kooban dareemayaal mareenno sameynaya xarun unugyeed kala duwan waxay qaabilsantahay dareenno dadka ku qarsoon oo nolosha laga maarmin iyo fahamada kuna xiran qaybaha qanjirdhiigga iyo dhaqaaqa ee jirka. 
 
-qanjirdhiigga iyo dhaqaaqa ee jirka. 
-
-qayb-xareedayn m.dh (-bo ..., m.l) (kiim.) Hab xareedayn ah oo la sameeyo iyada oo la isticmaalayo dhuun fidsan oo ku qotonta dhalada xareedaynta. Habkani wuxu suurogelinayaa in hoorarka loo kala sooco 
-
-qaybo heerka bididdoodu kala duwantahay laguna ururiyo herkullo kala geddisan. 
+qayb-xareedayn m.dh (-bo ..., m.l) (kiim.) Hab xareedayn ah oo la sameeyo iyada oo la isticmaalayo dhuun fidsan oo ku qotonta dhalada xareedaynta. Habkani wuxu suurogelinayaa in hoorarka loo kala sooco qaybo heerka bididdoodu kala duwantahay laguna ururiyo herkullo kala geddisan. 
 
 qayd f.g1 (-day, -dday) Dhul cabbirid. 
 
@@ -3766,9 +3094,7 @@ qayilid m.f.dh eeg qayil².
 
 qayilsan f.mg4 (-naa, -nayd) Qof jaad cunay ahaansho. 
 
-qayilsanaan m.f.dh eeg qayilsan. ld 
-
-qayilsanaansho.  
+qayilsanaan m.f.dh eeg qayilsan. ld qayilsanaansho.  
 
 qayilsanaansho m.l/dh ld qayilsanaan. 
 
@@ -3780,7 +3106,7 @@ qayir¹ m.l Wax siday ahaayeen si ka duwan noqda ama laga dhigo; beddel; doorsan
 
 qayir² f.g1 (-ray, -rtay) Wax midabkiisa, dhadhankiisa, urkiisa iwm. beddelid. 
 
-qayiraad 681qayiraad m.dh Isbeddel ku yimaad midab, ur iwm. 
+qayiraad m.dh Isbeddel ku yimaad midab, ur iwm. 
 
 qayiran¹ f.mg1 (-rmay, -rantay; -rmi) Wax midabkiisa, dhadhankiisa, urkiisa iwm beddelmay noqosho. 
 
@@ -3792,11 +3118,7 @@ qayirid m.f.dh eeg qayir².
 
 qayirmid m.f.dh eeg qayiran¹. 
 
-qayirnaan  m.f.dh eeg 
-
-qayiran².  ld 
-
-qayirnaansho.  
+qayirnaan  m.f.dh eeg qayiran². ld qayirnaansho.  
 
 qayirnaansho m.l/dh ld qayirnaan. 
 
@@ -3810,9 +3132,7 @@ qaylad m.l Orgi waalay ah.
 
 qayladdir f.mg1 (-ray, -rtay) U q.: war dhiillo leh cid u geyn. 
 
-qayladdirasho m.f.dh eeg qayladdiro. ld 
-
-qayladdirsasho.  
+qayladdirasho m.f.dh eeg qayladdiro. ld qayladdirsasho.  
 
 qayladdirid m.f.dh eeg qayladdir. 
 
@@ -3820,9 +3140,7 @@ qayladdiro f.mg3 (-rtay, -ratay) Cid si gargaar looga helo farriin u dirasho. ld
 
 qayladdirsasho m.dh ld qayladdirasho. 
 
-qayladdirso f.g3 (-saday, -satay) ld 
-
-qayladdiro.  
+qayladdirso f.g3 (-saday, -satay) ld qayladdiro.  
 
 qayladdoon¹ m.l.kh Q. ah: cid meel dhiillo ka dhacday meel kale uga doona gargaar. 
 
@@ -3844,31 +3162,21 @@ qayladhaansasho m.f.dh eeg qayladhaanso. ld cilladhaansad, cilladhaansasho, cill
 
 qayladhaansi m.l ld qayladhaansasho. 
 
-qayladhaanso f.mg3 (-saday, -satay) U q.: 
+qayladhaanso f.mg3 (-saday, -satay) U q.: qayladhaan cid u dirasho. ld cilladhaanso. 
 
-qayladhaan cid u dirasho. ld cilladhaanso. 
-
-qayladhawr m.l Q. ah: qof ama ka badan oo diyaar u ah dhiillo laga filayo wax ka 
-
-qabashadeeda.  
+qayladhawr m.l Q. ah: qof ama ka badan oo diyaar u ah dhiillo laga filayo wax ka qabashadeeda.  
 
 qaylaggee f.mg2 (-geeyay, -geysay) U q.: cid war dhiillo leh u geyn. 
 
-qaylaggeyn 682 m.f.dh eeg qaylaggee. ld 
-
-qaylaggeys.  
+qaylaggeyn m.f.dh eeg qaylaggee. ld qaylaggeys.  
 
 qaylaggeys m.l 1. Q. ah: qof ama dad meel dareen ka dhacay warkeeda qaada oo dad kale gaarsiiya. 2. ld qaylaggeyn. 
 
-qaylakeen¹ m.l 1. Q. ah: qof ama dad meel dareen ka dhacay warkeeda keenid. 2. ld 
-
-qaylakeenid.  
+qaylakeen¹ m.l 1. Q. ah: qof ama dad meel dareen ka dhacay warkeeda keenid. 2. ld qaylakeenid.  
 
 qaylakeen² f.mg1 (-nay, -ntay) Meel dareen ka dhacay warkeeda keenid. 
 
-qaylakeenid m.f.dh eeg qaylakeen². ld 
-
-qaylakeen¹.  
+qaylakeenid m.f.dh eeg qaylakeen². ld qaylakeen¹.  
 
 qaylaroor¹ m.l ld qaylaggeys. 
 
@@ -3880,15 +3188,9 @@ qaylarraac¹ m.l Q. ah: qof ama dad meel qaylo ka soo yeertay aada.
 
 qaylarraac² f.mg1 (-cay, -cday) Qof ama dad meel qaylo ka soo yeertay dedgdeg u aadid. 
 
-qaylarraacid m.f.dh eeg qaylarraac². ld 
+qaylarraacid m.f.dh eeg qaylarraac². ld qaylarraac¹.  
 
-qaylarraac¹.  
-
-qayli f.mg2 (-iyay, -isay) 1. Cod dheer ku dhawaaqid. 2. Ku q.: cid canaan u jeedin. 
-
- 3. U q.: cid taageerid. 4. U q.: cid u yeerid. 
-
- 5. La q.: dhibaato darteed la dhawaaqid. 
+qayli f.mg2 (-iyay, -isay) 1. Cod dheer ku dhawaaqid. 2. Ku q.: cid canaan u jeedin. 3. U q.: cid taageerid. 4. U q.: cid u yeerid. 5. La q.: dhibaato darteed la dhawaaqid. 
 
 qaylid m.f.dh eeg qayil². 
 
@@ -3928,13 +3230,9 @@ qayraan¹ m.l (-ammo/-nno, m.dh) Dhar harag la jilciyey ka samaysan oo waayihii 
 
 qayraan² m.dh Riddo si xoog leh meel loogu tuuro. 
 
-qayraansan f.mg4 (-naa, -nayd) Wax la 
+qayraansan f.mg4 (-naa, -nayd) Wax la qayraamiyey ahaansho.qiime tamar-gubasho 
 
-qayraamiyey ahaansho.qiime tamar-gubasho 
-
-qayraansanaan m.f.dh eeg qayraansan. ld 
-
-qayraansanaansho.  
+qayraansanaan m.f.dh eeg qayraansan. ld qayraansanaansho.  
 
 qayraansanaansho m.l/dh ld qayraansanaan. 
 
@@ -3948,9 +3246,7 @@ qayro m.dh.u Qoysas fara badan oo meel wada deggan.
 
 qaysadhabad m.l ld qaysadhabadsho. 
 
-qaysadhabasho m.f.dh eeg qaysadhabo. ld 
-
-qaysadhabad.  
+qaysadhabasho m.f.dh eeg qaysadhabo. ld qaysadhabad.  
 
 qaysadhabo f.mg3 (-btay, -batay) Haad baaldhabasho sameyn. 
 
@@ -3982,9 +3278,7 @@ qeyd m.l (-dad, m.l) Cad yar oo maro ah oo ilaa laba yaardi dhan oo sida badan a
 
 qeydaddaar m.l (-rro, m.dh) Qof qaynuunka aqoon u leh. 
 
-qeydar m.l (qeydar, m.dh) 1. Geed weyn, dheer oo qodxo leh oo balliyada ka baxa. 
-
- 2. Balli yar. 
+qeydar m.l (qeydar, m.dh) 1. Geed weyn, dheer oo qodxo leh oo balliyada ka baxa. 2. Balli yar. 
 
 qeydin m.l (-nno, m.dh) 1. Ul weyn; siiqe. 2. Ul yar; dhenged. 
 
@@ -4000,31 +3294,23 @@ qeyro m.dh (-ooyin, m.l) 1. Dad meel miyi ah wada deggen. 2. Beesha shinnida.
 
 qiblad m.dh ld qiblo. 
 
-qiblee f.g2 (-leeyay, -leysay) Wax dhanka 
-
-qiblada u jeedin. 
+qiblee f.g2 (-leeyay, -leysay) Wax dhanka qiblada u jeedin. 
 
 qibleyn m.f.dh eeg qiblee. 
 
 qibleysad m.l ld qibleysasho. 
 
-qibleysan f.mg4 (-snaa, -snayd) Wax dhanka 
-
-qiblada u jeeda ahaansho. 
+qibleysan f.mg4 (-snaa, -snayd) Wax dhanka qiblada u jeeda ahaansho. 
 
 qibleysasho m.f.dh eeg qibleyso. 
 
 qibleysi m.l ld qibleysasho. 
 
-qibleysnaan m.f.dh eeg qibleysan. ld 
-
-qibleysnaansho.  
+qibleysnaan m.f.dh eeg qibleysan. ld qibleysnaansho.  
 
 qibleysnaansho m.l/dh ld qibleysnaan. 
 
-qibleyso f.g/mg3 (-stay, -satay) 1. (f.g) Cid 
-
-qiblo u jeedsasho. 2. (f.mg) Waxqiblo u jeedsasho. 
+qibleyso f.g/mg3 (-stay, -satay) 1. (f.g) Cid qiblo u jeedsasho. 2. (f.mg) Waxqiblo u jeedsasho. 
 
 qiblo m.dh 1. Jahada kabcada oo ay muslimiintu u jeestaan marka ay dukanayaan. 2. (-ooyin, m.l) Jaho. ld qiblad. 
 
@@ -4046,29 +3332,19 @@ qiimabbarar m.l Kor u kicidda qiimaha badeecada; sicirbarar.
 
 qiimad m.dh ld qiime. 
 
-qiimadhac m.l (dhaq.) Hoos u dhicidda 
+qiimadhac m.l (dhaq.) Hoos u dhicidda qiimaha badeecadda. 
 
-qiimaha badeecadda. 
+qiimaha-sugan-ee-leeb m.l (xis.) Dhererka leebka iyadoo aan la tixgelin jihada leebka.  Qiimaha sugan ee lebka xi+yi+zk waa xidid labajibbaarka wadarta labajibbaarka xubnihiisa, taas oo ah, jihada leebka. qiimaha Qiimaha sugan ee leebka xi+yi+zk waa xidid labajibbaarka wadarta labajibaarka xubnihiisa, taas oo ah, /xi+yi+zk/ = x2+y2+z2 sugan ee tiro maangal ah m.l (xis.) Tiro togan oo laxaadkeedu la mid yahay tiro la isa siiyey. Summadda qiimaha sugan ee tirada A waxaa loo qoraa A. Qiimaha sugan ee tirada 6 waa 6, qiimaha sugan ee - 6 waa 6. 
 
-qiimaha sugan ee leeb m.l (xis.) Dhererka leebka iyadoo aan la tixgelin jihada leebka. 
+qiimaha-sugan-ee-tiro-murakab ah m.l (xis.) Xidid labajibbarka wadarta labajibbaarada ee qaybteeda maangalka iyo qaybteeda khayaaliga ah. Waxa kale oo la yiraahdaa laxaadka tiro murakab ah. 
 
- Qiimaha sugan ee lebka xi+yi+zk waa xidid labajibbaarka wadarta labajibbaarka xubnihiisa, taas oo ah, jihada leebka. 
-
-qiimaha Qiimaha sugan ee leebka xi+yi+zk waa xidid labajibbaarka wadarta labajibaarka xubnihiisa, taas oo ah, /xi+yi+zk/ = x2+y2+z2 sugan ee tiro maangal ah m.l (xis.) Tiro togan oo laxaadkeedu la mid yahay tiro la isa siiyey. Summadda qiimaha sugan ee tirada A waxaa loo qoraa A. Qiimaha sugan ee tirada 6 waa 6, qiimaha sugan ee - 6 waa 6 
-
-qiimaha sugan ee tiro murakab ah m.l (xis.) Xidid labajibbarka wadarta labajibbaarada ee 
-
-qaybteeda maangalka iyo qaybteeda khayaaliga ah. Waxa kale oo la yiraahdaa laxaadka tiro murakab ah. 
-
-qiimasheeg m.dh (-gyo, m.dh) Warqad ay ku 
-
-qoran tahay kharashka ku baxay badeeco meel loo diray, qaa'imad. 
+qiimasheeg m.dh (-gyo, m.dh) Warqad ay ku qoran tahay kharashka ku baxay badeeco meel loo diray, qaa'imad. 
 
 qiimayn m.f.dh eeg qiimee. ld qaymeyn. 
 
 qiime m.l 1. Sicirka ay joogto badeecadi. 2. Waxtarka nafley ama wax kale ay leeyihiin. ld qayme, qiimad, qiimo. 
 
-qiime tamar-gubasho m.l (fiis.) Kulka ka soo baxa gubashada halkii halbeeg ee cufka walax. Qiimaha tamar gubashada waxaa loo 683qiimee isticmaalaa in lagu ogaado qiimaha tamarta shidaalka. Badanaa waxa lagu cabbiraa meega-juul halkii kiiloogaraam (mj/kq). 
+qiime-tamar-gubasho m.l (fiis.) Kulka ka soo baxa gubashada halkii halbeeg ee cufka walax. Qiimaha tamar gubashada waxaa loo 683qiimee isticmaalaa in lagu ogaado qiimaha tamarta shidaalka. Badanaa waxa lagu cabbiraa meega-juul halkii kiiloogaraam (mj/kq). 
 
 qiimee f.g2 (-meeyay, -maysay) 1. Nalfey, badeecad iwm qiimahooda sheegid. 2. Cid sharfid. ld qaymee. 
 
@@ -4138,13 +3414,11 @@ qiro² f.g3 (-rtay, -ratay) Qof fal in uu sameeyey caddeyn.
 
 qirsan f.mg4 (-naa, -nayd) Qof fal uu sameeyey qiray ahaansho. 
 
-qirsanaan m.f.dh eeg qirsan. ld qirsanaansho. 684 
+qirsanaan m.f.dh eeg qirsan. ld qirsanaansho.
 
 qirsanaansho m.l/dh ld qirsanaan. 
 
-qisaas¹ m.dh Dilka sharci ahaan loo dilo qof 
-
-qof kale dilay. 
+qisaas¹ m.dh Dilka sharci ahaan loo dilo qof qof kale dilay. 
 
 qisaas² f.g1 (-say, -stay) Qof, qof kale dilay si sharci ah u dilid. 
 
@@ -4152,17 +3426,13 @@ qisaasan f.mg4 (-naa, -nayd) Qof qisaas loo haysto ahaansho.
 
 qisaasid m.f.dh eeg qisaas². 
 
-qisaasnaan  m.f.dh eeg qisaasan. ld 
-
-qisaasnaansho.  
+qisaasnaan  m.f.dh eeg qisaasan. ld qisaasnaansho.  
 
 qisaasnaansho m.l/dh ld qisaasnaan. 
 
 qisayn m.f.dh eeg qisee. ld qisood. 
 
-qisee f.mg2 (-seeyay, -saysay) 1. Ka q.: sheeko cid ama arrin ku saabsan cid u sheegid. 2. U 
-
-q.: cid u skeekayn. 
+qisee f.mg2 (-seeyay, -saysay) 1. Ka q.: sheeko cid ama arrin ku saabsan cid u sheegid. 2. U q.: cid u skeekayn. 
 
 qish¹ m.l Si tuugannimo ah oo imtixaan looga shaqeeyo. ld qishid. 
 
@@ -4190,9 +3460,7 @@ qiyaas¹ m.l (dii.) Qayb ka mid ah tiirarka sharciga Islaamka oo la adeegsado ma
 
 qiyaas² m.dh 1. Cabbirka xag mug, dherer iyo culays ee wax leeyahay. 2. Oddoros; male. 
 
-qiyaas³ f.g1 (-say, -stay) 1. Mugga culayska, iyo dhererka ee wax leeyahay cabbirid. 
-
- 2. Wax oddorosid. 3. Ku q.: wax in ay wax kale la egyihiin iyo in kale ku eegid. 
+qiyaas³ f.g1 (-say, -stay) 1. Mugga culayska, iyo dhererka ee wax leeyahay cabbirid. 2. Wax oddorosid. 3. Ku q.: wax in ay wax kale la egyihiin iyo in kale ku eegid. 
 
 qiyaasan f.mg4 (-snaa, -snayd) 1. Wax muggooda, dhererkooda iyo culayskooda la cabbiray ahaansho. 2. Ku q.: wax meel ama wax kale ku aaddan ahaansho. 
 
@@ -4200,9 +3468,7 @@ qiyaasid m.f.dh eeg qiyaas³.
 
 qiyaas-khariidadeed m.l (-dyo, m.dh) (juqr.) Saamiga fogaanshaha laba barood oo khariidadda dusheeda ah iyo fogaanshaha runta ah ee uu u taaganyahay. 
 
-qiyaasnaan m.f.dh eeg qiyaasan. ld 
-
-qiyaasnaansho.qof²  
+qiyaasnaan m.f.dh eeg qiyaasan. ld qiyaasnaansho.
 
 qiyaasnaansho m.l/dh ld qiyaasnaan. 
 
@@ -4222,15 +3488,11 @@ qobtol¹ m.l (-llo, m.dh) Heeryo qaab joodari leh oo ka samaysan caws adag oo ma
 
 qobtol² f.g1 (-olay, -oshay) Heeryo qaab joodari u tolid iyadoo maro jilicsan dusha looga dahaarayo. 
 
-qobtolan f.mg4 (-lnaa, -lnayd) Heeryo wax la 
-
-qobtolay ahaansho. 
+qobtolan f.mg4 (-lnaa, -lnayd) Heeryo wax la qobtolay ahaansho. 
 
 qobtolid m.f.dh eeg qobtol². 
 
-qobtolnaan m.f.dh eeg qobtolan. ld 
-
-qobtolnaansho.  
+qobtolnaan m.f.dh eeg qobtolan. ld qobtolnaansho.  
 
 qobtolnaansho m.l/dh ld qobtolnaan. 
 
@@ -4244,7 +3506,7 @@ qod4 f.g1 (-day, -dday) 1. Meel duleelin. 2. Beer ka shaqeyn.
 
 qodaal m.l 1. Hawl ku saabsan wax qodidda iyo falidda siiba beeraha. 2. Q. ah: dhul ku habboon beerashada. 3. Daloolinta la dalooliyo dhul. 
 
-qodaal buureed m.l (-dyo, m.dh) Hab qodaal oo u gaar ah tiirooyinka buuraha iyo kuraha la beerto; tiirooyinka ayaa la googooyaa gidaaro ama dhinacyo dhiidhi ah waxa si wareeg ah looga dhisaa karinnada samaysmay, markaa biyaha waraabka iyo carradaba way xajistaan. 
+qodaal-buureed m.l (-dyo, m.dh) Hab qodaal oo u gaar ah tiirooyinka buuraha iyo kuraha la beerto; tiirooyinka ayaa la googooyaa gidaaro ama dhinacyo dhiidhi ah waxa si wareeg ah looga dhisaa karinnada samaysmay, markaa biyaha waraabka iyo carradaba way xajistaan. 
 
 qodan¹ f.mg1 (-dmay, -dantay; -dmi) Dhul wax la qoday noqosho. 
 
@@ -4262,9 +3524,7 @@ qodaxtool m.l Nagaar yar oo qodax badan: meeshii qodaxi muddo oo laga bixin waay
 
 qodban f.mg4 (-na. -nayd) 1. Wax la qodbay ahaansho. 2. Gabar bikro ahaansho. 
 
-qodbanaan  m.f.dh eeg qodban. ld 
-
-qodbanaansho.  
+qodbanaan  m.f.dh eeg qodban. ld qodbanaansho.  
 
 qodbanaansho m.l/dh ld qodbanaan. 
 
@@ -4272,19 +3532,13 @@ qodbid m.f.dh eeg qodob².
 
 qoddo m.dh 1. Dhererka meel la qoday leedahay. 2. Wax intiisa aasan. 3. Macnaha fog ee hadal leeyahay. ld qoto. 
 
-qode m.l 1. Cirboor; cirwareen; leexo. 2. Nooc 
-
-qaadka hareeriga ka mid ah oo gaagaaban aadna u jilicsan. 
+qode m.l 1. Cirboor; cirwareen; leexo. 2. Nooc qaadka hareeriga ka mid ah oo gaagaaban aadna u jilicsan. 
 
 qodhacayso f.mg3 (-stay, -satay) Qondhaco isu dhigid (nafley). 
 
-qodid m.f.dh eeg qod². ld qoditaan, qodniin, 
+qodid m.f.dh eeg qod². ld qoditaan, qodniin, qodow.  
 
-qodow.  
-
-qoditaan m.l Qodidda la qodo god iwm. ld 
-
-qodid.  
+qoditaan m.l Qodidda la qodo god iwm. ld qodid.  
 
 qodmid m.f.dh eeg qodan¹. 
 
@@ -4296,15 +3550,11 @@ qodniin m.l ld qodid.
 
 qodo f.g3 (-otay, -odatay) 1. Dhul falasho. 2. Meel dumsasho. 
 
-qodob¹ m.l (-dbo, m.l) 1. Dun, xarig iwm oo laba waxood ama ka badan la iskula qabto. 
-
-qaybsama 2. Musmaar gaaban oo dabada u buuran oo kabaha lagu qurxiyo. 3. Qaybaha sharciga u mid ka mid ah. 4. Summad xoolaha lagu dhigto oo u eg nuunka carabiga oo hoos u jeeda. 5. Qormooyinka wargeyska ku qoran mid ka mid ah; maqaal; qormo. 
+qodob¹ m.l (-dbo, m.l) 1. Dun, xarig iwm oo laba waxood ama ka badan la iskula qabto. qaybsama 2. Musmaar gaaban oo dabada u buuran oo kabaha lagu qurxiyo. 3. Qaybaha sharciga u mid ka mid ah. 4. Summad xoolaha lagu dhigto oo u eg nuunka carabiga oo hoos u jeeda. 5. Qormooyinka wargeyska ku qoran mid ka mid ah; maqaal; qormo. 
 
 qodob² m.l (-dbo, m.l) (nax.) Qurub magacyada qaarkood ka raaca dhammaadka si uu uga dhigo wax cayiman. Tus. “Aqal- ka”, “inan-ta”. 
 
-qodob³ f.g1 (-dbay, -dobtay; -dbi) 1. Dun, xarig iwm laba waxood iskula qabasho. 
-
- 2. Musmaar gaaban oo daba buuran leh kabo iwm ku qurxin. 3. Gabadh la guday tolid. 
+qodob³ f.g1 (-dbay, -dobtay; -dbi) 1. Dun, xarig iwm laba waxood iskula qabasho. 2. Musmaar gaaban oo daba buuran leh kabo iwm ku qurxin. 3. Gabadh la guday tolid. 
 
 qodobka rh m.l (-bo ..., m.dh) (baay) Lid jidh-dhakooliye oo joogistiisa ama maqnaanshihiisu unugyada cascas ee dhiigga guudkooda ay ku samayso salka habdhiska kooxaha dhiigga ee rh. 
 
@@ -4312,9 +3562,7 @@ qodow m.l ld qodid.
 
 qof¹ m.l/dh (-faf, m.l) 1. Shakhsi aadami ah. 2. Q.na: ninna, cidna. 3. Q.af: dad. 
 
-qof² m.l/dh (nax.) Mid ka mid ah kaqaybgalayaasha warisgaarsiinta: “aniga” waa qofka 1aad oo hadlaya, “adiga” waa 
-
-qofka 2aad oo ah lala hadlaha, 685qofayn “isaga”/”iyada” waa qofka 3aad oo ah laga hadlaha; saddexdaan qof kala keliga ah mid weliba waa wadaroobaa: 1aad “annaga/innaga”, 2aad “idinka”, 3aad “iyaga”. 
+qof² m.l/dh (nax.) Mid ka mid ah kaqaybgalayaasha warisgaarsiinta: “aniga” waa qofka 1aad oo hadlaya, “adiga” waa qofka 2aad oo ah lala hadlaha, 685qofayn “isaga”/”iyada” waa qofka 3aad oo ah laga hadlaha; saddexdaan qof kala keliga ah mid weliba waa wadaroobaa: 1aad “annaga/innaga”, 2aad “idinka”, 3aad “iyaga”. 
 
 qofayn m.f.dh eeg qofee. 
 
@@ -4322,9 +3570,7 @@ qofee f.g2 (-feeyay, -faysay) Qof ka dhigid.
 
 qofnimo m.dh Qof ahaansho. 
 
-qol m.l (-lal, m.l) Qaybaha uu guri u 
-
-qaybsamo middood oo aan ahayn musqusha iyo jikada. ld qawlad, qoolad, qowlad. 
+qol m.l (-lal, m.l) Qaybaha uu guri u qaybsamo middood oo aan ahayn musqusha iyo jikada. ld qawlad, qoolad, qowlad. 
 
 qolaab f.g1 (-bay, -btay) ld qoolaab². 
 
@@ -4332,13 +3578,9 @@ qolayn m.f.dh eeg qolee.
 
 qolaysad m.l ld qolaysasho. 
 
-qolaysan f.mg1 (-smay, -santay; -smi) 1. Biyo wax meel godan ku aruursamay ahaansho. 
+qolaysan f.mg1 (-smay, -santay; -smi) 1. Biyo wax meel godan ku aruursamay ahaansho. 2. Wax meel ciriiri ah ku xareysan ahaansho. 
 
- 2. Wax meel ciriiri ah ku xareysan ahaansho. 
-
-qolaysasho m.f.dh eeg qolayso. ld qolaysad, 
-
-qolaysi.  
+qolaysasho m.f.dh eeg qolayso. ld qolaysad, qolaysi.  
 
 qolaysi m.l ld qolaysasho. 
 
@@ -4358,9 +3600,7 @@ qolfaadid m.f.dh eeg qolfaad². ld qolfaad¹.
 
 qolfaysad m.l ld qolfaysasho. 
 
-qolfaysasho m.f.dh eeg qolfayso. ld 
-
-qolfaysasho, qolfaysad, qolfaysi. 
+qolfaysasho m.f.dh eeg qolfayso. ld qolfaysasho, qolfaysad, qolfaysi. 
 
 qolfaysi m.l ld qolfaysasho. 
 
@@ -4372,57 +3612,39 @@ qolo m.dh (-ooyin, m.l) 1. Qabiil. 2. Ummad. 3. Koox isku meherad ah.
 
 qolobdhabad m.l ld qolobdhabasho. 
 
-qolobdhabasho m.f.dh eeg qolobdhabo. ld 
+qolobdhabasho m.f.dh eeg qolobdhabo. ld qolobdhabad.  
 
-qolobdhabad.  
+qolobdhabo f.mg3 (-obday, -obatay) Awr qooqan isaga oo madax soo laallaadinaya daamankana isla dhacaya ordid. 
 
-qolobdhabo f.mg3 (-obday, -obatay) Awr 
+qolof m.l/dh (-lfo, m.l) 1. Dubka sare ee geedaha. 2. Jilif xalleef ahoo ay nabarradu yeeshaan siiba marka ay biskoonayaan. 3. Dubka sare ee xammaaratada iyo mallayga. 
 
-qooqan isaga oo madax soo laallaadinaya daamankana isla dhacaya ordid. 
-
-qolof m.l/dh (-lfo, m.l) 1. Dubka sare ee geedaha. 2. Jilif xalleef ahoo ay nabarradu yeeshaan siiba marka ay biskoonayaan. 
-
- 3. Dubka sare ee xammaaratada iyo mallayga. 
-
-qolofaysasho 686 m.dh ld qolfaysasho. 
+qolofaysasho m.dh ld qolfaysasho. 
 
 qolofayso f.mg3 (-stay, -satay) ld qolfayso. 
 
 qolofdhacsad m.l ld qolofdhacsasho. 
 
-qolofdhacsasho m.f.dh eeg qolofdhacso. ld 
-
-qolofdhacsad, qolofdhacsi. 
+qolofdhacsasho m.f.dh eeg qolofdhacso. ld qolofdhacsad, qolofdhacsi. 
 
 qolofdhacsi m.l ld qolofdhacsasho. 
 
-qolofdhacso  f.mg3 (-saday, -satay) 1. Xamaarato, mallay iwm xuub siibasho. 
-
- 2. Nabar qolof ka dhicid. 
+qolofdhacso  f.mg3 (-saday, -satay) 1. Xamaarato, mallay iwm xuub siibasho. 2. Nabar qolof ka dhicid. 
 
 qolofqab m.l Beejoqab; buryaqab. 
 
 qoloqolee f.mg2 (-leeyay, -leysay) Dad meel wada deggan ama wada jooga qabiil qabiil u kala saarid. 
 
-qoloqoleyn m.f.dh eeg qoloqolee. ld 
-
-qoloqoleys.  
+qoloqoleyn m.f.dh eeg qoloqolee. ld qoloqoleys.  
 
 qoloqoleys m.l ld qoloqoleyn. 
 
 qoloqolo m.dh Kala bixidda ay ummad meel wada deggan qabiil qabiil u sii kala baxdo. 
 
-qolqol¹ m.l (-llo, m.dh) 1. Maro lagu kala 
+qolqol¹ m.l (-llo, m.dh) 1. Maro lagu kala qoqobo aqal gudahiisa; daah. 2. Aqal la kala 
 
-qoqobo aqal gudahiisa; daah. 2. Aqal la kala 
+qoqobay intiisa qarsoon. 3. Maqaar weyn oo tolan oo hilibka iwm lagu qaato; xashin. 4. Dillaacinta nirgo naaska hooyadood laga goynayo carrabka laga dillaaciyo. 5. Oodda sarsarka kore iyo xerada xoolaha meel u dhexeysa oo awrtu fariisato. 
 
-qoqobay intiisa qarsoon. 3. Maqaar weyn oo tolan oo hilibka iwm lagu qaato; xashin. 
-
- 4. Dillaacinta nirgo naaska hooyadood laga goynayo carrabka laga dillaaciyo. 5. Oodda sarsarka kore iyo xerada xoolaha meel u dhexeysa oo awrtu fariisato. 
-
-qolqol² f.g1 (-olay, -oshay) 1. Aqal kala 
-
-qoqobid. 2. Nirig carrab ka jeexid. 
+qolqol² f.g1 (-olay, -oshay) 1. Aqal kala qoqobid. 2. Nirig carrab ka jeexid. 
 
 qolqolan f.mg4 (-lnaa, -lnayd) Nirig naaska laga goynayo wax carrabka laga dalooliyay ahaansho. 
 
@@ -4436,13 +3658,9 @@ qombob² f.mg1 (-bay, -btay) Wax kala baxsanaa isku soo roorid engeg ama kulayl 
 
 qombobid m.f.dh eeg qombob². 
 
-qombobsan f.mg4 (-naa, -nayd) Wax 
+qombobsan f.mg4 (-naa, -nayd) Wax qombobay ahaansho. 
 
-qombobay ahaansho. 
-
-qombobsanaan m.f.dh eeg qombobsan. ld 
-
-qombobsanaansho.  
+qombobsanaan m.f.dh eeg qombobsan. ld qombobsanaansho.  
 
 qombobsanaansho m.l/dh ld qombobsanaan. 
 
@@ -4450,21 +3668,13 @@ qommod m.l Harag dab lagu dubay si loo cuno. ld qummud.
 
 qommodsad m.l ld qommodsasho. 
 
-qommodsasho m.f.dh eeg qommodso. ld 
-
-qommodsad, qommodsi, qummudsad, 
-
-qummudsasho.  
+qommodsasho m.f.dh eeg qommodso. ld qommodsad, qommodsi, qummudsad, qummudsasho.  
 
 qommodsi m.l ld qommodsasho. 
 
-qommodso f.g3 (-saday, -satay) Maqaar 
+qommodso f.g3 (-saday, -satay) Maqaar qommod ka dhigasho. ld qummudso. 
 
-qommod ka dhigasho. ld qummudso. 
-
-qondhacaysasho m.f.dh eeg qondhacayso. ld 
-
-qondhacaysi.qoollin  
+qondhacaysasho m.f.dh eeg qondhacayso. ld qondhacaysi. 
 
 qondhacaysi m.l ld qondhacaysasho. 
 
@@ -4480,9 +3690,7 @@ qonof² f.g1 (-nfay, -noftay; -nfi) Qof, qof kale la lagdamaaya lugtiisa lugta q
 
 qoo f.g2 (-ooyay, -oysay) Wax qallalan biyo gelin. ld qooy. 
 
-qoob m.l (-bab, m.l) 1. Lugta ariga, lo'da gammaanka iyo ugaadha inteeda hoose ee 
-
-qanjaafaha leh. 2. Anqow. 3. Taakada kabaha. 
+qoob m.l (-bab, m.l) 1. Lugta ariga, lo'da gammaanka iyo ugaadha inteeda hoose ee qanjaafaha leh. 2. Anqow. 3. Taakada kabaha. 
 
 qoobad m.dh (-do, m.l) Hooy, xero iwm oo aad ciriiri u ah. 
 
@@ -4496,9 +3704,7 @@ qoodee f.mg2 (-deeyay, -deysay) Xoolo si isdabajoog ah u socosho.
 
 qoodeyn m.f.dh eeg qodee. ld qoode (4). 
 
-qoodeysasho m.f.dh eeg qoodeyso. ld 
-
-qoodeysi.  
+qoodeysasho m.f.dh eeg qoodeyso. ld qoodeysi.  
 
 qoodeysi m.l ld qoodeysasho. 
 
@@ -4512,15 +3718,11 @@ qoofal¹ m.l 1. Dabar suun ka samaysan oo awrta iyo fardaha jeenyaha hore lagaga
 
 qoofal² f.g1 (-alay, -ashay) Awr ama faras jeenyaha hore dabar suun ah uga seeteyn. 
 
-qoofalan f.mg4 (-lnaa, -lnayd) Wax la 
-
-qoofalay ahaansho (awr ama faras). 
+qoofalan f.mg4 (-lnaa, -lnayd) Wax la qoofalay ahaansho (awr ama faras). 
 
 qoofalid m.f.dh eeg qoofal². ld qoofal¹ (2). 
 
-qoofalnaan m.f.dh eeg qoofalan. ld 
-
-qoofalnaansho.  
+qoofalnaan m.f.dh eeg qoofalan. ld qoofalnaansho.  
 
 qoofalnaansho m.l/dh ld qoofalnaan. 
 
@@ -4530,13 +3732,9 @@ qool¹ m.l (-lal, m.l) 1. Suun ama xarig siriq leh oo maqasha iwm surka lagaga x
 
 qool² f.g1 (-oolay, -ooshay) 1. Suun ama xarig siriq u samayn. 2. Cid khayaameyn. 
 
-qoolaab¹ m.l 1. Qallooc; nadooc; qolxo. 2. Agaasin loo sameeyo dab shididdiis. ld 
+qoolaab¹ m.l 1. Qallooc; nadooc; qolxo. 2. Agaasin loo sameeyo dab shididdiis. ld qoolaaw¹.  
 
-qoolaaw¹.  
-
-qoolaab² f.g1 (-bay, -btay) 1. Wax qalloocin. 2. Dab shididdii agaasimid. ld qolaab, 
-
-qoolaaw².  
+qoolaab² f.g1 (-bay, -btay) 1. Wax qalloocin. 2. Dab shididdii agaasimid. ld qolaab, qoolaaw².  
 
 qoolaaban¹ f.mg1 (-bmay, -bantay) 1. Bir iwm wax qaroofmay noqosho. 2. Dab wax la agaasimay noqosho. 
 
@@ -4544,15 +3742,11 @@ qoolaaban² f.mg4 (-bnaa, -bnayd) 1. Bir iwm wax la qaroofay ahaansho. 2. Dab wa
 
 qoolaabasho m.f.dh eeg qoolaabo. 
 
-qoolaabid m.f.dh 1. eeg qoolaab². 2. eeg 
-
-qoolaaw².  
+qoolaabid m.f.dh 1. eeg qoolaab². 2. eeg qoolaaw².  
 
 qoolaabmid m.f.dh eeg qoolaaban¹. 
 
-qoolaabnaan m.f.dh eeg qoolaaban. ld 
-
-qoolaabnaansho.  
+qoolaabnaan m.f.dh eeg qoolaaban. ld qoolaabnaansho.  
 
 qoolaabnaansho m.l/dh ld qoolaabnaan. 
 
@@ -4568,13 +3762,9 @@ qoolad m.dh ld qol.
 
 qoolan¹ f.mg1 (-lmay, -lantay; -lmi) Xarig wax la qoolay noqosho. 
 
-qoolan² f.mg4 (-lnaa, -lnayd) 1. Xarig wax la 
+qoolan² f.mg4 (-lnaa, -lnayd) 1. Xarig wax la qoolay ahaansho. 2. U q.: qof, wax dhacay ama dhici doona dhibaatada ka timaada ka masuul ah ahaansho. 
 
-qoolay ahaansho. 2. U q.: qof, wax dhacay ama dhici doona dhibaatada ka timaada ka masuul ah ahaansho. 
-
-qoolati m.l Geed dheer oo aan qodax lahayn oo caleemo cagaaran iyo hoos qabow leh. ld 
-
-qoolaati.  
+qoolati m.l Geed dheer oo aan qodax lahayn oo caleemo cagaaran iyo hoos qabow leh. ld qoolaati.  
 
 qooli f.g2 (-iyay, -isay) Suun ama xarig siriq u sameyn. 
 
@@ -4586,9 +3776,7 @@ qoollaalli¹ m.l 1. ld qoollaalliyid. Eegidda wax ilqooreedka laga eego. 2. Soco
 
 qoollaalli² f.g1 (-iyay, -iday; -iyi) 1. Wax ilqoorka ka eegid. 2. Si isqaadqaad iyo isla weyni ku jirto u socosho. 
 
-qoollaalliyid m.f.dh eeg qoollaalli². ld 
-
-qoollaalli¹ (1). 
+qoollaalliyid m.f.dh eeg qoollaalli². ld qoollaalli¹ (1). 
 
 qoolley m.dh Nooc shimbiraha ka mid ah dhowr jaad u kala baxda oo kuwa ugu caansani surka daliig yar, madow oo qool la moodo ku leeyihiin; ceelal joog; humburuq; adar; curcurri. 
 
@@ -4604,9 +3792,7 @@ qoolnaan m.f.dh eeg qoolan². ld qoolnaansho.
 
 qoolnaansho m.l/dh ld qoolnaan. 
 
-qoomammayn m.f.dh eeg qoommammee. ld 
-
-qoomammays.  
+qoomammayn m.f.dh eeg qoommammee. ld qoomammays.  
 
 qoomammays m.l ld qoomammayn. 
 
@@ -4626,9 +3812,7 @@ qoomid m.f.dh eeg qoon³.
 
 qoomman f.mg4 (-naa, -nayd) Wax qooni gaartay ahaansho (nafley). 
 
-qoommanaan m.f.dh eeg qoomman. ld 
-
-qoommanaansho.  
+qoommanaan m.f.dh eeg qoomman. ld qoommanaansho.  
 
 qoommanaansho m.l/dh ld qoommanaan. 
 
@@ -4646,13 +3830,9 @@ qoondaysasho m.f.dh eeg qoondayso.
 
 qoondaysi m.l ld qoondaysasho. 
 
-qoondayso f.g3 (-stay, -satay) Wax 
+qoondayso f.g3 (-stay, -satay) Wax qorsheysasho.  
 
-qorsheysasho.  
-
-qoondee f.g2 (-deeyay, -daysay) Wax 
-
-qorsheyn.  
+qoondee f.g2 (-deeyay, -daysay) Wax qorsheyn.  
 
 qoone m.l.u 1. Miraha geedka baarta. 2. Iniin ku dhex jirta miraha geedka baarta oo inta la farsameeyo loo xiro geela. 3. Geed la qoray oo lagu shubto tubaakada. 
 
@@ -4662,9 +3842,7 @@ qoonqoon m.l Geed gaab aan qodax lahayn laamo toostoosan o guryaha lagu dhisto l
 
 qoonsad m.l ld qoonsasho. 
 
-qoonsasho m.f.dh eeg qoonso. ld qoonsad, 
-
-qoonsi, qoonsimaad. 
+qoonsasho m.f.dh eeg qoonso. ld qoonsad, qoonsi, qoonsimaad. 
 
 qoonsi m.l ld qoonsasho. 
 
@@ -4672,17 +3850,13 @@ qoonsimaad m.l Shaki iyo kahsasho laga qaado wax la nabcaystay. ld qoonsasho.
 
 qoonso f.g3 (-saday, -satay) Wax dhibsasho. 
 
-qooq¹ m.l 1. Xoolaha lab siiba awrta sida ay noqdaan xilliga ay diyaar u yihiin inay wax 688 abaahiyaan. 2. Ciyaar; dheel. 3. Kacsi. 
-
- 4. Kibir; islaweyni. 
+qooq¹ m.l 1. Xoolaha lab siiba awrta sida ay noqdaan xilliga ay diyaar u yihiin inay wax 688 abaahiyaan. 2. Ciyaar; dheel. 3. Kacsi. 4. Kibir; islaweyni. 
 
 qooq² f.mg1 (-qay, -qday) 1. Xoolo lab qooq ku dhicid. 2. Ciyaarid; dheelid. 3. Dad kibrid. 4. Gabar galmo u baahasho. 
 
 qooqaar¹ m.l ld qarqoor¹, qarqoorid. 
 
-qǫoqaar¹ m.l Gowriir; qanqood. ld qǫo 
-
-qaarid.  
+qǫoqaar¹ m.l Gowriir; qanqood. ld qǫo qaarid.  
 
 qooqaar² f.g1 (-ray, -rtay) ld qarqoor². 
 
@@ -4694,9 +3868,7 @@ qooqaarid m.dh ld qarqoorid.
 
 qǫoqaarid m.f.dh eeg qǫoqaar². ld qǫo qaar¹. 
 
-qooqaaro f.g3 (-rtay, -ratay) 1. Arrin la tashi dad kale u baahan, qof keligii qorsheysasho. 
-
- 2. Xero xoolaad sameysasho. 
+qooqaaro f.g3 (-rtay, -ratay) 1. Arrin la tashi dad kale u baahan, qof keligii qorsheysasho.  2. Xero xoolaad sameysasho. 
 
 qooqaarsasho m.f.dh eeg qooqaarso. 
 
@@ -4706,11 +3878,7 @@ qooqan f.mg4 (-qnaa, -qnayd) 1. Xoolo lab wax qooq hayo ahaansho. 2. Dugaag ama 
 
 qooqid m.f.dh eeg qooq². 
 
-qooqnaan  m.f.dh eeg 
-
-qooqan.  ld 
-
-qooqnaansho.  
+qooqnaan  m.f.dh eeg qooqan. ld qooqnaansho.  
 
 qooqnaansho m.l/dh ld qooqnaan. 
 
@@ -4720,9 +3888,7 @@ qǫor m.l 1. Xoolo lab oo aan la dhufaanin. 2. Nafley laf oo lag iyo qurux u dha
 
 qooraansad m.l ld qooraansasho. 
 
-qooraansasho m.f.dh eeg qooraanso. ld 
-
-qooraansad, qooraansi. 
+qooraansasho m.f.dh eeg qooraanso. ld qooraansad, qooraansi. 
 
 qooraansi m.l ld qooraansasho. 
 
@@ -4732,15 +3898,11 @@ qooraar¹ m.l Habka geelu u istaago marka uu kaadinayo.
 
 qooraar² f.mg1 (-ray, -rtay) Neef geela oo kaadshaya lugaha kala fogayn. ld qooraarso. 
 
-qooraarid m.f.dh eeg qooraar². ld qooraarsad, 
-
-qoraarsasho, qooraarsi. 
+qooraarid m.f.dh eeg qooraar². ld qooraarsad, qoraarsasho, qooraarsi. 
 
 qooraarsad m.l ld qooraarid. 
 
-qooraarsasho m.dh eeg qooraarso. ld 
-
-qooraarid.  
+qooraarsasho m.dh eeg qooraarso. ld qooraarid.  
 
 qooraarsi m.l ld qooraarid. 
 
@@ -4750,55 +3912,37 @@ qoorad m.l ld qoorasho.
 
 qooradheere m.l Shumbul. 
 
-qooraggoo  f.g2 (-gooyay, -goysay) 1. Dheddig dhali waayey ilmagaleenkooda 
+qooraggoo  f.g2 (-gooyay, -goysay) 1. Dheddig dhali waayey ilmagaleenkooda qalliin ku sameyn. 2. Si cadaawad leh u dagaalamid.
 
-qalliin ku sameyn. 2. Si cadaawad leh u dagaalamid.qoqob² 
-
-qooraggooyo m.dh 1. Senge (faras). 2. ld 
-
-qooraggoy. Dagaal cadaawad dheeraad ah leh. 
+qooraggooyo m.dh 1. Senge (faras). 2. ld qooraggoy. Dagaal cadaawad dheeraad ah leh. 
 
 qooraggoy m.l ld qooraggooyo (2). 
 
-qooraggoyn m.f.dh eeg qooraggoo. ld 
-
-qooraggoys.  
+qooraggoyn m.f.dh eeg qooraggoo. ld qooraggoys.  
 
 qooraggoys m.l ld qooraggoyn. 
 
-qoorasho m.f.dh eeg qooro². ld qoorad, 
-
-qooratayn, qoorato (2). 
+qoorasho m.f.dh eeg qooro². ld qoorad, qooratayn, qoorato (2). 
 
 qooratayn m.dh ld qoorasho. 
 
 qooratee f.g2 (-teeyay, -teysay) ld qooro². 
 
-qooratirsi m.l Ogaansha la ogaado inta rag ee ku jirta qolo si mag loo bixiyo ama loo 
-
-qaybsado.  
+qooratirsi m.l Ogaansha la ogaado inta rag ee ku jirta qolo si mag loo bixiyo ama loo qaybsado.  
 
 qoorato m.dh 1. Q. ah: col si gaadmo iyo dhumaleysi wax ku laaya. 2. ld qoorasho. 
 
 qoordiid¹ m.l Xiirmo yar oo qadaadka intiisa hoose lagu sameeyo. ld qoordiir¹ (2). 
 
-qoordiid² f.mg1 (-day, -dday) U q.: cid 
+qoordiid² f.mg1 (-day, -dday) U q.: cid qadaadka u xiirid. ld qoordiir². 
 
-qadaadka u xiirid. ld qoordiir². 
+qoordiidan f.mg4 (-dnaa, -dnayd) Qof loo qoordiiday ahaansho. 
 
-qoordiidan f.mg4 (-dnaa, -dnayd) Qof loo 
-
-qoordiiday ahaansho. 
-
-qoordiidasho m.f.dh eeg qoordiido. ld 
-
-qoordiirasho.  
+qoordiidasho m.f.dh eeg qoordiido. ld qoordiirasho.  
 
 qoordiidid m.f.dh eeg qoordiid². ld qoordiirid. 
 
-qoordiidnaan m.f.dh eeg qoordiidan. ld 
-
-qoordiidnaansho.  
+qoordiidnaan m.f.dh eeg qoordiidan. ld qoordiidnaansho.  
 
 qoordiidnaansho m.l/dh ld qoordiidnaan. 
 
@@ -4818,9 +3962,7 @@ qoorgoo f.g2 (-gooyay, -goysay) Nafley surka jug ka gaarsiin.
 
 qoorgooye¹ m.l Cudur ka dhasha qaniinyada kudkudaha oo murqaha luqunta xanuunjiyo. 
 
-qoorgooye²  m.l (daaw.) Meninjiito. 
-
- Halaamacoodka xuubabka maskaxda oo u keeno fiirus, ama baktiiriya keeno oof wareen, xabbad ama qaaxo. 
+qoorgooye²  m.l (daaw.) Meninjiito. Halaamacoodka xuubabka maskaxda oo u keeno fiirus, ama baktiiriya keeno oof wareen, xabbad ama qaaxo. 
 
 qoorgooyn m.f.dh eeg qoorgoo. 
 
@@ -4828,9 +3970,7 @@ qoorjabane m.l Ilmo aan dhammays ahayn oo hal siddeed ama sagaalbilood ku soo tu
 
 qoorkaddiid m.l ld qoorkaddiidid. 
 
-qoorkaddiidid m.dh Diidmo; nacayb. ld 
-
-qoorkaddiid.  
+qoorkaddiidid m.dh Diidmo; nacayb. ld qoorkaddiid.  
 
 qooro¹ m.l.u Xiniinyaha iyo haraggooda oo is wata. 
 
@@ -4864,9 +4004,7 @@ qooryoon³ m.l Oon daran.
 
 qooryoon4 f.mg1 (-oomay, -oontay) Oon aad u daran dareemid. 
 
-qoosh¹ m.l 1. Budo badan oo hoore yar lagu 
-
-qasay. 2. Cajiin. Waxyaabo badan, kala duwan oo la isku daray. 
+qoosh¹ m.l 1. Budo badan oo hoore yar lagu qasay. 2. Cajiin. Waxyaabo badan, kala duwan oo la isku daray. 
 
 qoosh² f.g1 (-shay, -shtay) 1. Budo hoore yar ku qasid. 2. Cajiin sameyn. 3. Isku q.: waxyaabo badan oo kala duwan iskuqasid. 
 
@@ -4874,21 +4012,15 @@ qooshan f.mg4 (-shnaa, -shnayd) Wax, wax kale lagu qooshay ahaansho.
 
 qooshid m.f.dh eeg qoosh². 
 
-qooshnaan m.f.dh eeg qooshan. ld 
-
-qooshnaansho.  
+qooshnaan m.f.dh eeg qooshan. ld qooshnaansho.  
 
 qooshnaansho m.l/dh ld qooshnaan. 
 
 qoosiherin m.l Ninka horjoogaha u ah herinta. 
 
-qoox f.g1 (-xay, -xday) 1. Ul, qaanso iwm 
+qoox f.g1 (-xay, -xday) 1. Ul, qaanso iwm qalloocin. 2. Is q.: qof xarrago isla godid. 
 
-qalloocin. 2. Is q.: qof xarrago isla godid. 
-
-qooxan f.mg4 (-xnaa, -xnayd) Qof wax is 
-
-qooxay ahaansho. 
+qooxan f.mg4 (-xnaa, -xnayd) Qof wax is qooxay ahaansho. 
 
 qooxid m.f.dh eeg qoox. 
 
@@ -4898,17 +4030,9 @@ qooxnaansho m.l/dh ld qooxnaan.
 
 qooy f.g1 (-yay, -ysay) ld qoo. 
 
-qoqob¹ m.l (-byo, m.dh) 1. (xis.) Qayb ka mid ah xarriiq ama xood oo u dhexeeya laba barood oo ku yaalla xarriiqda ama xoodka. 
+qoqob¹ m.l (-byo, m.dh) 1. (xis.) Qayb ka mid ah xarriiq ama xood oo u dhexeeya laba barood oo ku yaalla xarriiqda ama xoodka. 2. (xis.) Gobol u dhexeeya boqonka goobo iyo qaansada ku aaddan ee gooya boqonka. Tusaale ahaan, bedka u dhexeeya boqon goobo iyo qaansada ku aaddan waa qoqobka goobada. 
 
- 2. (xis.) Gobol u dhexeeya boqonka goobo iyo qaansada ku aaddan ee gooya boqonka. 
-
- Tusaale ahaan, bedka u dhexeeya boqon goobo iyo qaansada ku aaddan waa qoqobka goobada. 
-
-qoqob² m.l (-bo, m.dh) 1. Dhis, raro, ood iwm oo lagu kala qaybsho guri, xero iwm. 
-
- 689qoqob³ 2. Dhul yar oo hareeraha ka xaydaaman. 
-
- 3. Karantiil. 
+qoqob² m.l (-bo, m.dh) 1. Dhis, raro, ood iwm oo lagu kala qaybsho guri, xero iwm. 2. Dhul yar oo hareeraha ka xaydaaman. 3. Karantiil. 
 
 qoqob³ f.g1 (-bay, -btay) 1. Xero ama aqal gudahiisa dhis ku kala goyn. 2. Nafley karantiilid. 
 
@@ -4924,9 +4048,7 @@ qoqobid m.f.dh eeg qoqob².
 
 qoqoble m.l Bayd faal, oo madaxa iyo tan majaha ka sarraysa min labo ka ah, manjaha iyo tan madaxa ka hooseysana min hal. 
 
-qoqobnaan m.f.dh eeg qoqoban. ld 
-
-qoqobnaansho.  
+qoqobnaan m.f.dh eeg qoqoban. ld qoqobnaansho.  
 
 qoqobnaansho m.l/dh ld qoqobnaan. 
 
@@ -4938,13 +4060,11 @@ qoraa m.l (-aayaal, m.l/dh) Qof buugaag iyo maqaallo la akhristo qora. ld qore.
 
 qoraaje m.l (-jayaal, m.l/dh) Maroodi lab. 
 
-qoraal m.l 1. Wax xaanshi dusheeda ku qoran. 2. Habka farta loo qoro. 3. Waddo falfal ah. 
+qoraal m.l 1. Wax xaanshi dusheeda ku qoran. 2. Habka farta loo qoro. 3. Waddo falfal ah. 4. Habka qalabka geedaha laga qoro loo farsameeyo. 5. ld qorid. 
 
- 4. Habka qalabka geedaha laga qoro loo farsameeyo. 5. ld qorid. 
+qoraal-baali m.l Cilmiga baara farta qoraalka ee dadkii hore. 
 
-qoraal baali m.l Cilmiga baara farta qoraalka ee dadkii hore. 
-
-qoraalkii dadkii hore m.l (-aalladii ..., m.dh) Barashada fartii dadkii hore. 
+qoraalkii-dadkii-hore m.l (-aalladii ..., m.dh) Barashada fartii dadkii hore. 
 
 qorabixis m.l Qalab bir ah oo weelasha qoriga ah gudaha looga qoro; xalleefato. 
 
@@ -4956,9 +4076,7 @@ qorasho m.f.dh eeg qoro. 690
 
 qordhabe m.l Geed dheer, aan qodax lahayn oo laga goosto tiirar xooggan oo guryaha lagu dhisto. 
 
-qordi f.g2 (-iyay, -isay) Ku q.: qof isku deyid in uu qof kale wax gacantiisa ku jiro la 
-
-qaybsado.  
+qordi f.g2 (-iyay, -isay) Ku q.: qof isku deyid in uu qof kale wax gacantiisa ku jiro la qaybsado.  
 
 qordin m.f.dh eeg qordi. 
 
@@ -4970,13 +4088,9 @@ qorfe m.l Qolof udgoon oo dhirta shaaha lagu daro ka mid ah.
 
 qorfo m.l Dhul oommane ah oo aan cidna joogin. ld qafro, qarfo. 
 
-qori m.l (-ryo, m.dh) 1. Geedaha intooda dhexe oo adag oo qolofta iyo mayraxda ka hoosaysa. 2. Laan jab ah oo qallalan. 
+qori m.l (-ryo, m.dh) 1. Geedaha intooda dhexe oo adag oo qolofta iyo mayraxda ka hoosaysa. 2. Laan jab ah oo qallalan. 3. Alwaax; loox. 4. Buntukh. 
 
- 3. Alwaax; loox. 4. Buntukh. 
-
-qorid m.f.dh eeg qor². ld qoraal (5), qoris, 
-
-qoritaan, qorniimo, qorniin. 
+qorid m.f.dh eeg qor². ld qoraal (5), qoris, qoritaan, qorniimo, qorniin. 
 
 qori-ismaris m.l.kh (-syo, m.dh) Qof mar dad ah marna iska dhiga waraabe isagoo is marinaya qori khaas ah (sheeko xariir). 
 
@@ -4998,27 +4112,19 @@ qoririd m.l Qorituur.
 
 qoriridasho m.f.dh eeg qorirido. 
 
-qorirido f.mg3 (-itay, -idatay) Qoririd wax ku 
-
-qeybsasho.  
+qorirido f.mg3 (-itay, -idatay) Qoririd wax ku qeybsasho.  
 
 qoris m.dh ld qorid. 
 
 qorisaar¹ m.l 1. Dedidda dhis iwm lagu dedo 
 
-qoryo, alwaax iwm. 2. Saaridda la saaro daydka, xabaasha, ood, qori iwm. ld 
+qoryo, alwaax iwm. 2. Saaridda la saaro daydka, xabaasha, ood, qori iwm. ld qorisaarid.  
 
-qorisaarid.  
-
-qorisaar² f.g1 (-ray, -rtay) 1. Dhismo iwm 
-
-qori ku dedid. 2. Xabaal, ood, qori iwm ah saarid. 
+qorisaar² f.g1 (-ray, -rtay) 1. Dhismo iwm qori ku dedid. 2. Xabaal, ood, qori iwm ah saarid. 
 
 qorisaarid m.f.dh eeg qorisaar². ld qorisaar¹. 
 
-qorisla'aan m.dh Xaaladda uu ku sugan yahay 
-
-qof aan waxna qorin waxna akhrin. 
+qorisla'aan m.dh Xaaladda uu ku sugan yahay qof aan waxna qorin waxna akhrin. 
 
 qoritaan m.l ld qorid. 
 
@@ -5030,15 +4136,11 @@ qorituur² f.g1 (-ray, -rtay) U q.: laba qof baqtiyaanasiib u samayn si uu mid u
 
 qorituurad m.l ld qorituurasho. 
 
-qorituurasho m.f.dh eeg qorituuro. ld 
-
-qorituurad.  
+qorituurasho m.f.dh eeg qorituuro. ld qorituurad.  
 
 qorituurid m.f.dh eeg qorituur². 
 
-qorituuro f.mg3 (-rtay, -ratay) Qorituur ka 
-
-qayb qaadasho (qof). 
+qorituuro f.mg3 (-rtay, -ratay) Qorituur ka qayb qaadasho (qof). 
 
 qorixarar m.l 1. Mindi yar oo wax lagu xardho. 2. ld qorixardhe. (-ryo, m.dh) Qof wax xardha. 
 
@@ -5046,9 +4148,7 @@ qorixardhe m.l ld qorixarar.
 
 qormayn m.f.dh eeg qormee. 
 
-qormee f.g2 (-meeyay, -maysay) Reer si 
-
-qorsho leh u dejin. 
+qormee f.g2 (-meeyay, -maysay) Reer si qorsho leh u dejin. 
 
 qormid m.f.dh eeg qoran¹. 
 
@@ -5080,9 +4180,7 @@ qorqode m.l.kh (-dayaal, m.l/dh) Q. ah: nin afadiisa si fool xun kula dhabiiltam
 
 qorqoran f.mg4 (-rnaa, -rnayd) Qof qurxan oo aan hilib badan lahayn ahaansho. 
 
-qorqornaan m.f.dh eeg qorqoran. ld 
-
-qorqornaansho.  
+qorqornaan m.f.dh eeg qorqoran. ld qorqornaansho.  
 
 qorqornaansho m.l/dh ld qorqornaan. 
 
@@ -5096,37 +4194,25 @@ qorraxayn m.f.dh eeg qorraxee. ld orraxayn.
 
 qorraxaysad m.l ld qorraxaysasho. 
 
-qorraxaysan f.mg4 (-snaa, -snayd) Wax 
+qorraxaysan f.mg4 (-snaa, -snayd) Wax qorrax la dhigay ahaansho. 
 
-qorrax la dhigay ahaansho. 
-
-qorraxaysasho m.f.dh eeg qorraxayso. ld 
-
-qorraxaysad, qorraxaysi. 
+qorraxaysasho m.f.dh eeg qorraxayso. ld qorraxaysad, qorraxaysi. 
 
 qorraxaysi m.l ld qorraxaysasho. 
 
-qorraxaysnaan m.f.dh eeg qorraxaysan. ld orraxaysnaan, orraxaysnaansho, 
-
-qorraxaysnaansho.  
+qorraxaysnaan m.f.dh eeg qorraxaysan. ld orraxaysnaan, orraxaysnaansho, qorraxaysnaansho.  
 
 qorraxaysnaansho m.l/dh ld qorraxaysnaan. 
 
-qorraxayso f.g/mg3 (-stay, -satay) 1. (f.g) Wax 
+qorraxayso f.g/mg3 (-stay, -satay) 1. (f.g) Wax qorrax u dhigid. 2. (f.mg) Cid qorrax isu dhigid. 
 
-qorrax u dhigid. 2. (f.mg) Cid qorrax isu dhigid. 
-
-qorraxdhac m.l 1. Waqtiga ay qorraxda godkeeda gasho; maqrib. 2. Jahada ay 
-
-qorraxdu u dhacdo. 
+qorraxdhac m.l 1. Waqtiga ay qorraxda godkeeda gasho; maqrib. 2. Jahada ay qorraxdu u dhacdo. 
 
 qorraxdheere m.l Xilli jiilaal oo aad u kulul oo aan roob Jirin. 
 
 qorraxee f.g2 (-xeeyay, -xaysay) Wax qorrax u dhigid. 
 
-qorraxmadoobaad m.l (-dyo, m.dh) Marka dayaxu kala dhex galo dhulka iyo qorraxda ee 
-
-qorraxda qaarkeed qarsoomo. 
+qorraxmadoobaad m.l (-dyo, m.dh) Marka dayaxu kala dhex galo dhulka iyo qorraxda ee qorraxda qaarkeed qarsoomo. 
 
 qorraxoo f.mg3 (-ooday, -ootay) Wax kuleyl badan ku dhacay noqosho. 
 
@@ -5134,9 +4220,7 @@ qorraxood m.f.dh eeg qorraxoo.
 
 qorraxsad m.l ld qorraxsasho. 
 
-qorraxsasho m.f.dh eeg qorraxso. ld qorraxsad, 
-
-qorraxsi.  
+qorraxsasho m.f.dh eeg qorraxso. ld qorraxsad, qorraxsi.  
 
 qorraxsi m.l ld qorraxsad. 
 
@@ -5150,13 +4234,9 @@ qorrax-soobax m.l Waqtiga ay qorraxdu dhulka u soo baxdo.
 
 qorshayn m.f.dh eeg qorshee. ld qorshe (2). 
 
-qorshe m.l (-shayaal, m.l/dh) 1. Nidaam habaysan oo hawl lagu fuliyo. 2. ld 
+qorshe m.l (-shayaal, m.l/dh) 1. Nidaam habaysan oo hawl lagu fuliyo. 2. ld qorshayn.  
 
-qorshayn.  
-
-qorshe qoys m.l (-shayaal ..., m.l/dh) 1. Isticmaalka dawo si loo dhimo ama loo kala dheereeyo dhalashada ilmaha ee qoys. 
-
- 2. Habab ka hortagga dhalmada oo ay bulsho ama dal uu ku dhaqanto. 
+qorshe qoys m.l (-shayaal ..., m.l/dh) 1. Isticmaalka dawo si loo dhimo ama loo kala dheereeyo dhalashada ilmaha ee qoys. 2. Habab ka hortagga dhalmada oo ay bulsho ama dal uu ku dhaqanto. 
 
 qorshee f.g2 (-sheeyay, -shaysay) Hawl sidii loo qaban lahaa u nidaamin. 
 
@@ -5172,9 +4252,7 @@ qoryeysad m.l ld qoryeysasho. 691qoryeysan
 
 qoryeysan f.mg4 (-snaa, -snayd) Dab qoryo badan lagu shiday ahaansho. 
 
-qoryeysasho m.f.dh eeg qoryeyso. ld 
-
-qoryeysad, qoryeysi. 
+qoryeysasho m.f.dh eeg qoryeyso. ld qoryeysad, qoryeysi. 
 
 qoryeysi m.l ld qoryeysasho. 
 
@@ -5204,11 +4282,7 @@ qosolgariirid m.f.dh eeg qosolgariir².
 
 qosolkujaab m.l Shey taya xun leh oo dhadhalaala. 
 
-qotin m.l (kiim.) Xubin kasta oo ka mid ah 
-
-qalab danabeed taas oo sii daysa ama jiidata elektaroonno ama saldanabsideyeyaal kaleba. 
-
-qotinku Qotinka waxa kale oo lagu isticmaalaa leexinta saxarrada saldanabaysan iyada oo la adeegsanayo falka badadda danabka nagi ee dhaliyo. 
+qotin m.l (kiim.) Xubin kasta oo ka mid ah qalab danabeed taas oo sii daysa ama jiidata elektaroonno ama saldanabsideyeyaal kaleba. qotinku Qotinka waxa kale oo lagu isticmaalaa leexinta saxarrada saldanabaysan iyada oo la adeegsanayo falka badadda danabka nagi ee dhaliyo. 
 
 qotintabane m.l (-nayaal, m.l/dh) (kiim.) Qotin leh kayd danab taban, soona jiita ayoonnada togan, marka danab-soociddu dhacayso, waana bixiye elektaroon. 
 
@@ -5218,73 +4292,55 @@ qoto m.dh ld qoddo.
 
 qoto-ekeeye m.dh (-kayaal, m.l/dh) (juqr.) Xarriiq ku yaal khariidad, oo isku xira baraha badda hoosteeda ah oo guntoodu isku dherer tahay. 
 
-qotome m.l (-mayaal, m.l/dh) (xis.) Waxyaabo ay isku qotomaan, tusale ahaan: laba xood waa ay isku 
-
-qotomaan  haddii taabteyaashoodu halka barta isgoyska ay yihiin qotome. 
+qotome m.l (-mayaal, m.l/dh) (xis.) Waxyaabo ay isku qotomaan, tusale ahaan: laba xood waa ay isku qotomaan  haddii taabteyaashoodu halka barta isgoyska ay yihiin qotome. 
 
 qotomi f.g2 (-iyay, -isay) Weel, qori iwm salka dhulka u dhigid. 
 
-qotomid 692 m.f.dh eeg qoton². ld qoton¹ (2). 
+qotomid m.f.dh eeg qoton². ld qoton¹ (2). 
 
 qotomin m.f.dh eeg qotomi. 
 
-qoton¹ m.l 1. Joog; dherer, taagnaan. 2. ld 
-
-qotomid.  
+qoton¹ m.l 1. Joog; dherer, taagnaan. 2. ld qotomid.  
 
 qoton² f.mg1 (-omay, -ontay; -omi) Weel, iwm meel salka ku hayn. 
 
 qotonsad m.l ld qotonsasho. 
 
-qotonsan f.mg4 (-naa, -nayd) Wax meel la 
+qotonsan f.mg4 (-naa, -nayd) Wax meel la qotonshay ahaansho (weel, qori, iwm). 
 
-qotonshay ahaansho (weel, qori, iwm). 
-
-qotonsanaan m.f.dh eeg qotonsan. ld 
-
-qotonsanaansho.  
+qotonsanaan m.f.dh eeg qotonsan. ld qotonsanaansho.  
 
 qotonsanaansho m.l/dh ld qotonsanaan. 
 
-qotonsasho m.f.dh eeg qotonso. ld qotonsad, 
-
-qotonsi.  
+qotonsasho m.f.dh eeg qotonso. ld qotonsad, qotonsi.  
 
 qotonsi m.l ld qotonsasho. 
 
-qotonso f.g/mg3 (-saday, -satay) 1. (f.g) Weel, 
-
-qori iwm meel si joog ah u joojin. 2. (f.mg) Meel fadhiisasho ama istaagid (qof). 
+qotonso f.g/mg3 (-saday, -satay) 1. (f.g) Weel, qori iwm meel si joog ah u joojin. 2. (f.mg) Meel fadhiisasho ama istaagid (qof). 
 
 qowjad m.dh.kh Q. ah: nin aad u qiimo badan. 
 
 qowlad m.dh ld qol. 
 
-qowlannimo m.dh Qowle ahaansho. 
+qowlannimo m.dh Qowle¹ ahaansho. 
 
-qowle m.l.u (-layaal, m.l/dh) Dad aan shaqo lahayn oo dadka kale dhaca. ld qawle, 
+qowle¹ m.l.u (-layaal, m.l/dh) Dad aan shaqo lahayn oo dadka kale dhaca. ld qawle¹, qowleysato.
 
-qowleysato.  
+qowle² m.l (-llow, m.l) qof qowl leh oo oofiya balanka uu qaado. ld qawle².
 
 qowleysasho m.f.dh eeg qowleyso. 
 
-qowleysato m.dh ld qowle. 
+qowleysato m.dh ld qowle¹. 
 
-qowleyso  f.mg3 (-stay, -satay) Si 
-
-qowlaystenimo ah u noolaansho. 
+qowleyso  f.mg3 (-stay, -satay) Si qowlaystenimo ah u noolaansho. 
 
 qowmiyad m.dh (-do, m.l) ld qawmiyad. 
 
 qows m.l (-sas, m.l/dh; -syo, m.dh) ld qaws. 
 
-qowsaar m.l (-rro, m.dh) 1. Nin dadka u raaca xoolaha ama u dhaqa oo markuu in muddo ah joogaba xoolaha wax laga siiyo. 2. Nin had iyo jeer xoolo gaar ah aan ka harin. 
+qowsaar m.l (-rro, m.dh) 1. Nin dadka u raaca xoolaha ama u dhaqa oo markuu in muddo ah joogaba xoolaha wax laga siiyo. 2. Nin had iyo jeer xoolo gaar ah aan ka harin. 3. Nin xoog badan. 
 
- 3. Nin xoog badan. 
-
-qow-weyn m.dh (juqr.) Bohol weyn oo hoos u 
-
-qodan oo leh dhinacyo dhadhaabeed oo tiiro toosan leh. Waxaa badanaa sameeya tog mara dhul oomane ah o gooya dhadhaabaha jilicsan. 
+qow-weyn m.dh (juqr.) Bohol weyn oo hoos u qodan oo leh dhinacyo dhadhaabeed oo tiiro toosan leh. Waxaa badanaa sameeya tog mara dhul oomane ah o gooya dhadhaabaha jilicsan. 
 
 qox m.dh Nooc dhirta la isku daaweeyo ka mid ah oo qararka ka baxa. 
 
@@ -5324,31 +4380,23 @@ qubasho m.f.dh eeg qubo². ld qubad².
 
 qubbad m.dh 1. (-do, m.l) Dhismo kubbad nuskeeda sare u eg oo laga dul dhiso masaajiddada, kaniisadaha, qabuuraha iyo guryaha qaarkood. 2. Badda inteda xeebta ka fog. ld qubbo. 
 
-qubbad shiileed m.dh (-dyo, m.dh) (jool.) Gobol dhadhaabo shiileed ah oo ka samaysma magma dhulka kor u soo gashay oo badanaa ka kooban dhadhaabta garanaytka. 
+qubbad-shiileed m.dh (-dyo, m.dh) (jool.) Gobol dhadhaabo shiileed ah oo ka samaysma magma dhulka kor u soo gashay oo badanaa ka kooban dhadhaabta garanaytka. 
 
 qubbo m.dh ld qubbad. 
 
 qubee f.mg2 (-beeyay, -beysay) U q.: cid biyo ugu mayrid. ld qabee. 
 
-qubeyn m.f.dh eeg qubee. ld qabeyn, qabeys, 
-
-qubeys.  
+qubeyn m.f.dh eeg qubee. ld qabeyn, qabeys, qubeys.  
 
 qubeys m.l ld qubeyn. 
 
-qubeysasho m.f.dh eeg qubeyso. ld 
-
-qabeysasho.  
+qubeysasho m.f.dh eeg qubeyso. ld qabeysasho.  
 
 qubeyso f.g3 (-stay, -satay) Biyo ku mayrasho. ld qabeyso. 
 
 qubid m.f.dh eeg qub². 
 
-quble m.l (-layaal, m.l/dh) 1. ld qoble. Roob muddo dheer da'a oo aan biyo badan lahayn. 
-
- 2. Neef lab oo la dhufaanay; mallooli. 
-
- 3. Neef aad u caato ah. 
+quble m.l (-layaal, m.l/dh) 1. ld qoble. Roob muddo dheer da'a oo aan biyo badan lahayn. 2. Neef lab oo la dhufaanay; mallooli. 3. Neef aad u caato ah. 
 
 qubleey m.l Nooc ka mid ah mariidka oo laga isticmaalo Xeebta iyo Jubbada Hoose; waxaa laga sameeyaa dheecaan geed; maanyo, manyiikay; libin. 
 
@@ -5374,9 +4422,7 @@ qubuur m.dh eeg qabri. ld qabuuro.
 
 qubuurro m.l eeg qabri. ld qabuuro. 
 
-qudde m.l (-dayaal, m.l/dh) 1. Qori dabo dheer oo la qabsado leh oo biyaha la darsado. 
-
- 2. ld qunde (2). Fandhaal weyn oo qori ka samaysan; qarsin; dhure. 
+qudde m.l (-dayaal, m.l/dh) 1. Qori dabo dheer oo la qabsado leh oo biyaha la darsado. 2. ld qunde (2). Fandhaal weyn oo qori ka samaysan; qarsin; dhure. 
 
 quddee f.g2 (-deeyay, -deysay) Qudde ku la shub. 
 
@@ -5390,15 +4436,9 @@ qudkool m.l ld qutool.
 
 qudrad m.dh 1. Awood; tamar. 2. ld khudrad. 
 
-qudunquute m.l (-tayaal, m.l/dh) ld 
+qudunquute m.l (-tayaal, m.l/dh) ld qudunquuto.  
 
-qudunquuto.  
-
-qudunquuto m.dh Shimbir qooleyda xoogaa ka weyn, leh midabbo kala duwan, gafuur dheer oo soo yara godan oo guduudan. ld 
-
-qudunquute, quudquuto, quutaquute, 
-
-quutaquuto.  
+qudunquuto m.dh Shimbir qooleyda xoogaa ka weyn, leh midabbo kala duwan, gafuur dheer oo soo yara godan oo guduudan. ld qudunquute, quudquuto, quutaquute, quutaquuto.  
 
 qudur m.l.kh (-rro, m.dh) Q. ah: nin aad bakhayl u ah. 
 
@@ -5408,9 +4448,7 @@ quduro m.dh Yaab; amakaag.
 
 quf f.g1 (-fay, -ftay) Wax meel ka buuxaan in in uga soo saarid. 
 
-qufac¹ m.l 1. Neef xoog iyo shanqar leh oo ka dhalata cuncun ku dhaca hawo mareenka ama hunguriga cad kana soo baxda afka. 
-
- 2. Cudurka qaaxada oo ku dhaca sanbabka. 
+qufac¹ m.l 1. Neef xoog iyo shanqar leh oo ka dhalata cuncun ku dhaca hawo mareenka ama hunguriga cad kana soo baxda afka. 2. Cudurka qaaxada oo ku dhaca sanbabka. 
 
 qufac² f.mg1 (-cay, -cday; -fici) 1. Cid qufac ka imaansho. 2. Nafley qaaxo qaadid. 
 
@@ -5436,7 +4474,7 @@ qufnaansho m.l/dh ld qufnaan.
 
 qufo f.g3 (-ftay, -fatay) Wax meel ay ka buuxeen koox koox uga soo saarasho. 
 
-qufraan m.dh Dembi dhaaf Ilaah bixiyo. 693quful¹ 
+qufraan m.dh Dembi dhaaf Ilaah bixiyo. 
 
 quful¹ m.l (-llo, m.dh) 1. (-llo, m.dh) Xubinta taranka ee gammaanka lab. 2. ld qafil 1. 3. qafilid. 
 
@@ -5474,13 +4512,9 @@ qulaan m.l (-aammo/-nno, m.dh) 1. Weel naas ama ib leh oo dadka aan wax cabbi ka
 
 qulaanqulshe m.l (c.nafl.) Qaybta hore ee hunguri cadka afar addinleyda lafdhabarta leh, halkaasi oo berribiyoodka, xammaaratada, iyo naasleydu ay ku leeyihiin anduuqyada codka. ld qulaanqulye. 
 
-qulaanqulye m.l Muruq iyo carjaw isku dhafan oo hunguri cadka korkiisa ku yaal. ld 
+qulaanqulye m.l Muruq iyo carjaw isku dhafan oo hunguri cadka korkiisa ku yaal. ld qulaanqulshe.  
 
-qulaanqulshe.  
-
-qulban f.mg4 (-naa, -nayd) Turub wax la 
-
-qulbay ahaansho. 
+qulban f.mg4 (-naa, -nayd) Turub wax la qulbay ahaansho. 
 
 qulbanaan m.f.dh eeg qulban. 
 
@@ -5492,21 +4526,17 @@ qulbin m.f.dh eeg qulbi. ld qulubsiin.
 
 qullatayn m.l (-nno, m.l) 1. Dar ama berkad dusha ka feedan oo masaajiddada loo dhiso oo lagu weysaysto. 2. Qiyaas biyo ah oo si sahlan aan u nijaasoobin. 
 
-qulqul badweyn m.l (juqr.) Dhaqaaqa biyaha dusha ee badweynta. 
+qulqul-badweyn m.l (juqr.) Dhaqaaqa biyaha dusha ee badweynta. 
 
-qulqul qumman (q.q.) m.l (fiis.) (q.q.) Qulqul danab oo u socdo jiho kaliya marka uu dhexmaraayo mareeg danab. 
+qulqul-qumman (q.q.) m.l (fiis.) (q.q.) Qulqul danab oo u socdo jiho kaliya marka uu dhexmaraayo mareeg danab. 
 
-qulqul 694 talantaaliya (q.t.) m.l (fiis.) (q.t.) Qulqul danab oo dhex maraya mareeg danab, si joogta ahna u beddelaya jihada marar badan halkii seken. 
+qulqul-talantaaliya (q.t.) m.l (fiis.) (q.t.) Qulqul danab oo dhex maraya mareeg danab, si joogta ahna u beddelaya jihada marar badan halkii seken. 
 
-qulqul¹ m.l (fiis.) Summad I. Dhakhsaha uu saldanab ku dhexmaro gudbiye danab. 
-
- Halbeegga Caalamiga ah (H.C.) ee qulqulka danab waa ambiyeer (A). 
+qulqul¹ m.l (fiis.) Summad I. Dhakhsaha uu saldanab ku dhexmaro gudbiye danab. Halbeegga Caalamiga ah (H.C.) ee qulqulka danab waa ambiyeer (A). 
 
 qulqul² m.l Shubmid ama socod aan kala go' lahayn ee uu hooruhu sameeyo. ld qulqulid. 
 
-qulqul³ f.mg1 (-ulay, -ushay) 1. Hoore si aan kala go' lahayn u shubmid ama u socosho. 
-
- 2. Dad, xoolo iwm si aan kala go' lahayn u socosho. 
+qulqul³ f.mg1 (-ulay, -ushay) 1. Hoore si aan kala go' lahayn u shubmid ama u socosho. 2. Dad, xoolo iwm si aan kala go' lahayn u socosho. 
 
 qulqulad m.dh Rabsho nabadda iyo xasilloonida wax u dhinta. 
 
@@ -5522,17 +4552,11 @@ qulqulin m.f.dh eeg qulquli.
 
 qulub¹ m.l 1. (m.l./dh) Isla hadalka iyo walaaca ay arrin qof ku dhaliso. 2. Qaybinta cayaar turub oo la khaldo. 
 
-qulub² f.g/mg1 (-lbay, -lubtay; -lbi) 1. (f.g) Cayaar turub iwm qaybinteeda isku qaldid. 
-
- 2. (f.mg) Welwel iyo calool xumo dareemid. 
-
- 3. (f.mg) Welwel iyo caloolxumo darteed la caatobid. 
+qulub² f.g/mg1 (-lbay, -lubtay; -lbi) 1. (f.g) Cayaar turub iwm qaybinteeda isku qaldid. 2. (f.mg) Welwel iyo calool xumo dareemid. 3. (f.mg) Welwel iyo caloolxumo darteed la caatobid. 
 
 qulubsan f.mg4 (-naa, -nayd) Qof wax qulbay ahaansho. 
 
-qulubsanaan m.f.dh eeg qulubsan. ld 
-
-qulubsanaansho.  
+qulubsanaan m.f.dh eeg qulubsan. ld qulubsanaansho.  
 
 qulubsanaansho m.l/dh ld qulubsanaan. 
 
@@ -5550,7 +4574,7 @@ qululuc m.dh.sh.r Shanqar ka timid dareere si xoog leh uga soo butaaca meel ciri
 
 quluub m.dh ld qalbi. 
 
-quluud m.dh Ulajeedo naftu u bogto oo ku raaxaysato; macne loo jeelo oo la jeclaysto; murti; xallad; milgo.qunful² 
+quluud m.dh Ulajeedo naftu u bogto oo ku raaxaysato; macne loo jeelo oo la jeclaysto; murti; xallad; milgo. 
 
 quluul m.dh ld qulul. 
 
@@ -5562,27 +4586,17 @@ quluulo f.mg3 (-uulay, -uushay) Xoolo da' weyn ama dad nafaqaxumo awgeed meel ug
 
 qumannimo m.dh Qumay ahaansho. 
 
-qumanyannimo m.dh Qumanyo ahaansho. ld 
-
-qumayanimo.  
+qumanyannimo m.dh Qumanyo ahaansho. ld qumayanimo.  
 
 qumanyaysad m.l ld qumanyaysasho. 
 
-qumanyaysasho m.f.dh eeg qumanyayso. ld 
-
-qumanyaysad, qumanyaysi, qumayaysad, 
-
-qumayaysasho.  
+qumanyaysasho m.f.dh eeg qumanyayso. ld qumanyaysad, qumanyaysi, qumayaysad, qumayaysasho.  
 
 qumanyaysi m.l ld qumanyaysasho. 
 
-qumanyayso f.g3 (-stay, -satay) Qof nafley ama wax kale oo qiima leh il wax ku yeelid. 
+qumanyayso f.g3 (-stay, -satay) Qof nafley ama wax kale oo qiima leh il wax ku yeelid. ld qumayayso. 
 
- ld qumayayso. 
-
-qumanyo m.dh (-ooyin, m.l) Q. ah: naag karti u leh in ay il cid wax ku yeelayso. ld 
-
-qumayo.  
+qumanyo m.dh (-ooyin, m.l) Q. ah: naag karti u leh in ay il cid wax ku yeelayso. ld qumayo.  
 
 qumaqase m.l (-sayaal, m.l/dh) Gobaha qoriga ka samaysan kan ugu fiican. 
 
@@ -5594,9 +4608,7 @@ qumayaysad m.l ld qumanyaysasho.
 
 qumayaysasho m.dh ld qumanyaysasho. 
 
-qumayayso f.mg3 (-stay, -satay) ld 
-
-qumanyayso.  
+qumayayso f.mg3 (-stay, -satay) ld qumanyayso.  
 
 qumayeysi m.l ld qumanyaysasho. 
 
@@ -5614,13 +4626,9 @@ qumbaco f.mg3 (-cday, -catay) Qof jirro ka soo bogsoonaya oo howl galay dhibaato
 
 qumbahool m.l ld qumbahoole. 
 
-qumbahoole m.l (-layaal, m.l/dh) Qalab leh af u eg kan mishaarta oo qumbaha lagu xoqo, gadaalna ku leh qori dheer oo lagu fadhiisto. 
+qumbahoole m.l (-layaal, m.l/dh) Qalab leh af u eg kan mishaarta oo qumbaha lagu xoqo, gadaalna ku leh qori dheer oo lagu fadhiisto. ld qumbahool. 
 
- ld qumbahool. 
-
-qumbe m.l (-bayaal, m.l/dh) 1. Geedka naarjiinka. 2. Miraha geedka naarjiinka. 
-
- 3. Xasdharaad yaryar oo dhiigga xoolaha ka nuuga. 4. (-bayaal, m.l./dh) Weel harag ka samaysan oo subagga lagu shubto. ld qunbe. 
+qumbe m.l (-bayaal, m.l/dh) 1. Geedka naarjiinka. 2. Miraha geedka naarjiinka. 3. Xasdharaad yaryar oo dhiigga xoolaha ka nuuga. 4. (-bayaal, m.l./dh) Weel harag ka samaysan oo subagga lagu shubto. ld qunbe. 
 
 qumbulad m.dh (-do, m.l) Bambo weyn. 
 
@@ -5632,9 +4640,7 @@ qumin m.f.dh eeg qumi.
 
 qumiyeyn m.dh (fiis.) Habka qulqul quman looga dhalin karo qulqul talantaaliya oo ka imanaya dhaliye danab. 
 
-qummaati¹ m.l.fk 1. Si wanaagsan oo hawl loo 
-
-qabto. 2. Weecweecasho la'aan; toos. 
+qummaati¹ m.l.fk 1. Si wanaagsan oo hawl loo qabto. 2. Weecweecasho la'aan; toos. 
 
 qummaati² f.g1 (-iyay, -isay) Qof tilmaan toosan siin. 
 
@@ -5646,13 +4652,9 @@ qumman² m.l (c.nafl.) Cuf ah nudo limfaysan, oo qaar badan oo ka mid ahi ay ku 
 
 qumman³ m.dh.kh Q. ah: haweeney da' ah oo ganacsi yar sameysa. 
 
-qumman4 f.mg4 (-naa, -nayd) Qof aan 
+qumman4 f.mg4 (-naa, -nayd) Qof aan qaldanayn ahaansho. 
 
-qaldanayn ahaansho. 
-
-qummanaan m.f.dh eeg qumman4. ld 
-
-qummanaansho.  
+qummanaan m.f.dh eeg qumman4. ld qummanaansho.  
 
 qummanaansho m.l/dh ld qummanaan. 
 
@@ -5664,9 +4666,7 @@ qummudsasho m.l ld qommodsasho.
 
 qummudsi m.l ld qommodsasho. 
 
-qummudso f.mg3 (-saday, -satay) ld 
-
-qommodso.  
+qummudso f.mg3 (-saday, -satay) ld qommodso.  
 
 qun¹ m.l (-uman, m.l) 1. Labada qanjir oo kulkulucsan oo afka salkiisa labada dhinac kaga yaal middood. 2. Xanuun qanjirrada afka salkiisa ku yaal ku dhaca; majin; majinow; xoqato. 3. Duleelka yar ee wax laga arko ee diiradda. 4. Si toos ah oo aan laalaabasho lahayn. 
 
@@ -5680,19 +4680,13 @@ qundhac m.dh Qorrax.
 
 qundhacaysad m.l ld qundhacaysasho. 
 
-qundhacaysasho m.f.dh eeg qundhacayso. ld 
-
-qundhacaysad, qundhacaysi. 
+qundhacaysasho m.f.dh eeg qundhacayso. ld qundhacaysad, qundhacaysi. 
 
 qundhacaysi m.l ld qundhacaysasho. 
 
-qundhacayso f.mg3 (-stay, -satay) Kulka 
+qundhacayso f.mg3 (-stay, -satay) Kulka qorraxda isku diirin. 
 
-qorraxda isku diirin. 
-
-qundhaco m.dh Kulka qorraxda. ld 
-
-qundhoco.  
+qundhaco m.dh Kulka qorraxda. ld qundhoco.  
 
 qundho m.dh Nooc cawska ka mid ah oo ka baxa meelaha biya fariisinka ah. 
 
@@ -5718,9 +4712,7 @@ qunjee f.g2 (-jeeyay, -jeysay) ld qujee.
 
 qunjeyn m.f.dh eeg qunjee. ld qujeyn. 
 
-qunjuraaf¹ m.l.u 1. Jajab yaryar oo wax weyn oo dhammaa oo is-haystay ka soo go'ay. 
-
- 2. Hambo. 3. Socod yar oo wax yar oo lagu noolaado lagu raadsado. 
+qunjuraaf¹ m.l.u 1. Jajab yaryar oo wax weyn oo dhammaa oo is-haystay ka soo go'ay. 2. Hambo. 3. Socod yar oo wax yar oo lagu noolaado lagu raadsado. 
 
 qunjuraaf² f.g1 (-fay, -ftay) Xoolo meel unuunufid. 
 
@@ -5734,7 +4726,7 @@ qunso f.g3 (-saday, -satay) 1. Xoolo iwm meel u kaxaysasho. 2. Dan, arrin iwm me
 
 qunsul m.l (-llo, m.dh) Qof diblomaasi ah oo dalka uu joogo dalkiisa wakiil uga ah bulshadiisa kana hooseeya safiirka. 
 
-qunsul xigeen m.l (-nno, m.dh) (taar.) Ninka ku xiga qunsulka (arrimaha qunsulliyadda). 
+qunsul-xigeen m.l (-nno, m.dh) (taar.) Ninka ku xiga qunsulka (arrimaha qunsulliyadda). 
 
 qunsuliyad m.dh (-do, m.l) Xafiiska qunsulka. 
 
@@ -5748,15 +4740,17 @@ qunyarsocod m.l.kh Q. ah: qof deggan oo dabci qabow dadka kula dhaqma.
 
 qunyarsocodnimo  m.dh Qunyarsocod ahaansho. 
 
-qur m.dh 1. Naf; ruux. 2. Q. ah: tiro go'an oo aan wax kale kordhin. Tus. “Laba wiil oo q. 
-
-quraac ah ayaa xafiiska jooga.” m.dh Cunnada ugu horreysa ee subaxnimada la cuno; af-bilaw. 
+qur m.dh 1. Naf; ruux. 2. Q. ah: tiro go'an oo aan wax kale kordhin. Tus. “Laba wiil oo q. ah ayaa xafiiska jooga.”.
+ 
+quraac m.dh Cunnada ugu horreysa ee subaxnimada la cuno; af-bilaw. 
 
 quraacasho m.f.dh eeg quraaco. 
 
-quraaco f.mg3 (-cday, -catay) Quraac cunid. Quraan m.l Kitaab Ilaahay Nabi Maxamed (S.C.W.) u waxyooday si uu ummaddiisa u gaarsiiyo. ld Qur'aan. 
+quraaco f.mg3 (-cday, -catay) Quraac cunid. 
 
- Qur'aan m.l ld Quraan. 
+Quraan m.l Kitaab Ilaahay Nabi Maxamed (S.C.W.) u waxyooday si uu ummaddiisa u gaarsiiyo. ld Qur'aan. 
+
+Qur'aan m.l ld Quraan. 
 
 quraan-akhris  m.l 1. Siyaarooyinka, Allabariyada oo Quraan dad badani ka akhriyaan. 2. Akhrinta la akhriyo Quraan. 
 
@@ -5766,7 +4760,7 @@ quraanqaad m.l (dii.) Xus loo sameeyo qof dhintay iyadoo Quraan loo akhrinayo.
 
 quraansaar¹ m.l Akhrinta lagu akhriyo qof buka Quraan. 
 
-quraansaar² 696 f.g1 (-ray, -rtay) Qof buka Quraan ku akhriyid. 
+quraansaar² f.g1 (-ray, -rtay) Qof buka Quraan ku akhriyid. 
 
 quraansaarid m.f.dh eeg quraansaar². 
 
@@ -5792,31 +4786,21 @@ qurbaanso f.mg3 (-saday, -satay) Qurbaan samaysasho.
 
 qurbac m.l Awr yar oo da'diisu u dhexeyso nirig iyo qaalin. 
 
-qurbacyee f.mg2 (-yeeyay, -yeysay) Hal 
+qurbacyee f.mg2 (-yeeyay, -yeysay) Hal qurbac dhalid. 
 
-qurbac dhalid. 
-
-qurbacyeyn m.f.dh eeg qurbacyee. ld 
-
-qurbacyeys.  
+qurbacyeyn m.f.dh eeg qurbacyee. ld qurbacyeys.  
 
 qurbacyeys m.l ld qurbacyeyn. 
 
 qurban f.mg4 (-naa, -nayd) Wax qurub-qurub laga dhigay ahaansho. 
 
-qurbanaan  m.f.dh eeg 
-
-qurban.  ld 
-
-qurbanaansho.  
+qurbanaan  m.f.dh eeg qurban. ld qurbanaansho.  
 
 qurbanaansho m.l/dh ld qurbanaan. 
 
 qurbax f.mg1 (-xay, -xday; -bixi) Nafley nafbixid. 
 
-qurbe m.l Meel uusan qof ka helin dhaqankiisa dadkiisa, luqaddiisa iwm; dal shisheeye. ld 
-
-qurbo.  
+qurbe m.l Meel uusan qof ka helin dhaqankiisa dadkiisa, luqaddiisa iwm; dal shisheeye. ld qurbo.  
 
 qurbid m.f.dh eeg qurub². 
 
@@ -5828,11 +4812,7 @@ qurcis m.dh Jaad ka mid ah noocyada geed hindiga.
 
 qurdan f.mg4 (-naa, -nayd) 1. Qof madaxa maluuqday ahaansho. 2. Lo', ari wax seenyoon ahaansho. 
 
-qurdanaan  m.f.dh eeg 
-
-qurdan.  ld 
-
-qurdanaansho.  
+qurdanaan  m.f.dh eeg qurdan. ld qurdanaansho.  
 
 qurdanaansho m.l/dh ld qurdanaan.qurunsan 
 
@@ -5850,17 +4830,11 @@ qurdowalaqnimo  m.dh Qurdowalaq ahaansho.
 
 qurdudumsad m.l ld qurdudumsasho. 
 
-qurdudumsasho m.f.dh eeg qurdudumso. ld 
-
-qurdudumsad, qurdudumsi, qurjujubsad, 
-
-qurjujubsash  
+qurdudumsasho m.f.dh eeg qurdudumso. ld qurdudumsad, qurdudumsi, qurjujubsad, qurjujubsash.
 
 qurdudumsi m.l ld qurdudumsasho. 
 
-qurdudumso f.g3 (-saday, -satay) Wax adag ilka ku burbursasho. ld qurdujubso, 
-
-qurjujubso, qurjujumso, qururumso. 
+qurdudumso f.g3 (-saday, -satay) Wax adag ilka ku burbursasho. ld qurdujubso, qurjujubso, qurjujumso, qururumso. 
 
 qurgo' f.mg1 (-'ay, -'day) Cid dhimasho. 
 
@@ -5886,9 +4860,7 @@ qurjujubsasho m.dh ld qurdudumsasho.
 
 qurjujubsi m.l ld qurdudumsasho. 
 
-qurjujubso f.g3 (-saday, -satay) ld 
-
-qurdudumso.  
+qurjujubso f.g3 (-saday, -satay) ld qurdudumso.  
 
 qurjujumsad m.l ld qurdudumsasho. 
 
@@ -5896,9 +4868,7 @@ qurjujumsasho m.dh ld qurdudumsasho.
 
 qurjujumsi m.l ld qurdudumsasho. 
 
-qurjujumso f.g3 (-saday, -satay) ld 
-
-qurdudumso.  
+qurjujumso f.g3 (-saday, -satay) ld qurdudumso.  
 
 qurmi f.g2 (-iyay, -isay) Wax qurun ka dhigid. 
 
@@ -5914,45 +4884,27 @@ qurmoonaan m.dh ld qurmuunaan.
 
 qurmoonaansho m.l/dh ld qurmuunaan. 
 
-qurmuun¹ m.l Ur xun, ur naftu kahato; wax 
-
-qurun noqday waxa ka soo ura, kankama, daaca; qurun. ld qarmuun¹, qurmoon¹, 
-
-qurun¹.  
+qurmuun¹ m.l Ur xun, ur naftu kahato; wax qurun noqday waxa ka soo ura, kankama, daaca; qurun. ld qarmuun¹, qurmoon¹, qurun¹.  
 
 qurmuun² f.mg4 (-naa, -nayd) Ur xun yeelasho (wax). ld qarmuun¹, qurmoon¹. 
 
-qurmuunaan m.f.dh eeg qurmuun². ld 
-
-qarmuunaan,  
-
-qarmuunaansho;  
-
-qurmoonaan, qurmoonaans 
+qurmuunaan m.f.dh eeg qurmuun². ld qarmuunaan, qarmuunaansho;  qurmoonaan, qurmoonaans 
 
 qurmuunaansho m.l/dh ld qurmuunaan. 
 
-qurqur m.l 1. Meesha kuusan ee cunaha ragga ku taal; bocor. 2. (-rro, m.dh) Labada cirif ee 
-
-qaansada middood. 
+qurqur m.l 1. Meesha kuusan ee cunaha ragga ku taal; bocor. 2. (-rro, m.dh) Labada cirif ee qaansada middood. 
 
 qurquri f.g2 (-iyay, -isay) Hoore si dhaqso ah u cabbdi. 
 
-qurqurin m.f.dh eeg qurquri. ld qurquris, 
-
-qurquro (3). 
+qurqurin m.f.dh eeg qurquri. ld qurquris, qurquro (3). 
 
 qurquris m.l ld qurqurin. 
 
-qurquro m.dh 1.Laf jilicsan oo shafka geelu ka samaysan yahay. 2. Qolob-dhabashada awr 
-
-qooqani sameeyo. 3. ld qurqurin. 
+qurquro m.dh 1.Laf jilicsan oo shafka geelu ka samaysan yahay. 2. Qolob-dhabashada awr qooqani sameeyo. 3. ld qurqurin. 
 
 qurqursan f.mg4 (-naa, -nayd) U q.: arrin wax gar ah u arkid (qof). 
 
-qurqursanaan m.f.dh eeg qurqursan. ld 
-
-qurqursanaansho.  
+qurqursanaan m.f.dh eeg qurqursan. ld qurqursanaansho.  
 
 qurqursanaansho m.l/dh ld qurqursanaan. 
 
@@ -5960,13 +4912,7 @@ qursi m.l 1. Weel yar oo qori ka samaysan oo badarka iwm lagu cabbiro. 2. ld qur
 
 qurub¹ m.l (-byo, m.dh) Gabal yar. 
 
-qurub² m.l (-byo, m.dh) (nax.) Macag caam ah oo tilmaama curiyeyaal aan lahayn micno u gaar ah marka ay keligoodu yihiin, waxayse 
-
-qayb weyn ka qaataan xagga dhismaha weerta, waxaana ka mid ah: “ma” oo ah q. 
-
- diidmo; “baa”/”ayaa”, “aa” oo ah q. 
-
- diiradeed magac; “waa” oo ah q. diiradeed fal; “ma”, “miyaa” oo ah q. weyddiimeed. 
+qurub² m.l (-byo, m.dh) (nax.) Macag caam ah oo tilmaama curiyeyaal aan lahayn micno u gaar ah marka ay keligoodu yihiin, waxayse qayb weyn ka qaataan xagga dhismaha weerta, waxaana ka mid ah: “ma” oo ah q. diidmo; “baa”/”ayaa”, “aa” oo ah q. diiradeed magac; “waa” oo ah q. diiradeed fal; “ma”, “miyaa” oo ah q. weyddiimeed. 
 
 qurub³ f.g1 (-rbay, -rubtay; -rbi) Wax cadcad yaryar ka dhigid. 
 
@@ -5976,9 +4922,7 @@ qurud¹ m.l Cudur geela dheddig sabiisha wareeggeeda uga dhaca oo badanaa keena 
 
 qurud² f.g1 (-rday, -rudday; -rdi) Harag timo ka wada hoolid. 
 
-qurumo m.dh Gudin yar oo weelasha lagu 
-
-qoro. ld qorimo. 
+qurumo m.dh Gudin yar oo weelasha lagu qoro. ld qorimo. 
 
 qurumohuluko m.dh Qurumo masaarta u eg. 
 
@@ -5990,39 +4934,25 @@ qurun² f.mg1 (-rmay, -runtay; -rmi) Wax in muddo ah meel yaalay ur xun yeelasho
 
 qurunsan f.mg4 (-naa, -nayd) Wax qurmay ahaansho. 
 
-qurunsanaan 697qurunsanaan m.f.dh eeg qurunsan. ld 
-
-qurunsanaansho.  
+qurunsanaan m.f.dh eeg qurunsan. ld qurunsanaansho.  
 
 qurunsanaansho m.l/dh ld qurunsanaan. 
 
 qurunsasho m.f.dh eeg qurunso. 
 
-qurunso f.g3 (-saday, -satay) 1. Dugaagga 
-
-qaar ka mid ah hilib qurun ka dhigasho. 2. Wax qarsasho. 
+qurunso f.g3 (-saday, -satay) 1. Dugaagga qaar ka mid ah hilib qurun ka dhigasho. 2. Wax qarsasho. 
 
 qururumsad m.l ld qurdudumsasho. 
 
-qururumsasho m.dh ld qurdudumsasho, 
+qururumsasho m.dh ld qurdudumsasho, qurjujubsasho.  
 
-qurjujubsasho.  
+qururumsi  m.l ld qurdudumsasho, qurjujubsad.  
 
-qururumsi  m.l ld 
-
-qurdudumsasho,  
-
-qurjujubsad.  
-
-qururumso f.g3 (-saday, -satay) ld 
-
-qurdudumso.  
+qururumso f.g3 (-saday, -satay) ld qurdudumso.  
 
 qurus m.l ld qursi. 
 
-quruun m.dh (-uumo, m.l) Dadyow isku 
-
-qarni noolaa. 
+quruun m.dh (-uumo, m.l) Dadyow isku qarni noolaa. 
 
 quruurux m.l.u Dhagax yaryar. 
 
@@ -6030,9 +4960,7 @@ quruurux-bataax m.l.u (jool.) Dhadhaab- lakabeed habe ah oo ka kooban xabiib bat
 
 quruuruxi f.mg2 (-iyay, -isay) 1. Si isdabajoog ah u hadlid. 2. Quruurux wax ku xisaabid. 
 
-quruuruxin m.f.dh eeg quruuruxi. ld 
-
-quruuruxis.  
+quruuruxin m.f.dh eeg quruuruxi. ld quruuruxis.  
 
 quruuruxis m.l ld quruuruxin. 
 
@@ -6044,13 +4972,7 @@ quruxsami m.dh 1. Bilicda ay wax leeyihiin. 2. ld quruxsanaan.
 
 quruxsan f.mg4 (-naa, -nayd) Wax qurux leh ahaansho. ld qurxan, qurxoon. 
 
-quruxsanaan m.f.dh eeg quruxsan. ld 
-
-quruxsami  (2), 
-
-quruxsanaansho;  
-
-qurxanaan, qurxanaa 
+quruxsanaan m.f.dh eeg quruxsan. ld quruxsami (2),quruxsanaansho; qurxanaan, qurxanaa 
 
 quruxsanaansho m.l/dh ld quruxsanaan. 
 
@@ -6058,9 +4980,7 @@ quruxsasho m.f.dh eeg quruxso.
 
 quruxso f.g3 (-saday, -satay) Wax qurux u yeelasho. 
 
-qurux-u-bogid m.dh 1. Waxay la xiriirtaa 
-
-qiimeyn qurux iyo fan qurux u bogid. 2. (fals.) Qeyb ka mid ah barashada falasafada ee ku saabsan quruxda. 
+qurux-u-bogid m.dh 1. Waxay la xiriirtaa qiimeyn qurux iyo fan qurux u bogid. 2. (fals.) Qeyb ka mid ah barashada falasafada ee ku saabsan quruxda. 
 
 qurwaa f.mg1 (-aayay, -aayday; -aayi) Nafley naf bixid. 
 
@@ -6078,7 +4998,7 @@ qurxin m.f.dh eeg qurxi.
 
 qurxoon f.mg4 (-naa, -nayd) ld quruxsan. 
 
-qurxoonaan m.dh ld quruxsanaan. 698 
+qurxoonaan m.dh ld quruxsanaan.
 
 qurxoonaansho m.l/dh ld quruxsanaan. 
 
@@ -6098,9 +5018,7 @@ qushayn m.f.dh eeg qushee.
 
 qushaysan f.mg4 (-snaa, -snayd) Wax wasakh u yeelid. 
 
-qushaysnaan m.f.dh eeg qushaysan. ld 
-
-qushaysnaansho.  
+qushaysnaan m.f.dh eeg qushaysan. ld qushaysnaansho.  
 
 qushaysnaansho m.l/dh ld qushaysnaan. 
 
@@ -6154,9 +5072,9 @@ quudis m.dh ld quudin.
 
 quudo f.g3 (-uutay, -uudatay) Nafley cunto cunid. 
 
-quudowsasho m.f.dh eeg quudowso. ld 
+quudowsasho m.f.dh eeg quudowso. ld quudowsi.
 
-quudowsi.quudowsi m.l ld quudowsasho. 
+quudowsi m.l ld quudowsasho. 
 
 quudowso f.mg3 (-saday, -satay) Wax iimaansasho. 
 
@@ -6186,17 +5104,13 @@ quurid m.f.dh eeg quur². ld quuris.
 
 quuris m.dh ld quurid. 
 
-quuriwaa f.g/mg1 (-aayay, -aayday; -aayi) 1. (f.g) Wax bixintooda niyadda ka soo goyn waayid. 2. (f.mg) U q.: Xaasidnimo awgeed 
-
-qof wax fiican oo ay haysato la nacbeysasho. 
+quuriwaa f.g/mg1 (-aayay, -aayday; -aayi) 1. (f.g) Wax bixintooda niyadda ka soo goyn waayid. 2. (f.mg) U q.: Xaasidnimo awgeed qof wax fiican oo ay haysato la nacbeysasho. 
 
 quuriwaayid m.f.dh eeg quuriwaa. 
 
 quursad m.l ld quursasho. 
 
-quursasho m.f.dh eeg quurso. ld quursad, 
-
-quursi.  
+quursasho m.f.dh eeg quurso. ld quursad, quursi.  
 
 quursi m.l ld quursasho. 
 
@@ -6214,9 +5128,7 @@ quusad m.l ld quusasho.
 
 quusasho m.f.dh eeg quuso. ld quusad. 
 
-quuse m.l (-sayaal, m.l/dh) Qof biyaha inta 
-
-quusa muddo badan ku jiri kara. 
+quuse m.l (-sayaal, m.l/dh) Qof biyaha inta quusa muddo badan ku jiri kara. 
 
 quusi f.g2 (-iyay, -isay) 1. Nafley biyo hoos u gelin. 2. Cid rajo la'aan dhigid. 
 
@@ -6244,9 +5156,7 @@ quweysan f.mg4 (-snaa, -snayd) Wax awood yeeshay ahaansho.
 
 quweysasho m.f.dh eeg quweyso. 
 
-quweysnaan m.f.dh eeg quweysan. ld 
-
-quweysnaansho.  
+quweysnaan m.f.dh eeg quweysan. ld quweysnaansho.  
 
 quweysnaansho m.l/dh ld quweysnaan. 
 
