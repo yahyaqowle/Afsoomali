@@ -6858,7 +6858,7 @@ mulul² f.mg1 (-ulay, -ushay) 1. Dheddig dad ama xoolaad isaga oo weli ilmihii h
 
 mululi f.g2 (-iyay, -isay) Caano ciir ah dhay ku darid.
 
-mululid m.f.dh eeg mulul². ld mulul¹ (4).
+mululid m.f.dh eeg mulul². ld mulul¹(4).
 
 mululin m.f.dh eeg mululi.
 
@@ -6882,7 +6882,7 @@ mulux m.l (-xyo, m.dh) Qare markaas soo baxay oo yar.
 
 mulxid¹ m.l (-diin, m.dh) (dii.) Gaal, kufri; qof aan diimaha rumaysnayn.
 
-mulxid² m.l (-diin, m.dh) (fals.) Qof aan xiisayn ama aan dan ka lahayn arrimaha ku saabsan diinta.muquunsad
+mulxid² m.l (-diin, m.dh) (fals.) Qof aan xiisayn ama aan dan ka lahayn arrimaha ku saabsan diinta.
 
 mulxidnimo m.dh (dii.) Mulxid ahaansho.
 

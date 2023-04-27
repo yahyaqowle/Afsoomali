@@ -1834,7 +1834,7 @@ rogob m.l 1. Hilib yaryar oo ku hara haragga neef la qalay. 2. Mullaax. ld rokob
 
 rogobsad m.l ld rogobsasho, rogob, roqob. 
 
-rogobsasho m.f.dh eeg rogobso. ld rogob-sad, rogobsi, roqobsad, roqobsasho, ro-qobsi. 
+rogobsasho m.f.dh eeg rogobso. ld rogobsad, rogobsi, roqobsad, roqobsasho, roqobsi. 
 
 rogobsi m.l ld rogobsad, rogobsasho. 
 

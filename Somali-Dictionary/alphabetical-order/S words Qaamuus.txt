@@ -4990,7 +4990,7 @@ suuxin m.f.dh eeg suuxi.
 
 suuxsan f.mg4 (-naa, -nayd) Nafley wax la suuxiyey ahaansho.
 
-suuxsanaan m.f.dh eeg suuxsan. ld suux-sanaansho.
+suuxsanaan m.f.dh eeg suuxsan. ld suuxsanaansho.
 
 suuxsanaansho m.l/dh ld suuxsanaan.
 
@@ -5039,6 +5039,5 @@ suyucsan f.mg4 (-naa, -nayd) Wax suyucay ahaansho.
 suyucsanaan m.f.dh eeg suyucsan. ld suyuc-sanaansho.
 
 suyucsanaansho m.l/dh ld suyucsanaan.
-
 
 

@@ -566,7 +566,7 @@ oslanaan m.f.dh eeg oslan. ld oslanaansho.
 
 oslanaansho m.l/dh ld oslanaan.
 
-oslid m.f.dh eeg osol². ld asool¹, asoolid, osol¹.
+oslid m.f.dh eeg osol². ld asool¹, asoolid; osol¹.
 
 osol¹ m.l ld asoolid.
 

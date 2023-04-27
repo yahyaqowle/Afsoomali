@@ -776,7 +776,6 @@ cadaadis³ m.l (siyaa.) Waa dawlad awoodsheegasho ku dhisan, caddaalad darro iyo
 
 cadaadis-beege m.l (-gayaal, m.l/dh) (fiis.) Qalabka loo isticmaalo in lagu cabbiro cadaadiska gibilka. Qaabkiisa ugu sahlan waxa loo yaqaan cadaadis beegaha meerkari; meerkaridaas oo ku jirta dhululubo qarsho ah oo xiran oo lagu gembiyay meerkari kale oo weel ku jirta; meerkaridaas ku jirta dhululubada waxay ismiisamayaan culayska gibilka, dherekeeduna wuxuu ku siinayaa cabbirka culayska cadaadiska gibilka. Heerka meerkarida ee dhululubada ku jirta wuxuu tusinayaa celceliska cadaadiska gebilka ee bad la simanta. 
 
-
 cadaadis-ekeeye m.l (-kayaal, m.l/dh) (juqr.) Xarriiq ku yaal khariidad ama kaarto dusheed oo isku xira meelaha cadaadis gibilkoodu isla egyahay. 
 
 cadaadis-gibileed¹ m.l (-dyo, m.dh) (fiis.) Culayska saaran bar ee ka dhasha cadaadiska hawada ka sarraysa bartaas. 
@@ -5660,4 +5659,5 @@ cuwaafad m.l ld cuwaafasho.
 cuwaafasho m.f.dh eeg cuwaafo. ld cuwaafad.
 
 cuwaafo f.g3 (-ftay, -fatay) Cuwaaf cunid.
+
 
