@@ -16,43 +16,25 @@ raabakh² f.mg1 (-khay, -khday) Qalab, wax aad u gaboobay noqosho.
 
 raabakhid m.f.dh eeg raabakh². 
 
-raabakhsan f.mg4 (-naa, -nayd) Wax 
+raabakhsan f.mg4 (-naa, -nayd) Wax raabakhay ahaansho (qalab). 
 
-raabakhay ahaansho (qalab). 
-
-raabakhsanaan m.f.dh eeg raabakhsan. ld 
-
-raabakhsanaansho.  
+raabakhsanaan m.f.dh eeg raabakhsan. ld raabakhsanaansho.  
 
 raabakhsanaansho m.l/dh ld raabakh-sanaan. 
 
-raabaraabe m.l.fk (-bayaal, m.l/dh) Laba kooxood ama wax ka badan oo kala dandambeeya isku jihana u socda; kooxkoox. 
+raabaraabe m.l.fk (-bayaal, m.l/dh) Laba kooxood ama wax ka badan oo kala dandambeeya isku jihana u socda; kooxkoox. ld raaberaabe. 
 
- ld raaberaabe. 
+raaberaabe m.l (-bayaal, m.l/dh) ld raabaraabe.  
 
-raaberaabe m.l (-bayaal, m.l/dh) ld 
+raabiya m.dh (daaw.) Cudur muddo gaaban oo uu keeno fiirus, wuxuuna ku dhacaa maskaxda iyo xangullada ee xoolaha dhiigga kulul, waxaana sida badan dadka u gudbiya qaniinyada ey cudurka qaba. Astaamuhu waxay soo baxaan muddo u dhexeysa 10 beri ilaa sannad waxayna ka koobanyihiin: jir xanuun, qandho, dhibaato neefsashada, dhareerid, xilliyo qofku aad u kacayo iyo muruq-roor xanuun badan oo ay liqiddu keento. Xaaladaha dambe ee cudurka; aragga biyaha oo keena qallal iyo curyaannimo. Dhimashadu waxay dhacdaa 4-5 beri dhexdood. 
 
-raabaraabe.  
-
-raabiya m.dh (daaw.) Cudur muddo gaaban oo uu keeno fiirus, wuxuuna ku dhacaa maskaxda iyo xangullada ee xoolaha dhiigga kulul, waxaana sida badan dadka u gudbiya qaniinyada ey cudurka qaba. Astaamuhu waxay soo baxaan muddo u dhexeysa 10 beri ilaa sannad waxayna ka koobanyihiin: jir xanuun, qandho, dhibaato neefsashada, dhareerid, xilliyo qofku aad u kacayo iyo muruq-roor xanuun badan oo ay liqiddu keento. Xaaladaha dambe ee cudurka; aragga biyaha oo keena qallal iyo curyaannimo. 
-
- Dhimashadu waxay dhacdaa 4-5 beri dhexdood. 
-
-raabsasho m.f.dh eeg raabso. ld raabsi, 
-
-raamsasho, raamsi. 
+raabsasho m.f.dh eeg raabso. ld raabsi, raamsasho, raamsi. 
 
 raabsi m.l ld raabsasho. 
 
-raabso f.mg3 (-saday, -satay) 1. Xoolo wax calalin; baryaqaadid. 2. Dad wax calalin. ld 
+raabso f.mg3 (-saday, -satay) 1. Xoolo wax calalin; baryaqaadid. 2. Dad wax calalin. ld raamso.  
 
-raamso.  
-
-raac f.g/mg1 (-cay, -cday) 1. (f.g) Cid socod ku wehelin. 2. (f.g) Waddoqaadid. 3. (f.g) Diyaarad, baabuur iwm oo socda fuulid. 
-
- 4. (f.g) Bahal iyo dayac xoolo ka ilaalin. 
-
-ra'yi 5. (f.g) Cid cayrsasho. 6. (f.mg) Ku r.: cid iwm la oggolaan. 7. (f.mg) La r.: xoolo iwm garaacid. 
+raac f.g/mg1 (-cay, -cday) 1. (f.g) Cid socod ku wehelin. 2. (f.g) Waddoqaadid. 3. (f.g) Diyaarad, baabuur iwm oo socda fuulid. 4. (f.g) Bahal iyo dayac xoolo ka ilaalin. ra'yi 5. (f.g) Cid cayrsasho. 6. (f.mg) Ku r.: cid iwm la oggolaan. 7. (f.mg) La r.: xoolo iwm garaacid. 
 
 raacasho m.f.dh eeg raaco. 
 
@@ -64,9 +46,7 @@ raacdarreeb m.dh Dad gadaal ka daafacaya col wax dhacay ama wax dilay; Geeddan.
 
 raacdayn m.f.dh eeg raacdee. 
 
-raacdaysasho m.f.dh eeg raacdayso. ld 
-
-raacdaysi.  
+raacdaysasho m.f.dh eeg raacdayso. ld raacdaysi.  
 
 raacdaysi m.l ld raacdaysasho. 
 
@@ -78,9 +58,7 @@ raacdo¹ m.dh.u 1. Ciidan laga daba diro ciidan wax laayay ama dhacay.
 
 raacdo² m.dh Qof wax lumay raadintooda ku hawlan. 
 
-raaci f.g2 (-iyay, -isay) 1. Wax socda wax kale ku darid. 2. Xoolo cid ilaalisa u yeelid. 
-
- 3. Habaar ama duco cid ku larid. ld raacsii. 
+raaci f.g2 (-iyay, -isay) 1. Wax socda wax kale ku darid. 2. Xoolo cid ilaalisa u yeelid. 3. Habaar ama duco cid ku larid. ld raacsii. 
 
 raacid m.f.dh eeg raac. 
 
@@ -92,11 +70,11 @@ raaciyad m.dh ld raaciye.
 
 raaciye m.l 1. Dad waddan ku wada nool inta maamulka haysa mooyaane inta kale oo la xukumo; shacbi. 2. Dad inta aan ciidan ahayn; rayid. ld raaciyad. 
 
-raaco 701raaco f.g3 (-cday, -catay) 1. Qof hantidiisa ama dantiisa daryeelasho. 2. Qof cilmi diineed barasho. 
+raaco f.g3 (-cday, -catay) 1. Qof hantidiisa ama dantiisa daryeelasho. 2. Qof cilmi diineed barasho. 
 
 raacsan f.g4 (-naa, -nayd) 1. Ku r.: qof, cid kale la fikrad ahaansho. 2. Wax meel ama wax kale ka tirsan ahaansho. 3. Wax wax kale ku dhinac samaysan ahaansho. 
 
-raacsanaan m.f.dh eeg raacsan. ld raacsa- naansho. 
+raacsanaan m.f.dh eeg raacsan. ld raacsa-naansho. 
 
 raacsanaansho m.l/dh ld raacsanaan. 
 
@@ -104,55 +82,41 @@ raacsii f.g2 (-iiyay, -iisay) ld raaci.
 
 raacsiin m.dh ld raacin. 
 
-raad m.l (-dad, m.l) 1. Astaanta waxa soconayaa cagtoodu dhulka ku reebto. 
-
- 2. Calaamad ka harta wax hore u jiray. 
-
- 3. Xusuus aan qofku illaawi karin. 
+raad m.l (-dad, m.l) 1. Astaanta waxa soconayaa cagtoodu dhulka ku reebto. 2. Calaamad ka harta wax hore u jiray. 3. Xusuus aan qofku illaawi karin. 
 
 raadaar m.l (-rro, m.dh) ld raadar. 
 
-raadar m.l (-rro, m.dh) (fiis.) Qalab dareema meesha iyo jihada socodka ee walxo meel fog maraya sida maraakiibta iyo dayaara-daha, waxana qiyaasta laga qaataa dhudaha birlabdanabeedka soo noqday, kaddib mar- kii ay abbaareen walaxda socotay. 
+raadar m.l (-rro, m.dh) (fiis.) Qalab dareema meesha iyo jihada socodka ee walxo meel fog maraya sida maraakiibta iyo dayaara-daha, waxana qiyaasta laga qaataa dhudaha birlabdanabeedka soo noqday, kaddib markii ay abbaareen walaxda socotay. 
 
-raadgad f.g1 (-day, -dday) U r.: wax 
-
-raadkooda baabi'in. 
+raadgad f.g1 (-day, -dday) U r.: wax raadkooda baabi'in. 
 
 raadgadasho m.f.dh eeg raadgado. 
 
 raadgadid m.f.dh eeg raadgad. 
 
-raadgado f.mg3 (-atay, -adatay) Cid si aan 
-
-raadkeeda loo arkin u socosho. 
+raadgado f.mg3 (-atay, -adatay) Cid si aan raadkeeda loo arkin u socosho. 
 
 raadgamid m.dh ld raadqaadid. 
 
-raadgan f.g1 (-gamay, -gantay; -gami) ld 
-
-raadqaad.  
+raadgan f.g1 (-gamay, -gantay; -gami) ld raadqaad.  
 
 raadgoo f.g2 (-gooyay, -goysay) 1. Raad- gooyo samayn. 2. Wax cirib tirid. 
 
-raadgoob¹ m.l Baarid la sameeyo si loo helo waxa maqani meesha uu maray. ld raad- goobid. 
+raadgoob¹ m.l Baarid la sameeyo si loo helo waxa maqani meesha uu maray. ld raad-goobid. 
 
 raadgoob² f.g1 (-bay, -btay) 1. Waxa maqan meesha uu maray baarid. 2. Wax maqan doonid. 
 
-raadgoobid m.f.dh eeg raadgoob². ld 
-
-raadgoob¹.  
+raadgoobid m.f.dh eeg raadgoob². ld raadgoob¹.  
 
 raadgooyn m.f.dh eeg raadgoo. 
 
 raadgooyo m.dh Hab loo raadiyo xoolaha dhuma ama wixii kaloo la raadinayo. 
 
-raadgur¹ m.l 1. ld raadgurid. Doonidda wax maqan meesha uu maray. 2. ld raadgurid. 
-
- Baaridda arrin iyada oo la eegayo sidii ay u dhacday. 3. Tuug wax qaaday si uusan ula fogaan sixir lagu sameeyo. 
+raadgur¹ m.l 1. ld raadgurid. Doonidda wax maqan meesha uu maray. 2. ld raadgurid. Baaridda arrin iyada oo la eegayo sidii ay u dhacday. 3. Tuug wax qaaday si uusan ula fogaan sixir lagu sameeyo. 
 
 raadgur² f.g1 (-ray, -rtay) 1. Wax maqan meesha uu maray doonid. 2. Tuug si uu u soo celiyo wixii uu qaaday sixrid. 
 
-raad-guri-cagaar m.l (-dad, m.l) (c.cimi.) Muuqaal fallaaraha qorraxeed ee galay 702 gibilka dhulka: gibilku wuxuu u oggolaadaa tamarta qorraxeed ee hirarka gaaban inay gaarto dhulka dushiisa; tamartaasi waxay kululaysaa dusha dhulka, dabadeedna dhulku tamar kulul oo hirarkeedu ay dhaadheeryihiin ayuu gibilka ku sii daayaa, kulaylkaasna gibilka ayaa lagu hayaa gaar ahaan marka cirku caad leeyahay. Sidaas darteed gibilku wuxuu u shaqaynayaa sida qarshada guri cagaar. 
+raad-guri-cagaar m.l (-dad, m.l) (c.cimi.) Muuqaal fallaaraha qorraxeed ee galay gibilka dhulka: gibilku wuxuu u oggolaadaa tamarta qorraxeed ee hirarka gaaban inay gaarto dhulka dushiisa; tamartaasi waxay kululaysaa dusha dhulka, dabadeedna dhulku tamar kulul oo hirarkeedu ay dhaadheeryihiin ayuu gibilka ku sii daayaa, kulaylkaasna gibilka ayaa lagu hayaa gaar ahaan marka cirku caad leeyahay. Sidaas darteed gibilku wuxuu u shaqaynayaa sida qarshada guri cagaar. 
 
 raadgurid m.f.dh eeg raadgur². ld raadgur¹ (1,2). 
 
@@ -168,25 +132,19 @@ raadin m.f.dh eeg raadi. ld raadis.
 
 raadis m.l ld raadin. 
 
-raadiye m.l (-yayaal, m.l/dh) 1. Qalab elek- taroon ah oo wararka dira lagana baahiyo. 
+raadiye m.l (-yayaal, m.l/dh) 1. Qalab elek- taroon ah oo wararka dira lagana baahiyo. 2. Saldhigga wararka laga diro. ld raadi-yow. 
 
- 2. Saldhigga wararka laga diro. ld raadi-yow. 
-
-raadiyografi m.l (-iyo, m.dh) (daaw.) Raajada cuduraqoonsiga. Farsamada baari-taanka jirka ayadoo la dhexmarsiinayo fallaraha ekis (x-rays), waxay soo saartaa sawirro (raadiyograafis) ku yaal beniikol loogu talaggalay ama iskriin fallooroshidan leh. 
-
- Raadiyograafka waxaa loo adeegsadaa cudur aqoonsiga: lafaha jaba, boogcaloo-leed, iyo dhagax gala xameeytihaysta ama kelyaha, marka baaritaanka dibedda uu ku fillaan waayo cudur aqoonsiga. 
+raadiyografi m.l (-iyo, m.dh) (daaw.) Raajada cuduraqoonsiga. Farsamada baari-taanka jirka ayadoo la dhexmarsiinayo fallaraha ekis (x-rays), waxay soo saartaa sawirro (raadiyograafis) ku yaal beniikol loogu talaggalay ama iskriin fallooroshidan leh. Raadiyograafka waxaa loo adeegsadaa cudur aqoonsiga: lafaha jaba, boogcaloo-leed, iyo dhagax gala xameeytihaysta ama kelyaha, marka baaritaanka dibedda uu ku fillaan waayo cudur aqoonsiga. 
 
 raadiyoom m.l (-mmo, m.dh) (kiim.) Curiye bir ifta ah oo ah kaahfale cad, kana tirsan ururka alkalayn-dhuleed. Waxa ay leedahay dhawr iskugod oo cimri gaaban iyo hal iskugod oo cimri dheer kaas oo ah raadiyam- 226 (cimri-badheedkeeduna ya-hay 1602 sano). 
 
 raadiyow m.l ld raadiye. 
 
-raadka dobler m.l (-dadka ..., m.l) (fiis.) Isbeddelka muuqda ee rakaadka ileyska ama jabaqda ay bixisay walax soconaysa, marka loo eego ilaaliya taagaan. Marka ay walaxdu ku soo socoto ilaaliyaha rakaadku waxa uu u muuqdaa mid kororsan; marka ay walaxdu dhaafto ilaaliyaha rakaadku waxa uu u muuqdaa mid hooseeya. 
+raadka-dobler m.l (-dadka ..., m.l) (fiis.) Isbeddelka muuqda ee rakaadka ileyska ama jabaqda ay bixisay walax soconaysa, marka loo eego ilaaliya taagaan. Marka ay walaxdu ku soo socoto ilaaliyaha rakaadku waxa uu u muuqdaa mid kororsan; marka ay walaxdu dhaafto ilaaliyaha rakaadku waxa uu u muuqdaa mid hooseeya. 
 
-raadka footoodanabeed m.l (-dyo, m.dh) (fiis.) Bixinta elektaroonno ee dusha biraha, marka lagu kaahiyo hirarka,raandee birlabdanabeedka. Tirada elektaroonnada ee baxay waxa ay ku xiranyihiin itaalka kaaha. 
+raadka-footoodanabeed m.l (-dyo, m.dh) (fiis.) Bixinta elektaroonno ee dusha biraha, marka lagu kaahiyo hirarka,raandee birlabdanabeedka. Tirada elektaroonnada ee baxay waxa ay ku xiranyihiin itaalka kaaha. 
 
-raadqaad¹ m.l 1. Wax la raadinayo oo 
-
-raadkooda la dabaggalo. 2. Sixir. 
+raadqaad¹ m.l 1. Wax la raadinayo oo raadkooda la dabaggalo. 2. Sixir. 
 
 raadqaad² f.g1 (-day, -dday) 1. Raad baarid, 
 
@@ -194,11 +152,9 @@ raadraacid. 2. Qof sixirid si uu meesha uu ku nool yahay uga cararo. ld raadgan.
 
 raadqaadan f.mg4 (-dnaa, -dnayd) Wax sixran ahaansho. 
 
-raadqaadid m.f.dh eeg raadqaad. ld raad- gamid. 
+raadqaadid m.f.dh eeg raadqaad. ld raad-gamid. 
 
-raadqaadnaan m.f.dh eeg raadqaadan. ld 
-
-raadqaadnaansho.  
+raadqaadnaan m.f.dh eeg raadqaadan. ld raadqaadnaansho.  
 
 raadqaadnaansho m.l/dh ld raadqaadnaan. 
 
@@ -218,21 +174,15 @@ raadso f.g3 (-saday, -satay) 1. Wax maqan daydayasho (qof). 2. Wax meel lagu oga
 
 raadtirasho m.f.dh eeg raadtiro. 
 
-raadtiro f.mg3 (-rtay, -ratay) Qof si aan 
+raadtiro f.mg3 (-rtay, -ratay) Qof si aan raadkiisa loo arkin u socosho. 
 
-raadkiisa loo arkin u socosho. 
-
-raadyoosonde m.l (-dayaal, m.l/dh) (c.cimi.) Qalab iskiis isu rikoorgareeya oo lagu isticmaalo mitroolojiga, badanaa cabbi- 
-
-raadda cadaadiska sare, isaga oo wata laliye ku dhigan balloon haydrojiin ka buuxdo. 
+raadyoosonde m.l (-dayaal, m.l/dh) (c.cimi.) Qalab iskiis isu rikoorgareeya oo lagu isticmaalo mitroolojiga, badanaa cabbi-raadda cadaadiska sare, isaga oo wata laliye ku dhigan balloon haydrojiin ka buuxdo. 
 
 raaf¹ m.l (-faf, m.l) 1. Qoobka hoose ee qanjaafuuluhu ku dahaaranyihiin ee lo'da ama ariga midkood. 2. Olole dad dan gaar ah laga leeyahay oo khasab lagu dumo; qafaal. 
 
 raaf² f.g1 (-fay, -ftay) 1. Nafley xasuuqid. 2. Dad khasab ku ururin. 
 
-raafdillaac m.l (daaw.) Cudur ku dhaca labada 
-
-raaf ee xoolaha dhexdooda oo ka dhasha qoyaanka. ld raafqarrar. 
+raafdillaac m.l (daaw.) Cudur ku dhaca labada raaf ee xoolaha dhexdooda oo ka dhasha qoyaanka. ld raafqarrar. 
 
 raafid m.f.dh eeg raaf². 
 
@@ -248,9 +198,7 @@ raagis m.dh ld raagid.
 
 raagsad m.l ld raagsasho. 
 
-raagsasho m.f.dh eeg raagso. ld raagsad, raagsi, 
-
-raagsiino, raagsiinyo. 
+raagsasho m.f.dh eeg raagso. ld raagsad, raagsi, raagsiino, raagsiinyo. 
 
 raagsi m.l ld raagsasho. 
 
@@ -290,9 +238,7 @@ raamayso f.mg3 (-stay, -satay) 1. Raan yeelasho (qof ama geed). 2. Qof maskaxda 
 
 raamee f.g2 (-meeyay, -maysay) Wax raan u yeelid. 
 
-raamo m.dh 1. Dhul daaqa xoolaha ku wanaagsan oo ciid cad, jilicsan leh. 2. eeg 
-
-raan.  
+raamo m.dh 1. Dhul daaqa xoolaha ku wanaagsan oo ciid cad, jilicsan leh. 2. eeg raan.  
 
 raamsasho m.dh ld raabsasho. 
 
@@ -300,9 +246,7 @@ raamsi m.l ld raabsasho.
 
 raamso f.mg3 (-saday, -satay) ld raabso. 
 
-raan m.dh (-aamo, m.l) 1. Miiqyo dun ah oo isku maran oo maro dacalkeeda laga laallaadsho. 2. Timo ama dhogor isku guntan. 3. Geed laamihiisa buulal shimbi- 
-
-reed ama cutubcutub miro ahi ka laal- laadaan. 
+raan m.dh (-aamo, m.l) 1. Miiqyo dun ah oo isku maran oo maro dacalkeeda laga laallaadsho. 2. Timo ama dhogor isku guntan. 3. Geed laamihiisa buulal shimbireed ama cutubcutub miro ahi ka laal-laadaan. 
 
 raanbi m.l (-iyo, m.dh) Raar yar oo aqal Soomaaliga la dhex geliyo, oo la saaro weelasha si aan aboorka u cunin. 
 
@@ -312,23 +256,17 @@ raandays m.l ld raandayn.
 
 raandaysan f.mg4 (-snaa, -snayd) Wax raando lagu simay ahaansho. 
 
-raandaysnaan m.f.dh eeg raandaysan. ld 
-
-raandaysnaansho.  
+raandaysnaan m.f.dh eeg raandaysan. ld raandaysnaansho.  
 
 raandaysnaansho m.l/dh ld raandaysnaan. 
 
-raandee f.g2 (-deeyay, -deysay) Alwaax 
-
-raando ku simid. 703raandhiis 
+raandee f.g2 (-deeyay, -deysay) Alwaax raando ku simid.
 
 raandhiis m.l R. leh: waxtar raaga oo dhaxal gal ah. 
 
 raando m.dh Qalab ka kooban alwaax bir af dhexda ku leh oo lagu simo alwaaxda. 
 
-raani m.dh (-iyo, m.l) Warqad turub, ranka ka tirsan oo boqoradi ku sawirantahay. ld 
-
-raaniyad.  
+raani m.dh (-iyo, m.l) Warqad turub, ranka ka tirsan oo boqoradi ku sawirantahay. ld raaniyad.  
 
 raaniyad m.dh ld raani. 
 
@@ -340,29 +278,19 @@ raaqraaqid m.f.dh eeg raaqraaq.
 
 raaqraaqin m.dh Siima raaqraaqin: siima jirin, siima noolaan. 
 
-raar¹ m.l (-rar, m.l) 1. Gogol caws ka samaysan oo dun lagu xardhay. 2. Dhismo kor u dheer oo dusha sare lagaga deday qoryo, caws iwm oo laga fuulo, bahalaha, qaniinka, kaneecada iwm. 3. Qoryo, dhagxaan iwm oo la is dul saaray oo sallaan ahaan loo adeegsado. 
+raar¹ m.l (-rar, m.l) 1. Gogol caws ka samaysan oo dun lagu xardhay. 2. Dhismo kor u dheer oo dusha sare lagaga deday qoryo, caws iwm oo laga fuulo, bahalaha, qaniinka, kaneecada iwm. 3. Qoryo, dhagxaan iwm oo la is dul saaray oo sallaan ahaan loo adeegsado.  4. Qoryo ceelka afkiisa lagu dadbo. 
 
- 4. Qoryo ceelka afkiisa lagu dadbo. 
-
-raar² m.dh 1. Guriga gudihiisa qaybta dambe ee saabaanka muhiimka ah la dhigto. 
-
- 2. Sariir qoryo ka samaysan. 
+raar² m.dh 1. Guriga gudihiisa qaybta dambe ee saabaanka muhiimka ah la dhigto. 2. Sariir qoryo ka samaysan. 
 
 raar³ f.g1 (-ray, -rtay) 1. Wax meel sare saarid. 2. Raar dhisid. 
 
-raarac¹ m.l 1. R. ah: meel hoobad ah. 2. ld 
-
-raaricid.  
+raarac¹ m.l 1. R. ah: meel hoobad ah. 2. ld raaricid.  
 
 raarac² f.mg1 (-cay, -cday; -rici) Wax meel sare ka soo laallaadid. 
 
-raaracan¹ f.mg1 (-cmay, -cantay) ld raa- 
+raaracan¹ f.mg1 (-cmay, -cantay) ld raa-racsan¹.  
 
-racsan¹.  
-
-raaracan² f.mg4 (-cnaa, -cnayd) ld raa- 
-
-racsan².  
+raaracan² f.mg4 (-cnaa, -cnayd) ld raa-racsan².  
 
 raaracmid m.dh ld raaracsamid. 
 
@@ -372,23 +300,17 @@ raaracnaansho m.l/dh ld raaracsanaan.
 
 raaracsad m.l ld raaracsasho. 
 
-raaracsamid m.f.dh eeg raaracsan¹. ld raa- 
-
-racmid.  
+raaracsamid m.f.dh eeg raaracsan¹. ld raa-racmid.  
 
 raaracsan¹ f.mg1 (-amay, -antay) Wax meel ka soo laallaada noqosho. ld raaracan¹. 
 
 raaracsan² f.mg4 (-naa, -nayd) Wax meel ka soo laallaada ahaansho. ld raaracan². 
 
-raaracsanaan m.f.dh eeg raaracsan². ld 
-
-raaracnaan, raaracnaansho, raaracsa- naansho. 
+raaracsanaan m.f.dh eeg raaracsan². ld raaracnaan, raaracnaansho, raaracsa-naansho. 
 
 raaracsanaansho m.l/dh ld raaracsanaan. 
 
-raaracsasho m.f.dh eeg raaracso. ld raaracsad, 
-
-raaracsi.  
+raaracsasho m.f.dh eeg raaracso. ld raaracsad, raaracsi.  
 
 raaracsi m.l ld raaracsasho. 
 
@@ -396,7 +318,7 @@ raaracso f.mg3 (-saday, -satay) Wax meel ka laallaadsasho.
 
 raaran¹ f.mg1 (-rmay, -rantay) Wax la raaray noqosho. 
 
-raaran² 704 f.mg4 (-rnaa, -rnayd) Wax meel sare saaran ahaansho. 
+raaran² f.mg4 (-rnaa, -rnayd) Wax meel sare saaran ahaansho. 
 
 raarasho m.f.dh eeg raaro. 
 
@@ -444,9 +366,7 @@ raashin m.l.u Cuntada daruuriga ah ee dadku ku nool yahay; gasiin.
 
 raasi m.l (-iyo, m.dh) 1. Dhul dhuuban oo badda aad u dhex gala. 2. ld raas (3). 
 
-raasow m.l (bot.) Nagaar laamo jilicsan iyo caleen dhuudhuuban leh oo marka la kariyo caleemihiisa dadku cunto ahaan u cunaan. ld 
-
-raansow.  
+raasow m.l (bot.) Nagaar laamo jilicsan iyo caleen dhuudhuuban leh oo marka la kariyo caleemihiisa dadku cunto ahaan u cunaan. ld raansow.  
 
 raasummaal m.l ld raasammaal. 
 
@@ -454,7 +374,7 @@ raasummaali m.l ld raasammaali.
 
 raasweyn m.dh Haweenay ubad iyo xoolo badan leh. 
 
-raatib m.l 1. Quraan akhris, werdi iwm oo waqti go'an si joogto ah loo sameeyo. 2. (- byo, m.dh) Laba iniinood oo ka mid ah iniinaha tusbaxa oo tirooyin go'an u kala qaybiya tusbaxa middood. ld ratib¹ (1).rablee 
+raatib m.l 1. Quraan akhris, werdi iwm oo waqti go'an si joogto ah loo sameeyo. 2. (- byo, m.dh) Laba iniinood oo ka mid ah iniinaha tusbaxa oo tirooyin go'an u kala qaybiya tusbaxa middood. ld ratib¹ (1).
 
 raawi f.g/mg2 (-iyay, -isay) 1. (f.g) Bir si ay u simanto garaacid. 2. (f.mg) Si isla helid ah sacab u tumid. 
 
@@ -476,15 +396,11 @@ raaxaysad m.l ld raaxaysasho.
 
 raaxaysan f.mg4 (-snaa, -snayd) Wax raaxo ku jiro ahaansho. 
 
-raaxaysasho m.f.dh eeg raaxayso. ld raaxaysad, 
-
-raaxaysi.  
+raaxaysasho m.f.dh eeg raaxayso. ld raaxaysad, raaxaysi.  
 
 raaxaysi m.l ld raaxaysasho. 
 
-raaxaysnaan m.f.dh eeg raaxaysan. ld 
-
-raaxaysnaansho.  
+raaxaysnaan m.f.dh eeg raaxaysan. ld raaxaysnaansho.  
 
 raaxaysnaansho m.l/dh ld raaxaysnaan. 
 
@@ -492,9 +408,7 @@ raaxayso f.mg3 (-stay, -satay) 1. Nolol raaxo leh ku noolaansho. 2. Nasasho; daa
 
 raaxee f.mg2 (-xeeyay, -xaysay) 1. U r.: cid nolol raaxo leh ku noolaysiin. 2. U r.: qof niyaddiisa farxad gelin. 
 
-raaxo m.dh 1. Nolol aan dhib lahayn. 2. ld 
-
-raaxayn.  
+raaxo m.dh 1. Nolol aan dhib lahayn. 2. ld raaxayn.  
 
 raay m.dh (-yo, m.l) 1. Xiniin. 2. Dad wada dhalasho ka dhaxayso laan ka farcantay; jilib. 
 
@@ -512,9 +426,7 @@ rabadin m.l (-nno, m.dh) 1. Meel la degi karo oo bannaan hareerahana dhir ama bu
 
 rabaqaad¹ m.l (-dyo, m.dh) Ratibaadda ama horsiimaynta kutirsaneyaasha urur. 
 
-rabaqaad² m.l (-dyo, m.dh) (xis.) Ratibaad kasta oo kutirsaneyaasha urur la siinayo horsiimo huban. Summadda nP, waxay u taagantahay tirada raabaqaad n shey oo markiiba la qaato r shey sida; 5P3 waa tirada 
-
-raabaqaad 5 shey oo markiiba la qaatay 3 shey. 
+rabaqaad² m.l (-dyo, m.dh) (xis.) Ratibaad kasta oo kutirsaneyaasha urur la siinayo horsiimo huban. Summadda nP, waxay u taagantahay tirada raabaqaad n shey oo markiiba la qaato r shey sida; 5P3 waa tirada raabaqaad 5 shey oo markiiba la qaatay 3 shey. 
 
 rabash¹ m.l Rabsho; fidmo; qulqulad; qas. ld 
 
@@ -522,9 +434,7 @@ rabshad, rabsho.
 
 rabash² f.g1 (-bshay, -bashtay; -bshi) Cid qulquladayn. ld rabshadee, rabshee. 
 
-rabbaas¹ m.l Orod boodbood leh. ld 
-
-rabbaasid.  
+rabbaas¹ m.l Orod boodbood leh. ld rabbaasid.  
 
 rabbaas² f.mg1 (-say, -stay) Orod boodbood leh samayn (nafley). 
 
@@ -538,9 +448,7 @@ rabbayn m.f.dh eeg rabbee.
 
 rąbbayn m.f.dh eeg rąbbee. 
 
-rabbaysan¹ f.mg1 (-smay, -santay; -smi) 1. Ubad si habboon u barbaarid. 
-
- 2. Xayawaan rabbaayad noqosho. 
+rabbaysan¹ f.mg1 (-smay, -santay; -smi) 1. Ubad si habboon u barbaarid. 2. Xayawaan rabbaayad noqosho. 
 
 rabbaysan² f.mg4 (-snaa, -snayd) 1. Ubad si habboon u barbaaray ahaansho. 2. Xaya- waan rabbaayad ahaansho. 
 
@@ -550,19 +458,13 @@ rabbaysi m.l ld rabbaysasho.
 
 rabbaysmid m.f.dh eeg rabbaysan¹. 
 
-rabbaysnaan m.f.dh eeg rabbaysan². ld 
-
-rabbaysnaansho.  
+rabbaysnaan m.f.dh eeg rabbaysan². ld rabbaysnaansho.  
 
 rabbaysnaansho m.l/dh ld rabbaysnaan. 
 
-rabbayso f.g3 (-stay, -satay) 1. Ubad si habboon u barbaarsasho. 2. Xayawaan 
+rabbayso f.g3 (-stay, -satay) 1. Ubad si habboon u barbaarsasho. 2. Xayawaan rabbaayad ka dhigasho. 
 
-rabbaayad ka dhigasho. 
-
-rabbee f.g2 (-beeyay, -baysay) 1. Ubad si habboon u barbaarin. 2. Xayawaan 
-
-rabbaayad ka dhigid. 
+rabbee f.g2 (-beeyay, -baysay) 1. Ubad si habboon u barbaarin. 2. Xayawaan rabbaayad ka dhigid. 
 
 rąbbee f.g2 (-beeyay, -baysay) Geel wax ku tumasho. 
 
@@ -590,9 +492,7 @@ rablee f.mg2 (-leeyay, -laysay) 1. Labada lugood oo isku duuban oo kol ama ka ba
 
 rableysad m.l ld rableysasho. 
 
-rableysan f.mg4 (-snaa, -snayd) Wax la 
-
-rableeyay ahaansho (timo haween). 
+rableysan f.mg4 (-snaa, -snayd) Wax la rableeyay ahaansho (timo haween). 
 
 rableysasho m.f.dh eeg rableyso. ld rabley-sad. 
 
@@ -600,9 +500,7 @@ rableysnaan m.f.dh eeg rableysan. ld ra- bleysnaansho.
 
 rableysnaansho m.l/dh ld rableysnaan. 
 
-rableyso f.g3 (-stay, -satay) Gabar timo si 
-
-rable ah u samaysasho. 
+rableyso f.g3 (-stay, -satay) Gabar timo si rable ah u samaysasho. 
 
 raboo f.g3 (-ooday, -ootay) ld rab³. 
 
@@ -626,17 +524,11 @@ rabshadayn m.dh ld rabshayn.
 
 rabshadee f.g2 (-deeyay, -deysay) ld rabash². 
 
-rabshayn m.dh eeg rabshee. ld rabshadayn, 
+rabshayn m.dh eeg rabshee. ld rabshadayn, rabshid.  
 
-rabshid.  
+rabshaysan f.mg4 (-snaa, -snayd) Nafley rabsho la kulantay ahaansho. 
 
-rabshaysan f.mg4 (-snaa, -snayd) Nafley 
-
-rabsho la kulantay ahaansho. 
-
-rabshaysnaan m.f.dh eeg rabshaysan. ld 
-
-rabshaysnaansho.  
+rabshaysnaan m.f.dh eeg rabshaysan. ld rabshaysnaansho.  
 
 rabshaysnaansho m.l/dh ld rabshaysnaan. 
 
@@ -658,9 +550,7 @@ rac m.l Kooxo nafley ah oo si nidaam leh isu dabajooga middood.
 
 racayn¹ m.dh Kooxayn ama xulid tiro waxyaaleed iyada oo aan loo eegin orsa-naan. 
 
-racayn² m.dh Hormo urur kasta ee uu urur walxood iyada oo aan la tixgelin horsanaanta sida loo kala xushay. Haddii 'r' walxood laga xushay urur 'n' kutirsane leh oo weliba walax kastana la xulan karo mar keliya. Tirada 
-
-racaymaha kaladuwan waa: n!/[r!(n-r)!] loona qoro nCr ama C(n,r)[r!(n-r)!]Tusaale ahaan, haddi fasal ay ku jiraan 15 arday ay ka dhexeeyaan 5 buug oo keliya, marka buug 706 kasta waa in ay saddex arday wadagaan, inta siyaalo ee loo ratibi karo waa: 15!/[3!(15-3)!] ama 455. 
+racayn² m.dh Hormo urur kasta ee uu urur walxood iyada oo aan la tixgelin horsanaanta sida loo kala xushay. Haddii 'r' walxood laga xushay urur 'n' kutirsane leh oo weliba walax kastana la xulan karo mar keliya. Tirada racaymaha kaladuwan waa: n!/[r!(n-r)!] loona qoro nCr ama C(n,r)[r!(n-r)!]Tusaale ahaan, haddi fasal ay ku jiraan 15 arday ay ka dhexeeyaan 5 buug oo keliya, marka buug 706 kasta waa in ay saddex arday wadagaan, inta siyaalo ee loo ratibi karo waa: 15!/[3!(15-3)!] ama 455. 
 
 racfaan m.l ld rafcaan. 
 
@@ -686,9 +576,7 @@ radeeb¹ m.l 1. R. ah: mindi, waran iwm oo aan af wax gooya lahayn. 2. radeebid.
 
 radeeb² f.g1 (-bay, -btay) 1. Mindi, waran iwm wax la radeebay noqosho. 2. Ciid, dhagax iwm wax hoos loo nabay noqosho. 
 
-radeeban f.mg4 (-bnaa, -bnayd) 1. Mindi, waran iwm wax la radeebay ahaansho. 
-
- 2. Ciid, dhagax iwm wax hoos loo nabay ahaansho. 
+radeeban f.mg4 (-bnaa, -bnayd) 1. Mindi, waran iwm wax la radeebay ahaansho. 2. Ciid, dhagax iwm wax hoos loo nabay ahaansho. 
 
 radeebid m.f.dh eeg radeeb². ld radeeb¹ (2). 
 
@@ -714,7 +602,7 @@ radqid m.dh ld raqdid.
 
 radsan f.mg4 (-naa, -nayd) Badar, maro iwm wax biyo lala dhigay ahaansho. 
 
-radsanaan m.f.dh eeg radsan. ld radsa- naansho. 
+radsanaan m.f.dh eeg radsan. ld radsa-naansho. 
 
 radsanaansho m.l/dh ld radsanaan. 
 
@@ -730,15 +618,13 @@ rafaadin m.f.dh eeg rafaadi.
 
 rafaadsan f.mg4 (-naa, -nayd) Nalfey rafaad hayo ahaansho.rahaamad² 
 
-rafaadsanaan m.f.dh eeg rafaadsan. ld ra- faasanaansho. 
+rafaadsanaan m.f.dh eeg rafaadsan. ld ra-faasanaansho. 
 
 rafaadsanaansho m.l/dh ld rafaadsanaan. 
 
 rafaaji f.g2 (-iyay, -isay) Cajiin, dhoobo iwm oo qoyan gacan ku qasid. ld rafaaq², rifaaq². 
 
-rafaajin m.f.dh eeg rafaaji. ld rafaaq¹, rafaaqid, 
-
-rifaaqid.  
+rafaajin m.f.dh eeg rafaaji. ld rafaaq¹, rafaaqid, rifaaqid.  
 
 rafaaq¹ m.l Qasidda bur, ciid iwm hoore qooya faraha lagula qaso. ld rafaajin. 
 
@@ -746,9 +632,7 @@ rafaaq² f.g1 (-qay, -qday) ld rafaaji.
 
 rafaaqid m.dh ld rafaajin. 
 
-rafaasad m.dh (-do, m.l) Qalab ka kooban carrabbo xalxalleefsan oo si gaar ah isugu 
-
-rakiban, wareega oo maraakiibta iyo dayaaradaha dhaqaajiya. 
+rafaasad m.dh (-do, m.l) Qalab ka kooban carrabbo xalxalleefsan oo si gaar ah isugu rakiban, wareega oo maraakiibta iyo dayaaradaha dhaqaajiya. 
 
 rafac f.g1 (-cay, -cday) Hawl socotay joojin. 
 
@@ -758,7 +642,7 @@ rafacasho m.f.dh eeg rafaco.
 
 rafacid m.f.dh eeg rafac. 
 
-rafacnaan m.f.dh eeg rafacan. ld rafac- naansho. 
+rafacnaan m.f.dh eeg rafacan. ld rafac-naansho. 
 
 rafacnaansho m.l/dh ld rafacnaan. 
 
@@ -768,9 +652,7 @@ rafad m.l ld rafasho.
 
 rafasho m.f.dh eeg rafo. ld rafad. 
 
-rafcaan m.l Go'aan maxkamadeed oo max- kamad ka sarreysa looga dacwoodo. ld 
-
-racfaan.  
+rafcaan m.l Go'aan maxkamadeed oo max- kamad ka sarreysa looga dacwoodo. ld racfaan.  
 
 rafcaanle m.l (-layaal, m.l/dh) Qof rafcaan qaata. 
 
@@ -800,13 +682,9 @@ ragaadid m.f.dh eeg ragaad².
 
 ragaadin m.f.dh eeg ragaadi. 
 
-ragaadsan f.mg4 (-naa, -nayd) Neef geel ah oo 
+ragaadsan f.mg4 (-naa, -nayd) Neef geel ah oo ragaaday ahaansho. 
 
-ragaaday ahaansho. 
-
-ragaadsanaan m.f.dh eeg ragaadsan. ld 
-
-ragaadsanaansho.  
+ragaadsanaan m.f.dh eeg ragaadsan. ld ragaadsanaansho.  
 
 ragaadsanaansho m.l/dh ld ragaadsanaan. 
 
@@ -820,7 +698,7 @@ ragcad m.dh 1. (dii.) (ruguuc, m.dh) Gabal yar oo taayar, maro iwm oo la karayo 
 
 ragcan f.mg4 (-naa, -nayd) Maro, taayar iwm wax la ragcay ahaansho. 
 
-ragcanaan m.f.dh eeg ragcan. ld ragca- naansho. 
+ragcanaan m.f.dh eeg ragcan. ld ragca-naansho. 
 
 ragcanaansho m.l/dh ld ragcanaan. 
 
@@ -842,9 +720,7 @@ ragragasho m.f.dh eeg ragrago².
 
 ragrago¹ m.dh Digasho ismuujin iyo faan ku jiro. 
 
-ragrago² f.mg3 (-gtay, -gatay) Ku r.: 
-
-ragannimo iyo awood dheeraad ah cid ugu faanid iyada oo lagu diganayo. 
+ragrago² f.mg3 (-gtay, -gatay) Ku r.: ragannimo iyo awood dheeraad ah cid ugu faanid iyada oo lagu diganayo. 
 
 ragrif m.l.kh R. ah: nin aan waxtarin, ninka waxtarka ahna dhaliila. 
 
@@ -856,19 +732,15 @@ rahaamad¹ m.dh (-do, m.l) Hanti laga sii hayo cid wax amaahatay. ld rahan².
 
 rahaamad² m.dh (-do, m.l) (dhaq.) Lacag, dahab, guri ama dhul rahan ahaan loo dhigo marka bangi ama cid kale laga qaadanayo dayn. Haddii deynqaatuhu bixin waayo lacagta uu qaatay amaah-bixiyaha waxaa, si sharci ahaan lagu wareejinayaa rahaamadda. 
 
-rahaamad³ 707rahaamad³ f.g1 (-day, -dday) Cid wax amaahatay damaanad dhigid. 
+rahaamad³ f.g1 (-day, -dday) Cid wax amaahatay damaanad dhigid. 
 
-rahaamadan f.mg4 (-dnaa,-dnayd) Shay wax 
-
-rahmad loo haysto ahaansho. 
+rahaamadan f.mg4 (-dnaa,-dnayd) Shay wax rahmad loo haysto ahaansho. 
 
 rahaamadasho m.f.dh eeg rahaamado. 
 
 rahaamadid m.f.dh eeg rahaamad³. 
 
-rahaamadnaan m.f.dh eeg rahaamadan. ld 
-
-rahaamadnaansho.  
+rahaamadnaan m.f.dh eeg rahaamadan. ld rahaamadnaansho.  
 
 rahaamadnaansho m.l/dh ld rahaamad-naan. 
 
@@ -884,9 +756,7 @@ rahan³ f.g1 (-hmay, -hantay; -hmi) 1. Hanti curaar ahaan u dhiibid. 2. Arrin ka
 
 rahman f.mg4 (-naa, -nayd) 1. Hanti curaar ahaan loo dhiibay ahaansho. 2. Arrin ka hadalkeeda dib loo dhigay ahaansho. 
 
-rahmanaan m.f.dh eeg rahman. ld 
-
-rahmanaansho.  
+rahmanaan m.f.dh eeg rahman. ld rahmanaansho.  
 
 rahmanaansho m.l/dh ld rahmanaan. 
 
@@ -906,13 +776,11 @@ rajakoris² m.dh 1. Dabshidka iyo irridda meesha u dhexeysa. 2. Naag naxariis ba
 
 rajal m.dh (-llo, m.l) Bil dayaxeedda saddexaad ee taariikhda Soomaaliga ee u dhexeysa Mowliid iyo Sabbuux. 
 
-rajannimo m.dh Ilmo yar rajo ahaansho. ld 
-
-rajaynimo.  
+rajannimo m.dh Ilmo yar rajo ahaansho. ld rajaynimo.  
 
 rajay¹ m.l Wiil yar oo hooyadii dhimatay. 
 
-rajay² m.dh Gabar yar oo hooyadeed dhima- tay. 
+rajay² m.dh Gabar yar oo hooyadeed dhimatay. 
 
 rajayn m.f.dh eeg rajee. 
 
@@ -924,15 +792,15 @@ rajci m.l (-iyiin, m.dh) Qof ka soo horjeeda horumarka nololeed; dibusocod.
 
 rajcinnimo m.dh Rajci ahaansho (qof). 
 
-rajciyad m.dh Fikrad dibusocodnimo. 708 
+rajciyad m.dh Fikrad dibusocodnimo.
 
 rajee f.g2 (-jeeyay, -jaysay) Ilmo yar rajo ka dhigid. 
 
 rąjee f.g2 (-jeeyay, -jaysay) Filasho. ld rejee. 
 
-rajiimi f.g2 (-iyay, -isay) 1. Dheri si tartiib ah deb uga qaadid. 2. Sheydaan iska naarid. 
+rajiimi f.g2 (-iyay, -isay) 1. Dheri si tartiib ah deb uga qaadid. 2. Sheydaan iska naarid; “Shaydaanka iska rajiimi.”.
 
-rajiimin “Shaydaanka iska rajiimi.” m.f.dh eeg rajiimi. ld rajiimis. 
+rajiimin m.f.dh eeg rajiimi. ld rajiimis. 
 
 rajiimis m.l ld rajiimin. 
 
@@ -950,27 +818,19 @@ rajokoris m.dh Dabshidka iyo aqalka meesha u dhexeysa.
 
 rajoobid m.f.dh eeg rajow. 
 
-rajow f.mg1 (-oobay, -owday; -oobi) Ilmo yar 
+rajow f.mg1 (-oobay, -owday; -oobi) Ilmo yar rajo noqosho. 
 
-rajo noqosho. 
-
-rakaab m.l (-byo, m.dh) 1. Bir ka lalmata kooraha labadiisa dhinac midkood. 2. Qoryo ceelasha afkooda lagu sameeyo si loogu shubo ama loogu galo. 3. Dad gaadiid 
-
-raacay.  
+rakaab m.l (-byo, m.dh) 1. Bir ka lalmata kooraha labadiisa dhinac midkood. 2. Qoryo ceelasha afkooda lagu sameeyo si loogu shubo ama loogu galo. 3. Dad gaadiid raacay.  
 
 rakaabsad m.l ld rakaabsasho. 
 
-rakaabsasho m.f.dh eeg rakaabso. ld rakaabsad, 
-
-rakaabsi.  
+rakaabsasho m.f.dh eeg rakaabso. ld rakaabsad, rakaabsi.  
 
 rakaabsi m.l ld rakaabsasho. 
 
 rakaabso f.g3 (-saday, -satay) 1. Rakaab gaadiid ku rarasho. 2. Qof gaadiid fuulid. 
 
-rakaad¹ m.dh Xoolo biyo cabbiddooda ka kamiin jabay marka labaad ee ay ku laabtaan. 
-
- ld rakaadid. 
+rakaad¹ m.dh Xoolo biyo cabbiddooda ka kamiin jabay marka labaad ee ay ku laabtaan. ld rakaadid. 
 
 rakaad² m.l 1. Muddo hal seken ah inta hir ee ka gudba bar. 2. Inta walhasho ee walhade sameeyo muddo hal seken ah. 3. Inta goor ee uu ku dhex dhaco waqdhac ama la fisho in uu ku dhex dhaco koox ama qayb huban. 
 
@@ -982,9 +842,7 @@ rakaadasho m.f.dh eeg rakaado.
 
 rakaadi f.g2 (-iyay, -isay) ld rakaad². 
 
-rakaadid m.f.dh eeg rakaad². ld rakaad¹, 
-
-rakaadin, rakaadis. 
+rakaadid m.f.dh eeg rakaad². ld rakaad¹, rakaadin, rakaadis. 
 
 rakaadin m.dh ld rakaadid. 
 
@@ -1000,15 +858,13 @@ rake m.l 1. Rah. 2. Xayawaan yar oo walada u eg oo had iyo jeer dabada kor u taa
 
 rakib f.g1 (-bay, -btay) Qalab xubnihiisu kala daadsan yihiin ama isku daadsanyihiin la isku xirxiro. 
 
-rakiban f.mg4 (-bnaa, -bnayd) Qalab, wax la 
-
-rakibay ahaansho. 
+rakiban f.mg4 (-bnaa, -bnayd) Qalab, wax la rakibay ahaansho. 
 
 rakibasho m.f.dh eeg rakibo. 
 
 rakibid m.f.dh eeg rakib. 
 
-rakibnaan m.f.dh eeg rakiban. ld rakib- naansho. 
+rakibnaan m.f.dh eeg rakiban. ld rakib-naansho. 
 
 rakibnaansho m.l/dh ld rakibnaan. 
 
@@ -1068,9 +924,7 @@ ramaleyn m.f.dh eeg ramalee. ld ramaleys.
 
 ramaleys m.l ld ramaleyn. 
 
-ramasho m.f.dh eeg ramo. ld ransad, ransasho, 
-
-ransi.  
+ramasho m.f.dh eeg ramo. ld ransad, ransasho, ransi.  
 
 rambas m.l Ciyaar turub (shamboolo, beecshuro iwm) oo qofkii booleystay intii laga rabay in ka yar qabta. 
 
@@ -1110,9 +964,7 @@ raqas m.l Wasakhda hoore meel ku jira hoos uga degta.
 
 raqay m.l 1. Geed dheer, caleemo yaryar, oo dhalo miro quullaha u eg oo dhanaan; xamar. 2. Miraha geedka raqayga. 
 
-raqdan f.mg4 (-naa, -nayd) Badar wax la 
-
-raqday ahaansho. ld radqan. 
+raqdan f.mg4 (-naa, -nayd) Badar wax la raqday ahaansho. ld radqan. 
 
 raqdanaan m.f.dh eeg raqdan. ld raqda- naansho, radqanaansho. 
 
@@ -1130,7 +982,7 @@ raqiisi f.g2 (-iyay, -isay) Wax qiimaha lagu gado hoos u dhigid.
 
 raqiisid m.f.dh eeg raqiis². 
 
-raqiisin m.f.dh eeg raqiisi. 709raqle 
+raqiisin m.f.dh eeg raqiisi.
 
 raqle m.l Orod tartiib ah oo gammaanku sameeyo. ld ragle. 
 
@@ -1170,9 +1022,7 @@ rarangubyood m.f.l eeg rarangubyoo.
 
 raransan f.mg4 (-naa, -nayd) Cunto wax raran ku bislaatay ahaansho. 
 
-raransanaan m.f.dh eeg raransan. ld 
-
-raransanaansho.  
+raransanaan m.f.dh eeg raransan. ld raransanaansho.  
 
 raransanaansho m.l/dh ld raransanaan. 
 
@@ -1230,9 +1080,7 @@ rasayn m.f.dh eeg rasee. ld rasays.
 
 rasays m.l ld rasayn. 
 
-rasaysan f.mg4 (-snaa, -snayd) Wax la 
-
-raseeyay ahaansho. 
+rasaysan f.mg4 (-snaa, -snayd) Wax la raseeyay ahaansho. 
 
 rasaysasho m.f.dh eeg rasayso. 
 
@@ -1244,9 +1092,7 @@ rasayso f.g3 (-stay, -satay) Alaab si habaysan isu dul saarasho.
 
 rasee f.g2 (-seeyay, -saysay) Alaab si habaysan isu dul saarid. 
 
-rash m.dh 1. Xabbad baaruud kala firirta leh oo lagu laayo shimbiraha iwm. 2. Qa-raaxad ka kooban xaashi adag oo ay baaruudi ku jirto oo inta badan iidaha iyo xafladaha la rido. 
-
-rashta. 3. R. ah: bunduqa lagu rido xabbadaha  
+rash m.dh 1. Xabbad baaruud kala firirta leh oo lagu laayo shimbiraha iwm. 2. Qa-raaxad ka kooban xaashi adag oo ay baaruudi ku jirto oo inta badan iidaha iyo xafladaha la rido. rashta. 3. R. ah: bunduqa lagu rido xabbadaha  
 
 rasi m.dh Nadaafaddarro iyo kala daad-sanaan. 
 
@@ -1256,9 +1102,7 @@ rasiin m.l.kh R. ah: shaah caleenta iyo sonkortuba ku badan yihiin.
 
 rasiley m.dh R. ah: naag baali ah. 
 
-rasmi m.l.kh 1. R. ah: wax dhab ah. Tus. “War 
-
-r. ah baa la ii soo sheegay”. 2. R. ah: wax tayo wanaagsan. Tus. “Saacad r. ah baan soo iibsaday”. 
+rasmi m.l.kh 1. R. ah: wax dhab ah. Tus. “War r. ah baa la ii soo sheegay”. 2. R. ah: wax tayo wanaagsan. Tus. “Saacad r. ah baan soo iibsaday”. 
 
 rasmiyee f.g2 (-yeeyay, -yaysay) Wax rasmi ka dhigid. 
 
@@ -1272,7 +1116,7 @@ raso m.dh (-ooyin, m.l) 1. Khaanado dusha ka bannaan oo lagu sameeyo dukaamada l
 
 raso-barafeed m.dh (juqr.) Baraf gogol aad u kala fidsan oo sabbaynaya oo ku fidsan arriig badeedka, tusaale: raso badeedka Ross ee Antaartika, oo daboosha in ku dhaw 414,000 km.2 (160,000 m.2) oo bad ah. 
 
-raso-qaaradeed m.l (-dyo, m.dh) (juqr.) Gogosha badda ee garabka ku haysa qaaradaha oo ay ku daboolan yihiin biyo gun gaaban. Sida caadiga ah guntaas biyuhu waxay xirtaa ilaa 600 oo cagood (182.9 mitir) 
+raso-qaaradeed m.l (-dyo, m.dh) (juqr.) Gogosha badda ee garabka ku haysa qaaradaha oo ay ku daboolan yihiin biyo gun gaaban. Sida caadiga ah guntaas biyuhu waxay xirtaa ilaa 600 oo cagood (182.9 mitir).
 
 rasto m.dh (-ooyin, m.l) Waddada baabuurtu marto. 
 
@@ -1294,9 +1138,7 @@ ratibnaan m.f.dh eeg ratiban. ld ratib-naansho.
 
 ratibnaansho m.l/dh ld ratibnaan. 
 
-ratiina m.l (c.nafl.) Xuub xasaasi u ah ilayska oo ku dhereran gudaha hore ee isha. 
-
- Retiinuhu wuxuu ka koobanyahay laba lakab. Lakabka hoose, wuxuu ka koobanyahay unugyo dareenwade, dhuu-mo dhiig iyo laba nooc oo unugyo xasaasi u ah ilayska. Lakabka sare wuu midabay- sanyahay, kaas oo ka hortagga ilays noqod-ka dambe ee ilayska. 
+ratiina m.l (c.nafl.) Xuub xasaasi u ah ilayska oo ku dhereran gudaha hore ee isha. Retiinuhu wuxuu ka koobanyahay laba lakab. Lakabka hoose, wuxuu ka koobanyahay unugyo dareenwade, dhuu-mo dhiig iyo laba nooc oo unugyo xasaasi u ah ilayska. Lakabka sare wuu midabay- sanyahay, kaas oo ka hortagga ilays noqod-ka dambe ee ilayska. 
 
 rawaajiic m.dh.u Nooc ka mid ah xarkaha doonyaha. 
 
@@ -1326,9 +1168,7 @@ raxmad m.dh Dareen naxariis iyo turaal leh oo dadku gaar u leeyahay.
 
 ray f.mg2 (-yay, -ysay) 1. Cid dagaal ama tartan ku guulaysasho. 2. Ka r.: cid xaalad liidata oo ay ku jirtay ka soo wanaag-sanaan. 
 
-raybosoom m.l (-myo, m.dh) (baay.) Jidh yar oo dhululubaysan oo ku dhexjira unug nool, kaas oo ah halka lagu sameeyo borotiinka. 
-
-ribosoomaysan Raybosoomyadu waxay ka koobanyihiin nooc RNA oo la yidhaahdo RNA iyo borotiin. 
+raybosoom m.l (-myo, m.dh) (baay.) Jidh yar oo dhululubaysan oo ku dhexjira unug nool, kaas oo ah halka lagu sameeyo borotiinka. ribosoomaysan Raybosoomyadu waxay ka koobanyihiin nooc RNA oo la yidhaahdo RNA iyo borotiin. 
 
 raybows  m.l (-syo, m.dh) (kiim.) Monosakaraydh (C H O) oo inta badan aan keligeed laga helin dabeecadda, laakiin muhim ah sida RNA. Waxa laga soo dhiraandhirriyey dhayogsiribows (C H O) oo muhimad la mid ah leh waxyaabaha ay ka koobantahay DNAdu, taas oo qaadda taxanaha hiddaha koromosoomyada. 
 
@@ -1348,9 +1188,7 @@ rayid m.l.u 1. Shacbiweynaha aan askarta ahayn. 2. Shacbiweynaha inta aan dawlad
 
 rayidnimo m.dh Rayid ahaansho. 
 
-rayiis m.l (-syo, m.dh) Meel u furan in timaha lagu jaro ama lagu habeeyo; baarbiyeeri. ld 
-
-rayiisle (2). 
+rayiis m.l (-syo, m.dh) Meel u furan in timaha lagu jaro ama lagu habeeyo; baarbiyeeri. ld rayiisle (2). 
 
 rayiisle m.l (-layaal, m.l/dh) 1. Nin xirfaddiisu tahay jaridda iyo habaynta timaha; baarbiyeeri. 2. ld rayiis. 
 
@@ -1358,7 +1196,7 @@ ra'yiyayn m.f.dh eeg ra'yiyee. ld ra'liyayn.
 
 ra'yiyee f.g/mg2 (-yeeyay, -yaysay) 1. (f.g) Arrin mala-awaalid. 2. (f.mg) U r.: cid talo fiican siin. ld ra'liyee. 
 
-rayn 711rayn m.f.dh eeg ray. 
+rayn m.f.dh eeg ray. 
 
 rays m.l Ciid qoyan oo roob ku da'ay. 
 
@@ -1386,17 +1224,13 @@ reeb² f.g/mg1 (-bay, -btay) 1. (f.g) Nafley ama wax kale wax ay la socdeen raac
 
 reeban f.mg4 (-bnaa, -bnayd) 1. Wax samayntooda iyo cuniddooda la diiddanyahay ahaansho. 2. Laba xaraf wax shaqal la iskula xiray ahaansho. 
 
-reebanti m.dh 1. Magac xiddig dadku sharaystaan. 2. Qof dhasha xilliga xiddigga 
-
-reebanti uu muuqdo. 
+reebanti m.dh 1. Magac xiddig dadku sharaystaan. 2. Qof dhasha xilliga xiddigga reebanti uu muuqdo. 
 
 reebasho m.f.dh eeg reebo. 
 
 reebban f.mg4 (-naa, -nayd) Fal samayntiisa la xaaraantinnimeeyey ahaansho. 
 
-reebbanaan m.f.dh eeg reebban. ld 
-
-reebbanaansho.  
+reebbanaan m.f.dh eeg reebban. ld reebbanaansho.  
 
 reebbanaansho m.l/dh ld reebbanaan. 
 
@@ -1414,11 +1248,9 @@ reebnaansho m.l/dh ld reebnaan.
 
 reebo f.g3 (-btay, -batay) 1. Wax la bixinayo qaar la harid. 2. Wax fal xun ka celin. 
 
-reebtoomid 712 m.f.dh eeg reebtoon. 
+reebtoomid m.f.dh eeg reebtoon. 
 
-reebtoon f.mg1 (-oomay, -oontay; -oomi) Ka 
-
-r.: cid fal xun oo ay samayn jirtay ka waantoobid. 
+reebtoon f.mg1 (-oomay, -oontay; -oomi) Ka r.: cid fal xun oo ay samayn jirtay ka waantoobid. 
 
 reeci f.g2 (-iyay, -isay) Waran, ul, fallaar iwm dalfin. 
 
@@ -1432,17 +1264,13 @@ reemid m.f.dh eeg reen². ld riimid.
 
 reen¹ m.l 1. Cod ay samayso hal dhashay marka ay ilmaheeda nuujin la rabto; dunuunuc. 2. Cod ka soo baxa qof sad u buka; jibaad; taah; talal. 3. Dhawaaq weyn oo libaaxu sameeyo. ld riin¹. 
 
-reen² f.mg1 (-eemay, -eentay; -eemi) Hal dhashay, qof buka, libaax iwm reen samayn. 
-
- ld riin². 
+reen² f.mg1 (-eemay, -eentay; -eemi) Hal dhashay, qof buka, libaax iwm reen samayn. ld riin². 
 
 reer m.l (-ro, m.l) 1. Laba qof oo isqaba iyo ubadkood; qoys. 2. Dhawr qoys oo wadaaga dhalasho ama degaan. 
 
-reerbaaddiye m.l.u Dad miyiga ku nool ee aan 
+reerbaaddiye m.l.u Dad miyiga ku nool ee aan reer magaalaha ahayn; reermiyi. 
 
-reer magaalaha ahayn; reermiyi. 
-
-reerbaaddiyenimo m.dh Reerbaadiye ahaan- sho. 
+reerbaaddiyenimo m.dh Reerbaadiye ahaan-sho. 
 
 reerbeled m.l Reermagaal. 
 
@@ -1474,7 +1302,7 @@ reeryeyn m.dh ld heeryeyn.
 
 reeryeysan f.mg4 (-snaa, -snayd) ld heeryeysan. 
 
-reeryeysnaan m.dh ld heeryeysnaan.ridqanaan 
+reeryeysnaan m.dh ld heeryeysnaan. 
 
 reeryeysnaansho m.l/dh ld heeryeysnaan. 
 
@@ -1504,9 +1332,7 @@ reyreyn m.f.dh eeg reyree. ld reynreyn.
 
 reyte m.l (-tayaal, m.l/dh) 1. Silig shaqab ah oo sariiraha lagu sameeyo. 2. Miro kuuskuusan oo miraha gobka ka yara weyn leh midab madow oo dharka lagu dhaqan jiray. 
 
-rh faktar m.l (-ryo, m.dh) (baay.) Koox antijin ah oo unugyada cas-cas ee dhiiggu ay ku leeyihiin ama ayan ku lahayn. Wuxuu saldhig u yahay habka qaybta dhiigga ee 
-
-reesuus.  
+rh-faktar m.l (-ryo, m.dh) (baay.) Koox antijin ah oo unugyada cas-cas ee dhiiggu ay ku leeyihiin ama ayan ku lahayn. Wuxuu saldhig u yahay habka qaybta dhiigga ee reesuus.  
 
 ri' m.dh (-iyo, m.l) Neef aricad ah oo dheddig ah. 
 
@@ -1534,9 +1360,7 @@ ribix² f.mg1 (-bxay, -bixday; -bixi) Wax faa'iido ka helid.
 
 ribmidab m.l (fiis.) Qiyaasta tayada muuqaalka midab. Midabbada caddaan, madow ma laha ribnaan midab, waxana la yiraahdaa waa midabyo haydh leh. Ribmidab waa astaanta midab ka dhigta casaan, buluug, cagaar iwm. 
 
-ribnaan m.dh (kiim.) Xaddi walax ah oo ku jira halbeeg-muggeed milan ah. Halbeegga 
-
-ribnaantu waa mool dm(-3). Ribnaan cufeedku waa cufka milmaha ku jira halbeeg- muggeed kasta. Ribnaanta mool-lani waa inta mool ee milmaha ku jirta halbeeg- muggeed kasta. Ribnaanta moolal waa xaddi walaxeedka ku jira hal kiiloo-garaam oo milaha ah. 
+ribnaan m.dh (kiim.) Xaddi walax ah oo ku jira halbeeg-muggeed milan ah. ribnaantu waa mool dm(-3). Ribnaan cufeedku waa cufka milmaha ku jira halbeeg- muggeed kasta. Ribnaanta mool-lani waa inta mool ee milmaha ku jirta halbeeg- muggeed kasta. Ribnaanta moolal waa xaddi walaxeedka ku jira hal kiiloo-garaam oo milaha ah. 
 
 ribo¹ m.dh Hanti dulsaar ah oo laga qaato hanti la is amaahiyay. 
 
@@ -1548,19 +1372,13 @@ ricidh m.l (-dho/-cdho, m.l) (c.nafl.) Mid kasta oo ka mid ah lafaha sameeya tax
 
 ricir m.dh (-ro/-cro, m.l) 1. ld ricidh. 2. Buur yar oo dhul siman ku taal. 
 
-rid f.g1 (-day, -dday) 1. Wax hoos u sii deyn. 2. Qof jago ama dhibco ka qaadid. 
-
- 3. Xabbad, waran iwm gannid. 4. Wax wax kale dul saarnaa ka tuurid. 5. Ka r.: dugaag ama tuug wax uu sito ka dhigid. 6. Ku r.: xoolo ama dad jid ay maraan ku hagaajin. 
-
- 7. U r.: meel ama weel gudihiisa wax gelin si wax ku jira loogala soo baxo. 8. Isha ka r.: arrin xalkeeda asiibid. 9. Dib u r.: arrin fulinteeda dib u dhigid. 
+rid f.g1 (-day, -dday) 1. Wax hoos u sii deyn. 2. Qof jago ama dhibco ka qaadid. 3. Xabbad, waran iwm gannid. 4. Wax wax kale dul saarnaa ka tuurid. 5. Ka r.: dugaag ama tuug wax uu sito ka dhigid. 6. Ku r.: xoolo ama dad jid ay maraan ku hagaajin. 7. U r.: meel ama weel gudihiisa wax gelin si wax ku jira loogala soo baxo. 8. Isha ka r.: arrin xalkeeda asiibid. 9. Dib u r.: arrin fulinteeda dib u dhigid. 
 
 ridan f.mg1 (-dmay, -dantay; -dmi) Xabbad wax la riday noqosho. 
 
 ridasho m.f.dh eeg rido. 
 
-riddaami f.g2 (-iyay, -isay) Wax culus hore u 
-
-riixid.  
+riddaami f.g2 (-iyay, -isay) Wax culus hore u riixid.  
 
 riddaamin m.f.dh eeg riddaami. 
 
@@ -1584,19 +1402,13 @@ ridmid m.f.dh eeg ridan.
 
 ridmo m.dh Dhabaq la'aanta iyo isku dubbadhaca cod, muusig iwm. 
 
-rido f.g3 (-itay, -idatay) 1. Waran, fallaar iwm ganasho. 2. Qof arrin fikrad ka dhiibasho ama ka qayb qaadasho. 3. Ka r.: dugaag ama tuug wax ay dhaceen ka badbaadsasho. 4. Ku 
+rido f.g3 (-itay, -idatay) 1. Waran, fallaar iwm ganasho. 2. Qof arrin fikrad ka dhiibasho ama ka qayb qaadasho. 3. Ka r.: dugaag ama tuug wax ay dhaceen ka badbaadsasho. 4. Ku r.: wax, wax uu qaadi karo dhex gashasho. 5. U r.: meel ama weel gudihiisa wax gelin. 6. U r.: wax dusha saarasho. 7. U r.: wax mas'uuliyad-diisa qaadid. 
 
-r.: wax, wax uu qaadi karo dhex gashasho. 5. U r.: meel ama weel gudihiisa wax gelin. 
+ridqan f.mg4 (-naa, -nayd) Badar wax la ridqay ahaansho. 
 
- 6. U r.: wax dusha saarasho. 7. U r.: wax mas'uuliyad-diisa qaadid. 
+ridqanaan m.f.dh eeg ridqan. ld ridqa-naansho. 
 
-ridqan f.mg4 (-naa, -nayd) Badar wax la 
-
-ridqay ahaansho. 
-
-ridqanaan m.f.dh eeg ridqan. ld ridqa- naansho. 
-
-ridqanaansho 713ridqanaansho m.l/dh ld ridqanaan. 
+ridqanaansho m.l/dh ld ridqanaan. 
 
 ridqasho m.f.dh eeg ridqo. 
 
@@ -1632,9 +1444,7 @@ rifnaansho m.l/dh ld rifnaan.
 
 rifo f.g3 (-ftay, -fatay) 1. Dhogor, baal iwm maqaar xoog uga gurasho. 2. Laf hilib ka feenasho. 3. Caw, nagaar iwm xoolo ilka ku goosasho. 
 
-rifrif¹ m.l.u 1. Timo si xun loo xiiray. 2. Ganka ay yeeshaan maro, derin iwm. 
-
- 3. Cad-cad ka haray wax la kala googooyay. 
+rifrif¹ m.l.u 1. Timo si xun loo xiiray. 2. Ganka ay yeeshaan maro, derin iwm. 3. Cad-cad ka haray wax la kala googooyay. 
 
 rifrif² f.g1 (-fay, -ftay) 1. Timo, dhogor iwm si aan sinnayn u xiirid. 2. Waraaq, maro iwm cadcad yaryar u googooyn. 
 
@@ -1662,7 +1472,7 @@ rigaax² f.g/mg1 (-xay, -xday) 1. (f.g) Wax si aad ah u burburin. 2. (f.mg) Daal
 
 rigaax³ m.l ld riyaax¹. 
 
-rigaaxid m.f.dh eeg rigaax². 714 
+rigaaxid m.f.dh eeg rigaax².
 
 rigayn m.f.dh eeg rigee. 
 
@@ -1670,9 +1480,7 @@ rigaysad m.l ld rigaysasho.
 
 rigaysan f.mg4 (-snaa, -snayd) Ciidan wax meel ku safan ahaansho. 
 
-rigaysasho m.f.dh eeg rigayso. ld rigaysad, 
-
-rigaysi.  
+rigaysasho m.f.dh eeg rigayso. ld rigaysad, rigaysi.  
 
 rigaysi m.l ld rigaysasho. 
 
@@ -1688,9 +1496,7 @@ rigoo f.mg3 (-ooday, -ootay) Ciidan rigo u istaagid.
 
 rigoore m.l (-rayaal, m.l/dh) Laad xor ah oo laga gano meel 11 (kow iyo toban) tallaabo u jirta goolka afkiisa (kubbadda cagta). 
 
-rigrig¹ m.l Tolmo lagu celceliyo, la adkeeyo. ld 
-
-rigrigo.  
+rigrig¹ m.l Tolmo lagu celceliyo, la adkeeyo. ld rigrigo.  
 
 rigrig² f.g1 (-gay, -gtay) Weel rigrigo afka kaga tolid. 
 
@@ -1714,9 +1520,7 @@ rigrigo² f.g3 (-gtay, -gatay) Weel rigrig ku tolasho.
 
 riibi m.l.u Dhuug; gendi. 
 
-riibibax¹ m.l Qaxidda laga qaxo meelaha 
-
-riibigu ka kaco. 
+riibibax¹ m.l Qaxidda laga qaxo meelaha riibigu ka kaco. 
 
 riibibax² f.g1 (-xay, -xday) Meel riibi leh ka qaxid. 
 
@@ -1728,9 +1532,7 @@ riig¹ m.l (-gag, m.l) Mishiin culus oo ceelasha dhaadheer lagu qodo si biyo, ma
 
 riig² m.dh.kh R. ah: hilib dhaylo ah. 
 
-riigbax¹ m.l 1. R. ah: weel gaaray waqtigii uu hooraha lagu shubo ceshan lahaa. 2. ld 
-
-riigbixid.rimi  
+riigbax¹ m.l 1. R. ah: weel gaaray waqtigii uu hooraha lagu shubo ceshan lahaa. 2. ld riigbixid.
 
 riigbax² f.mg1 (-xay, -xday; -bixi) Weel waqtigii uu hooraha lagu shubo ceshan lahaa gaarid. 
 
@@ -1754,9 +1556,7 @@ riiq² m.dh Adkeysiga loo yeesho orodka muddo dheer. ld riir².
 
 riiq³ f.g1 (-qay, -qday) 1. Badar cajiimid. 2. Dhuxul budlin si khad looga dhigo. 
 
-riiqan¹ f.mg1 (-qmay, -qantay; -qmi) 1. Wax 
-
-riiqmay noqosho (badar, dhuxul iwm). 2. Neef xoolaad wax caato la socon waayey noqosho. 
+riiqan¹ f.mg1 (-qmay, -qantay; -qmi) 1. Wax riiqmay noqosho (badar, dhuxul iwm). 2. Neef xoolaad wax caato la socon waayey noqosho. 
 
 riiqan² f.mg4 (-qnaa, -qnayd) Wax la riiqay ahaansho (badar, dhuxul iwm). 
 
@@ -1788,21 +1588,15 @@ riiran f.mg4 (-rnaa, -rnayd) Weel, maro iwm wax la riiray ahaansho.
 
 riiraxanyo m.dh ld riiraxyo. 
 
-riiraxanyoo f.mg3 (-ooday, -ootay) ld 
-
-riiraxyoo.  
+riiraxanyoo f.mg3 (-ooday, -ootay) ld riiraxyoo.  
 
 riiraxanyood m.l ld riiraxyood. 
 
-riiraxyo m.dh Qufac badan oo isdabajoogo oo ka dhasha xadanto ku dhacda hunguri cadka. 
-
- ld riiraxanyo. 
+riiraxyo m.dh Qufac badan oo isdabajoogo oo ka dhasha xadanto ku dhacda hunguri cadka. ld riiraxanyo. 
 
 riiraxyoo f.mg3 (-ooday, -ootay) Qof riiraxyo dareemid. ld riiraxanyoo. 
 
-riiraxyood m.f.l eeg riiraxyoo. ld rii- 
-
-raxanyood.  
+riiraxyood m.f.l eeg riiraxyoo. ld rii-raxanyood.  
 
 riire m.l 1. Nagaar udgoon oo sida reexaanta subagga lagu shiilo. 2. Qori xalleefsan, adag oo haragga xoolaha markuu qallalo hilbaha looga hoolo laguna jilciyo; hiige. 
 
@@ -1812,9 +1606,7 @@ riirnaan m.f.dh eeg riiran. ld riirnaansho.
 
 riirnaansho m.l/dh ld riirnaan. 
 
-riishad m.dh (-do, m.l) Bir yar, qoolaaban oo buntuqa xaggiisa hoose ku samaysan oo dib farta loogu riixo marka buntuqa xabbad laga 
-
-ridayo.  
+riishad m.dh (-do, m.l) Bir yar, qoolaaban oo buntuqa xaggiisa hoose ku samaysan oo dib farta loogu riixo marka buntuqa xabbad laga ridayo.  
 
 riix¹ m.l Jirro dad iyo xoolaha ku dhacda oo lafo xanuun leh; tuf. 
 
@@ -1828,9 +1620,7 @@ riixan² f.mg4 (-xnaa, -xnayd) Wax la riixay ahaansho.
 
 riixasho m.f.dh eeg riixo. 
 
-riixdin m.dh 1. ld riix¹. 2. Riixidda wax meeshii uu ku sugnaa laga dhaqaajiyo. ld 
-
-riixtin.  
+riixdin m.dh 1. ld riix¹. 2. Riixidda wax meeshii uu ku sugnaa laga dhaqaajiyo. ld riixtin.  
 
 riixgub¹ m.l Calaamad dab ah oo ka muuqata jirka qof ama neef xoolaad oo laga gubay cudurka riixa. ld riixgubid. 
 
@@ -1870,11 +1660,7 @@ rimcin m.f.dh eeg rimci.
 
 rimi f.g2 (-iyay, -isay) Dheddig ilma galeenkeeda ilmo gelin. 
 
-rimic 715rimic m.l.t (-cyo, m.dh) 1. Wax lix iyo toban meelood loo qaybiyay meeshood, “1/16”. 
-
- Tus. Hasha la shireystey rimic iga sii. 
-
- 2. Dheeraad; suubis. 
+rimic m.l.t (-cyo, m.dh) 1. Wax lix iyo toban meelood loo qaybiyay meeshood, “1/16”. Tus. Hasha la shireystey rimic iga sii. 2. Dheeraad; suubis. 
 
 rimid m.f.dh eeg rin. 
 
@@ -1892,9 +1678,7 @@ rimmanaansho m.l/dh ld rimmanaan.
 
 rimmay¹ m.l (-yo, m.dh) Ilmaggaleen; min. 
 
-rimmay² m.dh.kh Geela ama xoolaha inta 
-
-rimman. ld rimmayo. 
+rimmay² m.dh.kh Geela ama xoolaha inta rimman. ld rimmayo. 
 
 rimmaybaarid m.dh Baaridda neef dheddig oo lo' ah laga baaro rimmay. 
 
@@ -1902,21 +1686,13 @@ rimmaygacmeed m.l Mino-ku-shubidda neef tabsan lagu shubo mino.
 
 rimmayo m.dh ld rimmay². 
 
-rin f.mg1 (-imay, -intay; -imi) Nafley dheddig 
-
-rimmay qaadid. 
+rin f.mg1 (-imay, -intay; -imi) Nafley dheddig rimmay qaadid. 
 
 rinji¹ m.l (-iyo, m.dh) Midab; liin; asal; dheeh. ld ranji¹. 
 
-rinji² f.g1 (-iyay, -iday, -iyi) Dhoob hal midab ama ka badan ka kooban oo qalabka la adeegsado dusha laga mariyo si loogu qurxiyo ama mirirka looga ilaaliyo. ld ranji², 
+rinji² f.g1 (-iyay, -iday, -iyi) Dhoob hal midab ama ka badan ka kooban oo qalabka la adeegsado dusha laga mariyo si loogu qurxiyo ama mirirka looga ilaaliyo. ld ranji², ranjiyee, rinjiyee. 
 
-ranjiyee, rinjiyee. 
-
-rinjile m.l (-layaal, m.l/dh) Qof wax 
-
-rinjiyeynta yaqaan. ld ranjile, ranjiye, 
-
-rinjiye.  
+rinjile m.l (-layaal, m.l/dh) Qof wax rinjiyeynta yaqaan. ld ranjile, ranjiye, rinjiye.  
 
 rinjiyan f.mg4 (-naa, -nayd) Wax rinji la mariyey ahaansho. ld rinjiyaysan. 
 
@@ -1936,19 +1712,15 @@ rinjiye m.l ld rinjile.
 
 rinjiyee f.g2 (-yeeyay, -yeysay) ld rinji². 
 
-rinjiyid m.f.dh eeg rinji². ld ranjiyayn, 
-
-ranjiyid, rinjiyayn. 
+rinjiyid m.f.dh eeg rinji². ld ranjiyayn, ranjiyid, rinjiyayn. 
 
 ris¹ m.l Caws gaaggaaban oo iduhu aad u jecel yihiin oo ka baxa meelaha biyo qabatinka leh. 
 
-ris² 716 m.dh Geed laamo dhaadheer, dhuu- dhuuban oo guryaha carshaanta ah lagu dhisto. 
+ris² m.dh Geed laamo dhaadheer, dhuu- dhuuban oo guryaha carshaanta ah lagu dhisto. 
 
 risaalad m.dh ld risaalo. 
 
-risaalo m.dh (-ooyin, m.l) 1. Sharci diini ah oo Alle u soo dejiyo in dadku ku dhaqmaan Ilaahna ku caabudaan. 2. Dhambaal. ld 
-
-risaalad.  
+risaalo m.dh (-ooyin, m.l) 1. Sharci diini ah oo Alle u soo dejiyo in dadku ku dhaqmaan Ilaahna ku caabudaan. 2. Dhambaal. ld risaalad.  
 
 risaas m.dh ld rasaas. 
 
@@ -1994,33 +1766,21 @@ riyaxire m.l Geedgaab faalala oo xooluhu daaqaan waxna lagu daaweeyo.
 
 riyo m.dh (-ooyin, m.l) Wax qofku hurddada ku arko. 
 
-riyoo f.mg3 (-ooday, -ootay) Hurdo dhexdeed 
-
-riyo arkid. 
+riyoo f.mg3 (-ooday, -ootay) Hurdo dhexdeed riyo arkid. 
 
 riyood m.f.l eeg riyoo. RNA m.dh (baay.) Iskudhis kakan oo orgaanik ah. Lagana helo unugyada nool kaas ooroob saameeya samayska borotiin. Fayrasyada qaarkood, RNAdu waxa kale oo ay u tahay walax hiddo side. 
 
-rodh m.l (-dhyo, m.l) (c.nafl.) Nooc ka mid ah qaabile unug oo xasaasi u ah ilayska oo laga helo retiinaha lafdhabarleyda. Rodhisku waxay ka koobanyihiin midabsidaha 
-
-rodhobsiin, waxaanay muhin u yihiin wax ku aragga ilayska daciifka ah. Rodhisku si saami ah uguma qaybsana ratiinaha, sababta oo ah waxay ka maqanyihiin foofaha, waxaanay ka buu-xaan liidka ratiinaha. 
+rodh m.l (-dhyo, m.l) (c.nafl.) Nooc ka mid ah qaabile unug oo xasaasi u ah ilayska oo laga helo retiinaha lafdhabarleyda. Rodhisku waxay ka koobanyihiin midabsidaha rodhobsiin, waxaanay muhin u yihiin wax ku aragga ilayska daciifka ah. Rodhisku si saami ah uguma qaybsana ratiinaha, sababta oo ah waxay ka maqanyihiin foofaha, waxaanay ka buu-xaan liidka ratiinaha. 
 
 rodol m.l (-llo, m.dh) Halbeeg culayseed u dhigma 16 wiqiyadood (habka ingiriiska). 
 
-rog f.g1 (-gay, -gtay) 1. Wax afka ama dhinaca korreeya u hoos marin; genbiyid; geddiyid. 
-
- 2. Ka r.: ka qaadid; ka faydid. 3. Ka r.: alaab meel saaran ka dejin; ka wareejin. 4. Ku r.: ku daboolid; korka ka saarid; ku xirid. 
-
- 5. Dib ugu laabid. 6. U r.: af af kale ku fasirid, ku tarjiumid. 7. Xoolo jaho foolkoodu aaddanaa jaho kale u jeedin. 
+rog f.g1 (-gay, -gtay) 1. Wax afka ama dhinaca korreeya u hoos marin; genbiyid; geddiyid. 2. Ka r.: ka qaadid; ka faydid. 3. Ka r.: alaab meel saaran ka dejin; ka wareejin. 4. Ku r.: ku daboolid; korka ka saarid; ku xirid. 5. Dib ugu laabid. 6. U r.: af af kale ku fasirid, ku tarjiumid. 7. Xoolo jaho foolkoodu aaddanaa jaho kale u jeedin. 
 
 rogaal¹ m.l (-llo, m.dh) 1. Faras ama rakuub aad u jarabaran. 2. U soo dabbaalidda meesha laga ugaarsanayo loo soo dabbaalo ugaar. 3. R. ah: nooc kooraha geela ka mid ah oo labada dacal ee afkeedu kor u taaganyahay. 4. Badinta qoraal lagu badiyo jikolostiil. 
 
-rogaal² m.l (xis.) Tirada hal oo loo qaybiyey tiro ama tibaax kale. Tussale ahaan, rogaalka 2 waa 1/2; rogaalka x2 + 1 waa 1/x2 + 1 . 
+rogaal² m.l (xis.) Tirada hal oo loo qaybiyey tiro ama tibaax kale. Tussale ahaan, rogaalka 2 waa 1/2; rogaalka x2 + 1 waa 1/x2 + 1 . Taranka tibaax kasta iyo rogaalkeeda waa hal. 
 
- Taranka tibaax kasta iyo rogaalkeeda waa hal. 
-
-rogaal³ f.mg1 (-aalay, -aashay) 1. ld 
-
-rogaalcelin. 2. Beer carrageddiyid. 
+rogaal³ f.mg1 (-aalay, -aashay) 1. ld rogaalcelin. 2. Beer carrageddiyid. 
 
 rogaalceli f.g2 (-iyay, -isay) Col meel uu weeraray mar kale ku noqosho. 
 
@@ -2038,27 +1798,15 @@ rogaalis m.l ld rogaalin.
 
 rogad m.l ld rogasho. 
 
-rogan¹ f.mg1 (-gmay, -gantay) 1. Wax dhankii hooseen lahaa sareeyo noqosho. 
+rogan¹ f.mg1 (-gmay, -gantay) 1. Wax dhankii hooseen lahaa sareeyo noqosho. 2. Sidiisii hore wax ka duwan noqosho. 3. Fure hal mar sakatuuro ku wareegid. 4. Reer ama dad tirtirmid. 5. Ka r.: meel biyo ka dulundulcoobid. 
 
- 2. Sidiisii hore wax ka duwan noqosho. 
-
- 3. Fure hal mar sakatuuro ku wareegid. 
-
- 4. Reer ama dad tirtirmid. 5. Ka r.: meel biyo ka dulundulcoobid. 
-
-rogan² f.mg4 (-gnaa, -gnayd) 1. Wax dhiniiciisa hoose la sarraysiiyay ahaansho. 
-
- 2. Wax gaadiid laga dejiyay ahaansho (rar). 
-
- 3. Wax isteensal lagu badiyay ahaansho (qoraal). 4. Ku r.: wax, wax kale ku gambisan ahaansho. 5. Ka r.: wax meel agteeda ku sugan ahaansho. 
+rogan² f.mg4 (-gnaa, -gnayd) 1. Wax dhiniiciisa hoose la sarraysiiyay ahaansho. 2. Wax gaadiid laga dejiyay ahaansho (rar). 3. Wax isteensal lagu badiyay ahaansho (qoraal). 4. Ku r.: wax, wax kale ku gambisan ahaansho. 5. Ka r.: wax meel agteeda ku sugan ahaansho. 
 
 rogasho m.f.dh eeg rogo. ld rogad. 
 
 rogbi f.g2 (-iyay, -isay) Harag rogob ka gurid. ld rokbi, roqbi. 
 
-rogbin m.f.dh eeg rogbi. ld rogbis, rokbin, 
-
-rokbis, roqbin, roqbis. 
+rogbin m.f.dh eeg rogbi. ld rogbis, rokbin, rokbis, roqbin, roqbis. 
 
 rogbis m.l ld rogbin. 
 
@@ -2080,17 +1828,13 @@ rognaan² m.l U beddelidda hal isku naanays obtikeed loo beddelo mid kale.
 
 rognaansho m.l/dh ld rognaan¹. 
 
-rogo f.g3 (-gtay, -gatay) 1. Wax dhiniciisa sarreeya hoos marsasho. 2. Qof la legday oo laga sarreeyo qofkii legday geddisasho. 3. Ka 
-
-r.: alaab gaadiid saaran ka degsasho. 4. Ku r.: wax, wax qarin karo ku gambisasho. 
+rogo f.g3 (-gtay, -gatay) 1. Wax dhiniciisa sarreeya hoos marsasho. 2. Qof la legday oo laga sarreeyo qofkii legday geddisasho. 3. Ka r.: alaab gaadiid saaran ka degsasho. 4. Ku r.: wax, wax qarin karo ku gambisasho. 
 
 rogob m.l 1. Hilib yaryar oo ku hara haragga neef la qalay. 2. Mullaax. ld rokob, roqob. 
 
 rogobsad m.l ld rogobsasho, rogob, roqob. 
 
-rogobsasho m.f.dh eeg rogobso. ld rogob-sad, 
-
-rogobsi, roqobsad, roqobsasho, ro-qobsi. 
+rogobsasho m.f.dh eeg rogobso. ld rogob-sad, rogobsi, roqobsad, roqobsasho, ro-qobsi. 
 
 rogobsi m.l ld rogobsad, rogobsasho. 
 
@@ -2114,35 +1858,25 @@ rokbin m.dh ld rogbin.
 
 rokob m.l ld rogob. 
 
-roob m.l (-bab, m.l) (fiis.) Dhibco biyo ah oo kala baxsan oo ku da'a dhulka kana soo da'a 717roob ka jeed daruuraha, waxaana sameeya qaboob-ka xarfadka ku dhaca uumi biyoodka gibilka. 
+roob m.l (-bab, m.l) (fiis.) Dhibco biyo ah oo kala baxsan oo ku da'a dhulka kana soo da'a ka jeed daruuraha, waxaana sameeya qaboob-ka xarfadka ku dhaca uumi biyoodka gibilka. 
 
-roob ka jeed m.l (-bab ..., m.l) Meel celceliska 
-
-roobka ay heshaa uu yaryahay maxaa yeelay silsillo buuro ah ayaa ka xira dabaylaha 
-
-roobka keena ee meeshaas ka dhaca. 
+roob-ka-jeed m.l (-bab ..., m.l) Meel celceliska roobka ay heshaa uu yaryahay maxaa yeelay silsillo buuro ah ayaa ka xira dabaylaha roobka keena ee meeshaas ka dhaca. 
 
 roobabbow m.l Wakhti roob da'ayo. 
 
 roobban f.mg4 (-naa, -nayd) Dhul wax roob helay ahaansho. 
 
-roobbanaan m.f.dh eeg roobban. ld 
-
-roobbanaansho.  
+roobbanaan m.f.dh eeg roobban. ld roobbanaansho.  
 
 roobbanaansho m.l/dh ld roobbanaan. 
 
 roobbeeg m.l (-gyo, m.dh) Qalab lagu cabbiro heerka roob da'ay. 
 
-roob-deyreed m.l (-roobab ..., m.l) (c.cimi.) Mid ka mid ah labada roob ee ugu badan 
-
-roobabaka ka da'a Bariga Afrika, sannadkii, laga billaabo Oktoobar ilaa Disembar. 
+roob-deyreed m.l (-roobab ..., m.l) (c.cimi.) Mid ka mid ah labada roob ee ugu badan roobabaka ka da'a Bariga Afrika, sannadkii, laga billaabo Oktoobar ilaa Disembar. 
 
 roobdhaxaad m.l R. ah: hal riman oo sidkeedii kala bar marayo. 
 
-roobdoon¹ m.dh Baryo banbax leh oo Alle 
-
-roob lagu weyddiisto. 
+roobdoon¹ m.dh Baryo banbax leh oo Alle roob lagu weyddiisto. 
 
 roobdoon² f.mg1 (-nay, -ntay) Alle roob weyddiisasho. 
 
@@ -2160,9 +1894,7 @@ roobladhac m.l Cayayaan jurmi yar oo midab guduudan leh oo kudkudaha u eg oo la 
 
 roobraac¹ m.l U guuridda loo guuro meel roob ka da'ay. 
 
-roobraac² f.mg1 (-cay, -cday) Nafley meel 
-
-roob ka da'ay aadid. 
+roobraac² f.mg1 (-cay, -cday) Nafley meel roob ka da'ay aadid. 
 
 roobraacid m.f.dh eeg roobraac². 
 
@@ -2174,15 +1906,13 @@ roobso f.mg3 (-saday, -satay) Roob helid.
 
 roobsugow m.l Furuuruc yaryar oo oogada dadka ka soo yaaca waqtiga kulaylaha ah; xaraarad. 
 
-roogsasho m.f.dh eeg roogso. ld roogsi, 
-
-rorogsasho, rorogsi. 
+roogsasho m.f.dh eeg roogso. ld roogsi, rorogsasho, rorogsi. 
 
 roogsi m.l ld roogsasho. 
 
 roogso f.mg3 (-saday, -satay) 1. Qof fadhiyey istaagid. 2. Qof socda joogsasho. ld rorogso. 
 
-rookayn m.f.dh eeg rookee. 718 
+rookayn m.f.dh eeg rookee.
 
 rookee f.g2 (-keeyay, -kaysay) Wax rooko ka dhigid. 
 
@@ -2204,9 +1934,7 @@ roonee f.g2 (-neeyay, -naysay) Wax kordhin.
 
 roonow f.mg3 (-naaday, -naatay) Wax roon noqosho. 
 
-roor¹ m.l 1. Orod. 2. Jirjiroole. 3. Cudur maskaxeed geela ku dhaca oo la 
-
-rumaysanyahay in uu ka qaado qaniinyada jirjirroolaha. 
+roor¹ m.l 1. Orod. 2. Jirjiroole. 3. Cudur maskaxeed geela ku dhaca oo la rumaysanyahay in uu ka qaado qaniinyada jirjirroolaha. 
 
 roor² f.mg1 (-ray, -rtay) 1. Orod samayn. 2. Cinjir, xarig iwm isku soo ururid. 3. La r.: nin naag uu guur ka rabo la baxsasho. 
 
@@ -2228,9 +1956,7 @@ rooti m.l Cunto ka samaysan bur cajiiman, khamiir iyo waxyaalo kale oo marka la 
 
 rootile m.l (-layaal, m.l/dh) 1. Qof rootiga iibiya. 2. Meesha rootiga lagu gado. 
 
-rooxaan m.dh.u Jinniyo la aaminsan yahay inay u shaqeeyaan wadaaddada qaarkood. ld 
-
-ruuxaan.  
+rooxaan m.dh.u Jinniyo la aaminsan yahay inay u shaqeeyaan wadaaddada qaarkood. ld ruuxaan.  
 
 rooxo m.dh Geedsaar leh caleemo balballaaran, miro kuwa yaanyada waa-weyn u eg oo la cuno. 
 
@@ -2242,9 +1968,7 @@ roqbis m.l ld rogbin.
 
 roqob m.dh (-byo, m.dh) ld rogob. 
 
-roqobsad m.l ld rogobsasho, roqob, 
-
-roqobsasho.  
+roqobsad m.l ld rogobsasho, roqob, roqobsasho.  
 
 roqobsasho m.dh ld rogobsasho, roqobsad. 
 
@@ -2266,7 +1990,7 @@ rorogsi m.l ld roogsasho.
 
 rorogso f.mg3 (-saday, -satay) ld roogso. 
 
-rowle m.l (-layaal, m.l/dh) Qof aan xoog- sanayn oo dadka kale ku dul nool; masha- qeyste. 
+rowle m.l (-layaal, m.l/dh) Qof aan xoog- sanayn oo dadka kale ku dul nool; masha-qeyste. 
 
 rubac m.l ld rubuc. 
 
@@ -2278,13 +2002,9 @@ rubbad m.dh ld rubbiyad.
 
 rubbiyad m.dh (-do, m.l) (dhaq.) Lacag waddanka Hindiya iyo Baakistaan laga isticmaalo. ld rubbad. 
 
-rubi m.l.t Wax afar meelood oo is le'eg loo qaybshay meeshood; rubuc; waax. Tus. 
+rubi m.l.t Wax afar meelood oo is le'eg loo qaybshay meeshood; rubuc; waax. Tus. rubac, “Waa sagaalkii iyo r.”; “R. kiilo bariis ah”. ld rubuc. 
 
-rubac, “Waa sagaalkii iyo r.”; “R. kiilo bariis ah”. ld rubuc. 
-
-rubisaar¹ m.l Faa'iidada la dul saarto lacag la is amaahiyey; dulsaar; korsaar; dheef. ld 
-
-ribisaar¹.  
+rubisaar¹ m.l Faa'iidada la dul saarto lacag la is amaahiyey; dulsaar; korsaar; dheef. ld ribisaar¹.  
 
 rubisaar² f.lg1 (-ray, -rtay) Lacag dulsaar leh cid amaahin. ld ribisaar². 
 
@@ -2308,9 +2028,7 @@ rucub m.l (-byo, m.dh) Wax badan oo is- haysta isku meelna ku yaal sida miraha, 
 
 rud f.g1 (-day, -dday) Nafley hal mar ilkaha cunto ku goosasho. ld rudh. 
 
-rudan f.mg4 (-dnaa, -dnayd) Cunno wax la 
-
-ruday ahaansho. ld rudhan. 
+rudan f.mg4 (-dnaa, -dnayd) Cunno wax la ruday ahaansho. ld rudhan. 
 
 rudcid m.f.dh eeg ruduc². ld ruduc¹. 
 
@@ -2338,15 +2056,11 @@ rudis m.dh ld rudid.
 
 rudmo m.dh (-ooyin, m.l) In cunto ah oo hal mar ilkaha lagu goosto. ld rudhmo. 
 
-rudnaan m.f.dh eeg rudan. ld rudnaansho, 
-
-rudhnaan, rudhnaansho. 
+rudnaan m.f.dh eeg rudan. ld rudnaansho, rudhnaan, rudhnaansho. 
 
 rudnaansho m.l/dh ld rudnaan. 
 
-rudsii f.lg2 (-iiyay, -iisay) Nafley cunto uu 
-
-ridmo ka goosto siin. ld rudhsii. 
+rudsii f.lg2 (-iiyay, -iisay) Nafley cunto uu ridmo ka goosto siin. ld rudhsii. 
 
 rudsiin m.f.dh eeg rudsii. ld rudhsiin. 
 
@@ -2356,15 +2070,13 @@ ruduc² f.g1 (-dcay, -ducday; -dci) Dun ama mayrax sida dhaclaha oo kale u soohi
 
 ruducsan f.mg4 (-naa, -nayd) Wax la rudcay ahaansho (dun ama mayrax). 
 
-ruducsanaan m.f.dh eeg ruducsan. ld ruduc- sanaansho. 
+ruducsanaan m.f.dh eeg ruducsan. ld ruducsanaansho. 
 
 ruducsanaansho m.l/dh ld ruducsanaan. 
 
 rug m.dh (-go, m.l) 1. Meel la deggan yahay; guri. 2. Xarun. 
 
-rug caafimaad m.dh (-go ..., m.l) 1. Qayb isbitaal ka mid ah oo gaar u ah daaweynta cudur khaas ah ama bukaan-socod-eegto ah. 
-
- 2. Qayb isbitaal ka mid ah oo ay isugu yimaadaan barayaal, arday iyo bukaanno si loogu baaro looguna daaweeyo bukaanna-da. 
+rug caafimaad m.dh (-go ..., m.l) 1. Qayb isbitaal ka mid ah oo gaar u ah daaweynta cudur khaas ah ama bukaan-socod-eegto ah. 2. Qayb isbitaal ka mid ah oo ay isugu yimaadaan barayaal, arday iyo bukaanno si loogu baaro looguna daaweeyo bukaanna-da. 
 
 rųg¹ m.dh.sh.r Erey tilmaamaya wax dhacay dhawaaqiisa. 
 
@@ -2398,9 +2110,7 @@ rujis m.l ld rujin.
 
 rujub m.l (-byo, m.dh) Maroodi lab oo hanaqaad ah oo ka takooran raxantiisa. 
 
-rukni 719rukni m.l (-iyo, m.dh) 1. Tiirarka diinta Islaamka mid ka mid ah. 2.Tiirarka guriga uu ku taaganyahay mid ka mid ah. 
-
-rukun¹ 3. Tiirarka salaadda mid ka mid ah. ld rugni, (3). 
+rukni m.l (-iyo, m.dh) 1. Tiirarka diinta Islaamka mid ka mid ah. 2.Tiirarka guriga uu ku taaganyahay mid ka mid ah. 3. Tiirarka salaadda mid ka mid ah. ld rugni, rukun¹ (3). 
 
 rukumad m.l ld rukumasho. 
 
@@ -2410,33 +2120,25 @@ rukumasho m.f.dh eeg rukumo. ld ruku-mad.
 
 rukumid m.f.dh eeg rukun². 
 
-rukumnaan m.f.dh eeg rukuman. ld rukum- naansho. 
+rukumnaan m.f.dh eeg rukuman. ld rukum-naansho. 
 
 rukumnaansho m.l/dh ld rukumnaan. 
 
-rukumo f.g3 (-untay, -umatay) Qof wax 
+rukumo f.g3 (-untay, -umatay) Qof wax rukun ka dhigasho. 
 
-rukun ka dhigasho. 
-
-rukun¹ m.l (-ummo/-nno, m.dh) 1. Cid si joogta ah badeeco u qaadata ama ku keenta. 
-
- 2. Badeeco si joogta ah loo qaato ama loo geeyo. 3. ld rukni (2). Tiir. 
+rukun¹ m.l (-ummo/-nno, m.dh) 1. Cid si joogta ah badeeco u qaadata ama ku keenta. 2. Badeeco si joogta ah loo qaato ama loo geeyo. 3. ld rukni (2). Tiir. 
 
 rukun² f.g1 (-umay, -untay; -umi) U r.: cid si joogto ah wax u siin. 
 
 rukuuc¹ m.l/dh (-co, m.l/dh) Jilbo-qabsashada uu qof tukanayaa sameeyo isaga oo foorarsanaya. ld rakuuc¹. 
 
-rukuuc² f.mg1 (-cay, -cday) Qof tukanaya jilbo-qabsasho isaga oo foorarsanaya. ld 
-
-rakuuc².  
+rukuuc² f.mg1 (-cay, -cday) Qof tukanaya jilbo-qabsasho isaga oo foorarsanaya. ld rakuuc².  
 
 rukuucid m.f.dh eeg rukuuc². ld rakuucid. 
 
 rukuucsan f.mg4 (-naa, -nayd) Rukuucay ahaansho (qof). ld rakuucsan. 
 
-rukuucsanaan m.f.dh eeg rukuucsan. ld 
-
-rakuucsanaan, rakuucsanaansho, ru- kuucsanaansho. 
+rukuucsanaan m.f.dh eeg rukuucsan. ld rakuucsanaan, rakuucsanaansho, ru-kuucsanaansho. 
 
 rukuucsanaansho m.l/dh ld rukuucsanaan. 
 
@@ -2446,11 +2148,11 @@ rumaysad m.l ld rumaysasho.
 
 rumaysan f.g4 (-snaa, -snayd) Qof wax aaminsan ahaansho. 
 
-rumaysasho m.f.dh eeg rumayso. ld rumay- sad, rumaysi. 
+rumaysasho m.f.dh eeg rumayso. ld rumay-sad, rumaysi. 
 
 rumaysi m.l ld rumaysasho. 
 
-rumaysnaan m.f.dh eeg rumaysan. ld ru- maysnaansho. 
+rumaysnaan m.f.dh eeg rumaysan. ld ru-maysnaansho. 
 
 rumaysnaansho m.l/dh ld rumaysnaan. 
 
@@ -2458,27 +2160,19 @@ rumayso f.g3 (-stay, -satay) Wax jiritaan- kooda dhab u qaadasho.
 
 rumee f.g2 (-meeyay, -maysay) 1. Wax run ka dhigid. 2. Wax run u qaadasho. 
 
-rumeynta Anarjism m.dh (siyaa.) Siyaasadda aaminsan dhamaan awood iyo sharciyada dawladaha ama ururrada in lagu beddelo dadka ama kooxo u wada shaqeynaya si xor ah. 
+rumeynta-Anarjism m.dh (siyaa.) Siyaasadda aaminsan dhamaan awood iyo sharciyada dawladaha ama ururrada in lagu beddelo dadka ama kooxo u wada shaqeynaya si xor ah. 
 
-rummaan¹ 720 m.l 1. Geedgaab la beero oo caleemo balballaaran, ubax iyo miro macaan oo la cuno leh. 2. Miraha geedka rumaanka. 
-
- 3. Qof xabsi ku jira oo xukun sugaya. 
-
- 4. Nooc ka mid ah sariirihii hore oo alwaaxda qurxan oo la xardhay ka samaysan, oo leh rukummo kor u dhaa-dheer. 
+rummaan¹ m.l 1. Geedgaab la beero oo caleemo balballaaran, ubax iyo miro macaan oo la cuno leh. 2. Miraha geedka rumaanka.  3. Qof xabsi ku jira oo xukun sugaya.  4. Nooc ka mid ah sariirihii hore oo alwaaxda qurxan oo la xardhay ka samaysan, oo leh rukummo kor u dhaa-dheer. 
 
 rummaan² m.dh Maro midabkeedu isugu jiro madow guduud iyo caddaan ama garbasaar ama guntiino ahaan loo istic-maalo. 
 
 rummay m.l (-yo, m.dh) Qori qoyan oo dhirta qaarkeed laga goosto oo ilkaha lagu sifaysto. 
 
-rummayan f.mg4 (-ynaa, -ynayd) Wax 
-
-rummay lagu nadiifiyey ahaansho (ilko). 
+rummayan f.mg4 (-ynaa, -ynayd) Wax rummay lagu nadiifiyey ahaansho (ilko). 
 
 rummayasho m.f.dh eeg rummayo. 
 
-rummaynaan m.f.dh eeg rummayan. ld 
-
-rummaynaansho.  
+rummaynaan m.f.dh eeg rummayan. ld rummaynaansho.  
 
 rummaynaansho m.l/dh ld rummaynaan. 
 
@@ -2486,11 +2180,9 @@ rummayo f.mg3 (-yday, -yatay) Qof rummay ilkaha ku nadiifsasho. ld rum-mayso.
 
 rummaysad m.l ld rummaysasho. 
 
-rummaysan f.mg4 (-snaa, -snayd) ld ru- maysan. 
+rummaysan f.mg4 (-snaa, -snayd) ld rumaysan. 
 
-rummaysasho m.f.dh eeg rummayso. ld 
-
-rummaysad, rummaysi. 
+rummaysasho m.f.dh eeg rummayso. ld rummaysad, rummaysi. 
 
 rummaysi m.l ld rummaysasho. 
 
@@ -2498,13 +2190,11 @@ rummayso f.mg3 (-stay, -satay) ld rum-mayo.
 
 rumoobid m.f.dh ld rumow. 
 
-rumow f.mg1 (-oobay, -owday; -oobi) Hadal 
-
-run noqosho. 
+rumow f.mg1 (-oobay, -owday; -oobi) Hadal run noqosho. 
 
 run m.dh Wax xaqiiqo ah oo la hubo. 
 
-run sugid m.dh Awood ka xoroobidda qof kale aad jeceshahay. 
+run-sugid m.dh Awood ka xoroobidda qof kale aad jeceshahay. 
 
 rundud¹ m.l ld hundhur¹. 
 
@@ -2512,13 +2202,9 @@ rundud² f.mg1 (-day, -dday) ld hundud²; ld hundhur².
 
 rundudid m.f.dh eeg rundud². ld hundudid. 
 
-rundudsan f.mg4 (-naa, -nayd) Qof, wax 
+rundudsan f.mg4 (-naa, -nayd) Qof, wax runduda ahaansho. 
 
-runduda ahaansho. 
-
-rundudsanaan m.f.dh eeg rundudsan. ld 
-
-rundudsanaansho.  
+rundudsanaan m.f.dh eeg rundudsan. ld rundudsanaansho.  
 
 rundudsanaansho m.l/dh ld rundudsanaan. 
 
@@ -2530,21 +2216,15 @@ rundudso f.mg3 (-saday, -satay) Ciil iyo murugo darteed gorodda la laallaadin.
 
 rundusdad m.l ld rundudsasho. 
 
-runley m.dh (-yo, m.dh) Naag had iyo jeer 
+runley m.dh (-yo, m.dh) Naag had iyo jeer runta sheegta. 
 
-runta sheegta. 
-
-runlow m.l (-wyo, m.dh) Nin had iyo jeer 
-
-runta sheega. 
+runlow m.l (-wyo, m.dh) Nin had iyo jeer runta sheega. 
 
 runnimo m.dh Run ahaansho. 
 
 runsheeg m.l ld runsheegid. 
 
-runsheegid m.dh Sheegidda xaqiiqada. ld 
-
-runsheeg.ruur  
+runsheegid m.dh Sheegidda xaqiiqada. ld runsheeg.
 
 ruq¹ m.dh R. ah: neef xoolo ah oo caato la kici waayay. ld ruqo¹. 
 
@@ -2552,9 +2232,7 @@ ruq² f.mg1 (-qay, -qday) Geed wax xididdadiisu dhulka ka soo wada fuqeen noqosh
 
 ruqaansad m.l ld ruqaansasho. 
 
-ruqaansasho m.f.dh eeg ruqaanso. ld 
-
-ruqaansad, ruqaansi, ruuqaansad, ruu- qansasho. 
+ruqaansasho m.f.dh eeg ruqaanso. ld ruqaansad, ruqaansi, ruuqaansad, ruuqansasho. 
 
 ruqaansi m.l ld ruqaansasho. 
 
@@ -2608,9 +2286,7 @@ rushayso f.g3 (-stay, -satay) Qof meel biyo ku bilbilasho.
 
 rushee f.g2 (-sheeyay, -shaysay) Dhul biyo si habaysan ugu bilbilid. 
 
-ruub¹ m.dh 1. Bir yar, dhuuban, daab leh oo saanta kabaha laga tolo lagu dalooliyo. 
-
- 2. Dhul bacaad badan oo marka lagu socdo cagta hoos u gasha. 
+ruub¹ m.dh 1. Bir yar, dhuuban, daab leh oo saanta kabaha laga tolo lagu dalooliyo. 2. Dhul bacaad badan oo marka lagu socdo cagta hoos u gasha. 
 
 ruub² f.lg1 (-bay, -btay) Wax meel bacaad, dambas iwm dhexgelin. ld ruubi. 
 
@@ -2630,9 +2306,7 @@ ruubo f.mg3 (-btay, -batay) Ciid jilicsan iwm dhexgelid, ku dhex librid.
 
 ruud m.dh.u Qoryo waaweyn oo dogobta laga jeexjeexo dabkana lagu shito. 
 
-ruug¹ m.l (-gag, m.l) 1. Meesha ay iska galaan bowdada iyo dhudhunka; jilib; low. 
-
- 2. Madaxa kuusan ee laba lafood iska galaan. 
+ruug¹ m.l (-gag, m.l) 1. Meesha ay iska galaan bowdada iyo dhudhunka; jilib; low. 2. Madaxa kuusan ee laba lafood iska galaan. 
 
 ruug² f.g1 (-gay, -gtay) 1. Wax adag calaalin. 2. Arrin si wanaagsan uga baaraandegid. 
 
@@ -2678,7 +2352,7 @@ ruuqid m.f.dh eeg ruuq.
 
 ruur m.l.kh R. ah: dad, alaab iwm oo da' weyn gaaray. 
 
-ruuri 721ruuri f.g2 (-iyay, -isay) Wax gaboobay xannaaneyn. 
+ruuri f.g2 (-iyay, -isay) Wax gaboobay xannaaneyn. 
 
 ruurin m.f.dh eeg ruuri. 
 
@@ -2700,7 +2374,7 @@ ruuxin m.f.dh eeg ruuxi².
 
 rux f.g1 (-xay, -xday) 1. Haan caano ku jiraan lulid si subag looga dhaliyo. 2. Wax gilgilid. 
 
-ruxad 722 m.l ld ruxasho. 
+ruxad m.l ld ruxasho. 
 
 ruxan¹ f.mg1 (-xmay, -xantay) Wax la ruxay noqosho (laan geed, haan caano ku jiraan iwm). ld ruxmo. 
 
@@ -2720,8 +2394,6 @@ ruxnaan m.f.dh eeg ruxan². ld ruxnaansho.
 
 ruxnaansho m.l/dh ld ruxnaan. 
 
-ruxo f.g/mg3 (-xday, -xatay) 1. (f.g) Qof, wax hilasho. 2. (f.g) Qof, haan caano ku lulasho. 
-
- 3. (f.mg) Wax iskood u lulasho ama gilgilasho. 
+ruxo f.g/mg3 (-xday, -xatay) 1. (f.g) Qof, wax hilasho. 2. (f.g) Qof, haan caano ku lulasho. 3. (f.mg) Wax iskood u lulasho ama gilgilasho. 
 
 
