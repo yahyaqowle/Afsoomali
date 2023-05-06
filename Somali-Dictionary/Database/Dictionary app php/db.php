@@ -1,9 +1,10 @@
 <?php
-$host="localhost:3306";
-$user="root";
-$pass="";
-$db="qaamuus";
+$host="sql104.epizy.com";
+$user="	epiz_34139699";
+$pass="QxCbOhc2frO3o0L";
+$db="epiz_34139699_somalinlp";
 
 $conn=mysqli_connect($host,$user,$pass,$db);
 
 ?>
+
