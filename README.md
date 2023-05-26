@@ -1,4 +1,4 @@
-# Soomaali Xaquuq Daabacad kama dhaxeyso
+# Soomaali Xaquuq Daabacad Kama dhaxeyso
 
 > free for use
 
