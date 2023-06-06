@@ -2,7 +2,7 @@
 
 > free for use
 
-Halkan waxaan ku diyaarinaynaa mashaariic lagu hormarinayo afsoomaliga
+Halkan waxaan ku diyaarinaynaa mashaariic lagu hormarinayo Afsoomaliga
 > waa bilaash oo iskaa wax u qabso weeye mashruuca (nonprofit)
 
 # [SOMALI DICTIONARY](https://github.com/yahyaqowle/Afsoomali/tree/main/Somali-Dictionary)
