@@ -6,7 +6,7 @@ Halkan waxaan ku diyaarinaynaa mashaariic lagu hormarinayo Afsoomaliga
 > waa bilaash oo iskaa wax u qabso weeye mashruuca (nonprofit)
 
 # [SOMALI DICTIONARY](https://github.com/yahyaqowle/Afsoomali/tree/main/Somali-Dictionary)
-Step 1. Qaamuuskan Afka-Soomaliga wuxuu ka koobnaan doonaa 969 bog ah innagoo kasoo qaadan doonna buug ay qorayn Annarita Puglielli, Cabdalla Cumar Mansuur oo ku saabsan Qaamuska Afka-Soomaliga. (This Somali Dictionary will consist of 969 pages that is written by Annarita Puglielli, Cabdalla Cumar Mansuur. our source will be this [Qaamuska Afka-soomali.pdf](https://github.com/yahyaqowle/Afsoomali/blob/main/Source/Qaamuska%20Afka-soomali.pdf)).
+Step 1. Qaamuuskan Afka-Soomaliga wuxuu ka koobnaan doonaa 969 bog ah innagoo kasoo qaadan doonna buug ay qorayn Annarita Puglielli, Cabdalla Cumar Mansuur oo ku saabsan Qaamuska Afka-Soomaliga. (This Somali Dictionary will consist of 969 pages that is written by Annarita Puglielli, Cabdalla Cumar Mansuur. our source will be this [Qaamuska Afka-Soomali.pdf](https://github.com/yahyaqowle/Afsoomali/blob/main/Source/Qaamuska%20Afka-soomali.pdf)).
 
 Step 1.1 Extracting = We extract Words and their meanings From the pdf file into the Somali Dictionary.txt (Starting from A to Z orderly). Example: after we finish writing A words then we go B and C and D and so on.
 
