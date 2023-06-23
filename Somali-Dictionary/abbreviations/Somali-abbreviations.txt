@@ -57,6 +57,8 @@ fk     Falkaab            avverbio       adverb
 
 g      Gudbe              transitivo     transitive 
 
+gab.   Gaabis             
+
 h      Horyaale           preposizione   preposition 
 
 isrog  Isrogrog           coniugazione   conjugation 
