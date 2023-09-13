@@ -24,3 +24,7 @@ Step 2.2 Categorising = we will imply like Step 1.2.
 # [RESOURCES](https://github.com/yahyaqowle/Afsoomali/tree/main/Resources)
 
 Resources and files that can be used to improve this project directly or indirectly can be found.
+
+# [UPDATE]()
+
+New update will be on the way.
