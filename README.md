@@ -28,3 +28,5 @@ Resources and files that can be used to improve this project directly or indirec
 # [UPDATE]()
 
 New update will be on the way.
+
+Our focus now is ML by training data.
