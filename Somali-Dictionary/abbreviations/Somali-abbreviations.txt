@@ -1,4 +1,6 @@
-       Af-Somali          Italian        English
+Af-Somali          Italian        English
+
+
 a      Amar               imperativo    imperative 
 
 ac     aan cayinnayn      indefinito    indefinite 
