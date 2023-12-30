@@ -29,4 +29,4 @@ Resources and files that can be used to improve this project directly or indirec
 
 New update will be on the way.
 
-Our focus now is ML by training data.
+Our focus now is ML by training data we gathered from varies sources.
