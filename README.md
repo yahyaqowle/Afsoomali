@@ -1,3 +1,5 @@
+#We are now live at Afsoomali.com
+
 # Soomaali Xaquuq Daabacad kama dhaxeyso
 
 > Free
