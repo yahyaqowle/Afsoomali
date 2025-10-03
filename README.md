@@ -1,5 +1,4 @@
-# We are now officially live 🚀 [Afsoomali.com ](Afsoomali.com )
-
+# We are now officially live 🚀 Afsoomali.com
 # Soomaali Xaquuq Daabacad kama dhaxeyso
 
 > Free
